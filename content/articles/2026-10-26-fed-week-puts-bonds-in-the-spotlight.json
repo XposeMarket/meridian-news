@@ -1,0 +1,44 @@
+{
+  "slug": "fed-week-puts-bonds-in-the-spotlight",
+  "title": "A Fed Decision, GDP and Inflation Data Put Bonds Back in Focus",
+  "dek": "The central bank meets as the 10-year yield hovers near 5%, with Thursday's GDP and personal-income releases offering investors another test of growth and price pressure.",
+  "section": "markets",
+  "tags": ["Federal Reserve", "Treasury yields", "GDP", "inflation", "macro-calendar"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-26T12:34:00Z",
+  "updatedAt": "2026-10-26T12:34:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Eccles_Building_south_side.jpg",
+    "alt": "The Federal Reserve's Eccles Building in Washington during construction",
+    "credit": "Federal Reserve",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg"
+  },
+  "keyPoints": ["The FOMC meets October 27–28; Wednesday's decision follows a recent run of elevated Treasury yields.", "The 10-year Treasury yield was quoted at 4.972% at 9:41 a.m. EDT Monday by CNBC.", "BEA schedules third-quarter GDP and September personal income and outlays for Thursday at 8:30 a.m. ET."],
+  "body": "The Federal Reserve is heading into a consequential two-day meeting while long-term borrowing costs remain close to 5%. The 10-year Treasury yield was 4.972% in CNBC's quote at 9:41 a.m. EDT Monday, a live, time-stamped reading that can move during the session. Investors will watch Wednesday's policy statement for whether the committee sees enough cooling in inflation and demand to alter its rate path, and for any division in the discussion.\n\n## A decision inside a data-heavy week\n\nThe FOMC calendar confirms the committee meets October 27–28. The policy statement normally comes Wednesday afternoon, followed by a press conference. The existence of the meeting is confirmed; the size and content of any decision are not. Traders should distinguish market-implied odds from a commitment by policymakers. A widely anticipated hold can still move rates if the statement changes how investors assess the next meeting.\n\nThursday morning brings a second, unusually concentrated test. The Bureau of Economic Analysis lists the advance estimate of third-quarter GDP and September Personal Income and Outlays for October 29 at 8:30 a.m. Eastern. The latter contains the personal-consumption expenditures price indexes that the Fed uses to assess inflation. The GDP release measures the first estimate of July-to-September activity, while consumption and price details can show whether demand is sustaining price pressure. Both are subject to later revision.\n\nFriday adds a labor-cost lens: the Bureau of Labor Statistics schedules the third-quarter Employment Cost Index for October 30 at 8:30 a.m. ET. Together, these releases provide growth, inflation and compensation measures within roughly two days of the Fed's announcement. That makes it harder for the market to treat the meeting in isolation.\n\n## Why the long end matters\n\nThe 10-year yield affects mortgage rates, corporate financing and the discount rate investors use when valuing future earnings. Its recent climb has tightened financial conditions even before any change in the Fed's overnight policy rate. A falling oil price can ease inflation fears, but the benchmark crude price remains elevated. Markets may therefore react to energy and bond supply concerns even if the central bank leaves its near-term policy unchanged.\n\nFor equities, the question is not simply whether a lower policy rate would be welcome. A rate decline driven by disinflation can support valuations; a decline driven by a sharp growth scare may signal weaker earnings. Conversely, resilient GDP can be good for revenues but complicate the inflation outlook if prices and wages remain firm. The joint read across the Fed statement and Thursday's releases will matter more than any one headline figure.\n\n## What would change the outlook\n\nBond traders will look for the committee's balance of risks, any references to energy prices, and the gap between near-term rates and longer-term yields. Equity investors should watch whether a market move spreads across sectors rather than relying on a single headline response. No policy forecast is certain before the statement is published. Sources: [Federal Reserve's FOMC calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), [BEA's 2026 release schedule](https://www.bea.gov/news/schedule), [BLS October calendar](https://www.bls.gov/schedule/2026/10_sched.htm), and [CNBC's 10-year Treasury quote](https://www.cnbc.com/quotes/US10Y).",
+  "marketImpact": {
+    "summary": "The FOMC statement and this week's growth, inflation and wage releases can move the front end and long end of the Treasury curve in different ways; near-5% long rates remain a competing signal for equities.",
+    "timeframe": "Into Wednesday's FOMC and Thursday-Friday data releases",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "TLT", "direction": "mixed", "rationale": "Long-duration Treasuries could gain if the Fed and data lower expected rates, but firm growth or persistent inflation may keep the long end under pressure." },
+      { "symbol": "SPY", "direction": "mixed", "rationale": "Lower yields can help valuations, while an inflationary surprise or growth scare could offset that support through earnings expectations." },
+      { "symbol": "KRE", "direction": "watch", "rationale": "Regional-bank shares are sensitive to yield-curve moves and the implications of rates for funding costs and loan demand." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-28", "event": "Federal Open Market Committee rate decision" },
+      { "date": "2026-10-29", "event": "Third-quarter GDP advance estimate and September personal income and outlays at 8:30 AM ET" },
+      { "date": "2026-10-30", "event": "Third-quarter Employment Cost Index at 8:30 AM ET" }
+    ]
+  },
+  "sources": [
+    { "title": "The Fed - Meeting calendars and information", "publisher": "Federal Reserve", "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm", "accessedAt": "2026-10-26" },
+    { "title": "Release Schedule", "publisher": "U.S. Bureau of Economic Analysis", "url": "https://www.bea.gov/news/schedule", "accessedAt": "2026-10-26" },
+    { "title": "Schedule of Selected Releases for October 2026", "publisher": "U.S. Bureau of Labor Statistics", "url": "https://www.bls.gov/schedule/2026/10_sched.htm", "accessedAt": "2026-10-26" },
+    { "title": "U.S. 10 Year Treasury", "publisher": "CNBC", "url": "https://www.cnbc.com/quotes/US10Y", "accessedAt": "2026-10-26" }
+  ]
+}

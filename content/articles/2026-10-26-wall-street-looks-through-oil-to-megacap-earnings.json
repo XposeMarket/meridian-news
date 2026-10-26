@@ -1,0 +1,42 @@
+{
+  "slug": "wall-street-looks-through-oil-to-megacap-earnings",
+  "title": "Futures Rebound as Oil Eases and Big Tech Faces Its Next Test",
+  "dek": "Stocks are set for a tentative recovery after two difficult weeks, but the reprieve rests on a retreating crude market and earnings that must justify AI spending.",
+  "section": "markets",
+  "tags": ["premarket", "stocks", "oil", "earnings", "artificial-intelligence"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-26T12:30:00Z",
+  "updatedAt": "2026-10-26T12:30:00Z",
+  "edition": "pre-market",
+  "featured": true,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/USA-99-Wall_Street.jpg",
+    "alt": "40 Wall Street building in Manhattan's financial district",
+    "credit": "Irving Underhill",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:40_Wall_Street_Manhattan_New_York_City.jpg"
+  },
+  "keyPoints": ["S&P 500 futures rose 0.4% and Nasdaq 100 futures added 0.7% early Monday, according to Bloomberg.", "Oil pulled back from a six-month high, giving equities some breathing room but leaving inflation risk elevated.", "Investors face a Federal Reserve decision Wednesday and a dense slate of megacap results that could reset the AI trade."],
+  "body": "U.S. stock futures pointed higher before Monday's opening bell, offering a small counterweight to a bruising stretch for technology shares. Bloomberg reported S&P 500 futures up 0.4% and Nasdaq 100 futures up 0.7% as investors looked toward a crowded earnings week. The Dow futures contract was also up 209 points, or 0.4%, in CNBC's premarket account. Those are futures indications, not a guarantee of where cash indexes will finish after the opening auction.\n\n## A relief rally with two conditions\n\nThe immediate support came from crude oil backing away from a six-month high. CNBC reported Brent futures down 1.4% at $115.02 a barrel and U.S. West Texas Intermediate down 2% at $101.01 in its early-morning market update. The retreat can ease near-term anxiety about fuel costs feeding back into consumer prices and bond yields. It does not reverse the broader energy shock: oil remains near a level where additional supply disruption could quickly reprice inflation expectations.\n\nThe second condition is earnings. More than a hundred S&P 500 companies are scheduled to report this week, CNBC said, with Alphabet and Microsoft due Wednesday after the close and Amazon on Thursday. After recent selling, investors are asking a narrower question than whether companies are adopting AI: can cloud and advertising growth show up quickly enough to cover the buildout? Reuters' October earnings preview said analysts expected third-quarter S&P 500 earnings to rise about 31% year over year, with much of the gain coming from technology and AI-heavy firms. Those forecasts are estimates, not reported results.\n\n## The risks around the open\n\nA higher futures print is a fragile signal after two consecutive weekly declines in the S&P 500 and Nasdaq. Chip stocks had been hit particularly hard, and Bloomberg noted that the U.S. semiconductor gauge had fallen to a three-month low during the prior two weeks. A bounce can therefore reflect short-covering and positioning ahead of results as much as confidence in the outlook.\n\nThe Federal Reserve's two-day meeting begins Tuesday, with its policy decision expected Wednesday. That leaves traders balancing a possible easing in oil against still-high price pressures and a near-5% 10-year Treasury yield. The day's test is whether the opening bid broadens beyond technology and survives the cash session, not whether futures alone have declared the selloff over.\n\nFor households, the translation is indirect but real: oil influences gasoline and freight, while yields flow into mortgage and business borrowing costs. The market has a calmer starting point than Thursday's risk-off session; it does not yet have proof that either energy costs or AI returns will cooperate. Sources: [Bloomberg's futures and oil report](https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap), [CNBC's Monday market update](https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html), and [Reuters' earnings outlook](https://www.reuters.com/business/ai-related-companies-drive-most-third-quarter-us-earnings-gains-2026-10-09/).",
+  "marketImpact": {
+    "summary": "A modest futures rebound is supported by lower crude and anticipation of megacap earnings, but this week's Fed decision and AI-spending scrutiny may quickly overwhelm the early bid.",
+    "timeframe": "At the open through Wednesday's Fed decision and megacap reports",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "SPY", "direction": "up", "rationale": "Index futures point to a higher open as oil retreats, though two losing weeks leave breadth and follow-through uncertain." },
+      { "symbol": "QQQ", "direction": "up", "rationale": "Nasdaq futures are leading the early move, but Alphabet, Microsoft and Amazon results put AI monetization under immediate scrutiny." },
+      { "symbol": "XLE", "direction": "down", "rationale": "A pullback in crude may take some momentum out of oil producers after prices reached a six-month high." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-28", "event": "Federal Reserve rate decision and Microsoft/Alphabet earnings after the close" },
+      { "date": "2026-10-29", "event": "Third-quarter U.S. GDP release and Amazon earnings after the close" }
+    ]
+  },
+  "sources": [
+    { "title": "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap", "accessedAt": "2026-10-26" },
+    { "title": "Stock market today: Live updates", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html", "accessedAt": "2026-10-26" },
+    { "title": "AI-related companies to drive most third-quarter US earnings gains", "publisher": "Reuters", "url": "https://www.reuters.com/business/ai-related-companies-drive-most-third-quarter-us-earnings-gains-2026-10-09/", "accessedAt": "2026-10-26" }
+  ]
+}
