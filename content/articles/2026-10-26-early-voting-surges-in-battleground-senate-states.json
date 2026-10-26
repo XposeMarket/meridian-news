@@ -1,0 +1,28 @@
+{
+  "slug": "early-voting-surges-in-battleground-senate-states",
+  "title": "Early Voting Surges in Key Senate States, but the Numbers Aren't a Forecast",
+  "dek": "AP's analysis found early ballots up sharply in several competitive states two weeks before Election Day, including a 74% increase in Texas versus 2022. The totals show participation, not party winners.",
+  "section": "us",
+  "tags": ["2026 midterms", "early voting", "Senate", "Texas", "elections"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-26T13:05:00Z",
+  "updatedAt": "2026-10-26T13:05:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ballot_%282988534889%29.jpg",
+    "alt": "A mailed general-election ballot showing a selection of offices, photographed during the 2008 election cycle",
+    "credit": "Paulo Ordoveza (brownpau)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballot_(2988534889).jpg"
+  },
+  "keyPoints": ["An AP analysis updated October 21 found early voting in Texas up 74% from the same point in 2022; Kansas was more than double, while Maine, North Carolina and Ohio were each up more than 30%.", "Nationally, the AP analysis counted more than 13 million early in-person and mail ballots, versus 9 million at a comparable point in 2022.", "Early-vote totals do not reveal how people voted and are not a reliable standalone forecast of final results; access and data reporting have also changed in some states."],
+  "body": "Early voting is running ahead of the 2022 pace in several states with competitive Senate races, according to an Associated Press analysis published October 21. Texas had recorded 74% more early votes than at the same point four years earlier, Kansas was more than double, and Maine, North Carolina and Ohio each showed increases above 30% in early in-person and mail voting. The data snapshot ran through October 20, so it does not describe ballots cast after that date.\n\n## A surge, with important caveats\n\nThe AP counted more than 13 million early in-person and mail ballots nationwide, compared with 9 million at the same point in 2022. That difference suggests more voters have participated early, but cross-cycle comparisons are affected by how many states offer early voting and how much data they publish.\n\nEarly totals also do not show how ballots were cast. In several states, Democrats made up a smaller share of advance voters than in 2022, but that does not settle turnout on Election Day or determine the final electorate. The AP analysis notes that Republicans are more likely to vote on Election Day, while Democrats have often voted earlier. A shift in the timing of ballots is not itself a shift in the outcome.\n\n## Why the Senate races matter\n\nDemocrats are trying to flip Republican-held Senate seats in the states highlighted by the analysis, while Republicans currently hold a 53–47 majority in the chamber. Higher participation may reflect voter engagement with the midterms, but the eventual impact will depend on who votes, which candidates they support and how many ballots are cast between now and Election Day on November 3.\n\nThe useful conclusion is narrow: turnout is running hot in several closely watched states. It is too soon to translate that activity into a forecast of control of the Senate.",
+  "sources": [
+    { "title": "Many states deciding control of the Senate are seeing a big boost in early voting, AP analysis shows", "publisher": "Associated Press", "url": "https://apnews.com/article/election-2026-midterms-voting-early-turnout-44df2c18b387d28022dbb480e99feaba", "accessedAt": "2026-10-26" },
+    { "title": "Elections 2026: The latest from the NPR Network", "publisher": "NPR", "url": "https://www.npr.org/sections/elections/", "accessedAt": "2026-10-26" },
+    { "title": "2026 Early Vote: Midterm Elections", "publisher": "NBC News", "url": "https://www.nbcnews.com/politics/2026-elections/early-vote", "accessedAt": "2026-10-26" }
+  ]
+}

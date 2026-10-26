@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-26T12:40:00Z",
+  "updatedAt": "2026-10-26T13:25:00Z",
   "edition": "pre-market",
   "leadSlug": "wall-street-looks-through-oil-to-megacap-earnings",
   "marketBrief": {
-    "headline": "Oil eases as Wall Street looks to Big Tech and the Fed",
-    "summary": "U.S. futures point to a modestly higher open after oil retreated from a six-month high. The bounce is conditional: investors are entering a Fed decision week alongside earnings from the largest cloud platforms and data releases that will test growth and inflation.",
+    "headline": "Oil backs off, but the test is only beginning",
+    "summary": "U.S. futures pointed modestly higher in Monday premarket trading as crude retreated from a six-month high. The early relief sits alongside a Fed decision, a crowded megacap earnings slate and fresh questions about the AI spending cycle. Markets are also absorbing sharply negative early trading in Brazil after Lula's re-election; opening reports are volatile, not closing levels.",
     "bullets": [
-      "S&P 500 futures were up 0.4% and Nasdaq 100 futures up 0.7%, Bloomberg reported; CNBC had Dow futures 209 points higher.",
-      "Brent traded at $115.02 and WTI at $101.01 in CNBC's Monday premarket update, both lower, but still elevated.",
-      "Alphabet and Microsoft report Wednesday after the close; Amazon follows Thursday, keeping AI spending and cloud growth in focus.",
-      "The Federal Reserve's two-day meeting ends Wednesday; a near-5% 10-year yield remains a headwind for borrowing costs and long-duration valuations.",
-      "Thursday at 8:30 a.m. ET brings the advance Q3 GDP estimate and September personal income/outlays; the BLS Employment Cost Index follows Friday morning."
+      "S&P 500 futures were up 0.4% and Nasdaq 100 futures up 0.7%, according to Bloomberg; CNBC reported Dow futures 209 points higher.",
+      "CNBC's premarket update put Brent at $115.02 and WTI at $101.01 a barrel, both lower on the session but still elevated.",
+      "The Federal Reserve meets through Wednesday; Alphabet and Microsoft report Wednesday after the close, and Amazon follows Thursday.",
+      "Thursday at 8:30 a.m. ET brings the advance Q3 GDP estimate and September personal income and outlays; the BLS Employment Cost Index follows Friday at 8:30 a.m. ET.",
+      "Reuters reported sharp opening losses in Brazil after Lula's election victory, including a weaker real and a temporary trading halt; those reports are not settled closing prices."
     ],
-    "asOf": "2026-10-26T12:25:00Z"
+    "asOf": "2026-10-26T13:15:00Z"
   },
   "marketSnapshot": [
     { "label": "S&P 500 futures", "value": "Not reported", "change": "+0.4%", "direction": "up" },
@@ -22,26 +22,27 @@
     { "label": "WTI crude", "value": "$101.01/barrel", "change": "-2.0%", "direction": "down" },
     { "label": "Brent crude", "value": "$115.02/barrel", "change": "-1.4%", "direction": "down" },
     { "label": "Gold", "value": "$4,014.33/oz", "change": "+0.51%", "direction": "up" },
-    { "label": "Bitcoin", "value": "$79,539.94", "change": "Not reported in source snapshot", "direction": "down" },
-    { "label": "U.S. Dollar Index (DXY)", "value": "101.7952", "change": "-0.01%", "direction": "down" }
+    { "label": "Bitcoin", "value": "About $79,800 in Asian trading", "change": "Nearly -2% in CoinDesk snapshot", "direction": "down" }
   ],
   "calendar": [
-    { "date": "2026-10-27", "time": "Before open", "event": "Coca-Cola and Boeing earnings", "importance": "medium", "why": "Consumer demand and Boeing's aircraft production and certification outlook provide a read on staples and aerospace." },
-    { "date": "2026-10-27", "time": "8:30 AM ET", "event": "U.S. durable goods orders", "importance": "medium", "why": "A volatile measure of factory demand can update the growth picture just ahead of the Fed decision." },
-    { "date": "2026-10-28", "time": "2:00 PM ET", "event": "Federal Reserve policy decision", "importance": "high", "why": "The statement can move short-term rate expectations, the dollar, Treasury yields and equity valuations." },
+    { "date": "2026-10-27", "time": "Before open", "event": "Coca-Cola and Boeing earnings", "importance": "medium", "why": "Consumer demand and Boeing's production outlook provide reads on staples and aerospace." },
+    { "date": "2026-10-27", "time": "8:30 AM ET", "event": "U.S. durable goods orders", "importance": "medium", "why": "A volatile measure of factory demand updates the growth picture just ahead of the Fed decision." },
+    { "date": "2026-10-27", "time": "Polls open by local schedule", "event": "Israeli Knesset election", "importance": "high", "why": "The vote could determine Prime Minister Benjamin Netanyahu's political future; pre-election polling showed no clear majority bloc." },
+    { "date": "2026-10-28", "time": "2:00 PM ET", "event": "Federal Reserve policy decision", "importance": "high", "why": "The statement and press conference can move rate expectations, Treasury yields, the dollar and equity valuations." },
     { "date": "2026-10-28", "time": "After close", "event": "Alphabet and Microsoft quarterly earnings", "importance": "high", "why": "Cloud growth and AI infrastructure spending are central to whether investors accept the buildout's cost." },
-    { "date": "2026-10-29", "time": "8:30 AM ET", "event": "Q3 GDP advance estimate and September Personal Income and Outlays (including PCE inflation)", "importance": "high", "why": "The releases combine a first estimate of quarterly growth with the Fed's preferred inflation gauges." },
+    { "date": "2026-10-29", "time": "8:30 AM ET", "event": "Q3 GDP advance estimate and September Personal Income and Outlays", "importance": "high", "why": "The releases combine the first estimate of quarterly growth with the Fed's preferred inflation gauges." },
     { "date": "2026-10-29", "time": "After close", "event": "Amazon quarterly earnings", "importance": "high", "why": "AWS growth and infrastructure investment are a key read on AI cloud demand and monetization." },
     { "date": "2026-10-30", "time": "8:30 AM ET", "event": "Third-quarter Employment Cost Index", "importance": "high", "why": "Compensation trends help markets assess services inflation and labor-cost pressure." },
-    { "date": "2026-11-03", "time": "Polls open by state", "event": "U.S. midterm Election Day", "importance": "high", "why": "Control of Congress can reshape expectations for taxes, regulation and fiscal policy; results arrive through the evening." },
-    { "date": "2026-11-06", "time": "8:30 AM ET", "event": "October Employment Situation (jobs report)", "importance": "high", "why": "Payrolls, unemployment and wage data will shape expectations for the Fed's next steps." },
-    { "date": "2026-11-10", "time": "8:30 AM ET", "event": "October Consumer Price Index", "importance": "high", "why": "The CPI inflation report is a key cross-check on the inflation trend after the Fed meeting." }
+    { "date": "2026-11-03", "time": "Polls open by state", "event": "U.S. midterm Election Day", "importance": "high", "why": "Control of Congress can reshape expectations for taxes, regulation and fiscal policy." },
+    { "date": "2026-11-06", "time": "8:30 AM ET", "event": "October Employment Situation (jobs report)", "importance": "high", "why": "Payrolls, unemployment and wages will shape expectations for the Fed's next steps." },
+    { "date": "2026-11-10", "time": "8:30 AM ET", "event": "October Consumer Price Index", "importance": "high", "why": "CPI offers a key cross-check on inflation after the Fed meeting." }
   ],
   "trending": [
     "wall-street-looks-through-oil-to-megacap-earnings",
     "megacap-earnings-ai-buildout-reality-check",
     "fed-week-puts-bonds-in-the-spotlight",
     "anthropic-ipo-tests-ai-investor-appetite",
-    "ai-discovered-software-flaws-force-a-security-rethink"
+    "bitcoin-slips-below-80000-as-traders-cut-risk",
+    "brewers-rally-to-take-2-0-world-series-lead"
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "employer-family-health-premiums-top-28000",
+  "title": "Employer Family Health Premiums Top $28,000 as Workers' Share Rises Faster",
+  "dek": "KFF's 2026 survey puts average employer-sponsored family coverage at $28,303, up 5% from last year. Workers paid $7,471 on average, a 9% increase that exceeded wage growth.",
+  "section": "economy",
+  "tags": ["health insurance", "healthcare costs", "inflation", "employers", "household budgets"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-26T13:08:00Z",
+  "updatedAt": "2026-10-26T13:08:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Calvary_Adelaide_Hospital_exterior_at_night.jpg",
+    "alt": "The exterior of Calvary Adelaide Hospital, an illustrative image of a healthcare facility",
+    "credit": "SCHolar44",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calvary_Adelaide_Hospital_exterior_at_night.jpg"
+  },
+  "keyPoints": ["KFF's survey of 1,937 public and private employers found average annual family premiums of $28,303 in 2026, up 5% from 2025.", "Workers contributed an average $7,471 toward family premiums, up 9% or $621; wages rose 3.7% and general inflation 2.7% over the same period.", "The figures are national averages for employer-sponsored coverage, not the price every family pays; plan type and employer size affect costs."],
+  "body": "The average annual premium for employer-sponsored family health insurance reached $28,303 in 2026, a 5% increase from last year, according to KFF's annual survey of employers. Workers paid an average $7,471 of that amount, up 9%, or $621, from 2025. The increase outpaced the 3.7% growth in wages and 2.7% general inflation over the same period.\n\n## The bill is shared, but the worker contribution is growing\n\nThe total premium includes both employer and worker contributions; it is not an amount every household pays directly from its paycheck. KFF surveyed 1,937 non-federal public and private firms with at least 10 workers. Its summary says employer-sponsored insurance covers nearly 157 million people under age 65, making these annual averages a broad measure of job-based coverage rather than a quote for an individual plan.\n\nPremiums also vary with firm size and plan design. KFF reported average family premiums of $27,288 at firms with 10 to 199 workers and $28,592 at larger firms. The average annual deductible for covered workers in a plan with a general deductible was $1,955 for single coverage. Those differences mean a national average is best read as a trend marker, not a prediction of one employee's renewal.\n\n## A persistent household-cost pressure\n\nThe year-over-year increase adds to a longer climb: KFF said family premiums have risen 28% over five years, compared with 26.9% wage growth and 24.4% inflation. The gap does not mean premiums directly translate into an equal loss of take-home pay, because employers pay a substantial portion and benefit designs vary. But faster growth in the worker share can squeeze household budgets and leave employers weighing benefit costs against compensation and other expenses.\n\nThe next question is how firms respond at renewal: absorbing more of the increase, shifting a larger share to employees, changing plan options or negotiating with providers. The survey records employer strategies as well as premium totals, but the 2026 averages alone do not tell which approach a particular company will take.",
+  "marketImpact": {
+    "summary": "Employer health premiums continue to grow faster than wages, a cost pressure that may affect household spending and corporate labor expenses, although the national average is not a company-specific forecast.",
+    "timeframe": "2026 open-enrollment decisions and 2027 benefit planning",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "HUM", "direction": "mixed", "rationale": "Higher employer health costs can influence demand and payer negotiations, but the KFF survey does not directly predict Humana's Medicare-focused results." },
+      { "symbol": "UNH", "direction": "mixed", "rationale": "Rising premiums underscore cost pressure across the health system, while pricing, utilization and regulation determine the effect on UnitedHealth's business." },
+      { "symbol": "WMT", "direction": "down", "rationale": "For large employers, faster benefit-cost growth can raise labor expenses unless offset by productivity, plan design or other savings; the survey does not quantify Walmart's costs." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "U.S. midterm Election Day, as health-cost and insurance affordability remain active policy issues" },
+      { "date": "2027-01-01", "event": "Common start date for many employer benefit-plan years; individual effective dates vary" }
+    ]
+  },
+  "sources": [
+    { "title": "2026 Employer Health Benefits Survey", "publisher": "KFF", "url": "https://www.kff.org/health-costs/2026-employer-health-benefits-survey/", "accessedAt": "2026-10-26" },
+    { "title": "Premiums for Employer-Sponsored Family Health Coverage Top $28,000 in 2026", "publisher": "KFF", "url": "https://www.kff.org/quick-insights/premiums-for-employer-sponsored-family-health-coverage-top-28000-in-2026/", "accessedAt": "2026-10-26" },
+    { "title": "KFF: Employer family premiums up 5% to $28K in 2026", "publisher": "Fierce Healthcare", "url": "https://www.fiercehealthcare.com/payers/kff-employer-family-premiums-5-28k-2026", "accessedAt": "2026-10-26" }
+  ]
+}

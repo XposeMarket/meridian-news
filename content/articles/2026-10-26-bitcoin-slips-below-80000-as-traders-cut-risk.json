@@ -1,0 +1,40 @@
+{
+  "slug": "bitcoin-slips-below-80000-as-traders-cut-risk",
+  "title": "Bitcoin Slips Below $80,000 as Traders Cut Risk Before Fed Decision",
+  "dek": "The largest cryptocurrency fell nearly 2% in Asian trading as investors pared exposure ahead of Wednesday's Federal Reserve decision and renewed doubts about the AI trade weighed on risk assets.",
+  "section": "crypto",
+  "tags": ["Bitcoin", "cryptocurrency", "Federal Reserve", "risk appetite", "markets"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-26T12:50:00Z",
+  "updatedAt": "2026-10-26T12:50:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored Bitcoin coin bearing the Bitcoin symbol",
+    "credit": "Satheesh Sankaran",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": ["CoinDesk reported Bitcoin at about $79,800 in Monday Asian hours, down nearly 2%; the Business Times later reported an intraday low below $79,300 before a partial recovery.", "Traders were reducing risk before the Federal Reserve's Wednesday decision, while renewed AI-trade concerns pressured technology and other risk assets.", "Bitcoin's move is a market snapshot rather than a settled daily close; price and intraday lows vary by venue and time."],
+  "body": "Bitcoin slipped below $80,000 on Monday as investors trimmed risk ahead of this week's Federal Reserve meeting and a renewed pullback in technology shares weighed on sentiment. CoinDesk put the token near $79,800 in Asian morning trading, down almost 2%. The Business Times, citing Bloomberg, later reported a drop as low as $79,300 before a partial recovery toward $80,000. Those are intraday readings from different points in the session, not a closing price.\n\n## Fed and AI anxiety overlap\n\nThe immediate macro catalyst is Wednesday's Federal Reserve decision. Traders are watching not only for the rate announcement but also for Chair Kevin Warsh's comments about the path into December. Higher borrowing costs and tighter liquidity can weigh on speculative assets, while any sign that policy may remain restrictive could extend the pressure.\n\nA separate source of unease is the market's reassessment of the AI investment boom. The Business Times reported that investors withdrew $772.4 million from U.S.-listed spot Bitcoin funds on Thursday and Friday, reversing some earlier inflows. CoinDesk described a broad decline across major tokens and weakness in Asian technology shares. Correlation does not establish that AI concerns alone caused Bitcoin's drop, but both stories are part of a wider move away from risk.\n\n## What to watch\n\nThe distinction between a temporary dip and a deeper repricing will depend on whether Bitcoin stabilizes after the Fed meeting, whether fund flows improve, and whether equity investors regain confidence in large AI infrastructure budgets. CoinDesk cited $82,500 as a level traders were watching after the token fell below it last week; that is a market reference, not a guaranteed support floor. For now, the price action is a reminder that crypto remains sensitive to rates, liquidity and broader portfolio positioning.\n\n## What a cautious investor can and cannot infer\n\nA move below a round-number threshold can draw attention, but it is not, on its own, evidence of a durable trend change. The strongest evidence available this morning is that multiple large tokens fell at the same time as technology shares weakened, and that traders were looking toward a major central-bank event. The next evidence to watch is whether the decline broadens, whether exchange-traded fund flows continue to reverse, and whether prices recover after policymakers speak.\n\nThe two source snapshots also differ by several hundred dollars, which is normal in a volatile market with continuous trading across venues and time zones. For readers comparing quotes, the time stamp and venue matter as much as the headline number. A market update should not imply an official consolidated close where none exists. That is why the session's best summary is directional: Bitcoin was under $80,000 in Asian trading before recovering partway, while investors across assets were reducing exposure ahead of the Fed.\n\nThis leaves the near-term risk two-sided. A less restrictive signal or renewed confidence in technology spending could help stabilize risk assets; a hawkish tone, persistent outflows or another leg down in equities could keep pressure on crypto. The available reports do not establish which path will prevail, and traders should treat any single price threshold as a reference point rather than a forecast.",
+  "marketImpact": {
+    "summary": "A pre-Fed risk reduction and AI-related market jitters have pulled Bitcoin below $80,000, leaving crypto vulnerable if rates stay restrictive or investors continue cutting exposure.",
+    "timeframe": "Through the Federal Reserve decision on October 28 and the following several sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "BTC-USD", "direction": "down", "rationale": "Bitcoin fell below $80,000 in Asian trading; persistence will depend on Fed communication, market liquidity and subsequent fund flows." },
+      { "symbol": "COIN", "direction": "down", "rationale": "A risk-off move in crypto can pressure exchange activity and sentiment, although one session does not establish a change in Coinbase's fundamentals." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-28", "event": "Federal Reserve decision and Chair Kevin Warsh press conference" },
+      { "date": "2026-11-03", "event": "U.S. midterm Election Day, cited by market participants as a source of uncertainty" }
+    ]
+  },
+  "sources": [
+    { "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting", "publisher": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting", "accessedAt": "2026-10-26" },
+    { "title": "Bitcoin dips below US$80,000 as AI-related market selloff deepens", "publisher": "The Business Times", "url": "https://www.business-times.com.sg/companies-markets/banking-finance/bitcoin-dips-below-us80000-ai-related-market-selloff-deepens", "accessedAt": "2026-10-26" }
+  ]
+}
