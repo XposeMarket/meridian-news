@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <div className="information page-header"><span className="kicker">404 / Off the map</span><h1>This page is<br/>beyond the horizon.</h1><p>The story may have moved, or the address may be incorrect.</p><Link href="/">Return to the front page →</Link></div>;}

@@ -1,0 +1,1 @@
+import Search from '@/components/Search';export const metadata={title:'Search',description:'Find Meridian stories, topics and sections.',robots:{index:false,follow:true}};export default function SearchPage(){return <div className="archive"><header className="page-header"><span className="kicker">Find your perspective</span><h1>Search Meridian.</h1></header><Search/></div>;}

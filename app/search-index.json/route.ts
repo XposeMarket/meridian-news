@@ -1,0 +1,1 @@
+import {getArticles} from '@/lib/content';export const dynamic='force-static';export function GET(){return Response.json(getArticles().map(({slug,title,dek,tags,section})=>({slug,title,dek,tags,section})));}

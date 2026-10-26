@@ -1,0 +1,1 @@
+export default { images: { unoptimized: true, remotePatterns: ['upload.wikimedia.org','images.unsplash.com','images.pexels.com'].map(hostname=>({protocol:'https',hostname})) }, poweredByHeader: false };
