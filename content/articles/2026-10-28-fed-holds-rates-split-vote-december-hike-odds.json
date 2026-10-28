@@ -1,0 +1,48 @@
+{
+  "slug": "fed-holds-rates-split-vote-december-hike-odds",
+  "title": "Fed Holds Rates on a 10-2 Vote, and Markets Price a December Hike",
+  "dek": "The Federal Reserve left its benchmark rate unchanged Wednesday, but two dissents for a hike and futures pricing near 85% odds of a December increase kept rate expectations in focus.",
+  "section": "markets",
+  "tags": ["fed", "rates", "treasuries", "inflation", "markets"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-28T20:40:00Z",
+  "updatedAt": "2026-10-28T20:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "The Fed kept its policy rate unchanged on a 10-2 vote; Cleveland Fed President Beth Hammack and Governor Lisa Cook dissented in favor of a hike.",
+    "Futures traders see about an 85% chance of a quarter-point hike at the Dec. 9 meeting, per Bloomberg data cited by Yahoo Finance and CME FedWatch.",
+    "The S&P 500, Nasdaq Composite and Dow each closed higher, up roughly 0.3%, 0.3% and 0.2% according to Investopedia.",
+    "The 10-year Treasury yield was near 5.04% in late-afternoon trading, up more than four basis points from Tuesday."
+  ],
+  "body": "The Federal Reserve held its benchmark interest rate steady on Wednesday, as widely expected, but the vote and the market reaction made clear that the next move may be up.\n\nThe decision was 10-2. Cleveland Fed President Beth Hammack and Governor Lisa Cook dissented, both favoring a rate increase, according to Yahoo Finance's live coverage. Fed Chairman Kevin Warsh's press conference followed the 2 p.m. ET statement. He said the Fed had not yet achieved price stability but was \"working on it,\" in the words reported by MarketWatch.\n\n## Stocks finished higher\n\nU.S. equities ended the session in positive territory. Investopedia reported that the S&P 500, the Nasdaq Composite and the Dow Jones Industrial Average closed up 0.3%, 0.3% and 0.2%, respectively. Earlier in the day, Yahoo Finance had shown the Dow trading near 52,446 at 3:31 p.m. ET, a midday-to-afternoon reference rather than an official close. Meridian has not yet confirmed exact closing index levels from a primary or wire source, so this story reports percentage moves only.\n\nThe session's gains came after a strong run for chipmakers. SK Hynix reported a profit increase of 632% year over year, according to Yahoo Finance, and Oracle rose after issuing a fiscal 2030 revenue outlook of at least $225 billion.\n\n## Bonds are the stronger signal\n\nThe more important move came in Treasuries. Investopedia reported the 10-year yield near 5.04% late in the afternoon, up more than four basis points on the day. Long-dated yields rising while stocks rose suggests investors are not reading the Fed as easing financial conditions.\n\nBloomberg data cited by Yahoo Finance showed traders pricing about an 85% chance of a quarter-point increase at the Fed's Dec. 9 meeting. Futures also imply the policy rate climbing from about 3.9% now to nearly 4.7% by September 2027, roughly three more quarter-point hikes. That is slightly more than traders expected before the decision.\n\nThe Fed statement described the economy as \"strong,\" according to MarketWatch's coverage, which reinforces the view that the committee is worried about inflation rather than growth.\n\n## Calendar and what to watch\n\nWarsh also said the 2027 meeting schedule will include one meeting devoted to broad policy strategy, with no vote or statement, according to Yahoo Finance. Investors will look to Thursday's and Friday's data and to Amazon's results later this week for signs of whether inflation is cooling enough to slow the hike path.\n\nFor markets, the key question is whether equities can keep rising while yields stay above 5%. Oil also remains a complication: Investopedia reported WTI crude futures up 3.5% to $103.40 a barrel midday on Middle East concerns.\n\nThe Fed did not move today. But the vote and the pricing suggest the next decision in December is already close to a settled expectation.",
+  "marketImpact": {
+    "summary": "A hold with two hawkish dissents and an 85% December hike probability keeps pressure on long-dated yields and rate-sensitive equities, while supporting the dollar and banks.",
+    "timeframe": "Next 1-2 sessions, and through the Dec. 9 FOMC meeting",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "TLT", "direction": "down", "rationale": "Long-dated yields rose after the decision and the hike path lengthened." },
+      { "symbol": "XLU", "direction": "down", "rationale": "Utilities are sensitive to higher discount rates and rising yields." },
+      { "symbol": "KRE", "direction": "mixed", "rationale": "Regional banks can benefit from higher rates but face funding and credit risk." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Q3 GDP advance estimate and September Personal Income and Outlays, 8:30 AM ET" },
+      { "date": "2026-12-09", "event": "FOMC meeting; futures price about 85% odds of a quarter-point hike" }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html", "accessedAt": "2026-10-28" },
+    { "title": "Stock Market Today: Major Indexes Close Higher, Treasury Yields Rise After Fed Decision", "publisher": "Investopedia", "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013", "accessedAt": "2026-10-28" },
+    { "title": "Stocks finish higher after Fed leaves interest rates unchanged", "publisher": "MarketWatch", "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-fed-decision-interest-rates-big-tech-alphabet-microsoft/card/stocks-finish-higher-after-fed-leaves-interest-rates-unchanged-RBLMtemkQZsDg7hgFZ5j?mod=bulletin_ribbon", "accessedAt": "2026-10-28" },
+    { "title": "Stock Market Today: Tech Stocks Buoyant Ahead of Fed Rate Decision", "publisher": "Wall Street Journal", "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026", "accessedAt": "2026-10-28" }
+  ]
+}

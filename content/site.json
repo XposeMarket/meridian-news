@@ -1,82 +1,67 @@
 {
-  "updatedAt": "2026-10-28T11:55:00Z",
-  "edition": "pre-market",
-  "leadSlug": "stocks-set-mixed-open-ahead-of-fed-decision",
+  "updatedAt": "2026-10-28T20:40:00Z",
+  "edition": "afternoon",
+  "leadSlug": "fed-holds-rates-split-vote-december-hike-odds",
   "marketBrief": {
-    "headline": "Futures mixed as Fed decision and megacap earnings loom",
-    "summary": "U.S. futures were mixed before the open while Asian chip stocks surged on SK Hynix's profit jump. Investors await the Fed's 2 p.m. ET decision, which is expected to leave rates unchanged, and Alphabet and Microsoft results after the close. Yesterday's Oct. 27 close and overnight moves are sourced from CNBC and the WSJ; futures levels are indicative only.",
+    "headline": "Fed holds on a split vote; hike odds for December climb",
+    "summary": "The Fed kept rates unchanged 10-2, with two dissents favoring a hike. Stocks closed modestly higher, but the 10-year yield rose near 5.04% and futures price about 85% odds of a December increase.",
     "bullets": [
-      "CNBC's Oct. 27 close: S&P 500 7,722.60 (+0.6%), Nasdaq Composite 26,477.81 (+1.18%), Dow 52,377.57 (+0.03%).",
-      "Business Insider (7:37 a.m. ET): Nasdaq 100 futures +0.44%, Dow futures -0.14%; quotes do not fully reconcile with the cash close.",
-      "WSJ: Kospi jumped 6% after SK Hynix's quarterly profit tripled; Nasdaq-100 futures gaining early Wednesday.",
-      "Treasury yields edged back above 5% ahead of the decision; Fed expected to hold after a hike last month.",
-      "Alphabet and Microsoft report after the close; AI spending, cloud growth and free cash flow are the focus.",
-      "Q3 GDP advance estimate and September personal income/outlays arrive Thursday, Oct. 29, at 8:30 a.m. ET."
+      "Fed held its policy rate on a 10-2 vote; Hammack and Cook dissented for a hike (Yahoo Finance).",
+      "S&P 500, Nasdaq and Dow closed up about 0.3%, 0.3% and 0.2% (Investopedia). Index levels not yet confirmed from a wire source.",
+      "10-year Treasury yield near 5.04%, up more than 4 bps on the day (Investopedia).",
+      "Futures imply about 85% odds of a quarter-point hike on Dec. 9 (Bloomberg data via Yahoo Finance).",
+      "Alphabet and Microsoft report after the close; options imply moves of roughly 5-6% (investinglive)."
     ],
-    "asOf": "2026-10-28T11:55:00Z"
+    "asOf": "2026-10-28T20:30:00Z"
   },
   "marketSnapshot": [
     {
-      "label": "S&P 500",
-      "value": "7,722.60",
-      "change": "+0.6%",
+      "label": "10-year Treasury yield",
+      "value": "~5.04%",
+      "change": "+4 bps",
       "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-      "asOf": "2026-10-27 close"
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
+      "asOf": "2026-10-28 late afternoon ET"
     },
     {
       "label": "Dow Jones Industrial Average",
-      "value": "52,377.57",
-      "change": "+0.03%",
+      "value": "52,446.28 (intraday)",
+      "change": "+0.13%",
       "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-      "asOf": "2026-10-27 close"
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html",
+      "asOf": "2026-10-28 3:31 PM ET"
     },
     {
-      "label": "Nasdaq Composite",
-      "value": "26,477.81",
-      "change": "+1.18%",
+      "label": "S&P 500 (session change)",
+      "value": "Closed up ~0.3%",
+      "change": "+0.3%",
       "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-      "asOf": "2026-10-27 close"
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
+      "asOf": "2026-10-28 close"
+    },
+    {
+      "label": "Nasdaq Composite (session change)",
+      "value": "Closed up ~0.3%",
+      "change": "+0.3%",
+      "direction": "up",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
+      "asOf": "2026-10-28 close"
     },
     {
       "label": "WTI crude",
-      "value": "$99.90/bbl",
-      "change": "-1.83%",
-      "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-      "asOf": "2026-10-27 settle"
-    },
-    {
-      "label": "Nasdaq 100 futures",
-      "value": "29,943.00",
-      "change": "+0.44%",
+      "value": "$103.40/bbl",
+      "change": "+3.5%",
       "direction": "up",
-      "source": "Business Insider",
-      "sourceUrl": "https://markets.businessinsider.com/premarket",
-      "asOf": "2026-10-28 7:37 AM ET"
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
+      "asOf": "2026-10-28 midday ET"
     }
   ],
   "calendar": [
-    {
-      "date": "2026-10-28",
-      "time": "2:00 PM ET",
-      "event": "Federal Reserve policy decision",
-      "importance": "high",
-      "why": "The statement and press conference can move rate expectations, Treasury yields, the dollar and equity valuations."
-    },
-    {
-      "date": "2026-10-28",
-      "time": "After close",
-      "event": "Alphabet and Microsoft quarterly earnings",
-      "importance": "high",
-      "why": "Cloud growth and AI infrastructure spending are central to whether investors accept the buildout's cost."
-    },
     {
       "date": "2026-10-29",
       "time": "8:30 AM ET",
@@ -118,6 +103,13 @@
       "event": "October Consumer Price Index",
       "importance": "high",
       "why": "CPI offers a key cross-check on inflation after the Fed meeting."
+    },
+    {
+      "date": "2026-12-09",
+      "time": "2:00 PM ET",
+      "event": "FOMC policy decision",
+      "importance": "high",
+      "why": "Futures price about 85% odds of a quarter-point hike after the Oct. 28 hold."
     }
   ],
   "trending": [

@@ -1,0 +1,50 @@
+{
+  "slug": "alphabet-microsoft-report-after-bell-options-price-5-6-percent-moves",
+  "title": "Alphabet and Microsoft Report After the Bell, With Options Pricing Moves of 5% to 6%",
+  "dek": "Two of the largest AI spenders report quarterly results after Wednesday's close, and investors will judge cloud growth against the cost of the buildout.",
+  "section": "markets",
+  "tags": ["earnings", "alphabet", "microsoft", "ai", "cloud", "markets"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-28T20:45:00Z",
+  "updatedAt": "2026-10-28T20:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "Alphabet reports at about 4:30 p.m. ET and Microsoft at about 5:30 p.m. ET, after the close.",
+    "Options imply moves of roughly 5.1% for Microsoft and 6% for Alphabet through Friday, per investinglive.",
+    "Microsoft guided fiscal third-quarter Azure growth to 37% to 38%, against analyst estimates of 36.41%, per Reuters and LSEG data.",
+    "Investors will weigh capex and cloud margins; Microsoft said rising memory-chip costs will weigh on cloud margins over time."
+  ],
+  "body": "Alphabet and Microsoft report quarterly results after the closing bell on Wednesday, and the stakes are high for both. The two companies are among the largest spenders on AI infrastructure, and investors are increasingly asking whether that spending is producing enough cloud revenue to justify it.\n\nAlphabet is scheduled to hold its earnings call at 4:30 p.m. ET, and Microsoft at 5:30 p.m. ET, according to earnings previews from CME Group and Tech Insider. Consensus expectations for Alphabet's third-quarter earnings per share were about $2.94, according to the CME Group preview.\n\n## What options are pricing\n\nOptions markets are pricing sizable moves. Investinglive reported that options imply a move of about 5.1% for Microsoft and about 6% for Alphabet through Friday. Those figures are implied moves, not forecasts of direction.\n\n## Microsoft's guidance\n\nMicrosoft's previous guidance, reported by Reuters, set the bar. Its Azure cloud revenue grew 39% in the October-December quarter, its fiscal second quarter, narrowly above a consensus estimate of 38.8%, according to Visible Alpha. For the current fiscal third quarter, the company forecast Azure growth of 37% to 38%, against analyst estimates of 36.41%.\n\nReuters also reported that Microsoft expects capital spending to decline in the January-March quarter after $37.5 billion in October-December spending. Chief Financial Officer Amy Hood said rising memory-chip costs would eventually weigh on cloud margins. One portfolio manager quoted by Reuters noted that revenue rose 17% while cost of revenue rose 19%.\n\n## Alphabet's setup\n\nAlphabet's last report, covered by Yahoo Finance, showed revenue up 24% to $119.8 billion and Google Cloud revenue up 82% to $24.8 billion. Investors will be looking for whether that cloud momentum holds and whether capital spending is still climbing.\n\n## Why it matters for markets\n\nThe reports arrive the same day the Federal Reserve held rates steady on a 10-2 vote, with traders pricing about an 85% chance of a December hike. Higher long-dated yields make high-multiple technology shares more sensitive to any hint that AI spending is running ahead of revenue. Strong cloud numbers could support the Nasdaq; weak margins or heavier capex could revive that concern.\n\nFor investors, the practical question is simple. Are cloud growth and AI revenue rising faster than the cost of the infrastructure behind them? Tonight's answers will set the tone for the next session.",
+  "marketImpact": {
+    "summary": "Microsoft and Alphabet results are the main single-stock catalysts for the Nasdaq into the next session. Cloud growth above guidance would support the AI trade; higher capex or weaker margins would test it, especially with long yields near 5%.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "MSFT", "direction": "watch", "rationale": "Azure growth versus the 37% to 38% guide, and capex and cloud margin commentary." },
+      { "symbol": "GOOGL", "direction": "watch", "rationale": "Google Cloud growth and whether capital spending keeps rising." },
+      { "symbol": "QQQ", "direction": "mixed", "rationale": "Megacap results can move the Nasdaq-100 in either direction." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-28", "event": "Alphabet earnings call, 4:30 PM ET" },
+      { "date": "2026-10-28", "event": "Microsoft earnings call, 5:30 PM ET" },
+      { "date": "2026-10-29", "event": "Q3 GDP advance estimate and Personal Income and Outlays, 8:30 AM ET" }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market today: Nasdaq wavers, Dow, S&P 500, rise as Fed holds rates steady in split vote", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html", "accessedAt": "2026-10-28" },
+    { "title": "Alphabet Earnings Date: Q3 2026 Time and Estimates", "publisher": "CME Group Elite", "url": "https://www.cmelitegroup.com/knowledge-hub/alphabet-earnings-date/", "accessedAt": "2026-10-28" },
+    { "title": "Microsoft and Alphabet report tonight. Wall Street's earnings recovery has a catch", "publisher": "investinglive", "url": "https://investinglive.com/stocks/microsoft-and-alphabet-report-tonight-wall-street-s-earnings-recovery-has-a-catch/", "accessedAt": "2026-10-28" },
+    { "title": "Stock Market Today: Alphabet, Microsoft Earnings in Focus", "publisher": "Wall Street Journal", "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026", "accessedAt": "2026-10-28" },
+    { "title": "Will Alphabet Stock Surge After Oct. 28?", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-surge-oct-28-222500307.html", "accessedAt": "2026-10-28" }
+  ]
+}

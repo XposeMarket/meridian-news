@@ -1,0 +1,47 @@
+{
+  "slug": "toyota-sienna-hybrid-seat-back-recall-228000",
+  "title": "Toyota Recalls 228,000 Sienna Hybrid Minivans Over Second-Row Seat Backs",
+  "dek": "NHTSA filing says the second-row seat backs can come unsecured in some front-end crashes, prompting a free software fix and, for about 200 vehicles, seat replacement.",
+  "section": "autos",
+  "tags": ["Toyota", "recalls", "Sienna", "NHTSA", "safety"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-28T20:40:00Z",
+  "updatedAt": "2026-10-28T20:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg",
+    "alt": "Electric cars plugged into public charging points",
+    "credit": "Philip Halling",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg"
+  },
+  "keyPoints": [
+    "Toyota is recalling 228,367 Sienna Hybrid minivans from the 2022 through 2026 model years in the U.S.",
+    "In some front-end crashes, the seat belt systems can unlock the second-row seat-back reclining mechanisms, letting the seats move out of position.",
+    "Most vehicles get a free software update to the SRS electronic control unit; about 200 Mobility as a Service vans get replacement seat backs.",
+    "Toyota has not determined how many vehicles actually have the defect, and it had no U.S. warranty claims or technical reports as of Oct. 12, per NHTSA.",
+    "Owner letters are scheduled to start Dec. 7, with all owners expected to be notified by Dec. 21."
+  ],
+  "body": "Toyota is recalling more than 228,000 Sienna Hybrid minivans in the United States because the second-row seat backs may not stay locked in a crash. The National Highway Traffic Safety Administration published the recall notice this week, and news outlets carried it on October 27 and 28.\n\n## What the defect is\n\nThe affected vehicles are 2022 through 2026 model-year Sienna Hybrids built between September 16, 2021, and July 20, 2026. According to the NHTSA filing as reported by Daily Voice and NewsNation, the problem sits in the reclining mechanisms that hold the second-row seat backs in place. During some front-end crashes, the seat belt systems can cause those mechanisms to unlock. The seat backs can then move out of position, which raises the risk of injury to passengers in that row.\n\nToyota says it found the issue during safety testing in 2025 and kept investigating through October 2026, when it identified the crash conditions that could cause the seat backs to become unsecured. Toyota has not said how many of the 228,367 vehicles actually carry the defect.\n\n## The fix\n\nFor most vehicles, dealers will update the software in the supplemental restraint system electronic control unit at no charge. Vehicles equipped with Toyota's Mobility as a Service package, about 200 according to the filing, will instead have both second-row seat backs replaced at no cost.\n\nNHTSA's notice says Toyota had no U.S. warranty claims or technical reports related to the problem as of October 12. Notification letters are scheduled to begin on December 7, with all affected owners expected to be notified by December 21. Owners who want to check their own vehicle can use Toyota's recall lookup or call customer service at 1-800-331-4331.\n\n## Why it matters for Toyota\n\nThis is the third significant Toyota recall this month. Earlier in October, Toyota recalled more than 105,000 Land Cruiser Hybrid SUVs over a possible fuel tube leak, and about 30,000 RAV4 Plug-In Hybrids over a software problem that could cut power at highway speeds, according to Daily Voice. Reuters reported the Land Cruiser recall on October 21.\n\nFor Toyota Motor, a software and parts recall of this size is typically a cost and reputation issue rather than a sales event. The recall work is free to owners and is largely a dealer software update, so the direct cost per vehicle should be modest. The larger question for investors is whether the string of October recalls becomes a pattern that draws regulatory attention or affects warranty reserves in the company's next quarterly results.\n\n## What to watch\n\nThe next checkpoints are the NHTSA recall database entry for the Sienna filing, Toyota's owner letters in December, and whether the Mobility as a Service seat-back replacements expand beyond the roughly 200 vehicles described so far. Toyota's quarterly filings will also show whether recall costs are being added to warranty provisions.\n\nWe will update this story if NHTSA changes the population or Toyota revises its remedy.",
+  "marketImpact": {
+    "summary": "A free software-and-parts recall covering 228,000 minivans is unlikely to move Toyota's shares on its own. The more relevant risk is a cluster of October recalls that could draw more regulatory scrutiny or raise warranty costs. Investors should treat any move as sentiment rather than a financial shock.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "TM", "direction": "watch", "rationale": "Toyota Motor ADR. Recall cost is small per vehicle, but a pattern of October recalls is the signal to monitor." },
+      { "symbol": "7203.T", "direction": "watch", "rationale": "Toyota's Tokyo-listed shares carry the same recall-pattern risk and are watched for any warranty provision commentary." }
+    ],
+    "catalysts": [
+      { "date": "2026-12-07", "event": "Toyota begins mailing Sienna Hybrid seat-back recall notification letters" }
+    ]
+  },
+  "sources": [
+    { "title": "Toyota to recall more than 228000 US vehicles over unsecured seat back risk - NHTSA", "publisher": "Reuters", "url": "https://www.reuters.com/legal/litigation/toyota-recall-more-than-228000-us-vehicles-over-unsecured-seat-back-risk-nhtsa-2026-10-27/", "accessedAt": "2026-10-28" },
+    { "title": "Toyota Recalls 228K+ Sienna Hybrid Minivans, Nhtsa Says", "publisher": "Daily Voice", "url": "https://dailyvoice.com/article/toyota-recalls-228k-sienna-hybrid-minivans-nhtsa-says/", "accessedAt": "2026-10-28" },
+    { "title": "Toyota recalls more than 228000 vehicles over risk of injury", "publisher": "NewsNation via WREG", "url": "https://wreg.com/news/nation-and-world/toyota-recalls-more-than-228000-vehicles-over-risk-of-injury/", "accessedAt": "2026-10-28" },
+    { "title": "Toyota Recalling 228000 US Vehicles Over Unsecured Seat Backs", "publisher": "Claims Journal", "url": "https://www.claimsjournal.com/news/national/2026/10/28/340943.htm", "accessedAt": "2026-10-28" }
+  ]
+}
