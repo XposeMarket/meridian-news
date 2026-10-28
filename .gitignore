@@ -6,3 +6,9 @@ node_modules/
 !.env.example
 Brain/
 tool_audit.log
+
+# Prometheus agent workspace artifacts (team workDir is this repo)
+audit/
+memory/
+screenshots/
+.prometheus/

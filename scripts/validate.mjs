@@ -117,18 +117,49 @@ if (existsSync(sitePath)) {
   try { validateSite(JSON.parse(readFileSync(sitePath, 'utf8').replace(/^\uFEFF/, ''))); } catch (error) { fail('content/site.json', `invalid JSON: ${error.message}`); }
 } else if (articles.length > 0) fail('content/site.json', 'is required once articles exist');
 
+// Image verification. Wikimedia (and other CDNs) answer bursts with HTTP 429.
+// A rate limit says nothing about whether the image exists, so requests are
+// throttled, 429/503 are retried with backoff (honouring Retry-After), and an
+// image that is still rate-limited after retries becomes a WARNING, not an
+// error. Real failures (404, 403, non-image content, DNS/timeouts) still fail.
+const warnings = [];
+const checked = new Set();
+const sleep = (ms) => new Promise((done) => setTimeout(done, ms));
+const userAgent = 'Meridian-content-validator/1.1 (https://meridian-news-two.vercel.app; newsroom image verification)';
+async function probe(url) {
+  let response = await fetch(url, { method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(20000), headers: { 'User-Agent': userAgent } });
+  if (response.status !== 200 && response.status !== 429 && response.status !== 503) {
+    response = await fetch(url, { method: 'GET', redirect: 'follow', signal: AbortSignal.timeout(20000), headers: { 'User-Agent': userAgent, Range: 'bytes=0-1023' } });
+  }
+  await response.body?.cancel();
+  return response;
+}
 async function verifyImages() {
-  const images = articles.map((article) => ({ file: `content/articles/${article.slug}.json`, url: article.image?.url })).filter((image) => httpUrl(image.url));
+  const onlyRecent = process.argv.find((arg) => arg.startsWith('--since='));
+  const since = onlyRecent ? onlyRecent.split('=')[1] : null;
+  const images = articles
+    .filter((article) => !since || String(article.updatedAt || article.publishedAt || '').slice(0, 10) >= since)
+    .map((article) => ({ file: `content/articles/${article.slug}.json`, url: article.image?.url }))
+    .filter((image) => httpUrl(image.url));
   for (const image of images) {
+    if (checked.has(image.url)) continue;
+    checked.add(image.url);
     try {
-      let response = await fetch(image.url, { method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(20000), headers: { 'User-Agent': 'Meridian-content-validator/1.0 (public news publication; image verification)' } });
-      if (response.status !== 200) response = await fetch(image.url, { method: 'GET', redirect: 'follow', signal: AbortSignal.timeout(20000), headers: { 'User-Agent': 'Meridian-content-validator/1.0 (public news publication; image verification)' } });
-      if (response.status !== 200) fail(image.file, `image URL returned HTTP ${response.status}: ${image.url}`);
+      let response;
+      for (let attempt = 0; attempt < 4; attempt += 1) {
+        response = await probe(image.url);
+        if (response.status !== 429 && response.status !== 503) break;
+        const retryAfter = Number(response.headers.get('retry-after'));
+        await sleep(Number.isFinite(retryAfter) && retryAfter > 0 ? Math.min(retryAfter, 30) * 1000 : 2000 * 2 ** attempt);
+      }
+      if (response.status === 429 || response.status === 503) warnings.push(`${image.file}: image host rate-limited (HTTP ${response.status}) after retries; not treated as broken: ${image.url}`);
+      else if (response.status !== 200 && response.status !== 206) fail(image.file, `image URL returned HTTP ${response.status}: ${image.url}`);
       else if (!response.headers.get('content-type')?.startsWith('image/')) fail(image.file, `image URL did not return an image: ${image.url}`);
-      await response.body?.cancel();
     } catch (error) { fail(image.file, `image URL check failed: ${image.url} (${error.message})`); }
+    await sleep(400);
   }
 }
 if (checkImages) await verifyImages();
+if (warnings.length) console.warn(`Warnings (${warnings.length}):\n- ${warnings.join('\n- ')}`);
 if (errors.length) { console.error(`Validation failed (${errors.length} error${errors.length === 1 ? '' : 's'}):\n- ${errors.join('\n- ')}`); process.exit(1); }
-console.log(`Validation passed: ${articles.length} article${articles.length === 1 ? '' : 's'}${checkImages ? '; image URLs checked' : ''}.`);
+console.log(`Validation passed: ${articles.length} article${articles.length === 1 ? '' : 's'}${checkImages ? `; ${checked.size} image URL(s) checked${warnings.length ? ` (${warnings.length} rate-limited, see warnings)` : ''}` : ''}.`);

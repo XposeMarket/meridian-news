@@ -1,0 +1,48 @@
+{
+  "slug": "stocks-gain-tech-leads-fed-and-earnings-focus",
+  "title": "Tech-Led Gains Lift Stocks as Investors Turn to Fed and Earnings",
+  "dek": "U.S. shares advanced Tuesday, with chipmakers and technology stocks leading while investors weighed earnings and the Federal Reserve’s policy meeting.",
+  "section": "markets",
+  "tags": ["markets", "stocks", "technology", "Federal Reserve", "earnings"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-27T20:40:00Z",
+  "updatedAt": "2026-10-27T20:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1600&q=80",
+    "alt": "Electronic market-price display with rows of financial information",
+    "credit": "Patrick Weissenberger / Unsplash",
+    "license": "Unsplash License",
+    "sourceUrl": "https://unsplash.com/photos/black-and-white-analog-wall-clock-while-11-00-cckf4TsHAuw"
+  },
+  "keyPoints": [
+    "The S&P 500, Dow and Nasdaq finished Tuesday higher, according to market-close reporting.",
+    "Technology and semiconductor shares led gains, while Boeing's decline weighed on the Dow.",
+    "Investors are weighing earnings reports and the Federal Reserve's upcoming policy decision."
+  ],
+  "body": "U.S. stocks ended higher Tuesday as technology and chip shares led a broad advance, keeping investors focused on corporate earnings and the Federal Reserve's policy meeting. The move extended a recent rebound in technology shares, but the cross-currents remain: earnings are testing expectations for artificial-intelligence spending, while interest-rate decisions could shift the cost of financing that investment.\n\n## Gains led by technology\n\nThe Nasdaq Composite rose about 1.1% and the S&P 500 gained about 0.6%, while the Dow Jones Industrial Average was close to flat, according to Yahoo Finance's closing market update. Schwab's end-of-day market recap reported more precise closing levels of 7,739.40 for the S&P 500, up 0.71%; 52,499.20 for the Dow, up 0.24%; and 29,711.00 for the Nasdaq 100, up 1.32%. These are separate index readings: the Nasdaq 100 is not the Nasdaq Composite. Technology and semiconductor shares drove the advance, while a steep drop in Boeing shares restrained the price-weighted Dow.\n\nInvestopedia's live coverage described chip and memory shares as strong performers, including the semiconductor ETF and several storage and memory names, while Boeing fell roughly 10%. The source's intraday observations are not all closing prices, so they should not be read as final percentage changes. The broad pattern was a tech-led session rather than an evenly distributed rally.\n\n## Earnings and the Fed set the next test\n\nInvestors are assessing a dense earnings calendar as the Federal Reserve's two-day meeting progresses. Alphabet and Microsoft are scheduled to report after Wednesday's close, and Amazon follows Thursday, according to Investopedia's market coverage. Attention is on cloud growth and capital spending: strong demand could support the case that AI investment is generating returns, while rising costs without matching revenue may renew concerns about financing and margins.\n\nThe market's response to corporate results was mixed Tuesday. Coca-Cola and SoFi were among companies whose reports investors assessed, and Visa's scheduled fiscal fourth-quarter and full-year results were a key after-market event, according to the company's investor-relations notice. As of publication, this article does not include Visa's unverified post-close results; the scheduled release alone is not evidence of its outcome.\n\nThe Federal Reserve began its meeting Tuesday, with the policy decision expected Wednesday afternoon. The combination of a policy announcement and high-profile technology results could move Treasury yields and growth-stock valuations in either direction. Investors should distinguish short-term price moves from a lasting change in the earnings outlook; one session cannot resolve whether AI-related spending will produce returns commensurate with its cost.\n\n## Market impact\n\nA technology-led rally can lift major indexes because large technology and semiconductor companies carry substantial index weight, but it may leave the broader market more vulnerable if investors reassess growth or financing expectations. The next catalysts are the Fed decision and large-cap technology earnings. This is analysis, not a prediction; rate sensitivity and earnings reactions can reverse quickly.",
+  "marketImpact": {
+    "summary": "A tech-led advance supports growth-heavy indexes, but the next Federal Reserve decision and large-cap technology earnings could quickly reset rate and AI-investment expectations.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq exposure is sensitive to large-cap tech earnings and discount-rate expectations." },
+      { "symbol": "SMH", "direction": "watch", "rationale": "Semiconductor shares led the advance, leaving the group exposed to changes in AI investment sentiment." },
+      { "symbol": "TLT", "direction": "watch", "rationale": "Fed communication may shift Treasury yields and rate-sensitive asset pricing." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-28", "event": "Federal Reserve policy decision" },
+      { "date": "2026-10-28", "event": "Alphabet and Microsoft earnings after market close" },
+      { "date": "2026-10-29", "event": "Amazon earnings after market close" }
+    ]
+  },
+  "sources": [
+    { "title": "Stocks Extend Gains on Firm Earnings, Solid Tech", "publisher": "Charles Schwab", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "accessedAt": "2026-10-27" },
+    { "title": "Stock Market Today: Nasdaq, S&P 500 Jump on Busy Day of Earnings", "publisher": "Investopedia", "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10272026-12196175", "accessedAt": "2026-10-27" },
+    { "title": "Stock market today: Dow, S&P 500, Nasdaq rise as tech gains for second day, chip stocks rally", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html", "accessedAt": "2026-10-27" },
+    { "title": "Visa to Announce Fiscal Fourth Quarter and Full-Year 2026 Financial Results on October 27, 2026", "publisher": "Visa Investor Relations", "url": "https://investor.visa.com/news/news-details/2026/Visa-to-Announce-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-Results-on-October-27-2026/default.aspx", "accessedAt": "2026-10-27" }
+  ]
+}

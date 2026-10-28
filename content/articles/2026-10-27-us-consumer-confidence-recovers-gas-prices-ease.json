@@ -1,0 +1,47 @@
+{
+  "slug": "us-consumer-confidence-recovers-gas-prices-ease",
+  "title": "U.S. Consumer Confidence Rebounds as Gas Prices Ease, but Affordability Remains Strained",
+  "dek": "The Conference Board's index rose 7.5 points in October after September's steep decline, while survey responses remained broadly pessimistic and gasoline cost more than a year earlier.",
+  "section": "economy",
+  "tags": ["consumer confidence", "inflation", "gas prices", "household spending", "United States"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-27T16:23:00Z",
+  "updatedAt": "2026-10-27T16:23:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Shopping_Cart_Supermarket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "alt": "A shopping cart at a supermarket in Kenya, an illustrative image of consumer shopping",
+    "credit": "safaritravelplus",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shopping_Cart_Supermarket.jpg"
+  },
+  "keyPoints": [
+    "The Conference Board's consumer confidence index climbed 7.5 points to 91.7 in October, from 84.2 in September.",
+    "The average U.S. gasoline price was $4.27 per gallon on Tuesday, down from $4.48 a month earlier but above $3.05 a year earlier, the Associated Press reported using AAA data.",
+    "Survey responses remained broadly pessimistic amid persistent cost concerns; the rebound is one month's reading, not evidence that household affordability pressures have ended."
+  ],
+  "body": "U.S. consumer confidence rebounded in October after a sharp September decline, but the improvement came alongside continued concern about living costs. The Conference Board's index rose 7.5 points to 91.7 from 84.2 in September. The previous month's reading was the lowest in the board's survey since April 2014, the Associated Press reported.\n\nThe October increase coincided with a modest easing in gasoline prices. AAA data cited by the AP put the U.S. average for regular gasoline at $4.27 a gallon Tuesday, down from $4.48 a month earlier. It remained well above the $3.05 average a year earlier. The board's survey responses, collected from Oct. 1 through Oct. 21, still showed broad pessimism, with frequent references to energy, goods and services costs.\n\n## A bounce after a low reading\n\nThe index combines consumers' assessments of current conditions with expectations for the near future. The AP reported that the present-situation measure increased 6.9 points to 72.6, while the expectations measure rose 8.6 points to 120.4. Those gains show a better reading than September, but they do not erase the longer-running softness described by the board's senior economist, Fergus McCormick, who said confidence remained on a downward trend over several years.\n\nGas prices offer one plausible near-term relief for household budgets, but the annual comparison shows why that relief may feel limited. A lower monthly pump price does not mean costs have returned to last year's level. The survey's mixed signals — an improved index alongside pessimistic written responses — also caution against treating one month's rebound as a broad turn in consumers' financial experience.\n\n## Affordability remains politically salient\n\nThe release arrived a week before the U.S. midterm election, when affordability has been a recurring campaign concern. The AP reported that inflation accelerated in September: consumer prices were 3.7% higher than a year earlier, compared with 3.4% in August. The article also noted that average hourly wages rose 3% year over year in September, the smallest annual gain since May 2021, while employers added 29,000 jobs.\n\nThose figures describe separate measures and should not be read as a direct measure of every household's finances. Still, they help explain why better confidence scores can coexist with persistent unease. The index tracks survey respondents' assessments and expectations; it is not a count of retail purchases or a forecast of election results.\n\nThe next useful test is whether the improvement persists in subsequent readings and aligns with actual spending, hiring and inflation data. For now, October's report marks a recovery from September's low, with fuel costs easing month over month but remaining elevated year over year and wider affordability concerns still evident.",
+  "sources": [
+    {
+      "title": "US consumer confidence recovers in October as gas prices eased a bit",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/consumer-confidence-inflation-gasoline-tariffs-10aae13e93501c1c7f8803d44316eb28",
+      "accessedAt": "2026-10-27"
+    },
+    {
+      "title": "US consumer confidence improves in October",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/markets/us/us-consumer-confidence-improves-october-2026-10-27/",
+      "accessedAt": "2026-10-27"
+    },
+    {
+      "title": "US Consumer Confidence",
+      "publisher": "The Conference Board",
+      "url": "https://www.conference-board.org/topics/consumer-confidence/",
+      "accessedAt": "2026-10-27"
+    }
+  ]
+}
