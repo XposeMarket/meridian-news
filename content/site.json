@@ -1,35 +1,127 @@
 {
-  "updatedAt": "2026-10-27T20:50:00Z",
-  "edition": "afternoon",
-  "leadSlug": "stocks-gain-tech-leads-fed-and-earnings-focus",
+  "updatedAt": "2026-10-28T11:55:00Z",
+  "edition": "pre-market",
+  "leadSlug": "stocks-set-mixed-open-ahead-of-fed-decision",
   "marketBrief": {
-    "headline": "Tech-led gains keep Fed and earnings in focus",
-    "summary": "U.S. stocks finished higher Tuesday, with technology and semiconductor shares leading; the Dow's smaller gain reflected weakness in Boeing. Investors turn next to Wednesday's Federal Reserve decision and Alphabet and Microsoft's earnings after the close. Close levels are drawn from Schwab's dated market recap, with Yahoo Finance and Investopedia providing corroboration on market direction and movers.",
+    "headline": "Futures mixed as Fed decision and megacap earnings loom",
+    "summary": "U.S. futures were mixed before the open while Asian chip stocks surged on SK Hynix's profit jump. Investors await the Fed's 2 p.m. ET decision, which is expected to leave rates unchanged, and Alphabet and Microsoft results after the close. Yesterday's Oct. 27 close and overnight moves are sourced from CNBC and the WSJ; futures levels are indicative only.",
     "bullets": [
-      "Schwab's October 27 close recap listed S&P 500 7,739.40 (+0.71%), Dow 52,499.20 (+0.24%), Nasdaq 100 29,711.00 (+1.32%).",
-      "Yahoo Finance's close report described Nasdaq Composite up about 1.1% and S&P 500 up 0.6%; distinguish the Composite from Nasdaq 100 levels.",
-      "Technology and chip stocks led; Boeing's decline restrained the Dow, according to Investopedia's market coverage.",
-      "Visa's fiscal Q4 and full-year results were scheduled for Oct. 27; no unverified after-market result is reported here.",
-      "Wednesday brings the Federal Reserve decision and after-close Alphabet and Microsoft earnings; BEA schedules Q3 GDP and September income/outlays Thursday at 8:30 a.m. ET."
+      "CNBC's Oct. 27 close: S&P 500 7,722.60 (+0.6%), Nasdaq Composite 26,477.81 (+1.18%), Dow 52,377.57 (+0.03%).",
+      "Business Insider (7:37 a.m. ET): Nasdaq 100 futures +0.44%, Dow futures -0.14%; quotes do not fully reconcile with the cash close.",
+      "WSJ: Kospi jumped 6% after SK Hynix's quarterly profit tripled; Nasdaq-100 futures gaining early Wednesday.",
+      "Treasury yields edged back above 5% ahead of the decision; Fed expected to hold after a hike last month.",
+      "Alphabet and Microsoft report after the close; AI spending, cloud growth and free cash flow are the focus.",
+      "Q3 GDP advance estimate and September personal income/outlays arrive Thursday, Oct. 29, at 8:30 a.m. ET."
     ],
-    "asOf": "2026-10-27T20:50:00Z"
+    "asOf": "2026-10-28T11:55:00Z"
   },
   "marketSnapshot": [
-    { "label": "S&P 500", "value": "7,739.40", "change": "+0.71%", "direction": "up", "source": "Charles Schwab", "sourceUrl": "https://www.schwab.com/learn/story/stock-market-update-open", "asOf": "2026-10-27 close" },
-    { "label": "Dow Jones Industrial Average", "value": "52,499.20", "change": "+0.24%", "direction": "up", "source": "Charles Schwab", "sourceUrl": "https://www.schwab.com/learn/story/stock-market-update-open", "asOf": "2026-10-27 close" },
-    { "label": "Nasdaq 100", "value": "29,711.00", "change": "+1.32%", "direction": "up", "source": "Charles Schwab", "sourceUrl": "https://www.schwab.com/learn/story/stock-market-update-open", "asOf": "2026-10-27 close" }
+    {
+      "label": "S&P 500",
+      "value": "7,722.60",
+      "change": "+0.6%",
+      "direction": "up",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+      "asOf": "2026-10-27 close"
+    },
+    {
+      "label": "Dow Jones Industrial Average",
+      "value": "52,377.57",
+      "change": "+0.03%",
+      "direction": "up",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+      "asOf": "2026-10-27 close"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "26,477.81",
+      "change": "+1.18%",
+      "direction": "up",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+      "asOf": "2026-10-27 close"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$99.90/bbl",
+      "change": "-1.83%",
+      "direction": "down",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+      "asOf": "2026-10-27 settle"
+    },
+    {
+      "label": "Nasdaq 100 futures",
+      "value": "29,943.00",
+      "change": "+0.44%",
+      "direction": "up",
+      "source": "Business Insider",
+      "sourceUrl": "https://markets.businessinsider.com/premarket",
+      "asOf": "2026-10-28 7:37 AM ET"
+    }
   ],
   "calendar": [
-    { "date": "2026-10-28", "time": "2:00 PM ET", "event": "Federal Reserve policy decision", "importance": "high", "why": "The statement and press conference can move rate expectations, Treasury yields, the dollar and equity valuations." },
-    { "date": "2026-10-28", "time": "After close", "event": "Alphabet and Microsoft quarterly earnings", "importance": "high", "why": "Cloud growth and AI infrastructure spending are central to whether investors accept the buildout's cost." },
-    { "date": "2026-10-29", "time": "8:30 AM ET", "event": "Q3 GDP advance estimate and September Personal Income and Outlays", "importance": "high", "why": "The releases combine the first estimate of quarterly growth with inflation gauges watched by the Fed." },
-    { "date": "2026-10-29", "time": "After close", "event": "Amazon quarterly earnings", "importance": "high", "why": "AWS growth and infrastructure investment are a key read on AI cloud demand and monetization." },
-    { "date": "2026-10-30", "time": "8:30 AM ET", "event": "Third-quarter Employment Cost Index", "importance": "high", "why": "Compensation trends help markets assess services inflation and labor-cost pressure." },
-    { "date": "2026-11-03", "time": "Polls open by state", "event": "U.S. midterm Election Day", "importance": "high", "why": "Control of Congress can reshape expectations for taxes, regulation and fiscal policy." },
-    { "date": "2026-11-06", "time": "8:30 AM ET", "event": "October Employment Situation (jobs report)", "importance": "high", "why": "Payrolls, unemployment and wages will shape expectations for the Fed's next steps." },
-    { "date": "2026-11-10", "time": "8:30 AM ET", "event": "October Consumer Price Index", "importance": "high", "why": "CPI offers a key cross-check on inflation after the Fed meeting." }
+    {
+      "date": "2026-10-28",
+      "time": "2:00 PM ET",
+      "event": "Federal Reserve policy decision",
+      "importance": "high",
+      "why": "The statement and press conference can move rate expectations, Treasury yields, the dollar and equity valuations."
+    },
+    {
+      "date": "2026-10-28",
+      "time": "After close",
+      "event": "Alphabet and Microsoft quarterly earnings",
+      "importance": "high",
+      "why": "Cloud growth and AI infrastructure spending are central to whether investors accept the buildout's cost."
+    },
+    {
+      "date": "2026-10-29",
+      "time": "8:30 AM ET",
+      "event": "Q3 GDP advance estimate and September Personal Income and Outlays",
+      "importance": "high",
+      "why": "The releases combine the first estimate of quarterly growth with inflation gauges watched by the Fed."
+    },
+    {
+      "date": "2026-10-29",
+      "time": "After close",
+      "event": "Amazon quarterly earnings",
+      "importance": "high",
+      "why": "AWS growth and infrastructure investment are a key read on AI cloud demand and monetization."
+    },
+    {
+      "date": "2026-10-30",
+      "time": "8:30 AM ET",
+      "event": "Third-quarter Employment Cost Index",
+      "importance": "high",
+      "why": "Compensation trends help markets assess services inflation and labor-cost pressure."
+    },
+    {
+      "date": "2026-11-03",
+      "time": "Polls open by state",
+      "event": "U.S. midterm Election Day",
+      "importance": "high",
+      "why": "Control of Congress can reshape expectations for taxes, regulation and fiscal policy."
+    },
+    {
+      "date": "2026-11-06",
+      "time": "8:30 AM ET",
+      "event": "October Employment Situation (jobs report)",
+      "importance": "high",
+      "why": "Payrolls, unemployment and wages will shape expectations for the Fed's next steps."
+    },
+    {
+      "date": "2026-11-10",
+      "time": "8:30 AM ET",
+      "event": "October Consumer Price Index",
+      "importance": "high",
+      "why": "CPI offers a key cross-check on inflation after the Fed meeting."
+    }
   ],
   "trending": [
+    "stocks-set-mixed-open-ahead-of-fed-decision",
     "stocks-gain-tech-leads-fed-and-earnings-focus",
     "visa-results-test-card-spending-and-cross-border-demand",
     "megacap-earnings-ai-buildout-reality-check",

@@ -1,0 +1,50 @@
+{
+  "slug": "stocks-set-mixed-open-ahead-of-fed-decision",
+  "title": "Stocks Set a Mixed Open as Fed Decision and Megacap Earnings Loom",
+  "dek": "U.S. futures were mixed while Asian markets surged on SK Hynix's profit jump, while investors wait for the Federal Reserve's 2 p.m. ET decision and the Alphabet and Microsoft reports after the close.",
+  "section": "markets",
+  "tags": ["markets", "stocks", "Federal Reserve", "premarket", "earnings", "AI"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-28T11:55:00Z",
+  "updatedAt": "2026-10-28T11:55:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "CNBC's Oct. 27 close: S&P 500 7,722.60 (+0.6%), Dow 52,377.57 (+0.03%), Nasdaq Composite 26,477.81 (+1.18%).",
+    "WSJ reported Nasdaq-100 futures rising early Wednesday as Asian markets surged; South Korea's Kospi jumped 6% after SK Hynix's quarterly profit tripled.",
+    "Benchmark Treasury yields edged back above 5% ahead of the Fed decision, which is expected to leave rates unchanged.",
+    "Alphabet and Microsoft report after the close; investors will focus on AI spending, cloud growth and free cash flow."
+  ],
+  "body": "## Mixed futures, strong chips\n\nU.S. stock futures were not pointing in one direction before the open. Business Insider's premarket page, timestamped 7:37 a.m. ET, showed Nasdaq 100 futures up 0.44% while Dow futures were down 0.14%, according to [Business Insider](https://markets.businessinsider.com/premarket). The futures quotes on that page do not fully reconcile with the Oct. 27 cash closes, so treat them as indicative rather than as a precise opening forecast.\n\nThe tech tilt was clearer in Asia. The Wall Street Journal's live coverage reported that Asian markets surged after chipmaker SK Hynix posted quarterly profit that tripled, and that South Korea's AI-heavy Kospi index jumped 6%. The same report said Nasdaq-100 futures were gaining and that the Nasdaq has risen almost 2% since Anthropic filed its IPO paperwork on Monday ([WSJ](https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026)).\n\n## Yesterday's close\n\nThe U.S. session on Tuesday ended higher, with chipmakers doing most of the work. [CNBC](https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html) reported the S&P 500 at 7,722.60, up 0.6%; the Nasdaq Composite at 26,477.81, up 1.18%; and the Dow at 52,377.57, up just 0.03%. Broadcom rose 4% after a group of banks and Blackstone announced $63 billion in financing tied to its technology for Anthropic, and Micron and AMD also gained.\n\nThe Dow's narrow advance matters because it shows how concentrated the rally was. CNBC also reported WTI crude settling down 1.83% at $99.90 a barrel and Brent down 1.67% at $113.88, which eased some pressure on inflation expectations.\n\n## Rates and the Fed\n\nThe Federal Reserve begins its decision at 2 p.m. ET. [Charles Schwab](https://www.schwab.com/learn/story/stock-market-update-open) noted that the central bank raised rates last month for the first time in three years, and that CME FedWatch odds of a hike at this meeting were under 10%. CNBC expects the Fed to hold rates unchanged, with traders watching for signals on whether another increase could come before year-end.\n\nThe main uncertainty is the press conference. Schwab reported that Chair Kevin Warsh was brief at his previous briefing and that clear guidance is unlikely, though analysts hope for his view on inflation. Treasury yields are the transmission channel: the WSJ reported benchmark yields above 5% again, and higher yields tend to pressure long-duration growth stocks.\n\n## What to watch today\n\nAlphabet and Microsoft report after the close. Schwab framed the question as whether investors will still reward heavy AI spending when it is paired with accelerating cloud growth, or whether the market will ask harder questions about financing and returns, as it did after Meta's recent spending plans.\n\nFor the rest of the week, the next scheduled macro checkpoint is the Bureau of Economic Analysis's advance estimate of third-quarter GDP and September personal income and outlays on Thursday, Oct. 29, at 8:30 a.m. ET. Schwab cited analyst expectations of a solid 3% GDP estimate.\n\n## Market impact\n\nThe near-term setup is driven by three tests: whether the Fed sounds calm about inflation, whether yields hold near 5%, and whether megacap cloud results justify AI capital spending. A hawkish tone or stronger yields would pressure rate-sensitive and high-multiple tech names first. A quiet Fed and solid cloud numbers would likely extend the chip rally.",
+  "marketImpact": {
+    "summary": "Chip strength in Asia and yesterday's U.S. tech-led close favor a firmer tech tape, but the 2 p.m. Fed decision and after-close Alphabet and Microsoft results can reverse it. Higher-for-longer yields near 5% are the main risk to long-duration equities.",
+    "timeframe": "Today's session and the next 1-2 sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Chip sentiment led Tuesday's gains and Asian chip stocks surged overnight; a Fed or capex surprise would test it first." },
+      { "symbol": "GOOGL", "direction": "watch", "rationale": "Reports after the close; cloud growth and AI spending will set the reaction." },
+      { "symbol": "MSFT", "direction": "watch", "rationale": "Reports after the close; Azure growth versus capex and free cash flow is the key read." },
+      { "symbol": "TLT", "direction": "mixed", "rationale": "Yields above 5% weigh on long bonds, but a Fed that signals no urgency to hike could pull yields lower." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-28", "event": "FOMC decision, 2:00 PM ET, with press conference by Chair Kevin Warsh" },
+      { "date": "2026-10-28", "event": "Alphabet and Microsoft quarterly results, after the close" },
+      { "date": "2026-10-29", "event": "Q3 GDP advance estimate and September personal income and outlays, 8:30 AM ET" }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market news for Oct. 27, 2026", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html", "accessedAt": "2026-10-28" },
+    { "title": "Stock Market Today: Tech Stocks Buoyant Ahead of Fed Rate Decision", "publisher": "Wall Street Journal", "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026", "accessedAt": "2026-10-28" },
+    { "title": "Premarket | Futures | Pre-market Trading", "publisher": "Business Insider", "url": "https://markets.businessinsider.com/premarket", "accessedAt": "2026-10-28" },
+    { "title": "Stocks Extend Gains on Firm Earnings, Solid Tech", "publisher": "Charles Schwab", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "accessedAt": "2026-10-28" }
+  ]
+}
