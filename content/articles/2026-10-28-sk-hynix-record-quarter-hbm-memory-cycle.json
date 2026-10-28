@@ -1,0 +1,43 @@
+{
+  "slug": "sk-hynix-record-quarter-hbm-memory-cycle",
+  "title": "SK hynix Posts an 80% Operating Margin as HBM Demand Keeps Memory Tight",
+  "dek": "SK hynix reported quarterly sales above 100 trillion won for the first time, with HBM4 set to become its mainstream product from the fourth quarter.",
+  "section": "ai-tech",
+  "tags": ["SK hynix", "HBM", "AI memory", "semiconductors", "Kioxia", "Solidigm"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-28T16:20:00Z",
+  "updatedAt": "2026-10-28T16:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HP_1820-0250.jpg",
+    "alt": "A Hewlett-Packard 1820-0250 integrated circuit, an example of semiconductor hardware relevant to AI computing",
+    "credit": "Mister rf",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HP_1820-0250.jpg"
+  },
+  "keyPoints": [
+    "SK hynix reported third-quarter revenue of 104.6155 trillion won, operating profit of 83.3338 trillion won and net profit of 39.7756 trillion won.",
+    "The company said HBM4 is expected to become its mainstream product from the fourth quarter, and long-term agreements cover more than 50% of its 2027-2028 production capacity.",
+    "SK hynix dropped its review of a Solidigm IPO and said it will return Kioxia investment gains to shareholders, with about 100 trillion won in shareholder returns planned this year.",
+    "CNBC's Futurum CEO Daniel Newman called the stock 'ridiculously cheap' on a low forward earnings multiple."
+  ],
+  "body": "SK hynix put up a result that underlines how tight the AI memory market has become. In its third-quarter 2026 release, published October 28, the Korean chipmaker reported revenue of 104.6155 trillion won, operating profit of 83.3338 trillion won and net profit of 39.7756 trillion won. That works out to an operating margin of 80% and a net margin of 38%. Quarterly sales passed 100 trillion won for the first time.\n\n## HBM4 moves to the center of the business\n\nThe company said sales of HBM4 and high-value server products expanded during the quarter. It expects HBM4 to become its mainstream product starting in the fourth quarter. High-bandwidth memory is stacked DRAM that sits beside AI accelerators, and it has become one of the scarcest components in the data-center build-out.\n\nSK hynix also said it has secured long-term agreements for more than 50% of its 2027-2028 production capacity. The company framed that structure as one that \"reflects market conditions and ensures stable profitability.\" Long-term contracts reduce the chance that a sudden price drop erodes earnings, but they also lock in volumes well ahead of delivery, which leaves less room to respond if demand softens.\n\n## Capital returns and the Solidigm decision\n\nCEO Kwak Noh-Jung addressed the company's decision to stop reviewing an IPO of Solidigm, its US-based storage unit. He said the offering was meant to raise outside capital for expanding Solidigm's production, lightening SK hynix's own investment burden. After weighing market conditions, the company decided that proceeding at this time would not achieve that goal.\n\nThe company also said most of the gains from its Kioxia investment will go to shareholders through a special dividend this year. In total, it plans about 100 trillion won in shareholder returns this year. Kwak acknowledged that capacity for such returns may temporarily shrink as the company prepares for future investment.\n\n## An analyst's view on valuation\n\nIn a CNBC segment posted on October 28, Futurum CEO Daniel Newman said the record quarter signals that the AI memory cycle differs from past cycles. He called the stock \"ridiculously cheap\" given its low forward price-earnings ratio and strong demand outlook. That is one analyst's opinion, not a forecast from the company, and it rests on the assumption that HBM demand holds up.\n\n## What to watch\n\nThe numbers are unusually strong, but the risks are straightforward. Customer agreements, product transitions to HBM4 and any shift in AI capital spending by hyperscalers will determine whether the margin profile holds. SK hynix's own release says the shareholder return capacity may fluctuate as it invests for growth, so investors should read the dividend plan as a near-term payout rather than a guaranteed run rate.\n\nFor the market, SK hynix is a read-through for the whole AI hardware chain. Stronger memory pricing and supply lock-ins help the accelerator and server makers that depend on HBM, while also signaling that memory costs may stay high for AI builders.",
+  "marketImpact": {
+    "summary": "A record quarter with HBM4 ramping and most 2027-2028 capacity under long-term agreements supports the view that AI memory is tight. The read-through reaches U.S. memory and AI-hardware names, while the capital-return plan and any change in AI spending remain the swing factors.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "000660.KS", "direction": "watch", "rationale": "Seoul-listed SK hynix reported record Q3 figures; the share reaction and valuation debate depend on whether HBM4 pricing and long-term agreements hold." },
+      { "symbol": "MU", "direction": "mixed", "rationale": "Tight AI memory supply can support pricing for competitors, but a record HBM leader also raises the bar on share and execution." },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "HBM supply sits inside AI accelerator costs and availability; SK hynix's capacity commitments are a signal to watch for next-generation GPU ramps." }
+    ],
+    "catalysts": []
+  },
+  "sources": [
+    { "title": "SK hynix Announces 3Q26 Financial Results", "publisher": "SK hynix Newsroom", "url": "https://news.skhynix.com/en/q3-2026-business-results/", "accessedAt": "2026-10-28" },
+    { "title": "SK hynix posts record quarter, analyst says stock 'ridiculously cheap'", "publisher": "CNBC", "url": "https://www.cnbc.com/video/2026/10/28/sk-hynix-posts-record-quarter-analyst-says-stock-ridiculously-cheap.html", "accessedAt": "2026-10-28" }
+  ]
+}

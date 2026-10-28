@@ -1,0 +1,64 @@
+{
+  "slug": "trump-ends-biden-methane-rules-at-texas-rally",
+  "title": "Trump Moves to Scrap Biden-Era Methane Rules, Citing $45 Billion in Savings",
+  "dek": "The president announced the termination of oil and gas methane regulations at a Lubbock, Texas, rally, days after a satellite detected a large methane plume near the same site.",
+  "section": "us",
+  "tags": ["methane", "climate", "oil and gas", "Trump", "EPA regulation", "Texas"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-28T16:20:00Z",
+  "updatedAt": "2026-10-28T16:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Permian_Flaring_2012-2016.jpg",
+    "alt": "Satellite view of natural gas flaring from oil wells in the Permian Basin of West Texas and southeastern New Mexico",
+    "credit": "NASA and NASA's Earth Observatory, Suomi NPP VIIRS imagery; labels added by bikesrcool",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Permian_Flaring_2012-2016.jpg"
+  },
+  "keyPoints": [
+    "President Trump said Tuesday night that he is \"officially terminating\" Biden-era methane regulations for the oil and gas industry.",
+    "He said the move would save consumers and producers $45 billion, unlock Texas natural gas and produce 210 million barrels of oil.",
+    "The announcement came at a Lubbock, Texas, campaign rally, days after a satellite found a large methane plume from oil and gas wells near the event site.",
+    "Regulators in the U.S. and Europe have argued that methane rules threaten energy prices and supply, while critics point to the gas's potent warming effect."
+  ],
+  "body": "President Donald Trump said on Tuesday night that his administration is ending Biden-era regulations on methane, a powerful greenhouse gas emitted by oil and gas operations, in a move that the industry has long sought and that climate advocates are likely to challenge.\n\nSpeaking at a campaign rally in Lubbock, Texas, Trump said: \"I'm officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers $45 billion in costs, unlock vast quantities of Texas natural gas and produce 210 million barrels of oil,\" according to a transcript quoted by Politico and by Fox Business. The $45 billion and 210 million barrel figures are the administration's claims, and they have not been independently verified in the coverage reviewed here.\n\n## What the rules covered\n\nMethane is a major driver of near-term climate change and is released during oil and gas production, storage and transport. Under the previous administration, federal rules sought to limit leaks from the industry. Politico reported that governments and companies are increasingly using satellites and other technology to pinpoint leaks, a development that has made it easier to identify large emitters.\n\nThe Politico report also noted that regulators in the U.S. and Europe have argued the rules should be scrapped or delayed because they could raise energy prices and reduce supply.\n\n## A plume near the rally site\n\nPolitico reported that the announcement came just days after a satellite detected a large plume of methane coming from oil and gas wells near the Lubbock rally location. The report describes the plume as a striking example of the leak-detection technology that the rules were designed to address, though the reporting did not say whether the plume was linked to any specific violation.\n\n## Politics and the Texas campaign\n\nReuters framed the announcement as part of a Texas campaign push focused on oil production, with the administration presenting the move as a benefit to consumers and to energy producers in the state. Fox Business and NPR also carried the president's quotes and the $45 billion figure.\n\n## What is not yet clear\n\nThe coverage reviewed does not spell out the legal mechanism for ending the rules, the timeline for implementation, or whether the change will face immediate court challenges. Those details will matter for how quickly the policy takes effect and for how it affects companies that have been preparing to comply with the existing standards.\n\nMeridian will update this story if agencies publish formal rule text or if legal challenges are filed.",
+  "marketImpact": {
+    "summary": "Easing methane rules could lower compliance costs for oil and gas producers, which is the core of the administration's argument. Investors will watch whether the rollback is formalized and whether it survives legal challenges.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "XOP", "direction": "watch", "rationale": "Oil and gas producer ETF; lower compliance costs could be a modest tailwind if the rollback holds" },
+      { "symbol": "UNG", "direction": "watch", "rationale": "Natural gas futures fund; the administration says the change will unlock more Texas gas supply, which could weigh on prices if it materializes" }
+    ],
+    "catalysts": []
+  },
+  "sources": [
+    {
+      "title": "Trump kills methane rule days after a plume was found near his rally",
+      "publisher": "Politico",
+      "url": "https://www.politico.com/news/2026/10/28/methane-trump-climate-oil-gas-01137313",
+      "accessedAt": "2026-10-28"
+    },
+    {
+      "title": "Trump promotes oil production in Texas, where Democrats...",
+      "publisher": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/trump-roll-back-methane-rules-latest-texas-campaign-push-2026-10-27/",
+      "accessedAt": "2026-10-28"
+    },
+    {
+      "title": "Trump announces end of Biden-era methane rule, citing $45B savings",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/trump-announces-end-biden-era-methane-rule-citing-45b-savings",
+      "accessedAt": "2026-10-28"
+    },
+    {
+      "title": "Trump says he's ending restrictions on climate-warming methane",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
+      "accessedAt": "2026-10-28"
+    }
+  ]
+}

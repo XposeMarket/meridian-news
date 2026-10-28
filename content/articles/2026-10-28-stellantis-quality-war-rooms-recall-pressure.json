@@ -1,0 +1,45 @@
+{
+  "slug": "stellantis-quality-war-rooms-recall-pressure",
+  "title": "Stellantis Says Its Quality 'War Rooms' Are Paying Off as Recalls Keep Coming",
+  "dek": "CEO Antonio Filosa says about 80 quality teams and cost cuts are working, but analysts note the recall flow has not stopped, including fire risk in Jeep Wrangler hybrids.",
+  "section": "autos",
+  "tags": ["Stellantis", "recalls", "quality", "Jeep", "Ram", "automakers"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-28T16:25:00Z",
+  "updatedAt": "2026-10-28T16:25:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg",
+    "alt": "Electric cars plugged into public charging points",
+    "credit": "Philip Halling",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg"
+  },
+  "keyPoints": [
+    "Stellantis CEO Antonio Filosa told Bloomberg and Automotive News that roughly 80 'war rooms' are tackling quality problems alongside cost measures.",
+    "Automotive News reports that analysts warn the flow of Stellantis recalls shows no sign of ending, including a fire risk for Jeep Wrangler hybrids.",
+    "Earlier coverage put the figure at nearly 50 war rooms and more than 2,000 engineers added in 2025, with a goal of top-quartile quality across segments by 2028.",
+    "J.D. Power's initial quality study had Jeep at 182 problems per 100 vehicles against an industry average of 175, and Ram at 222."
+  ],
+  "body": "Stellantis is telling investors its quality push is starting to work, even as its recall list keeps growing. On October 28, Chief Executive Antonio Filosa said the company's roughly 80 \"war rooms\" are tackling quality problems alongside broader efficiency measures, and that the effort is paying off. Bloomberg and Automotive News both carried the account the same morning.\n\n## What the war rooms are\n\nThe war rooms are cross-functional teams that bring together engineers, quality staff, plant workers and suppliers to attack known component defects. Earlier reporting from the Automotive News Congress in Detroit, where Filosa spoke on September 30, described the approach as a break from the normal chain of engineering, manufacturing and warranty processes. Autoblog put the number at nearly 50 at that time, and the count reported on October 28 is higher, so the figures should be read as the company's current description rather than an audited tally.\n\nThe company has also said it added more than 2,000 engineers in 2025 to strengthen quality controls, and it has set a target of placing all vehicle segments in the top quartile for overall quality by 2028. Those are company goals, not results that outsiders have measured yet.\n\n## Recalls are still the problem\n\nAutomotive News reported that analysts see no sign the flood of Stellantis recalls is ending. One example cited in its coverage is a fire risk in Jeep Wrangler hybrid vehicles. Recalls can be the public face of a quality problem, but they also carry warranty, dealer and reputational costs that show up over time, so a rise or fall in recall counts is a better test than a CEO's description of progress.\n\nQuality data has been a weak spot. J.D. Power's initial quality study, reported by CarBuzz, put Jeep at 182 problems per 100 vehicles, against an industry average of 175, and Ram at 222. Jeep scored highest of the two Stellantis brands eligible for the ranking that year, but still trailed the average.\n\n## Cost cuts run alongside the repair effort\n\nFilosa has framed the quality drive as part of the broader FaSTLAne 2030 turnaround plan, which also targets profitability and product competitiveness. Stellantis is trying to fix build quality and reduce costs at the same time. Those goals can pull against each other: supplier pressure and engineering staffing that cut costs can also raise the risk of quality slips if they are not managed carefully.\n\n## What to watch\n\nThe next checks are practical. Watch whether Stellantis's recall filings with U.S. regulators slow over the coming months, whether the Wrangler hybrid issue is resolved, and what the next J.D. Power and other third-party quality rankings show. The company's own timeline for the 2028 target gives investors a clear benchmark.\n\nFor the broader auto sector, the story is a reminder that quality problems can erase the margin gains an automaker is counting on. Rivals with cleaner records face less pressure, but the entire industry is dealing with the same software-heavy, supplier-dependent vehicles.",
+  "marketImpact": {
+    "summary": "The quality push and cost cuts are a positive narrative for Stellantis if recall counts start to fall. Until then, the ongoing recall stream and fire-risk issues keep warranty and reputation costs in view, and the stock's reaction depends on whether third-party quality data confirms the company's account.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "STLA", "direction": "watch", "rationale": "The CEO says the quality effort and cost cuts are working, but ongoing recalls mean investors will want recall and warranty data before accepting the turnaround claim." },
+      { "symbol": "F", "direction": "mixed", "rationale": "A Stellantis quality recovery could ease competitive pressure on U.S. truck and SUV pricing, but the same sector scrutiny applies to Ford's own recall record." },
+      { "symbol": "GM", "direction": "mixed", "rationale": "Recall-driven sector sentiment can cut both ways for General Motors; the read-through depends on whether investors reward cleaner records or penalize the whole category." }
+    ],
+    "catalysts": []
+  },
+  "sources": [
+    { "title": "Stellantis says quality 'war rooms' and cost cuts are paying off", "publisher": "Automotive News", "url": "https://www.autonews.com/stellantis/ane-stellantis-quality-drive-to-reduce-recalls-1028/", "accessedAt": "2026-10-28" },
+    { "title": "Stellantis CEO Says Quality 'War Rooms' and Cost Cuts Are Paying Off", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-28/stellantis-ceo-says-quality-war-rooms-and-cost-cuts-paying-off", "accessedAt": "2026-10-28" },
+    { "title": "Inside the 50 'War Rooms' Stellantis Is Using to Fix Its Quality Problems", "publisher": "Autoblog", "url": "https://www.autoblog.com/news/inside-the-50-war-rooms-stellantis-is-using-to-fix-its-quality-problems", "accessedAt": "2026-10-01" },
+    { "title": "Stellantis Will Avoid Ford's Recall Nightmare By Creating Quality War Rooms", "publisher": "CarBuzz", "url": "https://carbuzz.com/stellantis-quality-control-october-2026/", "accessedAt": "2026-10-01" }
+  ]
+}
