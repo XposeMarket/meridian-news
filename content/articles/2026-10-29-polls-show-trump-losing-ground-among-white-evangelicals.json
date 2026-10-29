@@ -1,0 +1,53 @@
+{
+  "slug": "polls-show-trump-losing-ground-among-white-evangelicals",
+  "title": "Three New Polls Show Trump Losing Ground Among White Evangelicals",
+  "dek": "NPR reports that three new surveys show support for President Trump slipping among white evangelical voters, a core bloc, weeks before the midterm elections.",
+  "section": "us",
+  "tags": [
+    "Donald Trump",
+    "white evangelicals",
+    "polls",
+    "midterms",
+    "religion and politics"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T16:35:00Z",
+  "updatedAt": "2026-10-29T16:35:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg",
+    "alt": "The west front of the United States Capitol building in Washington, D.C.",
+    "credit": "Architect of the Capitol",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg"
+  },
+  "keyPoints": [
+    "Three new polls suggest President Trump is losing ground among white evangelical Christians, a voting bloc that has been among his strongest supporters, according to NPR.",
+    "Religion News Service reported on Oct. 27 that approval of Trump among evangelicals had hovered near 80% in many polls last year, while recent surveys from several groups showed a drop.",
+    "The shift comes as Trump campaigns for Republican candidates in Ohio, where Senate and governor races are seen as key to the midterms."
+  ],
+  "body": "Three new polls suggest that President Trump is losing ground among white evangelical Christians, one of the most loyal groups in his coalition, according to a report by NPR's Jack Jenkins published Thursday morning.\n\n## What the polls show\n\nNPR's report, which aired on Morning Edition, examined three surveys released in recent weeks and asked what explains the drop and whether it could affect the midterm elections. The network's summary describes a clear decline in support among white evangelicals rather than a broad realignment of the group. Meridian has not independently verified the individual poll figures; readers should consult the NPR report for the survey-by-survey numbers.\n\nReligion News Service, writing on Oct. 27, put the shift in longer-term context. It noted that Trump's approval among evangelicals had hovered near 80% in many polls last year, but that recent surveys from Pew Research Center and the Public Religion Research Institute, among others, showed erosion. That report also described efforts by conservative groups to keep evangelical turnout strong ahead of November.\n\n## Why it matters for the midterms\n\nWhite evangelicals have been a reliable and high-turnout constituency for Republican candidates, and Trump has relied on their support in several campaigns. Any sustained drop in their engagement could matter in closely watched Senate and governor contests, especially in states where turnout margins are narrow.\n\nTrump's campaign schedule on Wednesday underlined how much the party is leaning on mobilization. He rallied supporters in Chillicothe, Ohio, his third appearance in the state in a month, as he backed Republican candidates in races for U.S. Senate and governor, according to WOSU and NPR. In his remarks he attacked Democrats and the news media and defended his record on immigration and the economy, the station reported.\n\n## Caveats\n\nPolling on religious subgroups can vary widely by question wording, sample size and how researchers define \"evangelical.\" Recent surveys also measure different time periods, so a single figure may not capture the full trend. Meridian will update this story if the pollsters release new numbers or if the White House or the Trump campaign responds publicly to the findings.",
+  "sources": [
+    {
+      "title": "Support for Trump among white evangelicals has plummeted, polls reveal",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6012410/support-for-trump-among-white-evangelicals-has-plummeted-polls-reveal",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "As support for Trump dips, conservatives fight to boost evangelical turnout in midterms",
+      "publisher": "Religion News Service",
+      "url": "https://religionnews.com/2026/10/27/as-support-for-trump-dips-conservatives-fight-to-keep-evangelical-turnout-strong-in-midterms/",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "President Donald Trump rallies supporters in Chillicothe in third Ohio rally ahead of midterms",
+      "publisher": "WOSU (NPR)",
+      "url": "https://www.wosu.org/politics-government/2026-10-29/president-donald-trump-rallies-supporters-in-chillicothe-in-third-ohio-rally-ahead-of-midterms?_amp=true",
+      "accessedAt": "2026-10-29"
+    }
+  ]
+}
