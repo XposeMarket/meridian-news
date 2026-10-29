@@ -1,64 +1,82 @@
 {
-  "updatedAt": "2026-10-28T20:40:00Z",
-  "edition": "afternoon",
-  "leadSlug": "fed-holds-rates-split-vote-december-hike-odds",
+  "updatedAt": "2026-10-29T12:05:00Z",
+  "edition": "pre-market",
+  "leadSlug": "futures-slide-alphabet-results-after-fed-hold",
   "marketBrief": {
-    "headline": "Fed holds on a split vote; hike odds for December climb",
-    "summary": "The Fed kept rates unchanged 10-2, with two dissents favoring a hike. Stocks closed modestly higher, but the 10-year yield rose near 5.04% and futures price about 85% odds of a December increase.",
+    "headline": "Futures slide as Alphabet sinks; Microsoft gains after its beat",
+    "summary": "U.S. futures fell before the open on Thursday, with Nasdaq 100 futures down about 1.1% after Alphabet's results disappointed. Microsoft rose about 1.5% premarket. The Fed held on a 10-2 vote on Wednesday, and traders priced about 84% odds of a December increase. Watch the 8:30 AM ET GDP release and Amazon after the close.",
+    "asOf": "2026-10-29T12:02:00Z",
     "bullets": [
-      "Fed held its policy rate on a 10-2 vote; Hammack and Cook dissented for a hike (Yahoo Finance).",
-      "S&P 500, Nasdaq and Dow closed up about 0.3%, 0.3% and 0.2% (Investopedia). Index levels not yet confirmed from a wire source.",
-      "10-year Treasury yield near 5.04%, up more than 4 bps on the day (Investopedia).",
-      "Futures imply about 85% odds of a quarter-point hike on Dec. 9 (Bloomberg data via Yahoo Finance).",
-      "Alphabet and Microsoft report after the close; options imply moves of roughly 5-6% (investinglive)."
-    ],
-    "asOf": "2026-10-28T20:30:00Z"
+      "Nasdaq 100 futures were down about 1.1% at 8:02 AM ET, per Investopedia, after the Fed held rates on a 10-2 vote.",
+      "Alphabet fell about 11% premarket after results that Yahoo Finance said missed on revenue; cloud growth was reported at 103%.",
+      "Microsoft rose about 1.5% premarket after beating expectations on the top and bottom lines.",
+      "Eli Lilly and Norwegian Cruise Line beat estimates; DoorDash agreed to buy Instacart for $17 billion in cash and stock.",
+      "At 8:30 AM ET, the advance Q3 GDP estimate and September personal income and outlays are due; Amazon reports after the close."
+    ]
   },
   "marketSnapshot": [
     {
+      "label": "Nasdaq 100 futures",
+      "value": "down about 1.1%",
+      "change": "-1.1%",
+      "direction": "down",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "asOf": "2026-10-29 8:02 AM ET"
+    },
+    {
+      "label": "S&P 500 futures",
+      "value": "down about 0.3%",
+      "change": "-0.3%",
+      "direction": "down",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "asOf": "2026-10-29 8:02 AM ET"
+    },
+    {
+      "label": "Alphabet (GOOGL) premarket",
+      "value": "down about 11%",
+      "change": "-11%",
+      "direction": "down",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "asOf": "2026-10-29 premarket"
+    },
+    {
+      "label": "Microsoft (MSFT) premarket",
+      "value": "up about 1.5%",
+      "change": "+1.5%",
+      "direction": "up",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "asOf": "2026-10-29 premarket"
+    },
+    {
       "label": "10-year Treasury yield",
-      "value": "~5.04%",
-      "change": "+4 bps",
+      "value": "near 5.03%",
+      "change": "+1 bp",
       "direction": "up",
       "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
-      "asOf": "2026-10-28 late afternoon ET"
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "asOf": "2026-10-29 8:02 AM ET"
     },
     {
-      "label": "Dow Jones Industrial Average",
-      "value": "52,446.28 (intraday)",
-      "change": "+0.13%",
-      "direction": "up",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html",
-      "asOf": "2026-10-28 3:31 PM ET"
-    },
-    {
-      "label": "S&P 500 (session change)",
-      "value": "Closed up ~0.3%",
-      "change": "+0.3%",
-      "direction": "up",
+      "label": "WTI crude futures",
+      "value": "$102.00/bbl",
+      "change": "-0.9%",
+      "direction": "down",
       "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
-      "asOf": "2026-10-28 close"
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "asOf": "2026-10-29 8:02 AM ET"
     },
     {
-      "label": "Nasdaq Composite (session change)",
-      "value": "Closed up ~0.3%",
-      "change": "+0.3%",
-      "direction": "up",
+      "label": "Bitcoin",
+      "value": "about $80,100",
+      "change": "down from overnight high near $81,700",
+      "direction": "down",
       "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
-      "asOf": "2026-10-28 close"
-    },
-    {
-      "label": "WTI crude",
-      "value": "$103.40/bbl",
-      "change": "+3.5%",
-      "direction": "up",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10282026-12198013",
-      "asOf": "2026-10-28 midday ET"
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "asOf": "2026-10-29 8:02 AM ET"
     }
   ],
   "calendar": [
@@ -67,21 +85,21 @@
       "time": "8:30 AM ET",
       "event": "Q3 GDP advance estimate and September Personal Income and Outlays",
       "importance": "high",
-      "why": "The releases combine the first estimate of quarterly growth with inflation gauges watched by the Fed."
+      "why": "First estimate of quarterly growth, plus the inflation gauges the Fed watches."
     },
     {
       "date": "2026-10-29",
       "time": "After close",
-      "event": "Amazon quarterly earnings",
+      "event": "Amazon and Intel quarterly earnings",
       "importance": "high",
-      "why": "AWS growth and infrastructure investment are a key read on AI cloud demand and monetization."
+      "why": "AWS growth and chip demand are reads on AI infrastructure spending."
     },
     {
       "date": "2026-10-30",
       "time": "8:30 AM ET",
       "event": "Third-quarter Employment Cost Index",
       "importance": "high",
-      "why": "Compensation trends help markets assess services inflation and labor-cost pressure."
+      "why": "Compensation trends help markets gauge services inflation and labor-cost pressure."
     },
     {
       "date": "2026-11-03",
@@ -102,14 +120,14 @@
       "time": "8:30 AM ET",
       "event": "October Consumer Price Index",
       "importance": "high",
-      "why": "CPI offers a key cross-check on inflation after the Fed meeting."
+      "why": "CPI is a key cross-check on inflation after the Fed meeting."
     },
     {
       "date": "2026-12-09",
       "time": "2:00 PM ET",
       "event": "FOMC policy decision",
       "importance": "high",
-      "why": "Futures price about 85% odds of a quarter-point hike after the Oct. 28 hold."
+      "why": "Traders priced about 84% odds of a quarter-point hike after the Oct. 28 hold, per CME FedWatch via Investopedia."
     }
   ],
   "trending": [

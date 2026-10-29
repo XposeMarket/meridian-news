@@ -1,0 +1,92 @@
+{
+  "slug": "futures-slide-alphabet-results-after-fed-hold",
+  "title": "Futures Slide as Alphabet Sinks on Results, Nasdaq Leads a Pre-Bell Pullback",
+  "dek": "Nasdaq 100 futures fell about 1% before the open as Alphabet's revenue miss and free-cash-flow worries hit the megacaps, while Microsoft traded higher after its beat.",
+  "section": "markets",
+  "tags": [
+    "markets",
+    "futures",
+    "Alphabet",
+    "Microsoft",
+    "Federal Reserve",
+    "AI"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T12:00:00Z",
+  "updatedAt": "2026-10-29T12:00:00Z",
+  "edition": "pre-market",
+  "featured": true,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "Nasdaq 100 futures were down about 1.1% and S&P 500 futures about 0.3% at 8:02 AM ET, per Investopedia, after the Fed held rates on a 10-2 vote on Wednesday.",
+    "Alphabet fell about 11% in premarket trading after results that Yahoo Finance said missed on revenue; cloud growth was reported at 103%, but free-cash-flow and AI-return concerns weighed.",
+    "Microsoft rose about 1.5% premarket after beating expectations on the top and bottom lines, with cloud demand cited as the driver.",
+    "The 10-year Treasury yield was near 5.03% and WTI crude near $102 a barrel; CME FedWatch implied about 84% odds of a December rate increase, per Investopedia."
+  ],
+  "body": "U.S. stock futures split before the open on Thursday. Nasdaq 100 futures fell about 1.1% in recent trading, while S&P 500 futures were down about 0.3% and Dow futures fell 0.3%, according to Investopedia. Yahoo Finance's early-session live feed showed Dow futures up 0.3%, so the Dow picture is mixed and the early numbers are volatile.\n\nThe drag came from Alphabet. Its shares were pointing roughly 11% lower before the bell after the company reported third-quarter results that Yahoo Finance said came in short on sales. Yahoo also noted that cloud growth of 103% was not enough to offset investor concern about free cash flow and the return on AI spending. Before the release, market-makers had priced a move of about 5.8% in Alphabet stock, per Cboe LiveVol data cited by CNBC.\n\nMicrosoft moved the other way. Its shares were up about 1.5% in premarket trading after results that beat expectations, with Yahoo Finance pointing to cloud demand as the main support. The split sharpened a broader question for the megacaps: which AI spending is being rewarded and which is being questioned.\n\nSemiconductors and AI hardware also came under pressure. Yahoo Finance reported that the iShares Semiconductor ETF (SOXX) fell more than 2% and the Roundhill Memory ETF (DRAM) fell more than 3% on Thursday. Samsung Electronics ended 4% lower in Seoul, per Investopedia.\n\nThe Fed backdrop remains the frame. Policymakers held the benchmark rate in a 3.75% to 4% range on a 10-2 vote, with Cleveland Fed President Beth Hammack and Governor Lisa Cook dissenting in favor of a hike. Traders still priced a December increase as likely, with CME FedWatch implying about 84% odds per Investopedia. A 10-year yield near 5.03% keeps pressure on long-duration assets.\n\nWhat to watch at 8:30 AM ET: the advance estimate of third-quarter GDP and September personal income and outlays, which the Bureau of Economic Analysis lists for Thursday. Amazon reports after the close.",
+  "marketImpact": {
+    "summary": "Futures point to a softer open led by megacap tech. Alphabet's drop is the main near-term risk to the Nasdaq; Microsoft's gain and the hawkish rate backdrop make the reaction uneven rather than a broad sell-off.",
+    "timeframe": "Thursday's open through the 8:30 AM ET data and Amazon's results",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "GOOGL",
+        "direction": "down",
+        "rationale": "Premarket decline of about 11% after results that missed on revenue and raised free-cash-flow concerns."
+      },
+      {
+        "symbol": "MSFT",
+        "direction": "up",
+        "rationale": "Premarket gain of about 1.5% after a beat on the top and bottom lines."
+      },
+      {
+        "symbol": "SOXX",
+        "direction": "down",
+        "rationale": "Semiconductor ETF fell more than 2% as AI hardware names weakened."
+      },
+      {
+        "symbol": "TLT",
+        "direction": "down",
+        "rationale": "10-year yield near 5.03% with a December hike priced at roughly 84%."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-10-29",
+        "event": "Q3 GDP advance estimate and September personal income and outlays, 8:30 AM ET (BEA)"
+      },
+      {
+        "date": "2026-10-29",
+        "event": "Amazon quarterly results after the close"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq futures fall as Alphabet stock sells off, AI jitters return",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Futures Plunge as Alphabet Leads Tech Shares Lower",
+      "publisher": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Release Schedule",
+      "publisher": "U.S. Bureau of Economic Analysis",
+      "url": "https://www.bea.gov/news/schedule",
+      "accessedAt": "2026-10-29"
+    }
+  ]
+}

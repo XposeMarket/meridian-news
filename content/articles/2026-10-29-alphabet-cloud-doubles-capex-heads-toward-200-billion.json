@@ -1,0 +1,45 @@
+{
+  "slug": "alphabet-cloud-doubles-capex-heads-toward-200-billion",
+  "title": "Google Cloud Doubles Again as Alphabet's AI Spending Heads Toward $200 Billion",
+  "dek": "Google Cloud revenue more than doubled to $30.7 billion in the September quarter, but a $51.4 billion capex bill and a weaker Search print left investors cautious after hours.",
+  "section": "ai-tech",
+  "tags": ["Alphabet", "Google Cloud", "capex", "TPU", "AI infrastructure", "earnings"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T12:30:00Z",
+  "updatedAt": "2026-10-29T12:30:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure that organizations must keep patched and secured",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "Google Cloud revenue rose 103% to $30.7 billion in the third quarter, and Alphabet said TPU system sales were a meaningful contributor.",
+    "Capital expenditure reached $51.4 billion in the quarter, versus $24 billion a year earlier; Alphabet confirmed a 2026 forecast of about $200 billion.",
+    "Google Search grew 12%, slower than the 17% pace of the prior quarter, and Alphabet's per-share profit fell on an $8.7 billion equity-investment loss.",
+    "Shares fell in after-hours trading after the report, as investors weighed cloud strength against spending and search growth."
+  ],
+  "body": "Alphabet's third-quarter report made one thing clear: Google Cloud is now the fastest-growing large piece of the company. Revenue in the unit more than doubled to $30.7 billion, up 103% from a year earlier, according to the company's results release. The growth has accelerated through 2026, from 63% in the first quarter to 82% in the second and 103% now.\n\n## Cloud carries the growth\n\nAlphabet said the cloud gain was driven by enterprise AI infrastructure and AI solutions, as well as core Google Cloud Platform services. The release also flagged TPU system sales, in which Google sells its own AI chips as complete systems for customers' data centers, as a meaningful contributor. StockTitan's calculation put Cloud at about 62% of the revenue Alphabet added over the year, a sign that the company's growth is no longer concentrated in advertising.\n\nChief Executive Sundar Pichai pointed to demand for AI infrastructure and to the company's first-party model APIs, which the release said are now processing nearly 32 billion tokens per minute.\n\n## The spending bill\n\nThe cost of that growth is large. Capital expenditure, mostly servers and data centers, reached $51.4 billion in the quarter, more than double the $24 billion of a year earlier. Alphabet confirmed its full-year forecast of roughly $200 billion for 2026 and said spending could rise toward $300 billion in 2027, according to Fortune's report on the call. Chief Financial Officer Anat Ashkenazi said more detail would come in the fourth-quarter report.\n\nStockTitan's analysis of the release noted that spending on data centers and equipment ran about $9.1 billion above the cash the businesses generated in the quarter, which is why the cash-flow question matters more than the headline growth rate.\n\n## Search and the market reaction\n\nNot everything moved in Alphabet's favor. Google Search and other revenue rose 12% to $63.4 billion, down from 17% growth in the second quarter, and below the 15% that analysts had expected in Fortune's account. Total revenue of $127.6 billion was roughly in line with estimates. Earnings per share fell to $2.12 from $2.87 because of an $8.7 billion loss on Alphabet's stakes in other companies.\n\nAfter the bell, the shares fell. Fortune reported a drop of more than 11% in after-hours trading, while StockTitan's real-time data showed a decline of about 9% at the time it wrote. Both figures reflect early trading and can change once the regular session opens.\n\n## What to watch\n\nThe key test is whether cloud revenue keeps compounding while capital spending stays disciplined enough to protect free cash flow. Analysts have framed the quarter as a split verdict: strong evidence that Google's AI stack is winning customers, and a growing bill that the market wants to see converted into durable earnings. Pre-market trading and the coming session will show how much of the after-hours decline holds.",
+  "marketImpact": {
+    "summary": "The cloud result strengthens the case that Google's AI infrastructure is being monetized, but the capex path toward $200 billion and a slower Search line make the stock sensitive to any sign of spending outrunning cash flow.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "GOOGL", "direction": "mixed", "rationale": "Cloud growth and TPU sales support the AI thesis, while the after-hours drop reflects concern about Search deceleration and the heavy 2026 and 2027 spending outlook." },
+      { "symbol": "MSFT", "direction": "watch", "rationale": "Google's cloud acceleration is a direct competitive signal for Azure, which reported its own results the same afternoon." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Regular-session reaction to Alphabet's third-quarter results" }
+    ]
+  },
+  "sources": [
+    { "title": "Alphabet Announces Third Quarter 2026 Results", "publisher": "Alphabet Investor Relations", "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf", "accessedAt": "2026-10-29" },
+    { "title": "Alphabet's Google Cloud revenue doubles to $31 billion as cash flow stays deep red", "publisher": "Fortune", "url": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/", "accessedAt": "2026-10-29" },
+    { "title": "Google Earnings: Cloud Revenue Up 103%, Capex Reaches $51.4 Billion", "publisher": "StockTitan", "url": "https://www.stocktitan.net/articles/alphabet-q3-2026-earnings-google-cloud-doubles-search-slows", "accessedAt": "2026-10-29" }
+  ]
+}

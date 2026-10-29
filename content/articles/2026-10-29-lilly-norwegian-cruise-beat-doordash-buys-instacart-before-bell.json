@@ -1,0 +1,92 @@
+{
+  "slug": "lilly-norwegian-cruise-beat-doordash-buys-instacart-before-bell",
+  "title": "Lilly and Norwegian Cruise Beat Before the Bell as DoorDash Agrees to Buy Instacart",
+  "dek": "Eli Lilly and Norwegian Cruise Line topped estimates for the third quarter, while DoorDash's $17 billion deal for Instacart and the 8:30 AM GDP release set the morning's agenda.",
+  "section": "markets",
+  "tags": [
+    "earnings",
+    "Eli Lilly",
+    "Norwegian Cruise Line",
+    "DoorDash",
+    "Instacart",
+    "GDP"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T12:05:00Z",
+  "updatedAt": "2026-10-29T12:05:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "Eli Lilly reported adjusted EPS of $7.48 against a $6.26 consensus per LSEG, and revenue of $24.4 billion against $22.61 billion expected; shares rose about 4.5% premarket.",
+    "Norwegian Cruise Line reported adjusted EPS of $1.12 versus 93 cents expected per FactSet and revenue of $2.95 billion versus $2.88 billion; shares jumped about 13%.",
+    "DoorDash agreed to buy Instacart's parent Maplebear for $65 a share in cash and stock, an 11% premium to Wednesday's close, and reported a third-quarter revenue and EBITDA beat; DoorDash rose about 7%.",
+    "The Bureau of Economic Analysis lists the advance Q3 GDP estimate and September personal income and outlays for 8:30 AM ET on Thursday."
+  ],
+  "body": "Several companies reported or announced deals before the Thursday open, and the group leaned positive even as megacap tech weakened.\n\nEli Lilly was the strongest large-cap earnings result. The Zepbound and Mounjaro maker posted adjusted earnings of $7.48 per share, well above the $6.26 consensus cited by LSEG, and revenue of $24.4 billion against $22.61 billion expected. Yahoo Finance reported the shares were up about 4.5% in premarket trading.\n\nNorwegian Cruise Line also beat on both lines. Adjusted earnings were $1.12 a share against a consensus of 93 cents per FactSet, and revenue was $2.95 billion versus $2.88 billion expected. The stock jumped about 13% premarket, according to Yahoo Finance.\n\nDoorDash said it will buy Instacart's parent, Maplebear, for $65 a share, an 11% premium to Maplebear's Wednesday close, in a $17 billion cash-and-stock transaction reported by Investopedia. DoorDash also reported third-quarter revenue and EBITDA above expectations, and its shares rose about 7%. Maplebear was little changed after trading resumed.\n\nThe macro calendar is led by the advance estimate of third-quarter GDP at 8:30 AM ET, released alongside September personal income and outlays by the Bureau of Economic Analysis. Those figures land a day after the Fed held rates and as traders weigh a possible December increase. Amazon reports after the close.\n\nNot every name was positive. Investopedia reported that ServiceNow fell about 19% after its results and that Caterpillar was down about 9% premarket, which pulled Dow futures lower. Marvell Technology fell about 11% after a Bloomberg report that it is in advanced talks to acquire Lumentum Holdings, whose shares rose about 5.5%.\n\nEnergy was also in the mix. WTI crude futures slipped 0.9% to about $102 a barrel and Brent slipped 0.8% to about $114.40, after The Wall Street Journal reported that Vice President JD Vance had sent a letter to Iranian Security Council chief Mohsen Rezaei to try to restart peace negotiations, per Investopedia.\n\nIntel also reports after the close, and Investopedia said options pricing implied a move of up to about 8% by the end of the week. Together with Amazon, the two reports will give the market more reads on AI demand and chip spending after the Alphabet selloff.",
+  "marketImpact": {
+    "summary": "Healthcare and consumer earnings are providing support, but the 8:30 AM GDP and inflation data could reset rate expectations. Deal-driven moves in DoorDash and Maplebear are company-specific and do not change the broader outlook.",
+    "timeframe": "Thursday's open through the 8:30 AM ET release",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "LLY",
+        "direction": "up",
+        "rationale": "Adjusted EPS beat of about $1.22 a share and revenue about $1.8 billion above expected; shares up about 4.5% premarket."
+      },
+      {
+        "symbol": "NCLH",
+        "direction": "up",
+        "rationale": "Beat on EPS and revenue; shares rose about 13% premarket."
+      },
+      {
+        "symbol": "DASH",
+        "direction": "up",
+        "rationale": "Acquisition of Instacart and a third-quarter beat; shares up about 7% premarket."
+      },
+      {
+        "symbol": "CART",
+        "direction": "mixed",
+        "rationale": "The $65-a-share deal price implies a premium, but shares were little changed after trading resumed."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-10-29",
+        "event": "Q3 GDP advance estimate and September personal income and outlays, 8:30 AM ET (BEA)"
+      },
+      {
+        "date": "2026-10-30",
+        "event": "Third-quarter Employment Cost Index, 8:30 AM ET (BLS)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq futures fall as Alphabet stock sells off, AI jitters return",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Futures Plunge as Alphabet Leads Tech Shares Lower",
+      "publisher": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Schedule of Selected Releases 2026",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/schedule/news_release/current_year.asp",
+      "accessedAt": "2026-10-29"
+    }
+  ]
+}
