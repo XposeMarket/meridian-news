@@ -6,7 +6,7 @@
   "tags": ["Microsoft", "Azure", "capex", "cloud", "AI infrastructure", "earnings"],
   "author": "Meridian Newsroom",
   "publishedAt": "2026-10-29T12:32:00Z",
-  "updatedAt": "2026-10-29T12:32:00Z",
+  "updatedAt": "2026-10-29T16:20:00Z",
   "edition": "pre-market",
   "featured": false,
   "breaking": false,
@@ -22,7 +22,8 @@
     "Microsoft reported fiscal first-quarter revenue of $92.3 billion, up 19%, and Azure revenue rose 48%, according to the company's release.",
     "Microsoft Cloud revenue reached $63.9 billion, up 30%, and commercial remaining performance obligation rose 73% to $677 billion.",
     "Capital expenditure and finance leases totaled $45.2 billion, below the $50.67 billion StreetAccount consensus, and Hood said some third-party capacity deliveries slipped.",
-    "Management guided fiscal second-quarter Azure growth to 49% to 50% at constant currency and said demand still exceeds supply."
+    "Management guided fiscal second-quarter Azure growth to 49% to 50% at constant currency and said demand still exceeds supply.",
+    "After an early premarket gain, Microsoft shares opened at $540.21 on October 29 and traded at $522.13, down 1.67% from the prior close of $531.01, at 11:52 a.m. ET, according to Yahoo Finance."
   ],
   "body": "Microsoft's fiscal first quarter showed its cloud business still accelerating at scale, even as the company's spending plans drew close scrutiny. Azure revenue rose 48% in the quarter ended September 30, the company said in its results release, and Microsoft Cloud revenue reached $63.9 billion, up 30% and 31% in constant currency.\n\n## Demand and the backlog\n\nThe most closely watched figure may be the commercial backlog. Remaining performance obligation, which tracks contracted future revenue, rose 73% to $677 billion, according to the release. That is a measure of how much customer commitment is already in place rather than a forecast of quarterly sales.\n\nChief Financial Officer Amy Hood told analysts on the call, as reported by CNBC, that she expects Azure growth of 49% to 50% at constant currency in the fiscal second quarter, against a 45.1% consensus compiled by StreetAccount. \"We still have demand that exceeds supply,\" she said.\n\n## Spending and the capacity bottleneck\n\nMicrosoft reported $45.2 billion of capital expenditures and finance leases in the quarter, up about 30% from a year earlier and below StreetAccount's $50.67 billion estimate. Hood said some third-party capacity deliveries expected in the quarter were delayed, which helps explain why the cash-paid line for property and equipment rose faster than the broader spending figure.\n\nAround 75% of that spending is now tied to short-lived assets such as chips and graphics processors, up from about 66% in recent quarters, CNBC reported. Hood said the company is aiming for more than $50 billion of capital spending and finance leases in the fiscal second quarter, above the StreetAccount consensus of $53.10 billion.\n\nA separate comparison matters here. In July, Microsoft changed how it accounts for long-term data-center leases, spreading them over 25 years instead of 15, which lowers reported capital expenditure. Reuters reported at the time that the company said its underlying spending plans were unchanged.\n\n## Earnings and free cash flow\n\nMicrosoft beat expectations on revenue and per-share profit. Revenue of $92.28 billion compared with about $90.69 billion expected by LSEG, and adjusted earnings of $4.89 per share compared with $4.73, according to CNBC. Free cash flow declined 27% from a year earlier, the same tension investors have been tracking across the largest cloud providers.\n\nShares rose about 4% in extended trading, CNBC reported. That move is an early read and will be tested in the regular session.\n\n## What to watch\n\nThe quarter reinforces a simple market question: can the cloud growth rate keep up with the cost of capacity? Microsoft's answer is that demand is still ahead of supply, and its guidance suggests that is the case for now. Investors will look for whether the capacity delays ease in the coming quarter and whether free cash flow stabilizes as spending rises.",
   "marketImpact": {
@@ -41,6 +42,6 @@
   "sources": [
     { "title": "Microsoft announces first quarter results", "publisher": "Microsoft News", "url": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/", "accessedAt": "2026-10-29" },
     { "title": "Microsoft (MSFT) Q1 earnings report 2027", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html", "accessedAt": "2026-10-29" },
-    { "title": "Microsoft says cash will keep flowing from AI, shares rise", "publisher": "Reuters", "url": "https://www.reuters.com/business/microsoft-tops-quarterly-cloud-growth-estimates-easing-spending-concerns-2026-07-29/", "accessedAt": "2026-10-29" }
+    { "title": "MSFT stock quote and opening-day trading data", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/quote/MSFT/", "accessedAt": "2026-10-29" }
   ]
 }

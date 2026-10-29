@@ -1,0 +1,47 @@
+{
+  "slug": "marvell-in-talks-to-buy-lumentum-megadeal",
+  "title": "Marvell Shares Slide 13% as Reported Lumentum Megadeal Lifts the Target",
+  "dek": "Bloomberg reports Marvell is in advanced talks to buy optics maker Lumentum, a deal that could be announced as soon as next week; investors punished the buyer and rewarded the target.",
+  "section": "ai-tech",
+  "tags": ["Marvell", "Lumentum", "optics", "M&A", "AI infrastructure", "semiconductors"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T16:20:00Z",
+  "updatedAt": "2026-10-29T16:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure that organizations must keep patched and secured",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "Bloomberg reported late on October 28 that Marvell is in advanced talks to buy Lumentum, citing people familiar with the matter; a transaction may be announced as soon as next week.",
+    "Marvell is valued near $221 billion and Lumentum at about $83 billion, so the reported target is roughly 38% of the buyer's market value.",
+    "At about 9:11 a.m. ET, 247 Wall St. reported Marvell down 13% at about $220 and Lumentum up 6% at about $965. Coherent was flat, and Applied Optoelectronics fell 3%.",
+    "No final agreement has been reached, and terms could still change. Lumentum's CEO has said the company is essentially sold out of certain products into 2029."
+  ],
+  "body": "Investors marked down Marvell Technology and marked up Lumentum Holdings on Thursday after Bloomberg reported that Marvell is in advanced talks to buy the data-center optics maker. The reaction was sharp and split: Marvell shares fell about 13% in morning trading, while Lumentum rose about 6%, according to 247 Wall St.\n\n## What was reported\n\nBloomberg reported that Marvell is in advanced talks to acquire Lumentum, a deal that people familiar with the matter said could be announced as soon as next week. The report said Lumentum, which is backed by Nvidia, has a market value of about $83 billion, while Marvell is worth around $221 billion. Bloomberg's report was published after the close of regular trading on October 28, which set up the moves at the Thursday open.\n\nNo agreement has been announced. The people familiar with the talks asked not to be identified, and the terms could still change.\n\n## Why the market split\n\nLumentum makes lasers, optical components and networking systems for cloud and AI data centers. Its indium-phosphide technology is in heavy demand, and 247 Wall St. reported that the company's chief executive has said it is essentially sold out of certain products into 2029. That scarcity appears to be what investors are paying for, since the target's stock gained while rival optics names did not follow.\n\nFor Marvell, the concern is dilution and price. A deal in which the target is roughly 38% of the buyer's market value would be large relative to Marvell, and a Yahoo Finance analysis published the evening before framed the move as a bet on the company's AI networking and optics pipeline converting into higher-margin data-center revenue.\n\n## What to watch\n\nThe key test is whether a deal is announced, at what price and on what financing terms. A disclosed price could also reset valuations across optical suppliers, which 247 Wall St. noted is why Coherent and Applied Optoelectronics were moving differently from Lumentum. Nvidia's stake in Lumentum makes it a secondary name to watch.\n\nThe story will be updated if Marvell or Lumentum confirm talks or announce terms.",
+  "marketImpact": {
+    "summary": "The report puts a large AI-optics acquisition in play. The buyer is repriced lower on dilution concerns, while the target gains on a likely premium and scarce product supply. The read-through is mixed for rival optics names until terms are disclosed.",
+    "timeframe": "Next 1-2 sessions, and through any announcement",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "MRVL", "direction": "down", "rationale": "Shares fell about 13% in morning trading on the report; investors are weighing dilution and the price of a deal of roughly 38% of Marvell's market value." },
+      { "symbol": "LITE", "direction": "up", "rationale": "Shares rose about 6% to around $965 on the reported takeover interest, reflecting a likely premium and scarce indium-phosphide supply." },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Bloomberg reports Nvidia backs Lumentum; any deal terms or change in that relationship would matter for Nvidia's optical supply chain." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Regular-session reaction to the Bloomberg report on Marvell's talks to buy Lumentum" },
+      { "date": "2026-10-29", "event": "Possible deal announcement; Bloomberg's sources said a transaction may be announced as soon as next week" }
+    ]
+  },
+  "sources": [
+    { "title": "Marvell Is Said to Near Megadeal for Lumentum In AI Push", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal", "accessedAt": "2026-10-29" },
+    { "title": "Marvell Sinks 13%, Lumentum Jumps 6% on Reported Acquisition Talks; Coherent Holds Flat, Applied Optoelectronics Drops 3%", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/10/29/marvell-sinks-13-lumentum-jumps-6-on-reported-acquisition-talks-coherent-holds-flat-applied-optoelectronics-drops-3/", "accessedAt": "2026-10-29" },
+    { "title": "Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-reportedly-advanced-011050785.html", "accessedAt": "2026-10-29" }
+  ]
+}

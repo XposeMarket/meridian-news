@@ -1,0 +1,44 @@
+{
+  "slug": "ford-q3-beat-narrows-guidance-ev-losses-persist",
+  "title": "Ford Beats Q3 Estimates and Narrows Guidance, but Its EV Losses Keep Growing",
+  "dek": "Ford's third-quarter profit beat expectations and the bottom of its 2026 profit guidance rose, though Model e is still forecast to lose about $4 billion this year.",
+  "section": "autos",
+  "tags": ["Ford", "earnings", "EV", "guidance", "Model e", "automakers"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T16:20:00Z",
+  "updatedAt": "2026-10-29T16:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg",
+    "alt": "Electric cars plugged into public charging points",
+    "credit": "Philip Halling",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg"
+  },
+  "keyPoints": [
+    "Ford reported third-quarter adjusted earnings of 49 cents a share against roughly 40 cents expected, and adjusted EBIT of $2.66 billion against $2.38 billion expected, according to CNBC and Yahoo Finance.",
+    "Automotive revenue of $46.08 billion slightly missed the $46.24 billion estimate.",
+    "Ford raised the low end of its 2026 adjusted EBIT guidance to $10.5 billion, for a range of $10.5 billion to $11 billion, and kept adjusted free cash flow guidance at $6 billion to $7 billion.",
+    "Model e lost $1.06 billion in the quarter on $1.2 billion of revenue, and Ford still projects a $4 billion loss for the segment in 2026."
+  ],
+  "body": "Ford Motor beat third-quarter profit expectations on Wednesday, but the report kept the spotlight on the cost of its electric-vehicle push. The company tightened the low end of its full-year profit forecast and said it expects 2027 earnings to be roughly in line with 2026.\n\n## The quarter\n\nAdjusted earnings were 49 cents a share, above the roughly 40 cents analysts expected, according to CNBC. Adjusted earnings before interest and taxes came in at $2.66 billion, compared with $2.38 billion in estimates. Automotive revenue of $46.08 billion was just short of expectations. Ford said adjusted free cash flow for the quarter was $4.7 billion, about $2 billion more than analysts anticipated, according to StreetAccount figures cited by CNBC.\n\n## Guidance and the EV drag\n\nFord now sees 2026 adjusted EBIT of $10.5 billion to $11 billion, up from a previous $10 billion to $11 billion range. The company's Model e electric-vehicle unit posted a $1.06 billion loss on $1.2 billion of revenue. Ford still expects Model e to lose another $4 billion over the rest of 2026, with extra spending on its Universal EV platform weighing on the second half.\n\nCFO Sherry House told reporters that commodity headwinds are approaching $2.5 billion year over year and that chip prices are likely to rise, more significantly in 2027. Ford also cited a $1 billion benefit from material and warranty cost reductions.\n\n## Production issues\n\nProduction disruptions were a recurring theme. Ford has been working to restore output of its F-Series pickups after supplier problems, and Reuters reported that the company idled crews at its Dearborn Truck Plant for nearly a week in September because of a supply problem. Ford called that a short-term supplier issue unrelated to aluminum.\n\nWhat to watch next is whether the commodity and chip cost increases outpace the warranty savings Ford is promising, and whether Model e losses narrow once the platform spending peaks.",
+  "marketImpact": {
+    "summary": "A profit beat and a slightly higher guidance floor support Ford's core business, but the 2027 outlook, rising commodity and chip costs, and a $4 billion EV loss keep the stock's direction uncertain.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "F", "direction": "mixed", "rationale": "Earnings and cash flow beat expectations and guidance firmed at the low end, but management flagged rising commodity and chip costs and a 2027 profit outlook only in line with 2026." },
+      { "symbol": "GM", "direction": "watch", "rationale": "Ford's commentary on commodity and chip inflation and EV losses is a read-through for GM, which narrowed its own 2026 guidance last week." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Regular-session reaction to Ford's third-quarter results" }
+    ]
+  },
+  "sources": [
+    { "title": "Ford Motor (F) earnings Q3 2026", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html", "accessedAt": "2026-10-29" },
+    { "title": "Ford reports Q3 earnings beat, tightens lower end of profit forecast but sees $4 billion in EV losses for year", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/ford-reports-q3-earnings-beat-tightens-lower-end-of-profit-forecast-but-sees-4-billion-in-ev-losses-for-year-200507683.html", "accessedAt": "2026-10-29" }
+  ]
+}
