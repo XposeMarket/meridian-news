@@ -1,0 +1,94 @@
+{
+  "slug": "amazon-intel-after-hours-miss-shares-fall-ai-spend-scrutiny",
+  "title": "Amazon and Intel Shares Fall Hard After the Bell as Earnings Miss Expectations",
+  "dek": "Amazon missed on earnings and revenue and held its $220 billion capital spending forecast, while Intel's results sent its shares sharply lower in extended trading.",
+  "section": "markets",
+  "tags": [
+    "earnings",
+    "Amazon",
+    "Intel",
+    "AI",
+    "capex",
+    "after hours"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T21:30:00Z",
+  "updatedAt": "2026-10-29T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "Amazon reported third-quarter adjusted EPS of $1.89 against a $1.96 estimate and revenue of $201.94 billion against $202.31 billion, per CNBC citing LSEG.",
+    "Amazon Web Services revenue was $45.98 billion, above the $45.29 billion estimate, while advertising revenue of $19.64 billion missed the $20.82 billion consensus.",
+    "Amazon shares fell more than 7% in extended trading according to CNBC; the Wall Street Journal reported a decline of about 9%. Amazon held its 2026 capex forecast at $220 billion.",
+    "Intel reported third-quarter results after the close on October 29; the Wall Street Journal reported its shares were down about 20% in post-market trading. Intel's own figures are not cited here because the company release was not retrieved for this edition."
+  ],
+  "body": "Amazon and Intel both reported third-quarter results after the market closed on Thursday, and both stocks dropped in extended trading. The timing put them on top of a session already weighed down by Alphabet's record one-day loss, which investors were treating as a test of how much AI spending the largest technology companies can justify.\n\nFor Amazon, the headline numbers fell short. The company reported adjusted earnings of $1.89 per share against a $1.96 consensus, according to CNBC, which cited LSEG estimates. Revenue of $201.94 billion was slightly below the $202.31 billion forecast. Amazon Web Services, the cloud unit that investors watch for evidence of AI demand, came in at $45.98 billion, a beat against the $45.29 billion estimate. Advertising was the weak line, at $19.64 billion against $20.82 billion expected.\n\nThe bigger concern for the market was cash. Amazon said it would keep its 2026 capital expenditure forecast at $220 billion. The company posted negative free cash flow for a second straight quarter, with a trailing twelve-month outflow of $42.4 billion, according to CNBC. Investors have been asking whether hyperscalers can convert AI spending into returns, and that question is now part of every results call.\n\nIntel's report added to the same concern. The Wall Street Journal said its shares fell about 20% in post-market trading after the results, though the company's exact figures are not repeated here. Intel had been one of the year's strongest large-cap chip stocks, which made its after-hours drop a sharp reversal for shares that had risen sharply in 2026.\n\nFor the market, the after-hours reaction matters beyond the two names. Amazon and Alphabet are both large buyers of AI infrastructure, and a pair of disappointing reports on the same day gives the sector a weaker set of signals going into Friday. Apple reports its fiscal fourth-quarter results on November 2, according to Apple's investor relations page, which is the next major test of consumer hardware and services demand.\n\nThis is analysis of reported results and extended-trading moves, not a forecast of the regular-session open. Extended trading is thin, and prices can change once the broader market takes over.",
+  "marketImpact": {
+    "summary": "Amazon and Intel's after-hours moves extend the day's AI-spending concern from Alphabet to two more large AI buyers and sellers, and they keep attention on whether hyperscaler capex is generating returns.",
+    "timeframe": "Friday's regular session and the next earnings cycle",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "AMZN",
+        "direction": "down",
+        "rationale": "Fell more than 7% after hours on an EPS and ad-revenue miss; capex held at $220 billion and free cash flow negative."
+      },
+      {
+        "symbol": "INTC",
+        "direction": "down",
+        "rationale": "Reported down about 20% in post-market trading per the Wall Street Journal."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-10-30",
+        "event": "Regular-session reaction to Amazon and Intel results"
+      },
+      {
+        "date": "2026-11-02",
+        "event": "Apple fiscal Q4 results (conference call 5:00 p.m. ET)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Amazon (AMZN) Q3 earnings report 2026",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Amazon.com to Webcast Third Quarter 2026 Financial Results Conference Call",
+      "publisher": "Amazon Investor Relations",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-to-Webcast-Third-Quarter-2026-Financial-Results-Conference-Call/default.aspx",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock Market Today: AI Jitters Spread Across Markets",
+      "publisher": "Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Intel to Report Third-Quarter 2026 Financial Results",
+      "publisher": "Intel",
+      "url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Apple Investor Relations",
+      "publisher": "Apple",
+      "url": "https://investor.apple.com/investor-relations/default.aspx",
+      "accessedAt": "2026-10-29"
+    }
+  ]
+}

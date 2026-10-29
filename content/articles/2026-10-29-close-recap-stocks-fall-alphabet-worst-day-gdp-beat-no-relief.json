@@ -1,0 +1,99 @@
+{
+  "slug": "close-recap-stocks-fall-alphabet-worst-day-gdp-beat-no-relief",
+  "title": "Stocks Close Lower as Alphabet Has Its Worst Day on Record; GDP Beat Gives No Lift",
+  "dek": "The S&P 500 and Nasdaq 100 closed lower after Alphabet's 12.5% slide, the largest one-day loss in its history, and a 3.4% third-quarter GDP print did little to offset AI-spending worries.",
+  "section": "markets",
+  "tags": [
+    "markets",
+    "close",
+    "Alphabet",
+    "GDP",
+    "S&P 500",
+    "Nasdaq",
+    "Dow"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T20:45:00Z",
+  "updatedAt": "2026-10-29T20:45:00Z",
+  "edition": "afternoon",
+  "featured": true,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "S&P 500 closed at 7,682.71, down 23.74 points or 0.31%, per Trading Economics' close data for October 29.",
+    "Nasdaq 100 closed at 29,066.26, down 410.65 points or 1.38%. Dow Jones Industrial Average closed at 52,330.74, down 175.54 points or 0.33%. Trading Economics' narrative puts the Dow decline at 135 points, which conflicts with its own table; the table figure is used here.",
+    "Alphabet fell 12.5% to finish at its worst day ever, according to the Wall Street Journal, erasing about half a trillion dollars of market value after search revenue missed.",
+    "The advance Q3 GDP estimate showed real output rising 3.4% annualized, up from 2.2% in Q2, per the Bureau of Economic Analysis; the data did not halt the selloff."
+  ],
+  "body": "U.S. stocks finished lower on Thursday, with the broad market and the Nasdaq giving back ground as investors reassessed how much AI spending the largest technology companies can justify. The S&P 500 closed at 7,682.71, down 0.31%, according to Trading Economics. The Nasdaq 100 fell 1.38% to 29,066.26, and the Dow Jones Industrial Average lost 0.33% to 52,330.74. The Nasdaq Composite's final close was not in the sources available to this desk, so no level is given for it here.\n\nThe day's central story was Alphabet. The Google parent reported third-quarter results after Wednesday's close, and the market took them badly: search and advertising revenue fell short of expectations even as cloud revenue roughly doubled. The Wall Street Journal described the 12.5% decline as the worst single session in the company's history, ahead of its previous record drop of 11.6% in 2020. Alphabet had been up about 4% for 2026 before the open and finished the day in negative territory for the year.\n\nGrowth data did not give the market much relief. The Bureau of Economic Analysis said real GDP rose at a 3.4% annual rate in the third quarter, above the 2.2% pace of the second quarter. Investors had also been watching September inflation, which Yahoo Finance and Trading Economics reported as accelerating. Traders still expect the Federal Reserve to lean toward a rate increase in December, a view that held stock valuations under pressure.\n\nSector moves were uneven. Communication services led the decline because of Alphabet, while software names fell sharply after ServiceNow dropped about 25% on its results and Fortinet fell about 21%. Health care was a bright spot: Eli Lilly rose about 6.5% after raising its 2026 revenue outlook, and Merck gained 3.7% after lifting guidance. Caterpillar fell about 9.4% after forecasting moderate fourth-quarter sales growth, which weighed on the Dow.\n\nOil and rates were a background factor. WTI crude was trading near $101 a barrel earlier in the session, down about 2%, after reports of renewed U.S.-Iran diplomatic contact. The 10-year Treasury yield was near 5% in the morning, according to Investopedia. Bitcoin was trading above $81,000 in the morning, per Investopedia.\n\nFor the market impact, the signal is about concentration. Mega-cap tech has been carrying the index, and an earnings miss from a company that large moves the whole index, not just its own shares. Investors will now look to Amazon and Intel, which reported after the bell, to see whether the AI-spend concern is specific to Alphabet or spreading across the group. This is analysis, not a forecast; the levels above are the verified close.",
+  "marketImpact": {
+    "summary": "The index losses were driven by a single mega-cap miss and a weak reaction to strong growth data, which suggests that concern over AI capital spending is now a market-wide valuation issue rather than a one-company story.",
+    "timeframe": "Friday's session and the coming week of big-tech results",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "GOOGL",
+        "direction": "down",
+        "rationale": "Fell about 12.5%, its worst day on record, after search revenue missed and cash burn exceeded expectations."
+      },
+      {
+        "symbol": "LLY",
+        "direction": "up",
+        "rationale": "Rose about 6.5% after raising its 2026 revenue outlook."
+      },
+      {
+        "symbol": "CAT",
+        "direction": "down",
+        "rationale": "Fell about 9.4% after a moderate fourth-quarter sales forecast, a drag on the Dow."
+      },
+      {
+        "symbol": "NOW",
+        "direction": "down",
+        "rationale": "Fell about 25% on earnings, pulling software stocks lower."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-10-29",
+        "event": "Amazon and Intel quarterly results after the close"
+      },
+      {
+        "date": "2026-11-25",
+        "event": "Next BEA GDP release"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock Market Today: AI Jitters Spread Across Markets",
+      "publisher": "Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "United States Stock Market Index: close and sector data for October 29, 2026",
+      "publisher": "Trading Economics",
+      "url": "https://tradingeconomics.com/united-states/stock-market",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "GDP (Advance Estimate), 3rd Quarter 2026",
+      "publisher": "Bureau of Economic Analysis",
+      "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Alphabet stock sell-off drags on tech, AI jitters return",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+      "accessedAt": "2026-10-29"
+    }
+  ]
+}

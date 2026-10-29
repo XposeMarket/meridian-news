@@ -1,107 +1,89 @@
 {
-  "updatedAt": "2026-10-29T15:10:00Z",
-  "edition": "midday",
-  "leadSlug": "open-tech-selloff-alphabet-gdp-beat-indexes-slide-midday",
+  "updatedAt": "2026-10-29T20:45:00Z",
+  "edition": "afternoon",
+  "leadSlug": "close-recap-stocks-fall-alphabet-worst-day-gdp-beat-no-relief",
   "marketBrief": {
-    "headline": "Stocks slide at the open as Alphabet drags tech; GDP beats at 3.4%",
-    "summary": "Early trading on Thursday showed a tech-led pullback. The Dow was down 0.33% at 10:48 AM ET, the Nasdaq fell about 1.2% to 1.4% after the open, and Alphabet dropped about 13% after a sales miss. Q3 GDP grew 3.4%, above the 3.1% forecast, which keeps December Fed-hike odds near 84%.",
-    "asOf": "2026-10-29T14:48:40Z",
+    "headline": "Stocks close lower as Alphabet has worst day on record; Amazon and Intel slide after the bell",
+    "summary": "The S&P 500 closed at 7,682.71, down 0.31%, and the Nasdaq 100 fell 1.38%, as Alphabet's 12.5% drop and AI-spending worries weighed on tech. The 3.4% Q3 GDP print did not lift the market. Amazon and Intel fell after hours.",
+    "asOf": "2026-10-29T20:00:00Z",
     "bullets": [
-      "Dow Jones Industrial Average at 52,300.08, down 0.33%, as of 10:48:40 AM ET (Yahoo Finance).",
-      "Nasdaq Composite down about 1.2% early and Nasdaq 100 down about 2% at 9:34 AM ET per Bloomberg; S&P 500 down 0.5% at the open (CNBC).",
-      "Alphabet down about 13% as of 9:34 AM ET after a sales miss; cloud growth of 103% did not offset free-cash-flow concerns (Bloomberg; Yahoo Finance).",
-      "Q3 GDP advance estimate 3.4% annualized vs 3.1% consensus; PCE inflation 3.6% year over year in September (Yahoo Finance).",
-      "Lilly up about 8% on raised 2026 revenue guidance; DoorDash up about 6% on its $17 billion Instacart deal; Caterpillar and Sprouts fell (CNBC; Investopedia; Yahoo Finance)."
+      "S&P 500 closed at 7,682.71, down 0.31%; Nasdaq 100 at 29,066.26, down 1.38%; Dow at 52,330.74, down 0.33% (Trading Economics, close data).",
+      "Alphabet fell 12.5% in its worst day on record, losing about half a trillion dollars of market value (Wall Street Journal).",
+      "Q3 GDP advance estimate: 3.4% annualized vs 2.2% in Q2 (Bureau of Economic Analysis).",
+      "Amazon EPS $1.89 vs $1.96 expected; shares fell more than 7% after hours; capex held at $220 billion (CNBC).",
+      "Intel shares fell about 20% after hours on its Q3 report (Wall Street Journal)."
     ]
   },
   "marketSnapshot": [
     {
-      "label": "Dow Jones Industrial Average",
-      "value": "52,300.08",
-      "change": "-175.02 (-0.33%)",
-      "direction": "down",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
-      "asOf": "2026-10-29 10:48:40 AM ET"
-    },
-    {
-      "label": "Nasdaq Composite",
-      "value": "down about 1.2% (early)",
-      "change": "-1.2%",
-      "direction": "down",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
-      "asOf": "2026-10-29 ~10:40 AM ET"
-    },
-    {
       "label": "S&P 500",
-      "value": "down about 0.3% (early)",
-      "change": "-0.3%",
+      "value": "7,682.71",
+      "change": "-23.74 (-0.31%)",
       "direction": "down",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
-      "asOf": "2026-10-29 ~10:40 AM ET"
+      "source": "Trading Economics",
+      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
+      "asOf": "2026-10-29 close (4:00 PM ET)"
+    },
+    {
+      "label": "Nasdaq 100",
+      "value": "29,066.26",
+      "change": "-410.65 (-1.38%)",
+      "direction": "down",
+      "source": "Trading Economics",
+      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
+      "asOf": "2026-10-29 close (4:00 PM ET)"
+    },
+    {
+      "label": "Dow Jones Industrial Average",
+      "value": "52,330.74",
+      "change": "-175.54 (-0.33%)",
+      "direction": "down",
+      "source": "Trading Economics",
+      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
+      "asOf": "2026-10-29 close (4:00 PM ET)"
     },
     {
       "label": "Alphabet (GOOGL)",
-      "value": "down about 13%",
-      "change": "-13%",
+      "value": "283.61",
+      "change": "-41.28 (-12.71%)",
       "direction": "down",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-      "asOf": "2026-10-29 9:34 AM ET"
+      "source": "Trading Economics",
+      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
+      "asOf": "2026-10-29 close (4:00 PM ET)"
     },
     {
-      "label": "Eli Lilly (LLY)",
-      "value": "up about 8%",
-      "change": "+8%",
-      "direction": "up",
+      "label": "Amazon (AMZN) after hours",
+      "value": "down more than 7%",
+      "change": "extended trading",
+      "direction": "down",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-      "asOf": "2026-10-29 10:56 AM ET"
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "asOf": "2026-10-29 after close"
     },
     {
-      "label": "10-year Treasury yield",
-      "value": "around 4.98%",
-      "change": "lower vs Wed. late",
+      "label": "Intel (INTC) after hours",
+      "value": "down about 20%",
+      "change": "post-market",
       "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
-      "asOf": "2026-10-29 8:02 AM ET"
-    },
-    {
-      "label": "WTI crude futures",
-      "value": "$100.47/bbl",
-      "change": "-2.2%",
-      "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
-      "asOf": "2026-10-29 8:02 AM ET"
-    },
-    {
-      "label": "Bitcoin",
-      "value": "near $80,000",
-      "change": "down from overnight high near $81,700",
-      "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
-      "asOf": "2026-10-29 8:02 AM ET"
+      "source": "Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
+      "asOf": "2026-10-29 after close"
     }
   ],
   "calendar": [
-    {
-      "date": "2026-10-29",
-      "time": "After close",
-      "event": "Intel quarterly results (Amazon also reports after the close)",
-      "importance": "high",
-      "why": "AI infrastructure spending and chip demand; Amazon's AWS growth is a read on hyperscaler capex."
-    },
     {
       "date": "2026-10-30",
       "time": "8:30 AM ET",
       "event": "Third-quarter Employment Cost Index",
       "importance": "high",
       "why": "Compensation trends help markets gauge services inflation and labor-cost pressure."
+    },
+    {
+      "date": "2026-11-02",
+      "time": "5:00 PM ET call",
+      "event": "Apple fiscal Q4 2026 results",
+      "importance": "high",
+      "why": "Apple reports after the close; the next major test of the consumer-hardware and services outlook (Apple Investor Relations)."
     },
     {
       "date": "2026-11-03",
@@ -123,6 +105,13 @@
       "event": "October Consumer Price Index",
       "importance": "high",
       "why": "CPI is a key cross-check on inflation after the Fed meeting."
+    },
+    {
+      "date": "2026-11-25",
+      "time": "8:30 AM ET",
+      "event": "BEA Q3 GDP release (next)",
+      "importance": "medium",
+      "why": "Next scheduled GDP update after the Oct 29 advance estimate (Bureau of Economic Analysis)."
     },
     {
       "date": "2026-12-09",
