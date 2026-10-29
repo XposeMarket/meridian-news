@@ -1,0 +1,99 @@
+{
+  "slug": "open-tech-selloff-alphabet-gdp-beat-indexes-slide-midday",
+  "title": "Stocks Slide at the Open as Alphabet Drags Tech; GDP Beats Forecast at 3.4%",
+  "dek": "The Dow was down 0.33% at 10:48 AM ET and the Nasdaq had fallen about 1.2% in early trading, as Alphabet's results and AI-spending worries outweighed a stronger-than-expected GDP print.",
+  "section": "markets",
+  "tags": [
+    "markets",
+    "stocks",
+    "Alphabet",
+    "GDP",
+    "PCE",
+    "Federal Reserve",
+    "AI"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T15:05:00Z",
+  "updatedAt": "2026-10-29T15:05:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "The Dow Jones Industrial Average was 52,300.08, down 175.02 points or 0.33%, as of 10:48:40 AM ET, per Yahoo Finance.",
+    "Early in the session the Nasdaq Composite fell about 1.2% and the S&P 500 about 0.3%; CNBC reported at its 10:56 AM ET update that the Nasdaq was down 1.4% and the S&P 500 0.5% just after the open.",
+    "The advance Q3 GDP estimate showed 3.4% annualized growth, above the 3.1% Dow Jones consensus, with business investment up 12.7%.",
+    "September PCE inflation rose 3.6% year over year and core PCE rose 3.1%, both in line with expectations, keeping December rate-hike odds high."
+  ],
+  "body": "U.S. stocks opened lower on Thursday, with the tech-heavy indexes leading the decline. Yahoo Finance reported at 10:48:40 AM ET that the Dow Jones Industrial Average stood at 52,300.08, down 175.02 points or 0.33%, and CNBC reported the Nasdaq Composite fell 1.4% and the S&P 500 0.5% just after the open, with the Dow off 0.6%. The moves were early and could change through the session.\n\nThe main drag was Alphabet. Bloomberg reported that Alphabet fell 13% as of 9:34 AM ET after a sales miss, while Yahoo Finance said cloud growth of 103% was not enough to offset investor concern about free cash flow and the return on AI spending. A sell-off spread through AI-linked names: Yahoo Finance said the iShares Semiconductor ETF (SOXX) fell and software stocks (IGV) slid, with double-digit losses for Fortinet and ServiceNow after their reports.\n\nThe economic data was mixed in tone. The Commerce Department's advance estimate put third-quarter GDP growth at 3.4% annualized, beating the 3.1% consensus and up from 2.2% in the second quarter, according to Yahoo Finance's report of the release. Business investment rose 12.7%, which Yahoo attributed to the AI build-out, and consumer spending grew 3.8%. The PCE price index rose 3.6% year over year in September, and core PCE rose 3.1%, both in line with expectations.\n\nThose prints keep the Federal Reserve in focus. The central bank held rates unchanged on Wednesday on a 10-2 vote with two dissents favoring a hike. Investopedia reported CME FedWatch pricing an 84% likelihood of at least a quarter-point increase at the December meeting.\n\nOil and rates were also in the mix. Investopedia reported WTI crude futures down 2.2% to $100.47 a barrel and Brent down 1.9% to $109.56, after a Wall Street Journal report of a U.S. letter seeking to restart Iran peace talks. The 10-year Treasury yield was around 4.98%, down from late Wednesday, and gold futures slipped 0.4% to $4,035 an ounce.\n\nWhat to watch: Amazon and Intel report after the close, and the index moves above should be checked against the closing numbers before drawing a full-day conclusion.",
+  "marketImpact": {
+    "summary": "The open shows a tech-led pullback rather than a broad sell-off: Alphabet and AI-linked names are weighing on the Nasdaq while the stronger GDP print supports the economy but reinforces the case for a Fed hike.",
+    "timeframe": "Through Thursday's close and the after-hours Amazon and Intel reports",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "GOOGL",
+        "direction": "down",
+        "rationale": "Down about 13% as of 9:34 AM ET per Bloomberg after a sales miss and free-cash-flow concerns."
+      },
+      {
+        "symbol": "SOXX",
+        "direction": "down",
+        "rationale": "Semiconductor ETF fell as AI hardware names sold off with the broader tech group."
+      },
+      {
+        "symbol": "MSFT",
+        "direction": "down",
+        "rationale": "Down about 1.4% in early trading per Investopedia, despite a beat on the top and bottom lines."
+      },
+      {
+        "symbol": "TLT",
+        "direction": "down",
+        "rationale": "10-year yield around 4.98% with December hike odds near 84%."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-10-29",
+        "event": "Amazon quarterly results after the close"
+      },
+      {
+        "date": "2026-10-29",
+        "event": "Intel quarterly results after the close"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Alphabet stock sell-off drags on tech, AI jitters return",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Futures Plunge as Alphabet Leads Tech Shares Lower",
+      "publisher": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock market today: Live updates (Oct. 28 live page, updated Oct. 29 10:56 AM EDT)",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq live updates",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+      "accessedAt": "2026-10-29"
+    }
+  ]
+}

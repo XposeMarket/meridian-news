@@ -1,69 +1,78 @@
 {
-  "updatedAt": "2026-10-29T12:05:00Z",
-  "edition": "pre-market",
-  "leadSlug": "futures-slide-alphabet-results-after-fed-hold",
+  "updatedAt": "2026-10-29T15:10:00Z",
+  "edition": "midday",
+  "leadSlug": "open-tech-selloff-alphabet-gdp-beat-indexes-slide-midday",
   "marketBrief": {
-    "headline": "Futures slide as Alphabet sinks; Microsoft gains after its beat",
-    "summary": "U.S. futures fell before the open on Thursday, with Nasdaq 100 futures down about 1.1% after Alphabet's results disappointed. Microsoft rose about 1.5% premarket. The Fed held on a 10-2 vote on Wednesday, and traders priced about 84% odds of a December increase. Watch the 8:30 AM ET GDP release and Amazon after the close.",
-    "asOf": "2026-10-29T12:02:00Z",
+    "headline": "Stocks slide at the open as Alphabet drags tech; GDP beats at 3.4%",
+    "summary": "Early trading on Thursday showed a tech-led pullback. The Dow was down 0.33% at 10:48 AM ET, the Nasdaq fell about 1.2% to 1.4% after the open, and Alphabet dropped about 13% after a sales miss. Q3 GDP grew 3.4%, above the 3.1% forecast, which keeps December Fed-hike odds near 84%.",
+    "asOf": "2026-10-29T14:48:40Z",
     "bullets": [
-      "Nasdaq 100 futures were down about 1.1% at 8:02 AM ET, per Investopedia, after the Fed held rates on a 10-2 vote.",
-      "Alphabet fell about 11% premarket after results that Yahoo Finance said missed on revenue; cloud growth was reported at 103%.",
-      "Microsoft rose about 1.5% premarket after beating expectations on the top and bottom lines.",
-      "Eli Lilly and Norwegian Cruise Line beat estimates; DoorDash agreed to buy Instacart for $17 billion in cash and stock.",
-      "At 8:30 AM ET, the advance Q3 GDP estimate and September personal income and outlays are due; Amazon reports after the close."
+      "Dow Jones Industrial Average at 52,300.08, down 0.33%, as of 10:48:40 AM ET (Yahoo Finance).",
+      "Nasdaq Composite down about 1.2% early and Nasdaq 100 down about 2% at 9:34 AM ET per Bloomberg; S&P 500 down 0.5% at the open (CNBC).",
+      "Alphabet down about 13% as of 9:34 AM ET after a sales miss; cloud growth of 103% did not offset free-cash-flow concerns (Bloomberg; Yahoo Finance).",
+      "Q3 GDP advance estimate 3.4% annualized vs 3.1% consensus; PCE inflation 3.6% year over year in September (Yahoo Finance).",
+      "Lilly up about 8% on raised 2026 revenue guidance; DoorDash up about 6% on its $17 billion Instacart deal; Caterpillar and Sprouts fell (CNBC; Investopedia; Yahoo Finance)."
     ]
   },
   "marketSnapshot": [
     {
-      "label": "Nasdaq 100 futures",
-      "value": "down about 1.1%",
-      "change": "-1.1%",
+      "label": "Dow Jones Industrial Average",
+      "value": "52,300.08",
+      "change": "-175.02 (-0.33%)",
       "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
-      "asOf": "2026-10-29 8:02 AM ET"
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+      "asOf": "2026-10-29 10:48:40 AM ET"
     },
     {
-      "label": "S&P 500 futures",
-      "value": "down about 0.3%",
+      "label": "Nasdaq Composite",
+      "value": "down about 1.2% (early)",
+      "change": "-1.2%",
+      "direction": "down",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+      "asOf": "2026-10-29 ~10:40 AM ET"
+    },
+    {
+      "label": "S&P 500",
+      "value": "down about 0.3% (early)",
       "change": "-0.3%",
       "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
-      "asOf": "2026-10-29 8:02 AM ET"
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+      "asOf": "2026-10-29 ~10:40 AM ET"
     },
     {
-      "label": "Alphabet (GOOGL) premarket",
-      "value": "down about 11%",
-      "change": "-11%",
+      "label": "Alphabet (GOOGL)",
+      "value": "down about 13%",
+      "change": "-13%",
       "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
-      "asOf": "2026-10-29 premarket"
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+      "asOf": "2026-10-29 9:34 AM ET"
     },
     {
-      "label": "Microsoft (MSFT) premarket",
-      "value": "up about 1.5%",
-      "change": "+1.5%",
+      "label": "Eli Lilly (LLY)",
+      "value": "up about 8%",
+      "change": "+8%",
       "direction": "up",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
-      "asOf": "2026-10-29 premarket"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "asOf": "2026-10-29 10:56 AM ET"
     },
     {
       "label": "10-year Treasury yield",
-      "value": "near 5.03%",
-      "change": "+1 bp",
-      "direction": "up",
+      "value": "around 4.98%",
+      "change": "lower vs Wed. late",
+      "direction": "down",
       "source": "Investopedia",
       "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
       "asOf": "2026-10-29 8:02 AM ET"
     },
     {
       "label": "WTI crude futures",
-      "value": "$102.00/bbl",
-      "change": "-0.9%",
+      "value": "$100.47/bbl",
+      "change": "-2.2%",
       "direction": "down",
       "source": "Investopedia",
       "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
@@ -71,7 +80,7 @@
     },
     {
       "label": "Bitcoin",
-      "value": "about $80,100",
+      "value": "near $80,000",
       "change": "down from overnight high near $81,700",
       "direction": "down",
       "source": "Investopedia",
@@ -82,17 +91,10 @@
   "calendar": [
     {
       "date": "2026-10-29",
-      "time": "8:30 AM ET",
-      "event": "Q3 GDP advance estimate and September Personal Income and Outlays",
-      "importance": "high",
-      "why": "First estimate of quarterly growth, plus the inflation gauges the Fed watches."
-    },
-    {
-      "date": "2026-10-29",
       "time": "After close",
-      "event": "Amazon and Intel quarterly earnings",
+      "event": "Intel quarterly results (Amazon also reports after the close)",
       "importance": "high",
-      "why": "AWS growth and chip demand are reads on AI infrastructure spending."
+      "why": "AI infrastructure spending and chip demand; Amazon's AWS growth is a read on hyperscaler capex."
     },
     {
       "date": "2026-10-30",

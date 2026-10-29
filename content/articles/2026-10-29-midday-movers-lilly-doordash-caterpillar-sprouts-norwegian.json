@@ -1,0 +1,89 @@
+{
+  "slug": "midday-movers-lilly-doordash-caterpillar-sprouts-norwegian",
+  "title": "Lilly Jumps on Raised Guidance, DoorDash Gains on Instacart Deal, Caterpillar and Sprouts Fall",
+  "dek": "Earnings and deal news produced the biggest single-stock moves of the morning: Eli Lilly and Norwegian Cruise Line rose on beats, DoorDash climbed on its $17 billion Instacart deal, and Caterpillar and Sprouts Farmers Market fell.",
+  "section": "markets",
+  "tags": [
+    "earnings",
+    "movers",
+    "Eli Lilly",
+    "DoorDash",
+    "Caterpillar",
+    "Norwegian Cruise Line",
+    "Sprouts"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T15:10:00Z",
+  "updatedAt": "2026-10-29T15:10:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Federal_Reserve_Building_-_Washington_D.C..jpg",
+    "alt": "The Federal Reserve Building in Washington, D.C.",
+    "credit": "Tony Webster (Flickr)",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Federal_Reserve_Building_-_Washington_D.C..jpg"
+  },
+  "keyPoints": [
+    "Eli Lilly rose about 8% after third-quarter revenue of $24.4 billion and EPS of $7.22, and raised 2026 revenue guidance to $91 billion-$92 billion from $85 billion-$87 billion (CNBC; Yahoo Finance).",
+    "DoorDash gained about 6% after agreeing to buy Instacart parent Maplebear for $17 billion in cash and stock; Instacart was down less than 1% (Investopedia).",
+    "Norwegian Cruise Line jumped about 13% after adjusted EPS of $1.12 beat the 93-cent consensus and revenue of $2.95 billion beat $2.88 billion (CNBC).",
+    "Caterpillar fell as much as 12% before trimming losses after a forecast of moderate fourth-quarter sales growth; Sprouts Farmers Market fell about 18% after cutting its profit outlook (Yahoo Finance)."
+  ],
+  "body": "Eli Lilly was the morning's strongest large-cap mover. Shares rose about 8% on Thursday after the drugmaker reported third-quarter revenue of $24.4 billion, driven by Zepbound and Mounjaro, and raised its full-year revenue outlook to between $91 billion and $92 billion from $85 billion to $87 billion. Adjusted earnings were $7.22 a share, up from $6.21 a year earlier, according to CNBC's report of the release.\n\nDoorDash shares gained about 6% after the company said it will buy food-delivery rival Instacart, parent of Maplebear, for $17 billion in cash and stock, per Investopedia. Instacart's shares were little changed, down less than 1%. The deal combines two of the largest U.S. grocery and restaurant delivery platforms.\n\nNorwegian Cruise Line rose about 13% after reporting adjusted earnings of $1.12 per share against a FactSet consensus of 93 cents, and revenue of $2.95 billion against $2.88 billion expected, according to CNBC.\n\nThe losers were led by industrial and grocery names. Caterpillar fell as much as 12% in early trading before trimming losses; the company reported third-quarter adjusted EPS of $7.20 on revenue of $20.68 billion, slightly ahead of LSEG estimates, but forecast moderate fourth-quarter sales growth. Investopedia reported Caterpillar down nearly 8% at one point, and the drop weighed on the Dow. Sprouts Farmers Market fell about 18% after it cut its profit outlook and launched price cuts; JPMorgan's Thomas Palmer kept an overweight rating while calling the earnings reduction 'massive.'\n\nNot every reaction was positive. ServiceNow plunged about 25% after its report, according to Investopedia, while Chipotle rose about 7% on same-store sales growth despite a slight EPS miss.\n\nInvestors will check whether the Lilly and DoorDash moves hold through the close; the figures above are as-of the times the cited outlets reported them.\n\nThe pattern across the morning is company-specific rather than macro-driven. Earnings and deal news, not the Fed or the GDP print, set the single-stock moves. Investors are weighing whether raised guidance at Lilly and a large acquisition at DoorDash can offset weaker outlooks at Caterpillar and Sprouts, and whether the AI-linked selloff in semiconductors and software extends beyond the open. CNBC, Investopedia and Yahoo Finance all reported these moves as early-session readings, so the levels can change materially before the close and should be checked against closing data.",
+  "marketImpact": {
+    "summary": "Company-specific news is doing most of the work this morning. Lilly's guidance raise and DoorDash's deal are the most market-relevant; Caterpillar's guide is a warning about AI-linked industrial demand.",
+    "timeframe": "Thursday's session and the next earnings cycle",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "LLY",
+        "direction": "up",
+        "rationale": "Shares up about 8% after Q3 revenue of $24.4 billion and a raised 2026 revenue outlook."
+      },
+      {
+        "symbol": "DASH",
+        "direction": "up",
+        "rationale": "Up about 6% on the $17 billion cash-and-stock Instacart acquisition."
+      },
+      {
+        "symbol": "CAT",
+        "direction": "down",
+        "rationale": "Fell as much as 12% after forecasting moderate Q4 sales growth despite a Q3 beat."
+      },
+      {
+        "symbol": "SFM",
+        "direction": "down",
+        "rationale": "Down about 18% after a Q4 outlook far below consensus and a price-cutting plan."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-10-29",
+        "event": "Intel and Amazon quarterly results after the close"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Alphabet stock sell-off drags on tech, AI jitters return",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Futures Plunge as Alphabet Leads Tech Shares Lower",
+      "publisher": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10292026-12200056",
+      "accessedAt": "2026-10-29"
+    },
+    {
+      "title": "Stock market today: Live updates (updated Oct. 29 10:56 AM EDT)",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "accessedAt": "2026-10-29"
+    }
+  ]
+}
