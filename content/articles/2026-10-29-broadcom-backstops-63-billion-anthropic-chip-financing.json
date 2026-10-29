@@ -1,0 +1,49 @@
+{
+  "slug": "broadcom-backstops-63-billion-anthropic-chip-financing",
+  "title": "Broadcom Backstops $63 Billion Anthropic Chip Financing, Putting Supplier Risk on Its Own Balance Sheet",
+  "dek": "Bank of America, Blackstone, Citi and Morgan Stanley financed $63 billion of Broadcom AI accelerators leased to Anthropic, with Broadcom guaranteeing part of the residual value.",
+  "section": "ai-tech",
+  "tags": ["Broadcom", "Anthropic", "AI financing", "data centers", "Blackstone", "private credit"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-29T20:45:00Z",
+  "updatedAt": "2026-10-29T20:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure of the kind that houses AI accelerators",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "A $63 billion structure announced October 26 uses a special-purpose vehicle to buy Broadcom AI chips and networking gear that are leased to Anthropic, with deliveries expected from 2027.",
+    "Broadcom is providing residual value support equal to the first-lien portion, so the chipmaker shares the risk that the hardware loses value before the leases are paid down.",
+    "Anthropic's filing, as summarized by 24/7 Wall St., describes about $161.2 billion of non-cancelable five-year leases with Broadcom.",
+    "Blackstone's shares rose 9.18% over the past week, a sign the market is rewarding the lenders for now."
+  ],
+  "body": "A $63 billion financing package for AI compute has put a new question at the center of the chip boom: when a supplier guarantees the value of its own hardware, who is really holding the risk?\n\nBank of America, Blackstone, Citi and Morgan Stanley announced the transaction on October 26. It runs through a newly formed special-purpose vehicle that will buy Broadcom XPU AI accelerators and networking gear and lease them to Anthropic. The first-lien portion is being arranged by Bank of America, Citi and Morgan Stanley, while Blackstone is the sole provider of the committed second-lien portion. The companies said deliveries are expected to begin in calendar 2027.\n\n## Where the supplier fits\n\nThe unusual piece is Broadcom's role. The company is providing residual value support to the vehicle for an amount equal to the first-lien financing. Residual value is what equipment is worth when a lease ends. Lenders usually carry that risk themselves. Here, the chip designer shares it.\n\nAnalysis from 24/7 Wall St., published October 29, argues that this is the lenders' protection against one scenario: AI hardware losing value faster than the lease payments pay it down. It also notes that Broadcom has disclosed residual value guarantees before. On its September call, the company described such guarantees as contingent liabilities it views as low risk, and an analyst cited a previously disclosed maximum exposure of about $29 billion on an earlier $35 billion tranche. Management declined to give an overall maximum.\n\n## What Anthropic has committed\n\nAccording to the same 24/7 Wall St. account, Anthropic's filing dated October 26 describes five-year master equipment leases with Broadcom carrying rent payments of about $161.2 billion excluding interest. The leases cannot be cancelled by either party during the lease period, except in the case of default. The filing also warns that compute secured today may become less efficient or less attractive than future alternatives.\n\nThat is an equipment-value problem, separate from whether Anthropic's revenue can cover the commitments. Broadcom's balance sheet is answering the first question; the second remains open.\n\n## Market read\n\nThe structure is a signal that Wall Street is willing to finance AI hardware at very large scale, but it also moves some of the tail risk onto the chip supplier and, through private credit and insurance balance sheets, onto investors further out. Blackstone's shares rose 9.18% over the week through October 29, according to the 24/7 Wall St. piece. That reaction rewards the lender for now and does not measure the eventual loss.\n\nBroadcom's own September comments, cited above, were that these guarantees are contingent liabilities it views as low risk, which is the company's framing rather than a measured outcome. The next checkpoints are Broadcom's next quarterly disclosure of residual value exposure, the first Anthropic lease deliveries in calendar 2027, and whether other lenders adopt similar supplier-backed structures.",
+  "marketImpact": {
+    "summary": "The deal supports Broadcom's AI revenue visibility, but it also puts contingent residual-value exposure on Broadcom's balance sheet. Lenders and private-credit vehicles take the first-lien and second-lien risk, so their stock reaction depends on how they hold that exposure.",
+    "timeframe": "Next 1-2 sessions, then Broadcom's next quarterly disclosure",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "AVGO", "direction": "watch", "rationale": "Revenue visibility from 2027 deliveries versus a contingent guarantee on residual value that could grow if chip prices fall" },
+      { "symbol": "BX", "direction": "mixed", "rationale": "Sole provider of the committed second-lien portion; shares rose 9.18% over the week, but the risk sits in its credit platform" },
+      { "symbol": "MS", "direction": "watch", "rationale": "Co-arranger of the first-lien portion; exposure depends on syndication" },
+      { "symbol": "C", "direction": "watch", "rationale": "Co-arranger of the first-lien portion alongside Bank of America and Morgan Stanley" },
+      { "symbol": "BAC", "direction": "watch", "rationale": "Co-arranger of the first-lien portion; fee and balance-sheet exposure to AI infrastructure lending" }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Analysis of the residual-value structure published by 24/7 Wall St." },
+      { "date": "2026-10-26", "event": "Financing structure announced; chip deliveries expected to begin in calendar 2027" }
+    ]
+  },
+  "sources": [
+    { "title": "Bank of America, Blackstone, Citi and Morgan Stanley announce landmark $63 billion financing structure to enable AI compute capacity in partnership with Broadcom", "publisher": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute-capacity-in-partnership-with-broadcom-302919849.html", "accessedAt": "2026-10-29" },
+    { "title": "Wall Street's New $63 Billion AI Deal Reveals a Risk That Could Spread Beyond Tech", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/10/29/wall-streets-new-63-billion-ai-deal-reveals-a-risk-that-could-spread-beyond-tech/", "accessedAt": "2026-10-29" },
+    { "title": "Broadcom arranged $63 billion financing for Anthropic AI chips", "publisher": "Quartz", "url": "https://qz.com/broadcom-anthropic-63-billion-chip-financing-102726", "accessedAt": "2026-10-29" }
+  ]
+}
