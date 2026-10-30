@@ -1,46 +1,132 @@
 {
-  "updatedAt": "2026-10-30T12:15:00Z",
-  "edition": "pre-market",
-  "leadSlug": "futures-slide-amazon-intel-drag-tech-after-alphabet-selloff",
+  "updatedAt": "2026-10-30T20:40:00Z",
+  "edition": "afternoon",
+  "leadSlug": "close-recap-nasdaq-worst-day-since-june-intel-plunge",
   "marketBrief": {
-    "headline": "Futures slide before the bell as Amazon and Intel extend Thursday's tech selloff",
-    "summary": "Nasdaq 100 futures were down 2.65% and S&P 500 futures down 1.13% in premarket quotes, after Alphabet's 12.7% Thursday drop. Amazon fell after hours on an earnings miss and Intel fell premarket on weak Q4 guidance. The 8:30 a.m. Employment Cost Index and Sanofi's Q3 webcast are the scheduled catalysts.",
-    "asOf": "2026-10-30T11:51:00Z",
+    "headline": "Nasdaq posts its worst day since June as Intel and Amazon results revive AI-spending doubts",
+    "summary": "The S&P 500 fell 1.8% to 7,580.07, the Nasdaq Composite lost 2.9% to 25,437.00 and the Dow dropped 1.1% to 51,770.31. Intel fell almost 29%, its worst day since 1974, while Amazon slid after its report. October was the Nasdaq's worst month since March 2025.",
+    "asOf": "2026-10-30T20:21:00Z",
     "bullets": [
-      "Nasdaq 100 futures at 28,780, down 2.65%; S&P 500 futures at 7,666.25, down 1.13%; Dow futures at 52,520, up 0.02% (Business Insider premarket, 7:51 a.m. ET).",
-      "Amazon fell more than 6% after hours after EPS of $1.89 missed $1.96 expected; AWS revenue rose to $45.98 billion (CNBC).",
-      "Intel was down about 26% premarket after guiding Q4 revenue to $15B-$16B, below the $17.05B consensus (Seeking Alpha).",
-      "WTI crude was up 1.96% at $104.00 and Brent up 2.72% at $118.00 premarket; gold down 1.45% (Business Insider).",
-      "8:30 a.m. ET: Employment Cost Index (Bureau of Labor Statistics) and Sanofi Q3 webcast (Sanofi)."
+      "S&P 500 closed at 7,580.07, down 140.32 points (-1.8%), its worst day since June; Nasdaq Composite 25,437.00 (-2.9%); Dow 51,770.31 (-1.1%) (Associated Press, 4:21 p.m. ET).",
+      "Intel fell almost 29% after a fourth-quarter forecast below analyst expectations, its worst day since 1974 (Associated Press).",
+      "For October, the Nasdaq fell 5.3%, its worst month since March 2025 (Investopedia). For the week, the S&P 500 is down 0.6% and the Nasdaq down 2.0% (Associated Press).",
+      "The 8:30 a.m. Employment Cost Index rose 0.8% in the third quarter and 3.4% over the year, in line with the 0.8% forecast (Bureau of Labor Statistics).",
+      "WTI crude rose above $104 a barrel (+2.4%); gold futures fell 3.7% to about $3,883 an ounce; the 10-year Treasury yield was about 4.93% (Investopedia, afternoon session)."
     ]
   },
   "marketSnapshot": [
-    { "label": "Nasdaq 100 futures", "value": "28,780", "change": "-782.00 (-2.65%)", "direction": "down", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 7:51 AM ET (indicative premarket)" },
-    { "label": "S&P 500 futures", "value": "7,666.25", "change": "-88.00 (-1.13%)", "direction": "down", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 7:51 AM ET (indicative premarket)" },
-    { "label": "Dow Jones futures", "value": "52,520", "change": "+8.00 (+0.02%)", "direction": "up", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 7:51 AM ET (indicative premarket)" },
-    { "label": "WTI crude futures", "value": "104.00", "change": "+2.00 (+1.96%)", "direction": "up", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 8:01 AM ET (indicative premarket)" },
-    { "label": "Gold futures", "value": "3,966.51", "change": "-58.20 (-1.45%)", "direction": "down", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 8:01 AM ET (indicative premarket)" },
-    { "label": "Alphabet (GOOGL) close", "value": "283.61", "change": "-41.28 (-12.71%)", "direction": "down", "source": "Trading Economics", "sourceUrl": "https://tradingeconomics.com/united-states/stock-market", "asOf": "2026-10-29 close (4:00 PM ET)" },
-    { "label": "Amazon (AMZN) after hours", "value": "down more than 6%", "change": "extended trading", "direction": "down", "source": "CNBC", "sourceUrl": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html", "asOf": "2026-10-29 after close" },
-    { "label": "Intel (INTC) premarket", "value": "down about 26%", "change": "premarket", "direction": "down", "source": "Seeking Alpha", "sourceUrl": "https://seekingalpha.com/news/4660336-intel-slides-as-q3-results-guidance-miss-wall-streets-forecasts", "asOf": "2026-10-30 premarket" }
+    {
+      "label": "S&P 500",
+      "value": "7,580.07",
+      "change": "-140.32 (-1.8%)",
+      "direction": "down",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
+      "asOf": "2026-10-30 4:21 PM ET (close)"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "25,437.00",
+      "change": "-747.73 (-2.9%)",
+      "direction": "down",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
+      "asOf": "2026-10-30 4:21 PM ET (close)"
+    },
+    {
+      "label": "Dow Jones Industrial Average",
+      "value": "51,770.31",
+      "change": "-572.25 (-1.1%)",
+      "direction": "down",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
+      "asOf": "2026-10-30 4:21 PM ET (close)"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,811.84",
+      "change": "-47.37 (-1.7%)",
+      "direction": "down",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
+      "asOf": "2026-10-30 4:21 PM ET (close)"
+    },
+    {
+      "label": "WTI crude futures",
+      "value": "104+",
+      "change": "+2.4%",
+      "direction": "up",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212",
+      "asOf": "2026-10-30 3:26 PM ET (intraday)"
+    },
+    {
+      "label": "Gold futures",
+      "value": "3,883",
+      "change": "-3.7%",
+      "direction": "down",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212",
+      "asOf": "2026-10-30 3:26 PM ET (intraday)"
+    },
+    {
+      "label": "10-year Treasury yield",
+      "value": "4.93%",
+      "change": "flat vs. Thursday",
+      "direction": "mixed",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212",
+      "asOf": "2026-10-30 3:26 PM ET (intraday)"
+    }
   ],
   "calendar": [
-    { "date": "2026-10-30", "time": "8:30 AM ET", "event": "Third-quarter Employment Cost Index", "importance": "high", "why": "Compensation trends help markets gauge services inflation and labor-cost pressure (Bureau of Labor Statistics)." },
-    { "date": "2026-10-30", "time": "8:30 AM ET", "event": "Sanofi Q3 2026 results webcast", "importance": "medium", "why": "Results against a $1.63 consensus EPS estimate; pipeline and guidance are the focus (Sanofi IR; MarketBeat)." },
-    { "date": "2026-11-02", "time": "5:00 PM ET call", "event": "Apple fiscal Q4 2026 results", "importance": "high", "why": "Apple reports after the close; the next major test of the consumer-hardware and services outlook (Apple Investor Relations)." },
-    { "date": "2026-11-03", "time": "Polls open by state", "event": "U.S. midterm Election Day", "importance": "high", "why": "Control of Congress can reshape expectations for taxes, regulation and fiscal policy." },
-    { "date": "2026-11-06", "time": "8:30 AM ET", "event": "October Employment Situation (jobs report)", "importance": "high", "why": "Payrolls, unemployment and wages will shape expectations for the Fed's next steps." },
-    { "date": "2026-11-10", "time": "8:30 AM ET", "event": "October Consumer Price Index", "importance": "high", "why": "CPI is a key cross-check on inflation after the Fed meeting." },
-    { "date": "2026-11-25", "time": "8:30 AM ET", "event": "BEA Q3 GDP release (next)", "importance": "medium", "why": "Next scheduled GDP update after the Oct 29 advance estimate (Bureau of Economic Analysis)." },
-    { "date": "2026-12-09", "time": "2:00 PM ET", "event": "FOMC policy decision", "importance": "high", "why": "Traders priced about 84% odds of a quarter-point hike after the Oct. 28 hold, per CME FedWatch via Investopedia." }
+    {
+      "date": "2026-11-02",
+      "time": "9:45 AM ET",
+      "event": "US Manufacturing PMI",
+      "importance": "medium",
+      "why": "Early read on factory activity ahead of the midterms."
+    },
+    {
+      "date": "2026-11-02",
+      "time": "10:00 AM ET",
+      "event": "ISM Manufacturing PMI",
+      "importance": "high",
+      "why": "Forecast 54.7 vs 54.5 previously (InvestingLive); a reading above 50 signals expansion."
+    },
+    {
+      "date": "2026-11-02",
+      "time": "10:30 PM ET",
+      "event": "Reserve Bank of Australia rate decision",
+      "importance": "high",
+      "why": "Forecast 4.85% vs 4.60%, a 25-basis-point hike (InvestingLive)."
+    },
+    {
+      "date": "2026-11-03",
+      "time": "All day",
+      "event": "US midterm elections",
+      "importance": "high",
+      "why": "Determines control of the House and Senate; divided government would shape tax and spending talks."
+    },
+    {
+      "date": "2026-11-03",
+      "time": "10:00 AM ET",
+      "event": "JOLTS job openings (September)",
+      "importance": "high",
+      "why": "Forecast 7.11 million vs 7.08 million (InvestingLive)."
+    },
+    {
+      "date": "2026-11-06",
+      "time": "8:30 AM ET",
+      "event": "October Employment Situation (jobs report)",
+      "importance": "high",
+      "why": "Key input for rate-hike expectations after the Employment Cost Index came in at 0.8%."
+    }
   ],
   "trending": [
+    "close-recap-nasdaq-worst-day-since-june-intel-plunge",
+    "week-ahead-midterms-jobs-report-rba-boe-hikes",
     "futures-slide-amazon-intel-drag-tech-after-alphabet-selloff",
-    "sanofi-q3-and-employment-cost-index-before-the-bell",
-    "close-recap-stocks-fall-alphabet-worst-day-gdp-beat-no-relief",
-    "amazon-intel-after-hours-miss-shares-fall-ai-spend-scrutiny",
-    "visa-results-test-card-spending-and-cross-border-demand",
-    "megacap-earnings-ai-buildout-reality-check",
-    "bitcoin-slips-below-80000-as-traders-cut-risk"
+    "amazon-aws-growth-capex-cash-flow"
   ]
 }

@@ -1,0 +1,94 @@
+{
+  "slug": "close-recap-nasdaq-worst-day-since-june-intel-plunge",
+  "title": "Nasdaq Posts Its Worst Day Since June as Intel's Collapse and AI Doubts Close October Lower",
+  "dek": "The S&P 500 fell 1.8% to 7,580.07, the Nasdaq dropped 2.9% to 25,437.00 and the Dow lost 1.1% to 51,770.31 as chip stocks led a sell-off on Amazon and Intel results.",
+  "section": "markets",
+  "tags": [
+    "markets",
+    "close",
+    "nasdaq",
+    "intel",
+    "amazon",
+    "chips",
+    "employment cost index"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-30T20:30:00Z",
+  "updatedAt": "2026-10-30T20:30:00Z",
+  "edition": "afternoon",
+  "featured": true,
+  "breaking": false,
+  "readMinutes": 5,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/No_Known_Restrictions_Trading_Floor%2C_New_York_Stock_Exchange_%28Highsmith_LOC%29_%286718386525%29.jpg",
+    "alt": "Trading floor of the New York Stock Exchange, photographed by Carol Highsmith",
+    "credit": "Carol M. Highsmith, Library of Congress Prints and Photographs Division",
+    "license": "No known restrictions on publication (Library of Congress)",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_Trading_Floor,_New_York_Stock_Exchange_(Highsmith_LOC)_(6718386525).jpg"
+  },
+  "keyPoints": [
+    "At the close, the S&P 500 fell 140.32 points, or 1.8%, to 7,580.07; the Nasdaq Composite fell 747.73 points, or 2.9%, to 25,437.00; the Dow fell 572.25 points, or 1.1%, to 51,770.31 (Associated Press).",
+    "Intel sank almost 29% for its worst day since 1974 after a fourth-quarter forecast below analysts' expectations (Associated Press).",
+    "For October, the Nasdaq lost 5.3%, its worst month since March 2025, while the Dow gained 1.7% (Investopedia).",
+    "The Employment Cost Index rose 0.8% in the third quarter, matching the forecast, and 3.4% over the year (Bureau of Labor Statistics)."
+  ],
+  "body": "## Closing levels\n\nU.S. stocks finished lower on the last trading day of October, with technology leading the decline. The S&P 500 fell 1.8% to 7,580.07, its worst day since June. The Nasdaq Composite dropped 2.9% to 25,437.00, and the Dow Jones Industrial Average slid 1.1% to 51,770.31. The Russell 2000 small-cap index fell 1.7% to 2,811.84, according to the Associated Press.\n\nFor the week, the S&P 500 is down 0.6%, the Dow is down 0.9% and the Nasdaq is down 2.0%. For the year, the S&P 500 is still up 10.7% and the Nasdaq up 9.4%. October was the Nasdaq's worst month since March 2025, with a 5.3% decline for the month ([Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212)).\n\n## Chips and AI names carry the decline\n\nThe losses concentrated in semiconductors and AI-linked stocks. Intel was the largest decliner in the S&P 500 and the Nasdaq 100. Its forecast for the fourth quarter fell short of expectations, even though third-quarter results beat estimates. Investopedia reported that the iShares Semiconductor ETF, with Intel and AMD as its two largest holdings, was down more than 8% at its afternoon update, with AMD and Marvell down double digits and Broadcom and Micron down more than 5% ([Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212)). Nvidia was among the heaviest Dow decliners in the same session.\n\nAmazon was the other focus. Its shares slid as much as 6% early in the session after its third-quarter report showed AWS revenue growth but negative trailing free cash flow, and they finished lower on the day ([Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212)). Yahoo Finance reported that the Nasdaq's decline was the worst since June 5 and tied the day to Alphabet's Thursday slump, which was its worst session in more than 20 years ([Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html)).\n\n## Economic data and the rate backdrop\n\nThe 8:30 a.m. Employment Cost Index was in line with forecasts. Compensation costs for civilian workers rose 0.8% from June to September, seasonally adjusted, and 3.4% over the 12 months, according to the Bureau of Labor Statistics ([BLS](https://www.bls.gov/eci/)). The reading did not change the day's direction. Treasury yields fell as investors sought safer assets, and the 10-year yield was about 4.93% in the afternoon, according to Investopedia.\n\nOil moved higher. West Texas Intermediate crude was above $104 a barrel, and Brent was reported near $112 in late trading by Yahoo Finance. Higher energy prices added to inflation concern that had already weighed on rate-sensitive assets.\n\n## Crypto and gold\n\nBitcoin fell below $77,000 after a security incident at Binance that the exchange has described as a hack affecting more than $6 billion. Crypto equities also dropped, with Strategy (MSTR) and Coinbase (COIN) among the weakest names in the group ([Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212)). Gold futures fell to their lowest level since last September, trading near $3,883 an ounce in the afternoon.\n\n## What it means for next week\n\nThe market's next test is the week's data and earnings calendar, which begins Monday with U.S. manufacturing data and runs through the Nov. 3 midterm elections and the Nov. 6 jobs report. Traders will watch whether the chip sell-off stabilizes after Intel's guidance reset and whether the AI spending debate spreads to other large technology companies.",
+  "marketImpact": {
+    "summary": "The close confirmed that the AI-spending concern is now a market-wide valuation issue. Chips and cloud-capex names bear the most direct risk, while the ECI print removed one source of wage-driven inflation fear for the moment.",
+    "timeframe": "Monday's open and the next two sessions",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "INTC",
+        "direction": "down",
+        "rationale": "Shares fell almost 29% on the day, the worst since 1974, after the fourth-quarter outlook missed expectations (Associated Press)."
+      },
+      {
+        "symbol": "AMZN",
+        "direction": "down",
+        "rationale": "The stock slid as much as 6% early after its report showed negative trailing free cash flow of $42.4 billion despite AWS growth (CNBC; Investopedia)."
+      },
+      {
+        "symbol": "NVDA",
+        "direction": "down",
+        "rationale": "Nvidia was among the heaviest Dow decliners in the afternoon session as the chip group sold off (Investopedia)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-03",
+        "event": "U.S. midterm elections, which will determine control of the House and Senate"
+      },
+      {
+        "date": "2026-11-06",
+        "event": "October Employment Situation report"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "How major US stock indexes fared Friday 10/30/2026",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Stock Market Today: Major indexes ... Amazon, Intel",
+      "publisher": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Employment Cost Index, third quarter 2026",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/eci/",
+      "accessedAt": "2026-10-30"
+    }
+  ]
+}

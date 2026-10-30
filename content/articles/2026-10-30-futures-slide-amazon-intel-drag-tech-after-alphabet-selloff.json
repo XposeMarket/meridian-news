@@ -3,10 +3,17 @@
   "title": "Futures Slide as Amazon and Intel Extend Thursday's Tech Selloff",
   "dek": "Nasdaq 100 futures fell about 2.7% before the bell as Amazon's after-hours decline and Intel's weak fourth-quarter guidance added to Alphabet's Thursday rout.",
   "section": "markets",
-  "tags": ["markets", "futures", "amazon", "intel", "alphabet", "premarket"],
+  "tags": [
+    "markets",
+    "futures",
+    "amazon",
+    "intel",
+    "alphabet",
+    "premarket"
+  ],
   "author": "Meridian Newsroom",
   "publishedAt": "2026-10-30T12:15:00Z",
-  "updatedAt": "2026-10-30T12:15:00Z",
+  "updatedAt": "2026-10-30T20:30:00Z",
   "edition": "pre-market",
   "featured": true,
   "breaking": false,
@@ -24,27 +31,74 @@
     "Intel was down about 26% in premarket trading after guiding fourth-quarter revenue to $15B-$16B, below the $17.05B consensus (Seeking Alpha).",
     "Thursday's Alphabet slump, a 12.7% drop to $283.61, is the backdrop for the morning selloff (Trading Economics)."
   ],
-  "body": "## Futures point to a weaker open\n\nU.S. index futures opened the session lower after Thursday's losses. In premarket quotes captured around 7:51 a.m. Eastern, Nasdaq 100 futures were down 2.65% at 28,780, the S&P 500 futures were down 1.13% at 7,666.25, and Dow Jones futures were roughly flat at 52,520 ([Business Insider](https://markets.businessinsider.com/premarket)). Those quotes are indicative, not exchange prints, and they will move with the 8:30 a.m. data.\n\nThe regular session on Thursday already showed the strain. The S&P 500 closed at 7,682.71, down 0.31%, and the Nasdaq 100 fell 1.38%, according to Trading Economics. Alphabet dropped 12.7% to $283.61 in Thursday's session ([Trading Economics](https://tradingeconomics.com/united-states/stock-market)), after its third-quarter growth came in weaker than analysts expected ([Fort Morgan Times](https://www.fortmorgantimes.com/2026/10/29/alphabet-us-stocks/)).\n\n## Amazon: strong cloud growth, weaker cash flow\n\nAmazon closed Thursday at $243.79, down 4.25%, ahead of its third-quarter report ([Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/)). After the bell, CNBC reported the stock fell more than 6% in extended trading after earnings of $1.89 a share missed the $1.96 estimate and revenue of $201.94 billion came in below the $202.31 billion estimate ([CNBC](https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html)).\n\nThe cloud line was better than expected. Amazon Web Services brought in $45.98 billion against a $45.29 billion estimate, per StreetAccount figures cited by CNBC. The company held its 2026 capital expenditure forecast at $220 billion, and free cash flow over the trailing twelve months fell to negative $42.4 billion. Management said it expects to spend \"meaningfully more\" in 2027. That combination, strong demand alongside rising spending, is the reason investors are treating Amazon as a referendum on AI capital costs.\n\n## Intel: a guidance problem\n\nIntel posted adjusted earnings of 52 cents a share on $16.51 billion in sales for the September quarter, ahead of the 41 cents FactSet expected ([Investor's Business Daily](https://www.investors.com/news/technology/intel-stock-intc-q3-2026-earnings/)). The fourth-quarter outlook was the problem. Intel guided to $15 billion to $16 billion in revenue, against a Wall Street estimate of $17.05 billion, and said a disruption would cost roughly $300 million of Q4 revenue ([Seeking Alpha](https://seekingalpha.com/news/4660336-intel-slides-as-q3-results-guidance-miss-wall-streets-forecasts)). Seeking Alpha reported Intel down 26% in premarket trading.\n\n## Commodities and the open\n\nEnergy was higher in premarket trade. WTI crude futures were up 1.96% at $104.00 a barrel and Brent up 2.72% at $118.00, while gold futures slipped 1.45% to $3,966.51 ([Business Insider](https://markets.businessinsider.com/premarket)). Higher oil adds to the inflation worries that the 8:30 a.m. labor-cost data will be read against.\n\n## What to watch\n\nThe Employment Cost Index for the third quarter is due at 8:30 a.m. Eastern ([Bureau of Labor Statistics](https://www.bls.gov/eci/)). The second-quarter reading showed civilian compensation up 0.9% for the quarter and 3.4% over the year. Sanofi's third-quarter webcast is also at 8:30 a.m. Eastern. The market will look for whether the tech weakness spreads beyond the largest AI spenders. Watch Amazon's and Intel's opening prints, and whether the Nasdaq holds the Thursday lows.\n\n## Market impact\n\nThe day's risk is concentrated in the large-cap AI complex. Amazon's guidance and capex commentary, and Intel's guide, will feed the broader question of whether spending keeps rising faster than cash flow. Confidence in the direction is medium because the premarket quotes are indicative and the Amazon after-hours move is still being repriced.",
+  "body": "## Futures point to a weaker open\n\nU.S. index futures opened the session lower after Thursday's losses. In premarket quotes captured around 7:51 a.m. Eastern, Nasdaq 100 futures were down 2.65% at 28,780, the S&P 500 futures were down 1.13% at 7,666.25, and Dow Jones futures were roughly flat at 52,520 ([Business Insider](https://markets.businessinsider.com/premarket)). Those quotes are indicative, not exchange prints, and they will move with the 8:30 a.m. data.\n\nThe regular session on Thursday already showed the strain. The S&P 500 closed at 7,682.71, down 0.31%, and the Nasdaq 100 fell 1.38%, according to Trading Economics. Alphabet dropped 12.7% to $283.61 in Thursday's session ([Trading Economics](https://tradingeconomics.com/united-states/stock-market)), after its third-quarter growth came in weaker than analysts expected ([Fort Morgan Times](https://www.fortmorgantimes.com/2026/10/29/alphabet-us-stocks/)).\n\n## Amazon: strong cloud growth, weaker cash flow\n\nAmazon closed Thursday at $243.79, down 4.25%, ahead of its third-quarter report ([Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/)). After the bell, CNBC reported the stock fell more than 6% in extended trading after earnings of $1.89 a share missed the $1.96 estimate and revenue of $201.94 billion came in below the $202.31 billion estimate ([CNBC](https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html)).\n\nThe cloud line was better than expected. Amazon Web Services brought in $45.98 billion against a $45.29 billion estimate, per StreetAccount figures cited by CNBC. The company held its 2026 capital expenditure forecast at $220 billion, and free cash flow over the trailing twelve months fell to negative $42.4 billion. Management said it expects to spend \"meaningfully more\" in 2027. That combination, strong demand alongside rising spending, is the reason investors are treating Amazon as a referendum on AI capital costs.\n\n## Intel: a guidance problem\n\nIntel posted adjusted earnings of 52 cents a share on $16.51 billion in sales for the September quarter, ahead of the 41 cents FactSet expected ([Investor's Business Daily](https://www.investors.com/news/technology/intel-stock-intc-q3-2026-earnings/)). The fourth-quarter outlook was the problem. Intel guided to $15 billion to $16 billion in revenue, against a Wall Street estimate of $17.05 billion, and said a disruption would cost roughly $300 million of Q4 revenue ([Seeking Alpha](https://seekingalpha.com/news/4660336-intel-slides-as-q3-results-guidance-miss-wall-streets-forecasts)). Seeking Alpha reported Intel down 26% in premarket trading.\n\n## Commodities and the open\n\nEnergy was higher in premarket trade. WTI crude futures were up 1.96% at $104.00 a barrel and Brent up 2.72% at $118.00, while gold futures slipped 1.45% to $3,966.51 ([Business Insider](https://markets.businessinsider.com/premarket)). Higher oil adds to the inflation worries that the 8:30 a.m. labor-cost data will be read against.\n\n## What to watch\n\nThe Employment Cost Index for the third quarter is due at 8:30 a.m. Eastern ([Bureau of Labor Statistics](https://www.bls.gov/eci/)). The second-quarter reading showed civilian compensation up 0.9% for the quarter and 3.4% over the year. Sanofi's third-quarter webcast is also at 8:30 a.m. Eastern. The market will look for whether the tech weakness spreads beyond the largest AI spenders. Watch Amazon's and Intel's opening prints, and whether the Nasdaq holds the Thursday lows.\n\n## Market impact\n\nThe day's risk is concentrated in the large-cap AI complex. Amazon's guidance and capex commentary, and Intel's guide, will feed the broader question of whether spending keeps rising faster than cash flow. Confidence in the direction is medium because the premarket quotes are indicative and the Amazon after-hours move is still being repriced.\n\n## Update: the close\n\nThe premarket slide held through the session. The S&P 500 finished down 1.8% at 7,580.07, the Nasdaq Composite fell 2.9% to 25,437.00 and the Dow lost 1.1% to 51,770.31, according to the Associated Press. Intel closed down almost 29%, its worst day since 1974. The full session recap is in the [close recap](/article/close-recap-nasdaq-worst-day-since-june-intel-plunge).",
   "marketImpact": {
     "summary": "Futures point to a lower open for the Nasdaq and S&P 500 after Thursday's Alphabet-led selloff, with Amazon and Intel adding pressure. The effect is concentrated in AI-spending names and semiconductors, while the energy move adds an inflation overlay.",
     "timeframe": "Friday's session",
     "confidence": "medium",
     "tickers": [
-      { "symbol": "AMZN", "direction": "down", "rationale": "After-hours fall of more than 6% on EPS and revenue misses; capex held at $220 billion and free cash flow negative" },
-      { "symbol": "INTC", "direction": "down", "rationale": "Premarket decline of about 26% after a Q4 revenue guide of $15B-$16B, below the $17.05B consensus" },
-      { "symbol": "GOOGL", "direction": "watch", "rationale": "Shares fell 12.7% Thursday; watch for stabilization or further selling" },
-      { "symbol": "CL=F", "direction": "up", "rationale": "WTI was up about 2% premarket, adding to inflation pressure" }
+      {
+        "symbol": "AMZN",
+        "direction": "down",
+        "rationale": "After-hours fall of more than 6% on EPS and revenue misses; capex held at $220 billion and free cash flow negative"
+      },
+      {
+        "symbol": "INTC",
+        "direction": "down",
+        "rationale": "Premarket decline of about 26% after a Q4 revenue guide of $15B-$16B, below the $17.05B consensus"
+      },
+      {
+        "symbol": "GOOGL",
+        "direction": "watch",
+        "rationale": "Shares fell 12.7% Thursday; watch for stabilization or further selling"
+      },
+      {
+        "symbol": "CL=F",
+        "direction": "up",
+        "rationale": "WTI was up about 2% premarket, adding to inflation pressure"
+      }
     ],
     "catalysts": [
-      { "date": "2026-10-30", "event": "Employment Cost Index, 8:30 AM ET" },
-      { "date": "2026-10-30", "event": "Sanofi third-quarter webcast, 8:30 AM ET" }
+      {
+        "date": "2026-10-30",
+        "event": "Employment Cost Index, 8:30 AM ET"
+      },
+      {
+        "date": "2026-10-30",
+        "event": "Sanofi third-quarter webcast, 8:30 AM ET"
+      }
     ]
   },
   "sources": [
-    { "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html", "accessedAt": "2026-10-30" },
-    { "title": "Stock Market Today, Oct. 29: Amazon Falls on Q3 Earnings Report and Capex Concerns", "publisher": "Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/", "accessedAt": "2026-10-30" },
-    { "title": "Intel Crashes as Q3 Results, Guidance Miss Wall Street's Forecasts", "publisher": "Seeking Alpha", "url": "https://seekingalpha.com/news/4660336-intel-slides-as-q3-results-guidance-miss-wall-streets-forecasts", "accessedAt": "2026-10-30" },
-    { "title": "Intel Stock Tanks On Weak Q4 Guidance After Mixed Q3 Results", "publisher": "Investor's Business Daily", "url": "https://www.investors.com/news/technology/intel-stock-intc-q3-2026-earnings/", "accessedAt": "2026-10-30" },
-    { "title": "Premarket futures, world indexes and commodities", "publisher": "Business Insider", "url": "https://markets.businessinsider.com/premarket", "accessedAt": "2026-10-30" }
+    {
+      "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Stock Market Today, Oct. 29: Amazon Falls on Q3 Earnings Report and Capex Concerns",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Intel Crashes as Q3 Results, Guidance Miss Wall Street's Forecasts",
+      "publisher": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4660336-intel-slides-as-q3-results-guidance-miss-wall-streets-forecasts",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Intel Stock Tanks On Weak Q4 Guidance After Mixed Q3 Results",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/intel-stock-intc-q3-2026-earnings/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Premarket futures, world indexes and commodities",
+      "publisher": "Business Insider",
+      "url": "https://markets.businessinsider.com/premarket",
+      "accessedAt": "2026-10-30"
+    }
   ]
 }

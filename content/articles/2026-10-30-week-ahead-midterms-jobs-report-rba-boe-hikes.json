@@ -1,0 +1,74 @@
+{
+  "slug": "week-ahead-midterms-jobs-report-rba-boe-hikes",
+  "title": "Week Ahead: Midterm Elections, a Jobs Report and Expected Rate Hikes in Australia and Britain",
+  "dek": "U.S. midterms on Tuesday and the Nov. 6 jobs report sit alongside expected rate hikes from the Reserve Bank of Australia and Bank of England.",
+  "section": "markets",
+  "tags": [
+    "week ahead",
+    "midterms",
+    "jobs report",
+    "RBA",
+    "Bank of England",
+    "economy"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-30T20:40:00Z",
+  "updatedAt": "2026-10-30T20:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/No_Known_Restrictions_Trading_Floor%2C_New_York_Stock_Exchange_%28Highsmith_LOC%29_%286718386525%29.jpg",
+    "alt": "Trading floor of the New York Stock Exchange, photographed by Carol Highsmith",
+    "credit": "Carol M. Highsmith, Library of Congress Prints and Photographs Division",
+    "license": "No known restrictions on publication (Library of Congress)",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_Trading_Floor,_New_York_Stock_Exchange_(Highsmith_LOC)_(6718386525).jpg"
+  },
+  "keyPoints": [
+    "Monday, Nov. 2: ISM Manufacturing PMI at 10:00 a.m. ET, forecast 54.7 versus 54.5 previously; RBA cash rate decision at 10:30 p.m. ET, forecast 4.85% versus 4.60% (InvestingLive).",
+    "Tuesday, Nov. 3: U.S. congressional elections all day; JOLTS job openings at 10:00 a.m. ET, forecast 7.11 million versus 7.08 million (InvestingLive).",
+    "Friday, Nov. 6: U.S. employment report, part of a Friday employment doubleheader that includes Canada (InvestingLive)."
+  ],
+  "body": "## Monday: manufacturing and Australia\n\nThe week opens with U.S. manufacturing data. The ISM Manufacturing PMI, due at 10:00 a.m. Eastern on Monday, Nov. 2, is forecast at 54.7, up from 54.5, which would keep the index above the 50 level that separates expansion from contraction ([InvestingLive](https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/)).\n\nLate Monday in New York, the Reserve Bank of Australia is scheduled to announce its cash rate decision at 10:30 p.m. Eastern. The forecast cited by InvestingLive is a 25-basis-point hike to 4.85% from 4.60%. Traders will focus on the guidance: whether the bank signals further tightening.\n\n## Tuesday: midterms and job openings\n\nU.S. voters go to the polls on Tuesday, Nov. 3. Republicans hold a 220-215 House majority and a 53-47 Senate majority. Democrats need a net gain of three House seats and four Senate seats to take both chambers, according to InvestingLive. Divided government would make major tax and spending legislation depend on negotiation, and investors will watch the implications for Treasury borrowing, energy, healthcare and corporate taxes.\n\nThe same morning, the September Job Openings and Labor Turnover Survey is due at 10:00 a.m. Eastern, with a forecast of 7.11 million openings against 7.08 million previously.\n\n## Friday: the jobs report\n\nFriday, Nov. 6 brings the U.S. employment report, which InvestingLive describes as part of a Friday doubleheader with Canada's labor data. The same preview lists expected rate hikes from the Bank of England and the RBA as the week's main central-bank events.\n\n## What to watch\n\nThe week's open questions are whether the chip sell-off that followed Friday's Intel and Amazon reports steadies, how the midterm result shapes fiscal and tax expectations, and whether the jobs report keeps rate-hike pricing alive. Scheduled dates above are from the InvestingLive preview; Meridian has not added events the preview does not list.\n\n## Context for the week\n\nThe calendar is dense because the data and the politics land together. Markets closed Friday after a weak week for technology: the Nasdaq Composite was down 2.0% for the week, according to the Associated Press, while the S&P 500 remained up 10.7% for the year. That leaves less room for error if the manufacturing, job openings or payroll figures surprise to the upside, because rate expectations are already sensitive to inflation.\n\nThe Federal Reserve raised its target range to 3.75%-4% at its September meeting, and the Employment Cost Index released Friday rose 0.8% in the third quarter, in line with forecasts. Those two facts frame how traders will read the Nov. 6 jobs report and any Fed commentary that follows. Meridian has not added Fed speaker dates to this preview because none were verified in the sources used for this edition.",
+  "marketImpact": {
+    "summary": "The week is a volatility event for U.S. equities: a Tuesday election with fiscal-policy implications, a Tuesday job openings report and a Friday jobs report that will shape rate expectations.",
+    "timeframe": "Monday, Nov. 2 through Friday, Nov. 6",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "SPY",
+        "direction": "watch",
+        "rationale": "Broad U.S. equity exposure to the Nov. 3 midterm result, the Nov. 6 jobs report and the rate-hike debate."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-02",
+        "event": "ISM Manufacturing PMI at 10:00 a.m. ET; RBA rate decision at 10:30 p.m. ET"
+      },
+      {
+        "date": "2026-11-03",
+        "event": "U.S. midterm elections; JOLTS job openings at 10:00 a.m. ET"
+      },
+      {
+        "date": "2026-11-06",
+        "event": "October U.S. Employment Situation report"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Week ahead: Elections, rate decisions and jobs take center stage",
+      "publisher": "InvestingLive",
+      "url": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "How major US stock indexes fared Friday 10/30/2026",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
+      "accessedAt": "2026-10-30"
+    }
+  ]
+}
