@@ -1,134 +1,46 @@
 {
-  "updatedAt": "2026-10-29T20:45:00Z",
-  "edition": "afternoon",
-  "leadSlug": "close-recap-stocks-fall-alphabet-worst-day-gdp-beat-no-relief",
+  "updatedAt": "2026-10-30T12:15:00Z",
+  "edition": "pre-market",
+  "leadSlug": "futures-slide-amazon-intel-drag-tech-after-alphabet-selloff",
   "marketBrief": {
-    "headline": "Stocks close lower as Alphabet has worst day on record; Amazon and Intel slide after the bell",
-    "summary": "The S&P 500 closed at 7,682.71, down 0.31%, and the Nasdaq 100 fell 1.38%, as Alphabet's 12.5% drop and AI-spending worries weighed on tech. The 3.4% Q3 GDP print did not lift the market. Amazon and Intel fell after hours.",
-    "asOf": "2026-10-29T20:00:00Z",
+    "headline": "Futures slide before the bell as Amazon and Intel extend Thursday's tech selloff",
+    "summary": "Nasdaq 100 futures were down 2.65% and S&P 500 futures down 1.13% in premarket quotes, after Alphabet's 12.7% Thursday drop. Amazon fell after hours on an earnings miss and Intel fell premarket on weak Q4 guidance. The 8:30 a.m. Employment Cost Index and Sanofi's Q3 webcast are the scheduled catalysts.",
+    "asOf": "2026-10-30T11:51:00Z",
     "bullets": [
-      "S&P 500 closed at 7,682.71, down 0.31%; Nasdaq 100 at 29,066.26, down 1.38%; Dow at 52,330.74, down 0.33% (Trading Economics, close data).",
-      "Alphabet fell 12.5% in its worst day on record, losing about half a trillion dollars of market value (Wall Street Journal).",
-      "Q3 GDP advance estimate: 3.4% annualized vs 2.2% in Q2 (Bureau of Economic Analysis).",
-      "Amazon EPS $1.89 vs $1.96 expected; shares fell more than 7% after hours; capex held at $220 billion (CNBC).",
-      "Intel shares fell about 20% after hours on its Q3 report (Wall Street Journal)."
+      "Nasdaq 100 futures at 28,780, down 2.65%; S&P 500 futures at 7,666.25, down 1.13%; Dow futures at 52,520, up 0.02% (Business Insider premarket, 7:51 a.m. ET).",
+      "Amazon fell more than 6% after hours after EPS of $1.89 missed $1.96 expected; AWS revenue rose to $45.98 billion (CNBC).",
+      "Intel was down about 26% premarket after guiding Q4 revenue to $15B-$16B, below the $17.05B consensus (Seeking Alpha).",
+      "WTI crude was up 1.96% at $104.00 and Brent up 2.72% at $118.00 premarket; gold down 1.45% (Business Insider).",
+      "8:30 a.m. ET: Employment Cost Index (Bureau of Labor Statistics) and Sanofi Q3 webcast (Sanofi)."
     ]
   },
   "marketSnapshot": [
-    {
-      "label": "S&P 500",
-      "value": "7,682.71",
-      "change": "-23.74 (-0.31%)",
-      "direction": "down",
-      "source": "Trading Economics",
-      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
-      "asOf": "2026-10-29 close (4:00 PM ET)"
-    },
-    {
-      "label": "Nasdaq 100",
-      "value": "29,066.26",
-      "change": "-410.65 (-1.38%)",
-      "direction": "down",
-      "source": "Trading Economics",
-      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
-      "asOf": "2026-10-29 close (4:00 PM ET)"
-    },
-    {
-      "label": "Dow Jones Industrial Average",
-      "value": "52,330.74",
-      "change": "-175.54 (-0.33%)",
-      "direction": "down",
-      "source": "Trading Economics",
-      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
-      "asOf": "2026-10-29 close (4:00 PM ET)"
-    },
-    {
-      "label": "Alphabet (GOOGL)",
-      "value": "283.61",
-      "change": "-41.28 (-12.71%)",
-      "direction": "down",
-      "source": "Trading Economics",
-      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market",
-      "asOf": "2026-10-29 close (4:00 PM ET)"
-    },
-    {
-      "label": "Amazon (AMZN) after hours",
-      "value": "down more than 7%",
-      "change": "extended trading",
-      "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "asOf": "2026-10-29 after close"
-    },
-    {
-      "label": "Intel (INTC) after hours",
-      "value": "down about 20%",
-      "change": "post-market",
-      "direction": "down",
-      "source": "Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
-      "asOf": "2026-10-29 after close"
-    }
+    { "label": "Nasdaq 100 futures", "value": "28,780", "change": "-782.00 (-2.65%)", "direction": "down", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 7:51 AM ET (indicative premarket)" },
+    { "label": "S&P 500 futures", "value": "7,666.25", "change": "-88.00 (-1.13%)", "direction": "down", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 7:51 AM ET (indicative premarket)" },
+    { "label": "Dow Jones futures", "value": "52,520", "change": "+8.00 (+0.02%)", "direction": "up", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 7:51 AM ET (indicative premarket)" },
+    { "label": "WTI crude futures", "value": "104.00", "change": "+2.00 (+1.96%)", "direction": "up", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 8:01 AM ET (indicative premarket)" },
+    { "label": "Gold futures", "value": "3,966.51", "change": "-58.20 (-1.45%)", "direction": "down", "source": "Business Insider", "sourceUrl": "https://markets.businessinsider.com/premarket", "asOf": "2026-10-30 8:01 AM ET (indicative premarket)" },
+    { "label": "Alphabet (GOOGL) close", "value": "283.61", "change": "-41.28 (-12.71%)", "direction": "down", "source": "Trading Economics", "sourceUrl": "https://tradingeconomics.com/united-states/stock-market", "asOf": "2026-10-29 close (4:00 PM ET)" },
+    { "label": "Amazon (AMZN) after hours", "value": "down more than 6%", "change": "extended trading", "direction": "down", "source": "CNBC", "sourceUrl": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html", "asOf": "2026-10-29 after close" },
+    { "label": "Intel (INTC) premarket", "value": "down about 26%", "change": "premarket", "direction": "down", "source": "Seeking Alpha", "sourceUrl": "https://seekingalpha.com/news/4660336-intel-slides-as-q3-results-guidance-miss-wall-streets-forecasts", "asOf": "2026-10-30 premarket" }
   ],
   "calendar": [
-    {
-      "date": "2026-10-30",
-      "time": "8:30 AM ET",
-      "event": "Third-quarter Employment Cost Index",
-      "importance": "high",
-      "why": "Compensation trends help markets gauge services inflation and labor-cost pressure."
-    },
-    {
-      "date": "2026-11-02",
-      "time": "5:00 PM ET call",
-      "event": "Apple fiscal Q4 2026 results",
-      "importance": "high",
-      "why": "Apple reports after the close; the next major test of the consumer-hardware and services outlook (Apple Investor Relations)."
-    },
-    {
-      "date": "2026-11-03",
-      "time": "Polls open by state",
-      "event": "U.S. midterm Election Day",
-      "importance": "high",
-      "why": "Control of Congress can reshape expectations for taxes, regulation and fiscal policy."
-    },
-    {
-      "date": "2026-11-06",
-      "time": "8:30 AM ET",
-      "event": "October Employment Situation (jobs report)",
-      "importance": "high",
-      "why": "Payrolls, unemployment and wages will shape expectations for the Fed's next steps."
-    },
-    {
-      "date": "2026-11-10",
-      "time": "8:30 AM ET",
-      "event": "October Consumer Price Index",
-      "importance": "high",
-      "why": "CPI is a key cross-check on inflation after the Fed meeting."
-    },
-    {
-      "date": "2026-11-25",
-      "time": "8:30 AM ET",
-      "event": "BEA Q3 GDP release (next)",
-      "importance": "medium",
-      "why": "Next scheduled GDP update after the Oct 29 advance estimate (Bureau of Economic Analysis)."
-    },
-    {
-      "date": "2026-12-09",
-      "time": "2:00 PM ET",
-      "event": "FOMC policy decision",
-      "importance": "high",
-      "why": "Traders priced about 84% odds of a quarter-point hike after the Oct. 28 hold, per CME FedWatch via Investopedia."
-    }
+    { "date": "2026-10-30", "time": "8:30 AM ET", "event": "Third-quarter Employment Cost Index", "importance": "high", "why": "Compensation trends help markets gauge services inflation and labor-cost pressure (Bureau of Labor Statistics)." },
+    { "date": "2026-10-30", "time": "8:30 AM ET", "event": "Sanofi Q3 2026 results webcast", "importance": "medium", "why": "Results against a $1.63 consensus EPS estimate; pipeline and guidance are the focus (Sanofi IR; MarketBeat)." },
+    { "date": "2026-11-02", "time": "5:00 PM ET call", "event": "Apple fiscal Q4 2026 results", "importance": "high", "why": "Apple reports after the close; the next major test of the consumer-hardware and services outlook (Apple Investor Relations)." },
+    { "date": "2026-11-03", "time": "Polls open by state", "event": "U.S. midterm Election Day", "importance": "high", "why": "Control of Congress can reshape expectations for taxes, regulation and fiscal policy." },
+    { "date": "2026-11-06", "time": "8:30 AM ET", "event": "October Employment Situation (jobs report)", "importance": "high", "why": "Payrolls, unemployment and wages will shape expectations for the Fed's next steps." },
+    { "date": "2026-11-10", "time": "8:30 AM ET", "event": "October Consumer Price Index", "importance": "high", "why": "CPI is a key cross-check on inflation after the Fed meeting." },
+    { "date": "2026-11-25", "time": "8:30 AM ET", "event": "BEA Q3 GDP release (next)", "importance": "medium", "why": "Next scheduled GDP update after the Oct 29 advance estimate (Bureau of Economic Analysis)." },
+    { "date": "2026-12-09", "time": "2:00 PM ET", "event": "FOMC policy decision", "importance": "high", "why": "Traders priced about 84% odds of a quarter-point hike after the Oct. 28 hold, per CME FedWatch via Investopedia." }
   ],
   "trending": [
-    "stocks-set-mixed-open-ahead-of-fed-decision",
-    "stocks-gain-tech-leads-fed-and-earnings-focus",
+    "futures-slide-amazon-intel-drag-tech-after-alphabet-selloff",
+    "sanofi-q3-and-employment-cost-index-before-the-bell",
+    "close-recap-stocks-fall-alphabet-worst-day-gdp-beat-no-relief",
+    "amazon-intel-after-hours-miss-shares-fall-ai-spend-scrutiny",
     "visa-results-test-card-spending-and-cross-border-demand",
     "megacap-earnings-ai-buildout-reality-check",
-    "fed-week-puts-bonds-in-the-spotlight",
-    "anthropic-ipo-tests-ai-investor-appetite",
-    "bitcoin-slips-below-80000-as-traders-cut-risk",
-    "brewers-rally-to-take-2-0-world-series-lead"
+    "bitcoin-slips-below-80000-as-traders-cut-risk"
   ]
 }
