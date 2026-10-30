@@ -1,0 +1,50 @@
+{
+  "slug": "intel-shares-plunge-on-weak-q4-guidance",
+  "title": "Intel Shares Plunge Roughly 29% on Weak Fourth-Quarter Guidance and PC Slowdown",
+  "dek": "Intel beat third-quarter estimates on data center growth, but a fourth-quarter forecast well below consensus and a PC slowdown that could last into 2027 sent the stock toward its worst day since 1974.",
+  "section": "ai-tech",
+  "tags": ["Intel", "earnings", "guidance", "PC market", "CPUs", "semiconductors"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-30T20:35:00Z",
+  "updatedAt": "2026-10-30T20:35:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure of the kind that houses AI accelerators",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "Intel reported third-quarter revenue of $16.5 billion, up 21%, and non-GAAP earnings of 52 cents per share against 40 cents expected, according to CNBC and the company's release.",
+    "Fourth-quarter guidance of $15 billion to $16 billion in revenue and 25 cents adjusted EPS fell well short of analyst expectations of $17.1 billion and 43 cents, per LSEG figures CNBC cited.",
+    "Intel's CFO said the PC slowdown will continue at least through the first half of 2027; data center and AI revenue rose 78% to $7.3 billion.",
+    "CNBC reported Intel shares fell roughly 29% on Friday, heading for their worst day since 1974, after dropping more than 20% in extended trading Thursday.",
+    "Intel said a fab explosion in Israel will cost about $600 million in lost revenue over two quarters."
+  ],
+  "body": "Intel's third-quarter report was better than Wall Street expected on the numbers that had already happened, and worse on the one that matters most for the stock: what comes next.\n\n## The quarter\n\nRevenue was $16.5 billion, up 21% from a year earlier. Adjusted earnings were 52 cents a share against 40 cents expected, according to CNBC, which cited LSEG estimates. Gross margin on a non-GAAP basis was 44.1%, up from 40.0%. Data center and AI revenue jumped 78% to $7.3 billion, and Intel said it posted its strongest data center revenue growth in 15 years. The client computing and physical AI group was weaker: revenue fell 5% to $8.1 billion, short of estimates.\n\n## The guidance\n\nThe forecast did the damage. Intel expects fourth-quarter revenue of $15 billion to $16 billion and adjusted EPS of 25 cents. Analysts had been looking for $17.1 billion and 43 cents. Chief Financial Officer David Zinsner said in the release that Intel sees 'the PC slowdown continuing at least through the first half of next year.' Intel attributed part of the pressure to a fab explosion in Israel earlier in October that killed two workers and injured a third, which the company said would cost about $600 million in revenue over two quarters.\n\nChief Executive Lip-Bu Tan called demand for Intel's Xeon CPUs 'extraordinary' and said the immediate priority is adding supply, a message that points to the server business as the company's main growth engine while the PC business weakens.\n\n## The stock\n\nIntel had rallied strongly this year, but it had fallen about 23% in October before the report on concern about the size of the AI build-out. CNBC reported that the shares dropped more than 20% in extended trading and were down roughly 29% in Friday's session, which would be their worst day since 1974. Yahoo Finance reported the stock at $65.62 in mid-morning trading, down 28.73%. Those are intraday figures; a final close was not available in the sources used for this story.\n\n## What to watch\n\nThe next checkpoints are Intel's supply additions for Xeon, the trajectory of the PC market through 2027, and whether the fab incident affects the cadence of its process roadmap. Investors will also compare Intel's data center momentum with AMD, which reports next week according to CNBC.",
+  "marketImpact": {
+    "summary": "The guidance cut reset expectations for Intel's near-term profit and pushed the stock sharply lower, while the data center and Xeon demand story keeps the long-term debate open. Read-across to other chip names is mixed: CPU demand is strong, but PC weakness hits the wider client chain.",
+    "timeframe": "Friday session and the next two weeks, including AMD's report",
+    "confidence": "high",
+    "tickers": [
+      { "symbol": "INTC", "direction": "down", "rationale": "Shares fell roughly 29% in Friday trading after weak fourth-quarter guidance; CNBC reported the decline toward its worst day since 1974." },
+      { "symbol": "AMD", "direction": "watch", "rationale": "AMD reports next week and competes with Intel in CPUs; its results will test whether server CPU demand is as strong as Intel described." },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Intel's warning pointed to weaker PC demand rather than a slowdown in AI accelerators, but the broader chip group sold off on the report." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Intel reported third-quarter results after the close and issued fourth-quarter guidance below consensus" },
+      { "date": "2026-10-30", "event": "Regular-session reaction; CNBC reported the decline toward the worst day since 1974" },
+      { "date": "2026-10-30", "event": "AMD reports third-quarter results next week, per CNBC" }
+    ]
+  },
+  "sources": [
+    { "title": "Intel Reports Third-Quarter 2026 Financial Results", "publisher": "Intel Corporation (press release)", "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results", "accessedAt": "2026-10-30" },
+    { "title": "Intel (INTC) Q3 earnings report 2026", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html", "accessedAt": "2026-10-30" },
+    { "title": "Intel stock heads for worst day in more than 50 years, wiping out gains", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html", "accessedAt": "2026-10-30" },
+    { "title": "Intel's Earnings Fallout Is Hitting Your Index Funds Too", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/intel-earnings-fallout-hitting-index-162111051.html", "accessedAt": "2026-10-30" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "geely-record-nine-month-profit-exports-surge",
+  "title": "Geely Posts Record Third-Quarter Revenue and Profit as Exports Surge 169%",
+  "dek": "Geely Auto's nine-month core profit rose 41% to RMB 14.9 billion, helped by Zeekr's doubling and overseas sales, though total nine-month revenue grew only 3%.",
+  "section": "autos",
+  "tags": ["Geely", "Zeekr", "Lynk & Co", "exports", "EV", "China autos"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-30T20:35:00Z",
+  "updatedAt": "2026-10-30T20:35:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg",
+    "alt": "Electric cars plugged into public charging points",
+    "credit": "Philip Halling",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg"
+  },
+  "keyPoints": [
+    "Geely Auto's core net profit attributable to owners rose 41% to RMB 14.9 billion in the first nine months of 2026, per the company release as reported by EV.com.",
+    "Third-quarter revenue rose 10% to RMB 98.96 billion, and third-quarter core net profit rose 32% to RMB 5.21 billion, the strongest quarter on record for both, according to EV.com.",
+    "Exports reached 797,670 vehicles in the first nine months, up 169%, with new energy vehicles at 61% of the total.",
+    "Zeekr delivered 288,404 vehicles, with sales and revenue both doubling year over year; Geely targets one million sales outside China in 2026.",
+    "Nine-month total revenue rose only 3% to RMB 272.6 billion, so the profit gain came mainly from better per-vehicle margins."
+  ],
+  "body": "Geely Auto's results show a company making more money on each car while its overall top line grows slowly. The Hong Kong-listed automaker reported its third-quarter numbers on October 29, and EV.com's write-up of the release describes a record quarter for both revenue and profit.\n\n## Profit per vehicle\n\nFor the first nine months, Geely's core net profit attributable to owners of the parent reached RMB 14.9 billion, up 41%. Core net profit per vehicle was RMB 6,664, up 37%, and gross margin improved to 18%. Total nine-month revenue was RMB 272.6 billion, up only 3%.\n\n## Quarter and brands\n\nThird-quarter revenue reached RMB 98.96 billion, up 10%, and core net profit reached RMB 5.21 billion, up 32%. Group sales topped 2.235 million vehicles in the first nine months. Zeekr delivered 288,404 vehicles and its share of group revenue rose from 17.7% to 31.3%. Lynk & Co sold 196,117 vehicles, with more than 70% of them electrified and its sales outside China up 151%.\n\n## Exports\n\nExports were 797,670 vehicles in the first nine months, up 169%, and new energy models made up 61% of them. Monthly sales outside China topped 100,000 vehicles for four straight months from June through September. The company is targeting one million sales outside China in 2026, and plans to bring the Emgrand EM-i, Zhanjian 700 and Lynk & Co 07 GT to more markets.\n\n## Stock reaction\n\nReports on the share move were inconsistent. One account has Hong Kong shares up 2.3% at HK$14.52; another has them closing down 4.4% at HK$13.57. Because the sources disagree, this story does not state a closing price.\n\n## Read-through\n\nThe combination of higher profit per vehicle and faster export growth is the clearest part of the release. Revenue growth of 3% over nine months shows that Geely is earning more from each car rather than selling dramatically more cars overall. Zeekr's growth also shifted the group's revenue mix, with its share of group revenue rising to 31.3% from 17.7%. Investors will be watching whether Geely reaches its goal of one million sales outside China in 2026, and whether its overseas models keep the sales lead they have in several markets.",
+  "marketImpact": {
+    "summary": "Geely's margin gains and export growth strengthen its position in China's EV market, but the slow nine-month revenue growth and the conflicting price reports leave the near-term stock signal unclear.",
+    "timeframe": "Next 1-2 Hong Kong sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "0175.HK", "direction": "watch", "rationale": "Results showed record quarterly profit and exports up 169%, but reports on the share move conflict and no verified close is available." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Geely Automobile announced third-quarter 2026 results" },
+      { "date": "2026-10-30", "event": "Hong Kong trading reaction to the results" }
+    ]
+  },
+  "sources": [
+    { "title": "Geely Auto Reports Record RMB 14.9 Billion Core Profit as Earnings Rise 41%", "publisher": "EV.com", "url": "https://ev.com/news/geely-auto-q3-2026-core-profit-rises-41-percent", "accessedAt": "2026-10-30" },
+    { "title": "Geely Q3 2026 revenue and profit hit record highs", "publisher": "Geely Auto Group (official Facebook post)", "url": "https://www.facebook.com/GeelyAutoGroup/posts/on-october-29-2026-geely-automobile-holdings-limited-hkex-0175-announced-its-fin/122166375411130859/", "accessedAt": "2026-10-30" },
+    { "title": "Geely Q3 Profit Jumps 28% as Exports Triple and China Sales Fall 25%", "publisher": "Electric Vehicles", "url": "https://eletric-vehicles.com/geely/polestar/geely-q3-profit-jumps-28-as-exports-triple-and-china-sales-fall-25/", "accessedAt": "2026-10-30" }
+  ]
+}
