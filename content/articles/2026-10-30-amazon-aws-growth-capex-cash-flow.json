@@ -1,0 +1,48 @@
+{
+  "slug": "amazon-aws-growth-capex-cash-flow",
+  "title": "Amazon's AWS Grows 39%, but the AI Build-Out Pushes Free Cash Flow Negative",
+  "dek": "Amazon's cloud unit posted its fastest growth in nearly five years and reported record operating margin, while $77.3 billion of quarterly capex left trailing free cash flow at negative $42.4 billion.",
+  "section": "ai-tech",
+  "tags": ["Amazon", "AWS", "capex", "cloud", "AI infrastructure", "earnings", "free cash flow"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-30T12:00:00Z",
+  "updatedAt": "2026-10-30T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure of the kind that houses AI accelerators",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "AWS revenue rose 39% to $45.98 billion in the third quarter, above the $45.29 billion StreetAccount consensus, according to CNBC.",
+    "AWS operating income was $17.8 billion, up from $11.4 billion a year earlier, per Quartz's summary of the release.",
+    "Capital expenditures reached $77.3 billion in the quarter, versus $35.1 billion a year earlier and $58.7 billion expected by FactSet analysts, CNBC reported.",
+    "Trailing twelve-month free cash flow was negative $42.4 billion, compared with positive $14.8 billion a year earlier; Amazon kept its 2026 capex forecast at $220 billion.",
+    "Jassy told investors Amazon expects to spend 'meaningfully more' in 2027 and projects AWS revenue growth above 40% in 2027 and 2028."
+  ],
+  "body": "Amazon's third-quarter report split the story in two. Its cloud business accelerated to the fastest pace in almost five years, but the spending needed to keep that growth going pushed cash flow deeper into negative territory.\n\n## The cloud line\n\nAmazon Web Services generated $45.98 billion of revenue, up 39% from a year earlier, according to CNBC. That beat the $45.29 billion consensus, and Quartz described it as the fastest pace in almost five years. AWS operating income reached $17.8 billion, against $11.4 billion a year earlier. Chief Executive Andy Jassy said AWS expects revenue growth above 40% in both 2027 and 2028, and that the company sees AWS becoming a $1 trillion revenue business over the next five to 10 years.\n\n## The spending line\n\nCapital expenditures were $77.3 billion in the quarter, more than double the $35.1 billion of a year earlier and well above the $58.7 billion analysts had estimated, CNBC reported citing FactSet. Amazon said the spending went mainly into property and equipment tied to AI infrastructure. Operating cash flow over the trailing twelve months rose 29% to $168.3 billion, but the heavier capex left free cash flow at negative $42.4 billion for that period.\n\nJassy told analysts Amazon expects to spend \"meaningfully more\" in 2027 and has a \"clear line of sight to attractive financial returns.\" Amazon's 2026 capex guidance of about $220 billion was held steady.\n\n## Where it fits\n\nThe consolidated numbers were not clean. Revenue of $201.9 billion and earnings of $1.89 a share both missed estimates, and advertising revenue of $19.6 billion came in below the $20.8 billion StreetAccount expected. Amazon said Prime Day fell into the second quarter for most large countries this year, a shift it estimated cost about 4 percentage points of third-quarter growth.\n\nThe comparison with peers matters for the AI thesis. Microsoft lowered its fiscal-year capex forecast to $170 billion from $175 billion, and Alphabet kept its $195 billion to $205 billion range, CNBC noted. The question for AWS is whether the 40%-plus growth Jassy is projecting can keep pace with a capital bill that is still rising.\n\n## What to watch\n\nThe next checkpoint is Amazon's fourth-quarter guidance, which calls for revenue of $240 billion to $247 billion, and any 2027 capex number the company gives. Analysts will also watch whether AWS backlog and new customer commitments grow fast enough to justify the step-up in spending.",
+  "marketImpact": {
+    "summary": "AWS acceleration supports the cloud-demand case for Amazon, but negative trailing free cash flow and a signal of higher 2027 spending keep the stock sensitive to any slowdown in cloud growth.",
+    "timeframe": "Next 1-2 sessions",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AMZN", "direction": "down", "rationale": "Shares fell more than 6% in extended trading after EPS and revenue missed, and cash burn widened; CNBC and Quartz both reported the decline." },
+      { "symbol": "MSFT", "direction": "watch", "rationale": "Microsoft cut its capex forecast to $170 billion; peers' spending pace is a read-across for the cloud group." },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Sustained hyperscaler capex supports AI accelerator demand, but any moderation in spending would weigh on the group." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Amazon reported third-quarter results after the close; shares fell in extended trading" },
+      { "date": "2026-10-30", "event": "Regular-session reaction to Amazon's AWS growth and capex disclosure" }
+    ]
+  },
+  "sources": [
+    { "title": "Amazon (AMZN) Q3 earnings report 2026", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html", "accessedAt": "2026-10-30" },
+    { "title": "Amazon Q3 2026 earnings: cloud unit grew 39%, beating forecasts", "publisher": "Quartz", "url": "https://qz.com/amazon-aws-cloud-growth-fastest-earnings-102926", "accessedAt": "2026-10-30" },
+    { "title": "Amazon Q3 2026: AWS revenue rose 39% as EPS missed", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/cards/amazon-q3-2026-earnings-amzn-01m64mgs2373wqp8ya2hpcgve3", "accessedAt": "2026-10-30" }
+  ]
+}
