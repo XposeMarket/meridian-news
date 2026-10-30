@@ -1,0 +1,52 @@
+﻿{
+    "slug":  "senate-battlegrounds-final-week-midterms",
+    "title":  "Senate Map Widens Into Final Week Before Nov. 3 Midterms",
+    "dek":  "Toss-up races now stretch into Alaska, Iowa, Kansas, Ohio and Texas, while early voting closes Friday and counting disputes could run for weeks.",
+    "section":  "us",
+    "tags":  [
+                 "midterms",
+                 "Senate",
+                 "elections",
+                 "Alaska",
+                 "Iowa",
+                 "Kansas",
+                 "Ohio",
+                 "Texas"
+             ],
+    "author":  "Meridian Newsroom",
+    "publishedAt":  "2026-10-30T12:20:00Z",
+    "updatedAt":  "2026-10-30T12:20:00Z",
+    "edition":  "pre-market",
+    "featured":  false,
+    "breaking":  false,
+    "readMinutes":  3,
+    "image":  {
+                  "url":  "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg",
+                  "alt":  "The west front of the United States Capitol building in Washington, D.C.",
+                  "credit":  "Architect of the Capitol",
+                  "license":  "Public domain",
+                  "sourceUrl":  "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg"
+              },
+    "keyPoints":  [
+                      "NPR reports the competitive Senate map has expanded considerably in the final days, with races in states Trump won by double digits in 2024 now within the margin of error.",
+                      "The Cook Political Report rates Alaska, Iowa, Kansas, Ohio and Texas as toss-ups, according to NPR.",
+                      "NPR reports early voting runs from Oct. 13 through Oct. 30, with Election Day on Nov. 3.",
+                      "Reuters reports some races may take weeks to clear recounts and court challenges before results are final.",
+                      "NPR reports early voting runs from Oct. 13 through Oct. 30, with Election Day on Nov. 3."
+                  ],
+    "body":  "The final week of the 2026 midterm campaign has pushed the Senate battlefield well beyond the seats Democrats were expected to defend or target at the start of the cycle. NPR reported on Friday that the competitive map has expanded considerably as the war in Iran has continued, with polling, ad spending and candidate travel pointing to close races in states Trump carried by double digits in 2024.\n\n## The toss-ups\n\nThe Cook Political Report rates Alaska, Iowa, Kansas, Ohio and Texas as toss-ups, NPR reported. Those races are, in NPR\u0027s account, within the margin of error. Democrats have said they are seeing strong candidate fields in deep-red and purple states; Republican committee spokespeople have accused Democrats of misconduct in an Alaska race, a dispute NPR said is still developing.\n\n## Calendar and counting\n\nNPR reports that early voting runs from Oct. 13 through Oct. 30, with Election Day on Nov. 3. Reuters reported that some races may take weeks to clear recounts and court challenges, and that Congress ultimately has the final say on contested outcomes.\n\nThe Senate outcome will be read against the House map in the days after Tuesday. This story will be updated as results and any recount or court actions come in.\n\n## What is at stake\n\nNPR reported that the competitive Senate map widened as the war with Iran continued, a dynamic that has put races in Trump-won states within the margin of error. Democrats have said they see strong candidates in deep-red and purple states. The Democratic Senatorial Campaign Committee chair, Sen. Kirsten Gillibrand of New York, said in NPR\u0027s reporting that the party had \"so many candidates running in so many deep red and purple places,\" and that the candidates were winning. Republican officials disputed that picture; the National Republican Senatorial Committee accused Democrats of misconduct in the Alaska race, a claim NPR reported without resolution.\n\n## Early voting and the count\n\nEarly voting in the midterms ran from Oct. 13 through Oct. 30, according to NPR, meaning Friday is the last day of in-person early voting. Election Day is Nov. 3. Reuters reported that some races may take weeks to clear recounts and court challenges, and that Congress ultimately decides contested outcomes when it convenes.\n\n## What to watch\n\nThe Senate races most likely to flip and the toss-up states named by NPR and the Cook Political Report are the places where the November result is least certain. Forecasts can shift quickly in the final days, and this story is a snapshot of reporting available on Oct. 30.",
+    "sources":  [
+                    {
+                        "title":  "Here are the Senate races to watch ahead of Election Day",
+                        "publisher":  "NPR",
+                        "url":  "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
+                        "accessedAt":  "2026-10-30"
+                    },
+                    {
+                        "title":  "Explainer: When US midterm results are contested, Congress has final say",
+                        "publisher":  "Reuters",
+                        "url":  "https://www.reuters.com/legal/government/when-us-election-results-are-contested-congress-has-final-say-2026-10-30/",
+                        "accessedAt":  "2026-10-30"
+                    }
+                ]
+}
