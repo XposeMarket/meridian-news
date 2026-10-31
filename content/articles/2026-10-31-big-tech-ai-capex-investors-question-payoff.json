@@ -1,0 +1,47 @@
+{
+  "slug": "big-tech-ai-capex-investors-question-payoff",
+  "title": "Big Tech's AI Spending Spree Meets Investor Doubt After a Rough Earnings Week",
+  "dek": "Alphabet, Amazon and Intel all sold off as the AI build-out's costs came into focus, with investors asking when the spending will convert into cash flow.",
+  "section": "ai-tech",
+  "tags": ["AI capex", "Amazon", "Alphabet", "Intel", "earnings", "cloud", "AI infrastructure"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-31T12:00:00Z",
+  "updatedAt": "2026-10-31T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure of the kind that houses AI accelerators",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "Alphabet fell more than 12% on Thursday, its worst day on record, and fell again Friday, according to CNBC.",
+    "Amazon kept its 2026 capital expenditure forecast at $220 billion, reported negative trailing free cash flow of $42.4 billion, and said it expects to spend meaningfully more in 2027, per CNBC.",
+    "Intel fell about 29% on Friday after weak guidance, and the Nasdaq Composite slid 2.9% for the session, CNBC reported.",
+    "Nvidia fell 4%, Broadcom dropped more than 5% and Qualcomm tumbled 11%, showing the selloff reached beyond the hyperscalers.",
+    "Raymond James's Matt Orton said positioning across the space remains crowded even though the fundamentals are strong."
+  ],
+  "body": "The AI build-out is still growing, but investors are no longer rewarding spending on faith. The week's earnings from Alphabet, Amazon and Intel showed the same pattern: strong demand signals paired with bigger bills, and a market that wants to see the cash.\n\n## What the numbers showed\n\nAmazon reported third-quarter results that missed on the top and bottom lines, according to CNBC, and the company again reported negative free cash flow. Trailing twelve-month free cash flow was negative $42.4 billion. Amazon kept its 2026 capital spending forecast at $220 billion and told investors it expects to spend meaningfully more in 2027. Its shares slipped 1.4% on Friday.\n\nAlphabet had the sharpest reaction. Its shares fell more than 12% on Thursday, the worst day in the company's history, and fell further on Friday. The move came after a quarter in which the company's cloud business grew rapidly while investment spending rose sharply.\n\nIntel was the most dramatic casualty. The chipmaker's forecast for the fourth quarter came in well below Wall Street expectations, citing a slowing PC market, and its shares fell about 29% on Friday, their worst day since the 1970s, per CNBC.\n\n## Why the selloff spread\n\nThe reaction did not stay with the companies that reported. Nvidia fell 4%, Broadcom dropped more than 5% and Qualcomm tumbled 11%. The Nasdaq Composite slid 2.9% on Friday, which CNBC described as capping a week of rough tech earnings.\n\nCNBC also reported that the government's roughly 10% stake in Intel lost about $12 billion in value on Friday, and Nvidia's stake lost about $6 billion. Heading into Thursday's report, Intel shares were up about 150% this year.\n\n## The analysis\n\nThe bull case has not disappeared. Demand for data center and AI processors remains strong, and Intel said its data center and AI revenue rose 78% in the quarter. The problem for the market is the timing gap between spending and returns. Companies are committing to multi-year infrastructure budgets while the free cash flow those budgets are supposed to produce is still negative.\n\nRaymond James chief market strategist Matt Orton told CNBC that the moment is not a reckoning, but that investors should think carefully about crowded positioning even as fundamentals hold up. That framing captures the week: the spending is not being rejected, but its payoff is now being tested quarter by quarter.\n\n## What to watch\n\nThe next checkpoints are the 2027 spending guidance from the largest cloud providers, whether cloud growth keeps pace with capital costs, and whether the PC weakness Intel described spreads further across the chip supply chain.",
+  "marketImpact": {
+    "summary": "The week reset expectations for how fast AI spending turns into cash. Hyperscaler capex and negative free cash flow now weigh on the group, while chip makers face both AI demand questions and PC weakness.",
+    "timeframe": "Next two weeks, including the November semiconductor and cloud updates",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AMZN", "direction": "down", "rationale": "Shares slipped 1.4% Friday after a third-quarter miss, negative free cash flow and a 2027 spending signal, per CNBC." },
+      { "symbol": "GOOGL", "direction": "down", "rationale": "Shares fell more than 12% Thursday, their worst day on record, and fell again Friday, per CNBC." },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Shares fell 4% Friday in the broad chip selloff; the company's AI demand is the main read-through for the capex debate." }
+    ],
+    "catalysts": [
+      { "date": "2026-10-29", "event": "Amazon third-quarter results; capex and free cash flow disclosed" },
+      { "date": "2026-10-30", "event": "Alphabet posted its worst day on record on Thursday and fell further Friday; Intel fell about 29%" }
+    ]
+  },
+  "sources": [
+    { "title": "Amazon, Intel shares fall after earnings amid AI spending concerns", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html", "accessedAt": "2026-10-31" },
+    { "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html", "accessedAt": "2026-10-31" }
+  ]
+}

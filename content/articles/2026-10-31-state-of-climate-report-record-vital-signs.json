@@ -1,0 +1,33 @@
+{
+  "slug": "state-of-climate-report-record-vital-signs",
+  "title": "Annual Climate Report Finds Seven of 16 Vital Signs at Record Extremes",
+  "dek": "The 2026 State of the Climate report, published in BioScience, says warming has accelerated and that carbon dioxide passed 428 parts per million in May.",
+  "section": "climate",
+  "tags": ["climate", "State of the Climate", "carbon dioxide", "warming", "tipping points", "BioScience"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-31T12:00:00Z",
+  "updatedAt": "2026-10-31T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Permian_Flaring_2012-2016.jpg",
+    "alt": "Gas flaring at an oil field, a source of carbon emissions",
+    "credit": "Wikimedia Commons contributor",
+    "license": "See Wikimedia Commons file page",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Permian_Flaring_2012-2016.jpg"
+  },
+  "keyPoints": [
+    "Seven of 16 climate-related planetary vital signs are now at record extremes, the report's authors say.",
+    "Atmospheric carbon dioxide exceeded 428 parts per million in May 2026, about 50% above pre-industrial levels.",
+    "The authors say the rate of warming rose from about 0.05 C per decade between 1880 and 1970 to about 0.36 C per decade between 2010 and 2024.",
+    "At current rates, 2 C above pre-industrial levels could be reached before 2050, according to the authors.",
+    "Fossil fuel consumption rose 0.9% in 2025, with oil, coal and gas all at record highs, per the report."
+  ],
+  "body": "A new edition of an annual scientific report on Earth's \"planetary vital signs\" concludes that the climate system is moving into territory scientists describe as uncharted, with seven of 16 tracked indicators now at record extremes.\n\n## The findings\n\nThe report, published in the journal BioScience and co-led by William J. Ripple of Oregon State University and Christopher Wolf of Terrestrial Ecosystems Research Associates, tracks greenhouse gases, temperatures, oceans, ice, Earth's energy balance and wildfire. According to the release, carbon dioxide, methane and nitrous oxide all reached record concentrations again in 2026.\n\nThe authors say global sea level, ocean heat content, glacier thickness, the Greenland ice sheet mass and the three major greenhouse gases are at record extremes. Preliminary data show glacier thickness and Greenland ice mass at record lows, while ocean heat content and sea level are at record highs.\n\n## Acceleration\n\nThe authors write that the warming rate has accelerated, from about 0.05 C per decade between 1880 and 1970 to about 0.36 C per decade between 2010 and 2024. Eos, which covered the report, describes the 2010 to present rate as roughly double the 1970 to 2010 rate.\n\nThe report warns that tipping points, including a weakening Atlantic Meridional Overturning Circulation, Amazon dieback and ice sheet melt, are becoming more of a risk. It says the Amazon could pass an irreversible threshold at 1.5 C to 1.9 C of warming.\n\n## Human toll\n\nThe authors list recent extreme events, including Hurricane Melissa in October 2025, which caused 95 deaths and more than $12 billion in damage across the Caribbean, and a June 2026 European heatwave that a preliminary estimate linked to about 14,000 deaths. They say all of these events were at least partly attributable to climate change.\n\n## What it means\n\nThe report is an assessment rather than a new measurement campaign. Its central message is that the trend lines have moved, and that the window for avoiding the most severe outcomes is narrowing. The authors describe a self-reinforcing \"hothouse\" trajectory as a risk if warming continues on its current path.",
+  "sources": [
+    { "title": "International scientists issue 2026 State of the Climate report, finding climate progress amid intensifying risks", "publisher": "EurekAlert (BioScience release)", "url": "https://www.eurekalert.org/news-releases/1147223", "accessedAt": "2026-10-31" },
+    { "title": "2026 State of the Climate Report Shows a Planet Reaching Its Limits", "publisher": "Eos", "url": "https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits", "accessedAt": "2026-10-31" }
+  ]
+}
