@@ -1,0 +1,49 @@
+{
+  "slug": "earnings-week-ai-trade-test-rate-hike-odds",
+  "title": "Earnings Week Puts the AI Trade to the Test as Rate-Hike Odds Build",
+  "dek": "Apple, Palantir and AMD are among the large companies due to report as investors weigh AI spending against a central-bank turn toward tightening.",
+  "section": "markets",
+  "tags": ["earnings", "ai", "rates", "week ahead", "explainer"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-31T12:20:00Z",
+  "updatedAt": "2026-10-31T12:20:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_02.jpg",
+    "alt": "Trading floor of the Frankfurt Stock Exchange",
+    "credit": "Ank Kumar, via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_02.jpg"
+  },
+  "keyPoints": [
+    "Trading Economics lists Apple, Palantir, Realty Income and AMD among companies with third-quarter results due in the coming week.",
+    "The Nasdaq Composite fell 2.0% for the week, per the Associated Press, and fell 5.3% in October, its largest monthly drop since March 2025 (Investopedia).",
+    "Intel's weak fourth-quarter outlook and Amazon's free-cash-flow decline set the tone for how investors will read AI spending.",
+    "Markets are pricing tighter policy: the Fed held rates on a 10-2 vote with two dissents for a hike, per Yahoo Finance coverage of the decision."
+  ],
+  "body": "## The calendar is crowded\n\nThe coming week combines three things investors usually treat separately: a run of large earnings reports, a set of central-bank decisions and a U.S. election. Trading Economics' calendar for the week lists results from Apple, Palantir, Realty Income and AMD as part of the third-quarter season, which is gaining momentum.\n\nThe earnings are the more direct test for the artificial-intelligence trade. Friday's session showed how sensitive the market has become to AI spending. Investopedia reported that Intel fell about 29% after a weak fourth-quarter outlook, Amazon dropped after a decline in free cash flow amid heavy AI investment, and chip stocks led the Nasdaq lower.\n\n## Why the AI trade is under scrutiny\n\nThe pattern from the last two weeks is clear. Strong revenue has not been enough when the spending needed to earn it rises faster. Amazon's report, as covered by CNBC, showed negative free cash flow of $42.4 billion for the quarter while holding its 2026 capital expenditure outlook unchanged.\n\nFor AMD and other chipmakers, the question is whether demand for AI hardware can keep pace with what customers are being asked to pay. For Apple and Palantir, the question is different: whether the market will reward steady revenue more than speculative growth. That distinction should decide how the sector reacts.\n\n## The rate backdrop\n\nThe bigger risk is the rate outlook. The Federal Reserve kept its benchmark rate unchanged on Wednesday in a 10-2 vote, with two members dissenting in favor of a hike. Futures pricing has leaned toward a December increase, which makes the next data points more important than usual.\n\nThe Reserve Bank of Australia and the Bank of England are both expected to tighten, according to the InvestingLive preview. A hawkish outcome from either would reinforce the signal from the Fed dissents and could push Treasury yields higher. The 10-year yield was 4.93% at Friday's last reading per Investopedia, close to its recent highs.\n\n## What would change the picture\n\nThree outcomes would shift the read. Strong earnings with raised spending guidance would suggest the AI build-out is still funded by real demand. A weak guide from a major chip or software name would extend the Intel reaction across the sector. A hawkish surprise in the Nov. 6 jobs report would sharpen the rate debate that the midterm election will not settle.\n\nThe election on Nov. 3 adds a policy layer. Investors will look at whether a change in congressional control alters tax and spending expectations, but the rate path is set by the Fed, not Congress, and that makes the data more influential for the week's price action.\n\nThis is an explainer, not a forecast. Dates and consensus figures are taken from the cited previews and may change before release.",
+  "marketImpact": {
+    "summary": "A week of AI-linked earnings and possible policy tightening is a volatility setup for the Nasdaq. Earnings guidance tied to AI capex is the variable most likely to move chip and megacap names.",
+    "timeframe": "Monday, Nov. 2 through Friday, Nov. 6",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AMD", "direction": "watch", "rationale": "Reports this week per Trading Economics; its guidance will be read against the Intel outlook." },
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq-100 exposure to the AI earnings cluster and to the rate-hike debate." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-02", "event": "ISM Manufacturing PMI at 10:00 a.m. ET; RBA rate decision late Sunday night ET" },
+      { "date": "2026-11-03", "event": "U.S. midterm elections; JOLTS job openings at 10:00 a.m. ET" },
+      { "date": "2026-11-06", "event": "October U.S. Employment Situation report" }
+    ]
+  },
+  "sources": [
+    { "title": "Week Ahead - Nov 2nd", "publisher": "Trading Economics", "url": "https://tradingeconomics.com/calendar?article=29377&importance=2&startdate=2026-10-30", "accessedAt": "2026-10-31" },
+    { "title": "Markets News, Oct. 30, 2026: Tech Sell-Off Sends Nasdaq, S&P 500 Reeling; Intel Stock Drops 30%; Bitcoin Slides, Gold Hits One-Year Low", "publisher": "Investopedia", "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212", "accessedAt": "2026-10-31" },
+    { "title": "How major US stock indexes fared Friday 10/30/2026", "publisher": "Associated Press", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2", "accessedAt": "2026-10-31" },
+    { "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html", "accessedAt": "2026-10-31" },
+    { "title": "Week ahead: Elections, rate decisions and jobs take center stage", "publisher": "InvestingLive", "url": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/", "accessedAt": "2026-10-31" }
+  ]
+}

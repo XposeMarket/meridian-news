@@ -1,0 +1,48 @@
+{
+  "slug": "bitcoin-ether-slide-binance-hack-weekend",
+  "title": "Bitcoin and Ether Slide as the $6.3 Billion Binance Hack Rattles Crypto Markets",
+  "dek": "Bitcoin fell back below $77,500 and ether dropped toward $2,230 after Binance disclosed a security incident, with more than $3 billion of stolen assets frozen so far.",
+  "section": "crypto",
+  "tags": ["bitcoin", "ether", "binance", "crypto", "weekend", "security"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-10-31T12:15:00Z",
+  "updatedAt": "2026-10-31T12:15:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "Bitcoin fell 4.1% to $77,445.96 on Friday, according to CNBC; Fortune put it at $77,380.93 at 8:15 a.m. ET, down from $80,036.60 the day before.",
+    "Ether dropped 4.4% to $2,229.50 (CNBC); Fortune recorded $2,232.62, down $88.20 from the previous morning.",
+    "Binance estimated the security incident at $6.3 billion, with about $3 billion frozen and losses pledged to be covered.",
+    "Stocks tied to crypto fell too: Strategy (MSTR) dropped about 8% and Coinbase (COIN) fell roughly 14%, per Investopedia."
+  ],
+  "body": "## A weekend that started with a hack\n\nCrypto markets spent the last two days digesting the largest theft the industry has recorded. Binance, the world's biggest exchange by volume, said a security incident had an estimated impact of $6.3 billion. CNBC reported that cryptocurrency firms had frozen more than $3 billion of the amount so far, and Binance said it would cover all losses.\n\nThe exchange's initial investigation pointed to a compromised DevOps engineer's laptop, which it said allowed an attacker to reach a service container and submit unauthorized withdrawal transactions. Binance said deposits were unaffected and that it expected to resume withdrawals within 48 hours, while it worked on new controls for the withdrawal service and its address systems.\n\n## Where prices landed\n\nBitcoin was the first casualty. CNBC reported it fell 4.1% to $77,445.96 on Friday. Fortune's 8:15 a.m. Eastern reading was $77,380.93, a drop of $2,655.67 from the same time Thursday, when the price was $80,036.60. Bitcoin was about 7.2% below its level of one month earlier, according to Fortune.\n\nEther fell further in percentage terms. CNBC put it down 4.4% at $2,229.50, while Fortune recorded $2,232.62 at 8:15 a.m., an $88.20 decline from the previous day. Binance's own token, BNB, dropped 6% to $701.18.\n\n## Why stocks moved with crypto\n\nThe sell-off was not confined to tokens. Investopedia reported that Strategy, the largest corporate holder of bitcoin, fell about 8%, while Coinbase was down roughly 14% and Circle Internet Group, a stablecoin backer, was about 11% lower. Those moves came on a day when the Nasdaq Composite fell 2.9% and the S&P 500 dropped 1.8%, with chip stocks leading the decline.\n\nThat correlation matters for the rest of the week. Bitcoin had been trading as a risk asset alongside technology shares, so a weak Nasdaq and a crypto-specific shock hit at the same time.\n\n## What to watch\n\nThe first signal is whether Binance restores withdrawals on the timeline it gave. Delays would keep pressure on exchange-linked stocks and BNB. The second is whether the $3 billion already frozen grows or stalls. Investors will also look at spot bitcoin and ether fund flows once trading resumes Monday, since CNBC and Investopedia both described the sell-off as occurring on a day of broad weakness rather than a pure crypto loss.\n\nThe macro backdrop adds a second layer. Investopedia reported that the 10-year Treasury yield was 4.93% and that oil rose above $104 a barrel, and markets are now pricing the possibility of a Federal Reserve rate increase. Higher real yields tend to weigh on speculative assets, so a weak bitcoin tape could persist if the Fed narrative does not soften.\n\nThis is analysis, not a forecast. The sourced facts above are what is known as of this weekend; the scale of the eventual losses and the timing of recovery remain open.",
+  "marketImpact": {
+    "summary": "The crypto sell-off is a two-channel story: a security shock at Binance that hits exchange-linked equities and token prices directly, and a broader risk-off move that links bitcoin to a weak Nasdaq. Watch the withdrawal restart and fund flows.",
+    "timeframe": "Monday's session and the next 48 hours of Binance withdrawal news",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "MSTR", "direction": "down", "rationale": "Largest corporate bitcoin holder; fell about 8% Friday per Investopedia, so further bitcoin weakness hits it hardest." },
+      { "symbol": "COIN", "direction": "down", "rationale": "Exchange-sector read-through from the Binance incident; down roughly 14% Friday per Investopedia." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-01", "event": "Binance's expected restart of withdrawals, which it said would come within 48 hours of Friday's update" },
+      { "date": "2026-11-02", "event": "ISM Manufacturing PMI, a macro read on the risk backdrop for risk assets" }
+    ]
+  },
+  "sources": [
+    { "title": "Bitcoin, ether price: Binance hack rattles crypto markets", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html", "accessedAt": "2026-10-31" },
+    { "title": "$6.3 billion Binance hack is largest crypto theft on record", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html", "accessedAt": "2026-10-31" },
+    { "title": "Current price of Bitcoin for October 30, 2026", "publisher": "Fortune", "url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/", "accessedAt": "2026-10-31" },
+    { "title": "Current price of Ethereum for October 30, 2026", "publisher": "Fortune", "url": "https://fortune.com/article/price-of-ethereum-10-30-2026/", "accessedAt": "2026-10-31" },
+    { "title": "Markets News, Oct. 30, 2026: Tech Sell-Off Sends Nasdaq, S&P 500 Reeling; Intel Stock Drops 30%; Bitcoin Slides, Gold Hits One-Year Low", "publisher": "Investopedia", "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212", "accessedAt": "2026-10-31" }
+  ]
+}
