@@ -1,0 +1,48 @@
+{
+  "slug": "week-ahead-midterms-ism-rba-jobs-report",
+  "title": "Week Ahead: Midterm Elections, a Jobs Report and Expected Rate Hikes Test Stocks After a Rough Friday",
+  "dek": "The US midterms on Tuesday, the Nov. 6 payrolls report and expected RBA and BoE rate hikes arrive after the Nasdaq's 2.9% drop on Friday.",
+  "section": "markets",
+  "tags": ["midterms", "jobs", "fed", "rates", "earnings", "week-ahead"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-01T21:30:00Z",
+  "updatedAt": "2026-11-01T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "Monday brings the ISM Manufacturing PMI (forecast 54.7) and the RBA decision, with a 25-basis-point hike expected (InvestingLive).",
+    "US midterm elections are on Tuesday, Nov. 3; all 435 House seats and 35 Senate seats are contested (Trading Economics).",
+    "The October jobs report is due Friday, Nov. 6, with nonfarm payrolls forecast at +56,000 and unemployment at 4.2% (Trading Economics).",
+    "Friday's session closed with the Nasdaq down 2.9% and the S&P 500 down 1.8%, so the week opens on weaker footing (Portfolio Terminal)."
+  ],
+  "body": "## Monday: manufacturing and Australia\n\nThe week opens with US manufacturing data. The ISM Manufacturing PMI is due at 10 a.m. Eastern on Monday, Nov. 2, with a forecast of 54.7 against 54.5 previously. InvestingLive says that would keep the index above the 50 level that separates expansion from contraction.\n\nLate Monday in New York, the Reserve Bank of Australia is expected to decide on its cash rate, with a forecast of 4.85% against 4.60% previously. InvestingLive described the calendar as pointing to a 25-basis-point hike, and said guidance will matter as much as the move itself.\n\n## Tuesday: the midterms and JOLTS\n\nTuesday, Nov. 3 is the big political day. Trading Economics says all 435 House seats and 35 of the Senate's 100 seats are on the ballot. Democrats are widely expected to win the House, while the Senate is more in doubt. InvestingLive identified Georgia, North Carolina, Maine and Michigan as the key Senate contests.\n\nThe same morning brings JOLTS job openings at 10 a.m. Eastern, forecast at 7.11 million against 7.08 million in August, according to InvestingLive.\n\n## Friday: the jobs report\n\nThe October employment report arrives on Friday, Nov. 6. Trading Economics says nonfarm payrolls are expected to have risen by 56,000, up from 29,000 in September, with the unemployment rate holding at 4.2% and monthly wage growth picking up to 0.3% from 0.1%. Canada also reports employment that day, per InvestingLive.\n\nThe report matters for rate expectations. The Federal Reserve held its benchmark range at 3.75% to 4.00% in its most recent decision, according to FXEmpire, and several Fed officials are scheduled to speak during the week.\n\n## Earnings and the tech backdrop\n\nThird-quarter earnings continue. Trading Economics lists Apple, Palantir, Realty Income, AMD, Amgen, Pfizer, McDonald's, Qualcomm, Uber, ConocoPhillips and Berkshire Hathaway among the companies reporting. That matters because Friday's sell-off was led by technology stocks, with Intel's sharp drop and concerns about AI spending weighing on the Nasdaq.\n\nThe Nasdaq Composite closed Friday at 25,437.00, down 2.9%, and the S&P 500 at 7,580.07, down 1.8%, according to Portfolio Terminal. The Dow fell 1.1% to 51,770.31.\n\n## What to watch\n\nThree things will drive the tape. The first is whether the ISM print confirms the economy is still expanding. The second is the midterm outcome, which decides how much room the White House has to advance its agenda. The third is the jobs report, which will show whether hiring is holding up as rate hikes abroad rise. Each one can move rate expectations, and rate expectations are the link between Friday's tech sell-off and the rest of the market.",
+  "marketImpact": {
+    "summary": "The week is a volatility event for US equities: a Tuesday election with fiscal-policy implications, a Monday ISM read and a Friday payrolls report that will shape rate expectations.",
+    "timeframe": "Monday, Nov. 2 through Friday, Nov. 6",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "SPY", "direction": "watch", "rationale": "Broad index exposure to the election, ISM and payrolls; Friday's 1.8% S&P 500 drop sets the starting point." },
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq-heavy; Friday's 2.9% Nasdaq fall shows the AI and tech exposure most at risk if rate-hike odds rise." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-02", "event": "ISM Manufacturing PMI, 10:00 a.m. ET, forecast 54.7 (InvestingLive)" },
+      { "date": "2026-11-03", "event": "US midterm elections, all 435 House and 35 Senate seats (Trading Economics)" },
+      { "date": "2026-11-06", "event": "US October employment report, nonfarm payrolls forecast +56,000 (Trading Economics)" }
+    ]
+  },
+  "sources": [
+    { "title": "Week ahead: Elections, rate decisions and jobs take center stage", "publisher": "InvestingLive", "url": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/", "accessedAt": "2026-11-01" },
+    { "title": "Week Ahead - Nov 2nd", "publisher": "Trading Economics", "url": "https://tradingeconomics.com/calendar?article=29377&importance=2&startdate=2026-10-30", "accessedAt": "2026-11-01" },
+    { "title": "The Week Ahead: AI Earnings, U.S. Midterms and Jobs Data Test U.S. Stocks", "publisher": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-ai-earnings-u-s-midterms-and-jobs-data-test-u-s-stocks-1641771", "accessedAt": "2026-11-01" },
+    { "title": "Stock Market Close Oct 30, 2026: S&P 500, Dow, Nasdaq", "publisher": "Portfolio Terminal", "url": "https://portfolio-terminal.com/markets/stock-market-close", "accessedAt": "2026-11-01" }
+  ]
+}

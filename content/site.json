@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T12:15:00Z",
-  "edition": "pre-market",
-  "leadSlug": "bitcoin-ether-slide-binance-hack-weekend",
+  "updatedAt": "2026-11-01T21:30:00Z",
+  "edition": "afternoon",
+  "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Bitcoin and ether slide as the $6.3 billion Binance hack hits crypto, while earnings and rate odds set next week",
-    "summary": "Bitcoin fell 4.1% to $77,445.96 and ether 4.4% to $2,229.50 on Friday (CNBC) as Binance estimated a $6.3 billion security incident. Friday also closed the Nasdaq down 2.9% and the S&P 500 down 1.8% (Associated Press), with next week bringing earnings, the Nov. 3 midterms and the Nov. 6 jobs report.",
-    "asOf": "2026-10-31T12:15:00Z",
+    "headline": "Binance restarts withdrawals as the FBI names North Korea; midterms and jobs data set the week",
+    "summary": "Binance reopened bitcoin, ether and BNB Smart Chain withdrawals on Sunday and says about 90% of the $6.3 billion stolen is covered (CNBC). The FBI named North Korea (CNBC, Guardian). Stocks closed Friday with the Nasdaq down 2.9% and the S&P 500 down 1.8% (Associated Press).",
+    "asOf": "2026-11-01T21:30:00Z",
     "bullets": [
-      "Bitcoin fell 4.1% to $77,445.96 and ether dropped 4.4% to $2,229.50 on Friday (CNBC); Binance estimated the hack at $6.3 billion, with about $3 billion frozen (CNBC).",
-      "Binance expects to resume withdrawals within 48 hours of its Friday update (CNBC).",
-      "The S&P 500 closed at 7,580.07 (-1.8%), the Nasdaq Composite at 25,437.00 (-2.9%) and the Dow at 51,770.31 (-1.1%) (Associated Press).",
-      "Strategy (MSTR) fell about 8% and Coinbase about 14% on Friday (Investopedia).",
-      "Next week: ISM Manufacturing on Nov. 2, the midterms on Nov. 3, and the October jobs report on Nov. 6 (Trading Economics, InvestingLive)."
+      "Binance reopened withdrawals Sunday, starting with bitcoin, then Ethereum and BNB Smart Chain (CNBC).",
+      "Binance says about 90% of stolen assets are backed; the remaining 10% is less-liquid tokens (CNBC).",
+      "The FBI said North Korea was responsible and that stolen assets were being converted into ether (Guardian).",
+      "Friday: bitcoin fell 4.1% to $77,445.96 and ether 4.4% to $2,229.50 (CNBC).",
+      "Week ahead: ISM Manufacturing and the RBA decision Monday, the midterms Tuesday, and the October jobs report Friday, Nov. 6 (Trading Economics, InvestingLive)."
     ]
   },
   "marketSnapshot": [
@@ -100,13 +100,6 @@
   "calendar": [
     {
       "date": "2026-11-02",
-      "time": "9:45 AM ET",
-      "event": "US Manufacturing PMI",
-      "importance": "medium",
-      "why": "Early read on factory activity ahead of the midterms."
-    },
-    {
-      "date": "2026-11-02",
       "time": "10:00 AM ET",
       "event": "ISM Manufacturing PMI",
       "importance": "high",
@@ -117,20 +110,20 @@
       "time": "10:30 PM ET",
       "event": "Reserve Bank of Australia rate decision",
       "importance": "high",
-      "why": "Forecast 4.85% vs 4.60%, a 25-basis-point hike (InvestingLive)."
+      "why": "Forecast 4.85% vs 4.60%, a 25-basis-point hike (InvestingLive); guidance matters as much as the move."
     },
     {
       "date": "2026-11-03",
       "time": "All day",
       "event": "US midterm elections",
       "importance": "high",
-      "why": "Determines control of the House and Senate; divided government would shape tax and spending talks."
+      "why": "All 435 House seats and 35 Senate seats are contested (Trading Economics); the result sets the room for the President's agenda."
     },
     {
       "date": "2026-11-03",
       "time": "10:00 AM ET",
       "event": "JOLTS job openings (September)",
-      "importance": "high",
+      "importance": "medium",
       "why": "Forecast 7.11 million vs 7.08 million (InvestingLive)."
     },
     {
@@ -138,13 +131,13 @@
       "time": "8:30 AM ET",
       "event": "October Employment Situation (jobs report)",
       "importance": "high",
-      "why": "Key input for rate-hike expectations after the Employment Cost Index came in at 0.8%."
+      "why": "Nonfarm payrolls forecast +56,000 and unemployment 4.2% (Trading Economics); a key input for rate-hike expectations."
     }
   ],
   "trending": [
+    "binance-withdrawals-resume-fbi-blames-north-korea",
     "bitcoin-ether-slide-binance-hack-weekend",
-    "earnings-week-ai-trade-test-rate-hike-odds",
-    "close-recap-nasdaq-worst-day-since-june-intel-plunge",
-    "week-ahead-midterms-jobs-report-rba-boe-hikes"
+    "week-ahead-midterms-ism-rba-jobs-report",
+    "earnings-week-ai-trade-test-rate-hike-odds"
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "slug": "binance-withdrawals-resume-fbi-blames-north-korea",
+  "title": "Binance Restarts Withdrawals as the FBI Blames North Korea for the $6.3 Billion Hack",
+  "dek": "Binance reopened bitcoin, ether and BNB Smart Chain withdrawals on Sunday and says about 90% of the stolen assets are covered, while the FBI named North Korean actors.",
+  "section": "crypto",
+  "tags": ["binance", "crypto", "security", "north-korea", "bitcoin", "ether"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-01T21:30:00Z",
+  "updatedAt": "2026-11-01T21:30:00Z",
+  "edition": "afternoon",
+  "featured": true,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "Binance resumed withdrawals on Sunday, starting with the bitcoin network, then Ethereum and BNB Smart Chain (CNBC).",
+    "Binance says it has restored backing for about 90% of the stolen assets; the remaining 10% is less-liquid tokens outside its top 10 (CNBC).",
+    "The FBI said late Saturday that North Korea was responsible, and that stolen assets were being converted into ether (CNBC, Guardian).",
+    "Binance has described the attack as more complex than the misuse of a single engineer's permissions (CNBC)."
+  ],
+  "body": "## Withdrawals return in phases\n\nBinance began reopening customer withdrawals on Sunday, four days after hackers drained about $6.3 billion in token assets from its hot wallets. The exchange said the first phase covered bitcoin, followed by the Ethereum network and BNB Smart Chain, according to CNBC. The Guardian reported that the phased reopening began after 2 p.m. Singapore time, with ether, USDT and USDC on the Ethereum blockchain among the first assets to move.\n\nThe reopening is a milestone, not a full recovery. Binance says it has restored backing for about 90% of the stolen assets. CNBC noted that this does not mean 90% of the funds were recovered from the attacker. The exchange said it is tapping its Secure Asset Fund for Users, part of its futures insurance fund and its corporate treasury to cover the gap, and that it will keep buying the remaining tokens until coverage reaches 100%.\n\n## What the FBI said\n\nThe FBI said late Saturday that North Korea was responsible for the theft of more than $6 billion, and linked the attack to a group it called TraderTraitor. The agency said it had observed the stolen assets being converted into ether, and expected further laundering through decentralised finance and instant-swap services. It urged private companies to block transactions linked to the addresses involved, the Guardian reported.\n\nBinance co-chief executive Richard Teng had earlier described a complex attack involving a compromised laptop and malicious software designed to delete evidence, the Guardian reported. CNBC noted that the exchange's first explanation, a compromised DevOps engineer's laptop, has since been broadened, and that the full method is still unclear.\n\n## Market read-through\n\nThe hack hit prices before the reopening. The Guardian reported that bitcoin fell nearly 5% after the news and ether dropped nearly 6%, while BNB, Binance's own token, fell nearly 10%. Our earlier coverage of the Friday moves is in the bitcoin and ether story on this site.\n\nFor Monday, the questions are whether withdrawals run in an orderly way and whether the remaining 10% of coverage is completed. Macro data also lands this week: the ISM Manufacturing index is due Monday at 10 a.m. Eastern, with a forecast of 54.7 against 54.5 previously, according to InvestingLive. Crypto has been trading alongside technology stocks, which fell sharply on Friday, so a weak macro print would add pressure.\n\nWhat happens next depends on the completed backfill and on any forensic findings Binance releases. Until then, the reopening reduces the risk of a forced sell-off in exchange-linked assets, but the North Korea attribution keeps sentiment fragile.",
+  "marketImpact": {
+    "summary": "The reopening lowers the risk of a forced sell-off in exchange-linked assets, but the outstanding 10% of backing and the North Korea attribution keep crypto sentiment fragile into Monday.",
+    "timeframe": "Monday session and the next 48 hours of Binance withdrawal and backfill updates",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "COIN", "direction": "watch", "rationale": "Exchange-sector read-through; the reopening could ease pressure, but any new security detail would hit again." },
+      { "symbol": "MSTR", "direction": "watch", "rationale": "Largest corporate bitcoin holder; it moves with bitcoin, so Monday's bitcoin price is the key input." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-02", "event": "US ISM Manufacturing PMI, 10:00 a.m. ET, forecast 54.7 (InvestingLive)" },
+      { "date": "2026-11-02", "event": "Binance phased withdrawal and backfill updates following the Sunday reopening (CNBC)" }
+    ]
+  },
+  "sources": [
+    { "title": "Binance resumes withdrawals following record $6.3 billion hack", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html", "accessedAt": "2026-11-01" },
+    { "title": "Binance resumes customer withdrawals after record $6.3bn hack", "publisher": "The Guardian", "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency", "accessedAt": "2026-11-01" },
+    { "title": "Binance's $6.3 billion hack: What we know and what comes next", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html", "accessedAt": "2026-11-01" },
+    { "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance", "publisher": "NPR", "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea", "accessedAt": "2026-11-01" }
+  ]
+}
