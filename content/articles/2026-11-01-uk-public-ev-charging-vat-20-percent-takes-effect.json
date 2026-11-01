@@ -1,0 +1,43 @@
+{
+  "slug": "uk-public-ev-charging-vat-20-percent-takes-effect",
+  "title": "Public EV Charging in the UK Moves to 20% VAT as the Rule Takes Effect Today",
+  "dek": "Legislation confirmed in the October Budget treats public and workplace charging as non-domestic electricity from November 1, closing a route that a tribunal had opened for lower-rate VAT.",
+  "section": "autos",
+  "tags": ["EVs", "charging", "VAT", "UK", "tax", "policy"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-01T21:35:00Z",
+  "updatedAt": "2026-11-01T21:35:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg",
+    "alt": "Electric cars plugged into public charging points",
+    "credit": "Philip Halling",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg"
+  },
+  "keyPoints": [
+    "HM Treasury announced on October 28, as part of Budget 2026, that electricity at publicly accessible and workplace EV charge points will be subject to 20% VAT, per Taxi Point.",
+    "The legislation is due in the Finance Bill 2026-27 and takes effect from November 1, 2026, according to EV Fleet World and Taxi Point.",
+    "The change follows a February First-tier Tribunal ruling that some public charging could qualify for reduced-rate VAT, which HMRC has appealed.",
+    "The government also committed £100m over two years to lower costs at local, lower-powered public chargers, with effect from spring 2027, per EV Fleet World."
+  ],
+  "body": "Public electric-vehicle charging in the UK is now taxed at the standard 20% VAT rate under a change that takes effect today. The measure was announced as part of the Budget on October 28 and closes the route that a tribunal ruling had opened earlier this year.\n\n## What changed\n\nTaxi Point reported that the government will legislate in the Finance Bill 2026-27 so that electricity supplied through publicly accessible and workplace charge points is not treated as domestic use for VAT or the Climate Change Levy. EV Fleet World said the legislation takes effect from November 1, 2026.\n\n## The tribunal background\n\nThe change responds to a February ruling by the First-tier Tribunal in favor of Charge My Street, a community charging operator in northern England. According to Taxi Point, the tribunal found that some supplies of electricity at public charging locations could qualify for reduced-rate VAT under existing law, depending on the statutory conditions, including the quantity of electricity supplied. HMRC then applied for permission to appeal and maintained that public charging should stay at 20%.\n\nThe new legislation settles the question in the government's favor for future supplies, so operators cannot rely on the tribunal reasoning.\n\n## What it does not do\n\nTaxi Point noted that the announcement does not by itself set new public charging prices, and that operators already charging 20% VAT would not necessarily need to change them. The reduced 0% rate on qualifying domestic electricity has been extended until July 2027, so the gap between home and public charging costs remains in place.\n\n## The offsetting measures\n\nEV Fleet World reported that the government also committed £100m over two years to reduce costs at local, lower-powered public chargers, with savings expected from spring 2027. The government also launched a taskforce to examine whether drivers without off-street parking could use their domestic electricity tariff at local public chargers. EV Fleet World described that as a complex proposal that will take time, and said the Department for Transport will set out next steps later.\n\n## Why it matters\n\nFor drivers without home charging, the change is a direct cost question. For charge point operators and taxi and private-hire drivers who rely on public charging, the continuing difference in VAT between home and public electricity is the central issue. Taxi Point reported that the new rules leave those drivers facing a different tax position from those who charge at home.\n\nThe measure is a policy change rather than a market event, so it carries no direct stock signal in the sources reviewed. Any effect on charging networks or EV demand in the UK would show up over months in pricing and usage data, not in a single session.",
+  "marketImpact": {
+    "summary": "The VAT change is a policy cost for public charging and a modest headwind for EV running costs for drivers without home charging. The sources do not identify a listed company whose shares are expected to move on it, so the market read-through is limited.",
+    "timeframe": "Operational effect from November 1; demand and pricing effects over the next several months",
+    "confidence": "low",
+    "tickers": [],
+    "catalysts": [
+      { "date": "2026-10-28", "event": "Budget 2026 confirms the 20% VAT on public and workplace EV charging" },
+      { "date": "2026-11-01", "event": "Legislation takes effect" },
+      { "date": "2027-07-31", "event": "Temporary 0% VAT rate on qualifying domestic electricity is due to run until July 2027, per Taxi Point" }
+    ]
+  },
+  "sources": [
+    { "title": "Government confirms 20% public EV charging VAT despite tribunal ruling favouring lower rate", "publisher": "Taxi Point", "url": "https://www.taxi-point.co.uk/post/government-confirms-20-public-ev-charging-vat-despite-tribunal-ruling-favouring-lower-rate", "accessedAt": "2026-11-01" },
+    { "title": "Autumn Budget 2026: Treasury launches £100m public charging fund and 'tariff porting' taskforce but slams door on VAT cut", "publisher": "EV Fleet World", "url": "https://evfleetworld.co.uk/autumn-budget-2026-treasury-launches-100m-public-charging-fund-and-tariff-porting-taskforce-but-slams-door-on-vat-cut/", "accessedAt": "2026-11-01" }
+  ]
+}
