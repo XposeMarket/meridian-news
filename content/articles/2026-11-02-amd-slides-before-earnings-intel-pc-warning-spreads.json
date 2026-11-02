@@ -1,0 +1,46 @@
+{
+  "slug": "amd-slides-before-earnings-intel-pc-warning-spreads",
+  "title": "AMD Slides Ahead of Earnings as Intel's PC Warning Tests the Chip Group",
+  "dek": "AMD fell about 3% on Monday before its Nov. 3 report, after an 11% drop on October 30. Its data-center business, up 107% last quarter, is the part investors need to hold.",
+  "section": "ai-tech",
+  "tags": ["AMD", "earnings", "PC market", "data center", "semiconductors", "Intel"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T21:45:00Z",
+  "updatedAt": "2026-11-02T21:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "AMD shares were trading near $489, down about 3%, on Monday afternoon, according to 24/7 Wall St.",
+    "AMD fell 11% on October 30, when Intel said its PC slowdown would last at least through the first half of 2027.",
+    "AMD is scheduled to report Q3 2026 results after the market closes on November 3.",
+    "In its last reported quarter, AMD's Data Center revenue rose 107% to $6.72 billion, or 58% of sales; Client revenue was $3.06 billion."
+  ],
+  "body": "AMD is heading into its third-quarter report with the chip group divided over how far Intel's PC warning will spread. Shares were down about 3% on Monday, near $489, after an 11% drop on October 30.\n\n## What hit the stock\n\nIntel set fourth-quarter revenue guidance of $15 billion to $16 billion on October 29, below roughly $17 billion expected, and said its PC slowdown would last through at least the first half of 2027. Intel's CEO Lip-Bu Tan said customers had begun signaling a PC slowdown tied to memory prices and availability. That read-across pulled AMD lower because AMD also sells PC processors.\n\n## Why the exposure is smaller than it looks\n\nAMD's client business is the smaller part of the company. In the second quarter it brought in $3.06 billion, while Data Center revenue rose 107% to $6.72 billion, making up 58% of sales, according to 24/7 Wall St. CEO Lisa Su had already flagged in August that the company was planning for a softer PC market as higher memory and component costs weigh on demand.\n\nThe open question is whether the PC weakness reaches the server and AI accelerator side. Intel's own data-center business grew, which suggests server demand is holding, but supply constraints are limiting some server shipments.\n\n## Valuation\n\n24/7 Wall St. put AMD's forward price-to-earnings near 45 times, above its roughly 35-times five-year average. That leaves little room for a soft data-center outlook, and it is why the report on November 3 matters more than the PC read-across alone.\n\nA reader following AMD this week should separate three things. Client revenue is where the PC warning applies most directly. Data-center revenue is where the growth rate has been the core of the bull case. Gross margin is the link between them, because memory and component costs that squeeze PC demand also feed into server builds, and Intel itself has said supply shortages are limiting some server shipments.\n\nThe Intel call also framed memory as the constraint. Intel's CEO said customers had begun signaling a slowdown based on memory prices and availability, and its CFO said the company was not optimistic about next year on memory. Those comments put the cost question at the center of the sector debate, not just in PCs.\n\nWhat to watch: the data-center growth rate, any change to the PC outlook, and how management frames memory-cost pressure for the coming quarters.",
+  "marketImpact": {
+    "summary": "AMD's near-term move depends on whether the PC warning spreads beyond client chips. Its data-center growth is the main support; a softer server outlook would hit a stock already priced at a premium to its five-year average.",
+    "timeframe": "Next 1-2 sessions around the Nov. 3 earnings report",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AMD", "direction": "watch", "rationale": "Down about 3% ahead of the Nov. 3 after-close report; PC warning versus data-center growth is the debate" },
+      { "symbol": "INTC", "direction": "down", "rationale": "The source of the PC warning; shares fell further Monday after a 28.58% drop Friday" },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Edged higher Monday with little PC exposure, per 24/7 Wall St." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "AMD reports Q3 2026 results after the market closes" }
+    ]
+  },
+  "sources": [
+    { "title": "AMD Slides 3% Ahead of Earnings as PC Worries Linger; Intel Drops 5%, NVIDIA Edges Higher", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/", "accessedAt": "2026-11-02" },
+    { "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.00% on Nov 2: A Full Analysis", "publisher": "TradingKey", "url": "https://www.tradingkey.com/news/market-movers/262264533-market-movers-amd-20261102", "accessedAt": "2026-11-02" },
+    { "title": "AMD Reports Tuesday as Ex-Stability AI CEO Warns \"There Are Not Enough CPUs in the World\"", "publisher": "TIKR", "url": "https://www.tikr.com/blog/amd-reports-tuesday-as-ex-stability-ai-ceo-warns-there-are-not-enough-cpus-in-the-world", "accessedAt": "2026-11-02" }
+  ]
+}

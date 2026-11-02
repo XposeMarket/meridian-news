@@ -1,0 +1,47 @@
+{
+  "slug": "intel-slides-again-bofa-downgrade-pc-guidance",
+  "title": "Intel Slides Again as Bank of America Downgrades on PC Weakness",
+  "dek": "Intel fell further in Monday trading after a 28.58% drop on Friday, with Bank of America moving to Neutral and analysts split on whether foundry and data-center demand can offset the PC slump.",
+  "section": "ai-tech",
+  "tags": ["Intel", "INTC", "PC market", "downgrade", "foundry", "semiconductors"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T21:30:00Z",
+  "updatedAt": "2026-11-02T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "Benzinga reported Intel fell further in premarket trading on Monday, November 2, after plunging 28.58% on Friday.",
+    "Bank of America Securities analyst Vivek Arya downgraded Intel to Neutral from Buy, citing a multi-quarter balance between PC weakness and AI data-center demand.",
+    "Intel guided fourth-quarter revenue to $15 billion to $16 billion, against about $17.05 billion expected, and adjusted EPS to 25 cents against a 43-cent consensus.",
+    "KeyBanc kept an Overweight rating and still sees more than $30 billion of external foundry and packaging opportunities by 2030."
+  ],
+  "body": "Intel's slide continued into the new trading week. Benzinga reported that the stock fell again in Monday's premarket session after its 28.58% drop on Friday, as investors weighed a weak fourth-quarter outlook and concerns that PC weakness could run into 2027.\n\n## The guidance problem\n\nIntel beat third-quarter expectations, reporting 52 cents of EPS on $16.51 billion of revenue, according to Benzinga. The fourth-quarter outlook was the problem: adjusted EPS guidance of 25 cents compared with a 43-cent consensus, and revenue of $15 billion to $16 billion against about $17.05 billion expected. Intel's own earnings call blamed customers signaling a PC slowdown tied to memory prices and availability.\n\n## Analysts split on the mix\n\nBank of America's Vivek Arya moved Intel to Neutral from Buy. He told CNBC that Intel's data-center business is growing quickly but that the company remains more exposed to PCs, and that its manufacturing and external foundry push requires heavy upfront capital that could take three to five years to pay back. He said he wants more evidence of external foundry customer wins.\n\nKeyBanc's John Vinh kept an Overweight rating while trimming his target. He cited the near-term PC outlook and a fab incident in Israel that he estimates creates about a 200-basis-point gross-margin headwind. He still sees more than $30 billion of external foundry and packaging opportunities by 2030 and expects data-center revenue to grow about 60% next year.\n\nPatrick Moorhead of Moor Insights & Strategy said the foundry thesis is intact and expects a better manufacturing setup in 2027 as server and PC products align more closely on the 18A and 18A-P processes.\n\n## Why it matters beyond Intel\n\nThe move has spilled into the chip group. Shares of AMD were down about 3% on Monday ahead of its own report, after falling 11% on October 30, when Intel's PC warning first hit the sector. Intel is still the main test of whether AI demand can lift a company whose client business is under pressure from memory costs.\n\nWhat to watch: external foundry customer announcements, and whether Intel's data-center growth holds up against supply constraints it has already described.",
+  "marketImpact": {
+    "summary": "The downgrade and weak guidance keep pressure on Intel's near-term earnings outlook. Read-across is mixed: PC exposure weighs on the client chain, while data-center and foundry demand is the bull case analysts are still debating.",
+    "timeframe": "Next 1-2 weeks, including the peer reports ahead",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "INTC", "direction": "down", "rationale": "Fell further after a 28.58% drop Friday; BofA downgraded to Neutral and Q4 guidance sits well below consensus" },
+      { "symbol": "AMD", "direction": "watch", "rationale": "Down about 3% Monday ahead of its Nov. 3 after-close report; Intel's PC warning is the stated concern" },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Edged higher Monday on the view that Intel's problem is mainly PC exposure with AI demand intact" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "AMD reports Q3 results after the close, a test of whether the PC warning reaches its data-center business" },
+      { "date": "2026-11-02", "event": "Intel shares trade lower after Friday's 28.58% drop and the BofA downgrade" }
+    ]
+  },
+  "sources": [
+    { "title": "Intel Stock Slides Again Monday: What's Going On?", "publisher": "Benzinga", "url": "https://www.benzinga.com/markets/tech/26/11/62776331/intel-stock-slides-again-monday-whats-going-on", "accessedAt": "2026-11-02" },
+    { "title": "AMD Slides 3% Ahead of Earnings as PC Worries Linger; Intel Drops 5%, NVIDIA Edges Higher", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/", "accessedAt": "2026-11-02" },
+    { "title": "Intel (INTC) Downgraded to Hold After Q3 Miss and Weak Q4 Forecast", "publisher": "GuruFocus", "url": "https://www.gurufocus.com/news/9161768/intel-intc-downgraded-to-hold-after-q3-miss-and-weak-q4-forecast", "accessedAt": "2026-11-02" }
+  ]
+}
