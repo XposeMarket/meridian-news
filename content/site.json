@@ -1,28 +1,82 @@
 {
-  "updatedAt": "2026-11-02T12:45:00Z",
-  "edition": "pre-market",
+  "updatedAt": "2026-11-02T17:15:00Z",
+  "edition": "midday",
   "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Futures rebound as oil slides on Hormuz talks; Apple and Palantir report tonight",
-    "summary": "S&P 500 futures rose 0.4% and Nasdaq-100 futures 0.7% before the open, after Friday's Nasdaq Composite fall of 2.9%. WTI dropped more than 4.4% to $99.51 on U.S.-Iran talks (CNBC). Apple and Palantir report after the close Monday (CNBC, Benzinga).",
-    "asOf": "2026-11-02T12:45:00Z",
+    "headline": "Stocks rise at the open as the Dow gains 1%; ISM factory index beats forecast at 55.5",
+    "summary": "At 11:30 a.m. ET the Dow was up 1.01% at 52,291.71 and the Nasdaq Composite up 1.3% (Yahoo Finance), as crude fell about 6% on U.S.-Iran talks (Reuters via Lapaas Voice). ISM's October Manufacturing PMI came in at 55.5 at 10 a.m. ET (ISM).",
+    "asOf": "2026-11-02T16:30:00Z",
     "bullets": [
-      "S&P 500 futures +0.4%, Nasdaq-100 futures +0.7%, Dow futures +196 points before the open (CNBC).",
-      "WTI fell more than 4.4% to $99.51; Brent fell 4.3% to $108.60 (CNBC).",
-      "Micron, Sandisk and Western Digital rose more than 2% each in early trading (CNBC).",
-      "Asia mixed: Kospi +2.8%, Shanghai +1.2%, but China's official manufacturing PMI slipped to 49.3 (NordFX, AP).",
-      "Apple and Palantir report after the close Monday; ISM Manufacturing PMI at 10 a.m. ET (CNBC, InvestingLive)."
+      "Dow 52,291.71, +1.01%, at 11:30 a.m. ET (Yahoo Finance).",
+      "ISM Manufacturing PMI 55.5 vs 54.6 forecast; production index 59.0, highest since November 2021 (ISM).",
+      "Brent $106.65 (-6.0%) and WTI $97.75 (-6.1%) at 1357 GMT (Reuters via Lapaas Voice).",
+      "Intel down 4.33% on weak Q4 guidance (TradingKey, Benzinga).",
+      "Apple and Palantir report after the close Monday (CNBC, Benzinga)."
     ]
   },
   "marketSnapshot": [
     {
-      "label": "Bitcoin",
-      "value": "77,445.96",
-      "change": "-4.1%",
+      "label": "Dow Jones Industrial Average",
+      "value": "52,291.71",
+      "change": "+521.40 (+1.01%)",
+      "direction": "up",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html",
+      "asOf": "2026-11-02 11:30 AM ET (intraday)"
+    },
+    {
+      "label": "S&P 500",
+      "value": "7,654",
+      "change": "+0.98%",
+      "direction": "up",
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/mid-morning-look-november-02-2026/",
+      "asOf": "2026-11-02 mid-morning snapshot"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "25,765",
+      "change": "+1.29%",
+      "direction": "up",
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/mid-morning-look-november-02-2026/",
+      "asOf": "2026-11-02 mid-morning snapshot"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,840",
+      "change": "+1.00%",
+      "direction": "up",
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/mid-morning-look-november-02-2026/",
+      "asOf": "2026-11-02 mid-morning snapshot"
+    },
+    {
+      "label": "Brent crude",
+      "value": "106.65",
+      "change": "-6.0%",
       "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
-      "asOf": "2026-10-30 Friday session"
+      "source": "Reuters via Lapaas Voice",
+      "sourceUrl": "https://lapaasvoice.com/oil-prices-drop-6-as-iran-signals-openness-to-peace-talks-easing-supply-fears",
+      "asOf": "2026-11-02 1357 GMT (8:57 a.m. ET)"
+    },
+    {
+      "label": "WTI crude",
+      "value": "97.75",
+      "change": "-6.1%",
+      "direction": "down",
+      "source": "Reuters via Lapaas Voice",
+      "sourceUrl": "https://lapaasvoice.com/oil-prices-drop-6-as-iran-signals-openness-to-peace-talks-easing-supply-fears",
+      "asOf": "2026-11-02 1357 GMT (8:57 a.m. ET)"
+    },
+    {
+      "label": "Bitcoin",
+      "value": "about 78,000",
+      "change": "little changed",
+      "direction": "mixed",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html",
+      "asOf": "2026-11-02 Monday morning"
     },
     {
       "label": "Ether",
@@ -32,69 +86,6 @@
       "source": "CNBC",
       "sourceUrl": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
       "asOf": "2026-10-30 Friday session"
-    },
-    {
-      "label": "S&P 500",
-      "value": "7,580.07",
-      "change": "-140.32 (-1.8%)",
-      "direction": "down",
-      "source": "Associated Press",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
-      "asOf": "2026-10-30 4:21 PM ET (close)"
-    },
-    {
-      "label": "Nasdaq Composite",
-      "value": "25,437.00",
-      "change": "-747.73 (-2.9%)",
-      "direction": "down",
-      "source": "Associated Press",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
-      "asOf": "2026-10-30 4:21 PM ET (close)"
-    },
-    {
-      "label": "Dow Jones Industrial Average",
-      "value": "51,770.31",
-      "change": "-572.25 (-1.1%)",
-      "direction": "down",
-      "source": "Associated Press",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
-      "asOf": "2026-10-30 4:21 PM ET (close)"
-    },
-    {
-      "label": "Russell 2000",
-      "value": "2,811.84",
-      "change": "-47.37 (-1.7%)",
-      "direction": "down",
-      "source": "Associated Press",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
-      "asOf": "2026-10-30 4:21 PM ET (close)"
-    },
-    {
-      "label": "WTI crude futures",
-      "value": "99.51",
-      "change": "-4.4%",
-      "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 premarket"
-    },
-    {
-      "label": "Brent crude futures",
-      "value": "108.60",
-      "change": "-4.3%",
-      "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 premarket"
-    },
-    {
-      "label": "Nasdaq-100 futures",
-      "value": "+0.7%",
-      "change": "premarket",
-      "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 premarket"
     },
     {
       "label": "10-year Treasury yield",
@@ -110,9 +101,9 @@
     {
       "date": "2026-11-02",
       "time": "10:00 AM ET",
-      "event": "ISM Manufacturing PMI",
+      "event": "ISM Manufacturing PMI (released)",
       "importance": "high",
-      "why": "Forecast 54.7 vs 54.5 previously (InvestingLive); a reading above 50 signals expansion."
+      "why": "Released at 55.5 vs 54.6 forecast; production index 59.0, highest since November 2021 (ISM)."
     },
     {
       "date": "2026-11-02",
@@ -151,10 +142,10 @@
     }
   ],
   "trending": [
-    "binance-withdrawals-resume-fbi-blames-north-korea",
+    "us-open-stocks-rise-dow-up-1-percent-oil-falls",
+    "ism-factory-index-55-5-beats-forecast-intel-slides",
     "futures-rebound-oil-slides-hormuz-talks-tech-steadies",
     "apple-palantir-report-after-bell-what-to-watch",
-    "asia-shares-mixed-china-pmi-below-50-oil-retreats",
     "week-ahead-midterms-ism-rba-jobs-report"
   ]
 }

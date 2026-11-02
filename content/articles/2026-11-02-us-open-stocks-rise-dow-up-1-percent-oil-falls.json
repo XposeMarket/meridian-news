@@ -1,0 +1,97 @@
+{
+  "slug": "us-open-stocks-rise-dow-up-1-percent-oil-falls",
+  "title": "Stocks Rise at the Open as the Dow Gains 1% and Nasdaq Recovers Part of Friday's Rout",
+  "dek": "At 11:30 a.m. Eastern the Dow was up 1.01% at 52,291.71 and the Nasdaq Composite up 1.3%, as crude fell about 6% on the US-Iran talks.",
+  "section": "markets",
+  "tags": [
+    "stocks",
+    "open",
+    "dow",
+    "nasdaq",
+    "oil",
+    "midday"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T17:15:00Z",
+  "updatedAt": "2026-11-02T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "At 11:30 a.m. ET the Dow Jones Industrial Average was at 52,291.71, up 521.40 points or 1.01% (Yahoo Finance).",
+    "A mid-morning snapshot from Investrade put the S&P 500 at 7,654 (up 0.98%) and the Nasdaq Composite at 25,765 (up 1.29%).",
+    "Brent fell 6% to $106.65 and WTI fell 6.1% to $97.75 at 1357 GMT, per Reuters reporting carried by Lapaas Voice.",
+    "Friday's close left the Nasdaq Composite down 2.9% and the S&P 500 down 1.8% (Associated Press)."
+  ],
+  "body": "## The open\n\nU.S. stocks rose after the Monday open, recovering part of Friday's sell-off in technology shares. At 11:30 a.m. Eastern, Yahoo Finance showed the Dow Jones Industrial Average at 52,291.71, up 521.40 points or 1.01%, and reported the S&P 500 up about 1% and the Nasdaq Composite up 1.3% (Yahoo Finance).\n\n## Mid-morning levels\n\nA mid-morning market snapshot from Investrade showed the S&P 500 at 7,654 (up 0.98%), the Nasdaq Composite at 25,765 (up 1.29%) and the Russell 2000 at 2,840 (up 1.00%) (Investrade). The Nasdaq's bigger gain, compared with the Russell, points to large technology names doing most of the work.\n\n## Friday's loss in context\n\nFriday's session ended with the S&P 500 down 1.8% and the Nasdaq Composite down 2.9%, according to the Associated Press close. Yahoo Finance reported the Nasdaq had lost 5.2% during October, driven by AI-spending worries.\n\n## Oil keeps falling\n\nCrude extended its drop as U.S.-Iran diplomacy kept hopes alive. Reuters, as carried by Lapaas Voice, reported at 1357 GMT (8:57 a.m. Eastern) that Brent had fallen $6.78, or 6%, to $106.65 a barrel and WTI had fallen $6.37, or 6.1%, to $97.75. Those are intraday quotes, not settlement prices, and other outlets reported different levels earlier in the session.\n\n## Why it matters\n\nThis is a relief rally, not yet a change in trend. Lower oil eases one source of inflation pressure ahead of the Nov. 6 jobs report, but no agreement on reopening the Strait of Hormuz had been reached. Treat the midday levels as a snapshot; the close may differ.\n\n## What the open did not show\n\nThe intraday levels above are not a close. The Yahoo Finance snapshot was taken at 11:30 a.m. Eastern, and the Investrade mid-morning table was a separate snapshot, so the two should not be compared as if they were the same moment. Readers should treat the close, which will come later in the session, as the authoritative level for the day.\n\n## Breadth and rotation\n\nThe Russell 2000 was up about 1% in the mid-morning snapshot, a little behind the Nasdaq Composite's 1.29% gain. That pattern suggests the bounce was led by the largest technology names rather than a broad move into smaller companies. Friday's session had shown the same concentration in the other direction, with the Russell 2000 down 1.66% on Nov. 1 according to Yahoo Finance.\n\n## Next checkpoints\n\nThe next scheduled data point is the ISM Manufacturing PMI, released at 10 a.m. Eastern, which is covered in the separate ISM story. After the close, Apple and Palantir report quarterly results. Investors will also be watching US-Iran diplomacy, since oil moved sharply on those headlines. The U.S. midterm elections are Tuesday and the October jobs report is due Friday, Nov. 6, at 8:30 a.m. Eastern.",
+  "marketImpact": {
+    "summary": "The open lifts the index levels back toward the middle of last week's range, helped by lower crude. The rally depends on oil staying lower; a failed diplomatic step would reverse the energy relief quickly.",
+    "timeframe": "Monday, Nov. 2, from the open through the close",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "SPY",
+        "direction": "up",
+        "rationale": "S&P 500 up about 1% at 11:30 a.m. ET (Yahoo Finance)."
+      },
+      {
+        "symbol": "QQQ",
+        "direction": "up",
+        "rationale": "Nasdaq Composite up 1.3% at 11:30 a.m. ET (Yahoo Finance); mid-morning snapshot up 1.29% (Investrade)."
+      },
+      {
+        "symbol": "USO",
+        "direction": "down",
+        "rationale": "Brent and WTI down about 6% intraday on Iran-Qatar talks (Reuters via Lapaas Voice)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-02",
+        "event": "Apple and Palantir report after the close (CNBC, Benzinga)"
+      },
+      {
+        "date": "2026-11-03",
+        "event": "US midterm elections"
+      },
+      {
+        "date": "2026-11-06",
+        "event": "October jobs report, 8:30 a.m. ET"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq recover from bruising sell-off as oil prices fall",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Mid-Morning Look: November 02, 2026",
+      "publisher": "Investrade",
+      "url": "https://investrade.com/mid-morning-look-november-02-2026/",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Oil Prices Drop 6% as Iran Signals Openness to Peace Talks, Easing Supply Fears (quotes Reuters, 1357 GMT)",
+      "publisher": "Lapaas Voice",
+      "url": "https://lapaasvoice.com/oil-prices-drop-6-as-iran-signals-openness-to-peace-talks-easing-supply-fears",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "How major US stock indexes fared Friday 10/30/2026",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2",
+      "accessedAt": "2026-11-02"
+    }
+  ]
+}

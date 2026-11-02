@@ -1,0 +1,109 @@
+{
+  "slug": "ism-factory-index-55-5-beats-forecast-intel-slides",
+  "title": "ISM Factory Index Beats Forecast at 55.5 as Intel Slides on Weak Guidance",
+  "dek": "The October ISM Manufacturing PMI came in at 55.5 at 10 a.m. Eastern against a 54.6 forecast, while Intel fell about 4% on soft fourth-quarter guidance.",
+  "section": "markets",
+  "tags": [
+    "ism",
+    "manufacturing",
+    "intel",
+    "movers",
+    "oil",
+    "midday"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T17:15:00Z",
+  "updatedAt": "2026-11-02T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "ISM Manufacturing PMI rose to 55.5 in October from 54.5 in September, above the 54.6 forecast (ISM via PR Newswire; Yahoo Finance).",
+    "The ISM production index rose to 59.0, its highest reading since November 2021 (ISM).",
+    "Intel fell 4.33% on Nov. 2 after weak fourth-quarter revenue guidance (TradingKey).",
+    "Crude was lower on Iran-Qatar talks; OPEC+ kept its December targets unchanged (Lapaas Voice, citing Reuters)."
+  ],
+  "body": "## ISM: 55.5, above forecast\n\nThe Institute for Supply Management's Manufacturing PMI rose to 55.5 in October from 54.5 in September, above the 54.6 that economists had expected (ISM via PR Newswire; Yahoo Finance). ISM said the report was issued Monday and that manufacturing activity has expanded for 10 consecutive months.\n\n## Under the headline\n\nThe production index rose to 59.0 from 56.7, the highest since November 2021 according to ISM. New orders rose to 55.5 and employment slowed to 52.4. The prices index eased to 75.2 from 77.9 but stayed high, as manufacturers dealt with energy costs, tariffs and supply bottlenecks (ISM; Yahoo Finance). Supplier deliveries slowed for an 11th month.\n\n## Movers\n\nIntel fell 4.33% on Nov. 2 after its fourth-quarter revenue guidance disappointed (TradingKey). Benzinga reported the stock slid again Monday on concerns about a slowdown in PC demand into 2027. Chip names had been set to rebound: CNBC reported Micron, Sandisk and Western Digital up more than 2% each in early trading. In the mid-morning snapshot, the Russell 2000 was up about 1% (Investrade).\n\n## Oil and the Hormuz talks\n\nCrude fell about 6% intraday as Iranian President Masoud Pezeshkian said the Supreme Leader had granted the government certain authority to pursue peace talks, according to Lapaas Voice's account of Reuters reporting. No agreement had been reached, and the Strait of Hormuz remains a supply risk. OPEC+ kept its December production targets unchanged.\n\n## What to watch\n\nThe ISM beat gives the factory sector a firmer start to the week, but the prices and supplier-delivery readings show cost pressure is not gone. Apple and Palantir report after the close, and the jobs report arrives Nov. 6.\n\n## Reading the survey carefully\n\nA PMI above 50 signals expansion, and the 55.5 reading is comfortably above that line. ISM also noted that the overall economy has expanded for 24 months in a row. The survey is a diffusion index, so it measures the share of respondents reporting improvement rather than the size of output gains. Economists tend to read it as a direction signal rather than a precise measure of growth.\n\n## Two signals in tension\n\nThe production and new-orders readings point to demand. The prices index at 75.2 and the supplier-deliveries index at 59.1 point to cost and supply pressure. ISM said manufacturers are still dealing with energy costs, tariffs and bottlenecks. A firmer factory sector can therefore coexist with sticky inflation, which is the tension the Federal Reserve and bond markets will weigh before the Nov. 6 jobs report.\n\n## Stock-specific context\n\nIntel's decline is a company story rather than a factory-data story. Its shares fell about 4% after weak fourth-quarter revenue guidance and continued PC-market weakness, according to TradingKey and Benzinga. The move underlines that the broader market rebound on Monday was uneven, with chip names attempting to recover while the company with the weakest outlook lagged.",
+  "marketImpact": {
+    "summary": "A stronger factory reading and lower oil support cyclical names, but Intel's guidance is a stock-specific drag. Prices and supplier-delivery readings keep the inflation question open.",
+    "timeframe": "Monday, Nov. 2, 10 a.m. ET through the close",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "INTC",
+        "direction": "down",
+        "rationale": "Down 4.33% on Nov. 2 after weak Q4 revenue guidance (TradingKey, Benzinga)."
+      },
+      {
+        "symbol": "MU",
+        "direction": "up",
+        "rationale": "Micron up more than 2% in early trading (CNBC)."
+      },
+      {
+        "symbol": "XLI",
+        "direction": "up",
+        "rationale": "ISM at 55.5 vs 54.6 forecast points to firmer industrial demand (ISM)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-02",
+        "event": "Apple and Palantir report after the close"
+      },
+      {
+        "date": "2026-11-03",
+        "event": "JOLTS job openings, 10 a.m. ET; US midterm elections"
+      },
+      {
+        "date": "2026-11-06",
+        "event": "October jobs report, 8:30 a.m. ET"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Manufacturing PMI at 55.5%; October 2026 ISM Manufacturing PMI Report",
+      "publisher": "ISM via PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq recover from bruising sell-off as oil prices fall",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Intel Corp Stock (INTC) Moved Down by 4.33% on Nov 2: Key Drivers Unveiled",
+      "publisher": "TradingKey",
+      "url": "https://www.tradingkey.com/news/market-movers/262264482-market-movers-intc-20261102",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Intel Stock Slides Again Monday: What's Going On?",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62776331/intel-stock-slides-again-monday-whats-going-on",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Stock futures rise to start busy week as oil prices tumble, tech rebounds: Live updates",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Oil Prices Drop 6% as Iran Signals Openness to Peace Talks (quotes Reuters)",
+      "publisher": "Lapaas Voice",
+      "url": "https://lapaasvoice.com/oil-prices-drop-6-as-iran-signals-openness-to-peace-talks-easing-supply-fears",
+      "accessedAt": "2026-11-02"
+    }
+  ]
+}
