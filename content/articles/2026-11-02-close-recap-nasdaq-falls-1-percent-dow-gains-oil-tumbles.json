@@ -1,0 +1,47 @@
+{
+  "slug": "close-recap-nasdaq-falls-1-percent-dow-gains-oil-tumbles",
+  "title": "Nasdaq Falls 1.07% as Tech Sells Off; Dow Gains 0.41% and Oil Tumbles at the Close",
+  "dek": "The S&P 500 ended down 0.51% and the Nasdaq Composite down 1.07% on Monday, while the Dow rose 213.67 points and Brent settled 7.63% lower.",
+  "section": "markets",
+  "tags": ["close", "stocks", "nasdaq", "dow", "oil", "marvell", "lumentum"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T21:05:00Z",
+  "updatedAt": "2026-11-02T21:05:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "S&P 500 closed at 7,541.40, down 0.51%, at the 4:00 p.m. ET close (CNBC).",
+    "Nasdaq Composite closed at 25,164.32, down 1.07%; the QQQ fund tracking the Nasdaq-100 closed 1.36% lower (CNBC, StockTitan).",
+    "Dow Jones Industrial Average closed at 51,983.98, up 213.67 points or 0.41% (CNBC).",
+    "Brent settled at $104.77, down 7.63%, and WTI at $96.46, down 7.36%, on hopes for renewed U.S.-Iran talks (CNBC)."
+  ],
+  "body": "## Close: tech drags the Nasdaq\n\nThe Nasdaq Composite fell 1.07% to 25,164.32 at the close. The S&P 500 lost 0.51% to 7,541.40, and the Dow Jones Industrial Average rose 0.41%, or 213.67 points, to 51,983.98 (CNBC). The QQQ fund that tracks the Nasdaq-100 closed 1.36% lower (StockTitan).\n\nThe index moves reversed a morning rally. The Nasdaq had been up as much as 1.4% and the S&P 500 as much as 1.1% earlier in the session, CNBC reported, before investors sold technology stocks again into the close.\n\nThe session continued a pattern from last week. The Nasdaq and the S&P 500 both finished October lower on concern about AI spending, and the Nasdaq posted its worst losses since March 2025 (CNBC). The Dow rose almost 2% over the same stretch as investors rotated into defensive areas such as healthcare (CNBC).\n\n## Why the Nasdaq lagged: Marvell and Lumentum\n\nMarvell and Lumentum both closed sharply lower after Marvell agreed to buy Lumentum for stock in a deal that values Lumentum at about $115 billion including debt (StockTitan, CNBC). Oracle was down 8.53% at 3:02 p.m. ET, before the close (CNBC).\n\n## Biggest movers\n\nEVgo closed up 46.83% against the October 30 close after LS Power proposed $2.00 a share in cash. EVgo's board said it had formed a special committee of independent directors to review the proposal and had not decided how to respond (StockTitan, EVgo release). Once Upon a Farm fell 37.22% after it recalled a snack bar for toddlers (StockTitan).\n\n## Oil and the Dow\n\nBrent crude settled 7.63% lower at $104.77 a barrel and West Texas Intermediate fell 7.36% to $96.46, after reports that the United States and Iran may resume peace talks (CNBC). Oil's drop coincided with a Dow advance led by older economy names. Sherwin-Williams and Home Depot were among the Dow's gainers in the afternoon (CNBC).\n\n## What comes next\n\nApple and Palantir report after the close. Palantir's results are covered in a separate story. Apple's fiscal fourth-quarter figures were not yet in the sources checked for this edition, so this story does not state them. Strategists quoted by CNBC pointed to the midterm elections and the jobs data as the next volatility triggers.",
+  "marketImpact": {
+    "summary": "The close shows tech still under pressure while oil and defensive sectors carried the Dow. The lower oil price eases inflation worries, but tech weakness keeps the Nasdaq exposed going into the earnings reports and the Tuesday election.",
+    "timeframe": "Monday, Nov. 2 close through Tuesday's open",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "QQQ", "direction": "down", "rationale": "Closed 1.36% lower, tracking the Nasdaq-100 (StockTitan)." },
+      { "symbol": "DIA", "direction": "up", "rationale": "Dow Jones Industrial Average closed up 0.41% at 51,983.98 (CNBC)." },
+      { "symbol": "MRVL", "direction": "down", "rationale": "Closed sharply lower after agreeing to buy Lumentum in an all-stock deal (CNBC, StockTitan)." },
+      { "symbol": "LITE", "direction": "down", "rationale": "Closed sharply lower on the Marvell deal (CNBC, StockTitan)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-02", "event": "Apple and Palantir quarterly results after the close" },
+      { "date": "2026-11-03", "event": "US midterm elections" }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market news for Nov. 2, 2026", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html", "accessedAt": "2026-11-02" },
+    { "title": "Tech Stocks Pull the Nasdaq Lower in the Stock Market Today, November 2, as Oil Tumbles", "publisher": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026", "accessedAt": "2026-11-02" }
+  ]
+}

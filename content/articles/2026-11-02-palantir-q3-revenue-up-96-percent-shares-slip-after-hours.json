@@ -1,0 +1,45 @@
+{
+  "slug": "palantir-q3-revenue-up-96-percent-shares-slip-after-hours",
+  "title": "Palantir Lifts 2026 Outlook as Revenue Grows 96%; Shares Slip About 3% After Hours",
+  "dek": "Palantir reported third-quarter results after the close on Monday, with adjusted EPS of $0.44 against an expected $0.41, and raised its full-year revenue growth guidance to 91%.",
+  "section": "markets",
+  "tags": ["palantir", "earnings", "ai", "software", "pltr"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T21:40:00Z",
+  "updatedAt": "2026-11-02T21:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "Palantir reported Q3 2026 revenue growth of 96% year over year and U.S. commercial revenue growth of 148% (Business Wire).",
+    "Adjusted EPS was $0.44 against an expected $0.41 (24/7 Wall St., TradingKey).",
+    "Full-year 2026 revenue growth guidance was raised to 91% (Business Wire).",
+    "Shares fell 3.07% to $178.46 in after-hours trading, about $13 billion off a roughly $412 billion market value (24/7 Wall St.)."
+  ],
+  "body": "## Results: growth accelerates, guidance raised\n\nPalantir reported third-quarter 2026 results after the U.S. close on Monday. The company said revenue grew 96% year over year and U.S. commercial revenue grew 148%, and it raised its full-year 2026 revenue growth guidance to 91% (Business Wire). Adjusted earnings per share were $0.44, against the $0.41 analysts had expected (24/7 Wall St., TradingKey).\n\nThe company's release described the quarter as crushing consensus expectations. Before the report, Palantir had guided third-quarter revenue to $2.160 billion to $2.164 billion (Tech Insider, citing TokenPost), and TradingKey's preview put consensus at about $2.18 billion.\n\n## Shares after hours\n\nPalantir shares fell 3.07% to $178.46 in after-hours trading, a decline of about $13 billion from a market value near $412 billion (24/7 Wall St.). The move came after a Monday session in which the Nasdaq fell 1.07% at the close (CNBC). TradingKey reported that the stock had already dropped more than 6% ahead of the report.\n\n## Commercial now larger than government\n\nU.S. commercial revenue surpassed U.S. government revenue for the first time in the company's history, according to the company's results call (24/7 Wall St.). Palantir's CEO, Karp, framed the quarter around what he called sovereign AI, arguing that governments and enterprises are choosing AI platforms now rather than later (24/7 Wall St.). Karp also said the company's Foundry, Ontology and AIP products form one integrated offering for those buyers (24/7 Wall St.).\n\n## Why the reaction is mixed\n\nA beat and a raised outlook would usually lift a stock, so the after-hours decline points to expectations that were already high going into the report. The stock had been trading near a record-level valuation, and the Nasdaq's sell-off on Monday had already raised investor sensitivity to AI spending (CNBC, TradingKey). Investors will judge the company against its guidance from here.\n\n## What to watch\n\nTuesday's regular-session trade will show whether the after-hours decline holds. That session falls on the same day as the US midterm elections, so broader market moves could overshadow the company's own news.\n\nThis story covers Palantir only. Apple also reported after the close, but its fiscal fourth-quarter figures were not yet in the sources checked for this edition, so they are not reported here.",
+  "marketImpact": {
+    "summary": "A large growth beat and a raised outlook, but the stock fell after hours. The reaction says the bar for AI-software names is high while investors weigh AI spending.",
+    "timeframe": "After-hours Monday, Nov. 2, through Tuesday's open",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "PLTR", "direction": "down", "rationale": "Fell 3.07% to $178.46 after hours despite 96% revenue growth and a raised 2026 outlook (24/7 Wall St.)." },
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq-100 exposure to the AI-software debate after a 1.36% fall on Monday (StockTitan)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "First regular-session trading in Palantir shares after the results" }
+    ]
+  },
+  "sources": [
+    { "title": "Palantir Reports Q3 2026 U.S. Comm Revenue Growth of 148% Y/Y and Revenue Growth of 96% Y/Y; Raises FY 2026 Revenue Guidance to 91% Y/Y Growth", "publisher": "Business Wire", "url": "https://www.businesswire.com/news/home/20261101396214/en/Palantir-Reports-Q3-2026-U.S.-Comm-Revenue-Growth-of-148-YY-and-Revenue-Growth-of-96-YY-Raises-FY-2026-Revenue-Guidance-to-91-YY-Growth-and-U.S.-Comm-Revenue-Guidance-to-143-YY-Crushing-Consensus-Expectations", "accessedAt": "2026-11-02" },
+    { "title": "Palantir Q3 2026: Commercial Revenue Tops Government for First Time", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/cards/palantir-q3-2026-earnings-pltr-01m6f1kk98agygmzse44h9307q", "accessedAt": "2026-11-02" },
+    { "title": "Palantir Shares Plunge Over 6% Ahead of Earnings", "publisher": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262263794-palantir-shares-plunge-over-6-ahead-earnings-pltr-tradingkey", "accessedAt": "2026-11-02" }
+  ]
+}
