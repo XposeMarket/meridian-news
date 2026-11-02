@@ -1,0 +1,48 @@
+{
+  "slug": "october-auto-sales-forecast-ev-share-6-percent",
+  "title": "October New-Vehicle Sales Set for a Modest Rise as Forecasters Flag Costly Loans and a Slow EV Recovery",
+  "dek": "Cox Automotive and J.D. Power forecast October U.S. sales near a steady pace, while Q3 EV share recovered to 6.4% and monthly payments hit an October record.",
+  "section": "autos",
+  "tags": ["auto sales", "EV", "Cox Automotive", "J.D. Power", "hybrids", "auto loans"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T16:30:00Z",
+  "updatedAt": "2026-11-02T16:30:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg",
+    "alt": "Electric car charging points on a street, illustrating the U.S. and UK EV charging market",
+    "credit": "Philip Halling",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg"
+  },
+  "keyPoints": [
+    "Cox Automotive expects October new-vehicle sales of about 1.38 million units, up 7.2% from a year earlier, with a seasonally adjusted pace near 16.1 million.",
+    "J.D. Power and GlobalData project 1,327,100 total sales, up 0.2% year over year, but a seasonally adjusted pace of 15.6 million and a 1.4% drop in retail sales after selling-day adjustment.",
+    "Kelley Blue Book data put U.S. Q3 EV sales at 262,649, or 6.4% of new-vehicle sales, down 39.5% from Q3 2025 but up from 5.8% in Q2.",
+    "J.D. Power expects the average monthly payment to reach a record $823 for an October, with interest rates at 6.81%."
+  ],
+  "body": "October is shaping up as a steady month for U.S. car sales, but the forecasts differ on how steady, and the financing picture is getting harder for buyers.\n\n## Two forecasts, two readings\n\nCox Automotive, in a forecast released October 27, expects October new-vehicle sales to rise about 7.2% from last year to roughly 1.38 million units. Its seasonally adjusted annual rate, or SAAR, is near 16.1 million, up from 16 million in September and 15.7 million a year earlier. Cox says October has 28 selling days, three more than September, which flatters the raw comparison.\n\nJ.D. Power and GlobalData, in a forecast dated October 22, are more cautious. They project 1,327,100 total sales, up 0.2% year over year, and a SAAR of 15.6 million, flat from 2025. Their retail forecast is weaker: 1,109,500 units, down 1.4% on a selling-day-adjusted basis, although up 2.3% without that adjustment.\n\nThe gap is mostly about how each firm handles the selling-day calendar and a fleet-heavy mix. Neither forecast is an actual result. Monthly sales reports from automakers have not yet been published in the sources used for this story.\n\n## Affordability is the constraint\n\nJ.D. Power's forecast is blunt about the cost of buying. It projects an average transaction price of $46,329, slightly lower, but average monthly payments rising 2.6% to $823, the highest October figure it has recorded. The average interest rate is projected at 6.81%, the highest October level since 2023, and lower trade-in equity is adding to the amount buyers finance.\n\nCox's economist Jonathan Gregory described the market as following a low-to-mid 16 million pace since March, supported by fleet sales, wealthier buyers and easier access to credit.\n\n## EVs are recovering, but from a low base\n\nKelley Blue Book's Q3 estimates, reported October 12, show 262,649 EV sales in the United States, up 6.1% from Q2 but down 39.5% from a record Q3 2025 when buyers rushed ahead of expiring federal incentives. EVs made up about 6.4% of new-vehicle sales, the strongest share since Q3 2025.\n\nTesla still accounts for more than half of U.S. EV sales, though its volume fell about 20% year over year. Toyota and Lexus EV sales rose nearly fivefold, and Rivian posted 46% growth. Cox's Stephanie Valdez Streaty said the reset phase is largely behind the market, while high gasoline prices are also pushing some buyers toward electrified vehicles.\n\nJ.D. Power expects hybrids to reach 18.6% of retail sales in October, up 4 points, which suggests much of the demand shift is going to hybrids rather than battery-electric models.\n\n## What to watch\n\nAutomaker October reports will show whether the forecasts were closer to the SAAR of 15.6 million or 16.1 million. Watch for the EV incentive picture as well: J.D. Power expects average EV incentives to fall 42% to $7,531 per unit from last October's elevated base.\n\nThis is an analysis of forecasts and Q3 estimates, not reported October results.",
+  "marketImpact": {
+    "summary": "A steady sales pace helps automakers with fleet and mainstream trucks, but the record monthly payment and higher rates pressure affordability. Hybrid demand gaining share is a mixed signal for battery-EV-focused names, while Toyota's EV and hybrid momentum stands out.",
+    "timeframe": "Next 1-2 sessions, then October automaker sales reports",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "TM", "direction": "up", "rationale": "Toyota and Lexus EV sales rose nearly fivefold in Q3, and hybrids are gaining share in J.D. Power's October forecast" },
+      { "symbol": "TSLA", "direction": "watch", "rationale": "Tesla still holds more than half of U.S. EV sales, but its volume fell about 20% year over year in Q3" },
+      { "symbol": "F", "direction": "watch", "rationale": "Ford's October volume will test whether fleet and hybrid demand holds up against higher monthly payments" },
+      { "symbol": "GM", "direction": "down", "rationale": "GM's all-electric sales fell across the board in Q3 as enthusiasm for EVs waned" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "Automaker October U.S. sales reports begin to show actual results against the Cox and J.D. Power forecasts" },
+      { "date": "2026-11-03", "event": "Actual October sales results from automakers, which will show how closely the forecasts matched" }
+    ]
+  },
+  "sources": [
+    { "title": "Cox Automotive Forecast: October New-Vehicle Sales Hold Steady Despite Lower Consumer Sentiment, Higher Borrowing Costs", "publisher": "Cox Automotive", "url": "https://www.coxautoinc.com/insights/cox-automotive-forecast-october-2026-us-auto-sales-forecast/", "accessedAt": "2026-11-02" },
+    { "title": "U.S. Automotive Forecast for October 2026", "publisher": "J.D. Power", "url": "https://www.jdpower.com/business/press-releases/u-s-automotive-forecast-for-october-2026/", "accessedAt": "2026-11-02" },
+    { "title": "EV Sales in the U.S. Continue to Rise: Q3 2026 Hits Highest Volume in a Year", "publisher": "Cox Automotive", "url": "https://www.coxautoinc.com/insights/q3-2026-ev-sales-report-commentary/", "accessedAt": "2026-11-02" }
+  ]
+}

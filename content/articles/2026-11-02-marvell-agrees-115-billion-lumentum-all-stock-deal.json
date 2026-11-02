@@ -1,0 +1,48 @@
+{
+  "slug": "marvell-agrees-115-billion-lumentum-all-stock-deal",
+  "title": "Marvell Agrees to Buy Lumentum in $115 Billion All-Stock Deal",
+  "dek": "Marvell confirmed a definitive agreement for the optics maker, including debt, as the custom-chip company pushes into AI data-center connectivity against Broadcom.",
+  "section": "ai-tech",
+  "tags": ["Marvell", "Lumentum", "optics", "M&A", "AI infrastructure", "semiconductors"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T16:30:00Z",
+  "updatedAt": "2026-11-02T16:30:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure that organizations must keep patched and secured",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "Marvell Technology said on Monday, November 2, it entered a definitive agreement to buy Lumentum in an all-stock deal valued at $115 billion including debt, per Reuters.",
+    "The deal follows Bloomberg's October 28 report that the companies were in advanced talks, which had already pushed Marvell shares down sharply on October 29.",
+    "Lumentum shares fell more than 10% in early trading and Marvell was down over 5%, according to Reuters.",
+    "Marvell CEO Matt Murphy will remain chairman and CEO of the combined company."
+  ],
+  "body": "Marvell Technology has agreed to buy optical-components maker Lumentum in a $115 billion all-stock deal that includes debt, a move that puts the custom-chip company in a closer race with Broadcom for AI data-center business.\n\n## What was announced\n\nReuters reported on November 2 that Marvell entered a definitive agreement to acquire Lumentum. Lumentum makes lasers and other photonic components used in AI, cloud and communications networks. Marvell CEO Matt Murphy said the deal reflects an architectural shift toward optical connectivity inside AI infrastructure, and that he will remain chairman and CEO of the combined company.\n\nThe announcement turns a report into a signed agreement. Bloomberg had reported on October 28 that the two were in advanced talks, and our October 29 coverage traced the sharp split in the stocks on that report. The final terms, as reported on Monday, are an all-stock structure, so Lumentum holders would receive Marvell shares rather than cash.\n\n## Why the market reacted\n\nLumentum fell more than 10% in early trading and Marvell slipped more than 5%, according to Reuters. Bloomberg, citing its own early figures, put the moves at 6.5% lower for Lumentum and 2.3% lower for Marvell before the bell. The two sources differ on the size of the early moves, which is normal in the first minutes of a large deal, so the direction is more reliable than the exact percentages.\n\nInvestors are weighing two things. The first is price: Reuters quoted analysts asking whether Marvell is paying too much for a target roughly half its size. The second is the broader AI spending cycle. Both stocks had already fallen sharply since deal talks first surfaced, and Reuters links the selloff to concern over tightening margins and slowing cash flow across the AI build-out.\n\n## The strategic case\n\nMarvell's market value has risen above $170 billion on the back of custom AI chips and networking work for large cloud customers. Lumentum would add optical components that move data at high speed inside data centers, a bottleneck that analysts say remains scarce. Reuters notes that Nvidia invested $2 billion in each company earlier this year, which could give the combined group more leverage in custom-chip designs that compete with Nvidia's own products.\n\nBroadcom remains the main rival. It has long been Google's main custom-chip partner and sells a wider menu of AI data-center hardware. Marvell's own October investor day forecast fiscal 2031 sales of $70 billion to $90 billion, with about $37.5 billion expected from interconnect.\n\n## What to watch\n\nRegulatory review, the exchange ratio and any financing details will matter more than the headline number. Nvidia had not commented on the deal in the sources available for this story, and that remains an open question. Lumentum's own CEO has said the company is essentially sold out of certain products into 2029, which is the core of the buyer's argument.\n\nThis is an analysis of announced terms and early market reaction. It is not investment advice.",
+  "marketImpact": {
+    "summary": "The all-stock structure spreads the price tag across shareholders and avoids a large cash outlay, but it also dilutes Marvell holders if the combined company fails to deliver on the optical roadmap. The read-through for other optics and AI networking names is mixed until terms and regulatory timing are clearer.",
+    "timeframe": "Next 1-2 sessions, then through regulatory review",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "MRVL", "direction": "down", "rationale": "Shares were down over 5% in early trading on the all-stock announcement; investors are weighing dilution and price against a target roughly half Marvell's size" },
+      { "symbol": "LITE", "direction": "mixed", "rationale": "Shares fell more than 10% in early trading as the deal price is fixed in Marvell stock, but the deal values Lumentum's scarce optics assets at a premium to its pre-talks level" },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Nvidia invested $2 billion in each company earlier this year and did not immediately comment; a combined Marvell-Lumentum would strengthen a rival in custom AI chips" },
+      { "symbol": "AVGO", "direction": "watch", "rationale": "Marvell is positioning against Broadcom in custom AI chips and networking; the combined company would be a larger competitor for Google and other cloud customers" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-02", "event": "Early-session reaction to the definitive agreement announced Monday" },
+      { "date": "2026-11-17", "event": "Nvidia earnings, where management may comment on its Marvell and Lumentum stakes" }
+    ]
+  },
+  "sources": [
+    { "title": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet", "publisher": "Reuters (via MarketScreener)", "url": "https://www.marketscreener.com/news/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-ce785fd8d181f52d", "accessedAt": "2026-11-02" },
+    { "title": "Marvell to buy Lumentum in US$115 billion deal in AI data-center bet", "publisher": "BNN Bloomberg", "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/02/marvell-to-buy-lumentum-in-us115-billion-deal-in-ai-data-center-bet/", "accessedAt": "2026-11-02" },
+    { "title": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet", "publisher": "The Economic Times (Reuters)", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet/articleshow/135466901.cms?from=mdr", "accessedAt": "2026-11-02" }
+  ]
+}
