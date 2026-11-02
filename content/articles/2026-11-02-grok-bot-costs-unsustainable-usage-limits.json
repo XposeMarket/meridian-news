@@ -1,0 +1,33 @@
+{
+  "slug": "grok-bot-costs-unsustainable-usage-limits",
+  "title": "Musk Calls Grok Bot Costs ‘Unsustainably High’ as Subscribers Hit Weekly Limits",
+  "dek": "xAI’s Musk said serving Grok Bot costs more than it earns, as paid users report running out of weekly allowances sooner than expected. No figures or new limits were given.",
+  "section": "ai-tech",
+  "tags": ["xAI", "Grok", "Elon Musk", "AI agents", "usage limits", "subscriptions"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T12:00:00Z",
+  "updatedAt": "2026-11-02T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/C1702A_die.jpg",
+    "alt": "An Intel C1702A integrated-circuit die; an archival semiconductor example used to illustrate AI computing hardware",
+    "credit": "Mister rf",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C1702A_die.jpg"
+  },
+  "keyPoints": [
+    "Elon Musk said on X on Sunday, November 1, that the cost of serving Grok Bot was “unsustainably high relative to revenue,” per Anadolu.",
+    "He answered a user who asked whether xAI could reset the weekly usage allowance; he gave no cost or revenue figures and did not say whether limits would change.",
+    "Grok Bot launched in early beta in August as an agent that can carry out multi-step tasks in the background on its own virtual computer.",
+    "Usage is allocated separately from other Grok and Cursor allowances on paid SuperGrok and Cursor plans, according to Anadolu."
+  ],
+  "body": "Elon Musk has acknowledged that running xAI’s Grok Bot costs more than the service brings in, a rare public admission about the economics of an AI agent product that is still in early beta.\n\n## What Musk said\n\nMusk posted on X on Sunday, November 1, in reply to a user who asked whether xAI could reset the weekly usage allowance for the service. “The cost of serving Grok Bot was unsustainably high relative to revenue,” he wrote, according to Anadolu, which reported the exchange on November 2.\n\nHe did not provide operating-cost or revenue figures, and he did not say whether the weekly limits would be changed or reset. Anadolu reports that the user said many subscribers had used up their Grok Bot allowance much faster than usual during the week.\n\n## What the product is\n\nxAI launched Grok Bot in early beta in August. Unlike a conventional chatbot, it is designed to perform multi-step tasks across apps and online services using its own virtual computer, and it can keep working in the background. That kind of agent work consumes far more compute per request than a single chat reply, which is why cost is a live question for every company offering such tools.\n\nAccording to Anadolu, Grok Bot is available through several paid SuperGrok and Cursor subscription plans, with usage allocated separately from users’ other Grok and Cursor allowances. Wisevoter reported on November 1 that the comments came alongside weekly usage caps for paid subscribers.\n\n## What is not known\n\nThe sources reviewed do not show xAI publishing the size of the weekly allowance, the cost per task, or a timetable for any change. Musk’s remark is therefore a statement of direction, not a policy announcement. Subscribers reporting that they hit limits early are describing their own experience; Meridian has not independently measured those limits.\n\n## Why it matters\n\nThe episode points to a wider tension in AI agents: products that do more work per user are harder to price flat. Companies that sell subscriptions with usage caps must decide whether to raise prices, tighten limits or absorb the cost. xAI has not said which route it will take. Users on paid plans should watch for an official usage page or a change to the weekly allowance, which would clarify whether the limits are temporary or permanent.",
+  "sources": [
+    { "title": "Musk says cost of running Grok Bot 'unsustainably high' relative to revenue", "publisher": "Anadolu Agency", "url": "https://www.aa.com.tr/en/artificial-intelligence/musk-says-cost-of-running-grok-bot-unsustainably-high-relative-to-revenue/4108264", "accessedAt": "2026-11-02" },
+    { "title": "Elon Musk says Grok Bot is expensive to run, calls costs ‘unsustainable’ as users face usage limits", "publisher": "Moneycontrol", "url": "https://www.moneycontrol.com/technology/elon-musk-says-grok-bot-is-expensive-to-run-calls-costs-unsustainable-as-users-face-usage-limits-article-14066030.html", "accessedAt": "2026-11-02" },
+    { "title": "Musk Says Grok Bot Costs Exceed Revenue", "publisher": "Wisevoter", "url": "https://wisevoter.com/world/us/2026/11/01/musk-grok-bot-serving-costs-exceed-revenue", "accessedAt": "2026-11-02" }
+  ]
+}

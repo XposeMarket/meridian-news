@@ -1,0 +1,34 @@
+{
+  "slug": "uk-ai-sovereignty-control-and-sovereignty",
+  "title": "UK Makes 'Control and Sovereignty' the Test for Its AI Choices",
+  "dek": "Government advisers want a UK AI Sovereignty Plan, clear governance and investment in domestic skills, while keeping trusted access to leading overseas models.",
+  "section": "ai-tech",
+  "tags": ["UK", "AI sovereignty", "AI policy", "government", "Sovereign AI Fund", "national security"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T12:00:00Z",
+  "updatedAt": "2026-11-02T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure of the kind that houses AI accelerators",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "The Financial Times reported on November 2 that “control and sovereignty” will shape the UK’s approach to AI, after high-level debate over how fast to roll out the technology.",
+    "The government’s Council for Science and Technology defines AI sovereignty as having enough agency across the AI value chain to deliver the UK’s chosen outcomes and stay resilient under duress, per gov.uk.",
+    "The council’s July advice, published October 19, makes four recommendations, including a UK AI Sovereignty Plan and clear governance for sovereignty choices.",
+    "The October 28 Budget added £60 million to the Sovereign AI Fund, which was launched in April with £500 million, according to The Conversation."
+  ],
+  "body": "The UK is starting to define what “AI sovereignty” means in practice, and the answer so far is less about building everything at home than about knowing which dependencies are acceptable.\n\n## What the Financial Times reported\n\nThe Financial Times reported on November 2 that the government’s approach to AI will be shaped by “control and sovereignty,” and that the framing emerged after robust discussions at the top of government about how quickly to roll out fast-evolving technology. Meridian has not read the full FT article; the account here relies on its headline and standfirst.\n\n## The adviser’s definition\n\nThe clearest official statement comes from a letter published on gov.uk on October 19 by the Council for Science and Technology, which advises ministers. The letter was written in July to the Minister for AI. It defines AI sovereignty as having “sufficient agency across the AI value chain” to deliver the UK’s chosen outcomes, capture economic and public value, and maintain resilience under duress.\n\nThe council made four recommendations: develop a UK AI Sovereignty Plan based on a clear overview of the AI ecosystem; set up governance and coordination for sovereignty decisions; invest now in skills, data and public trust; and maintain trusted access to leading AI models while building selected UK capability.\n\n## Dimensions of control\n\nA separate analysis from the Centre for Emerging Technology and Security at the Alan Turing Institute breaks control into four dimensions: contractual, meaning enforceable commitments on access and data use; technical, meaning protection against unauthorised access to data or workloads; model possession, meaning the ability to run models locally; and operational, meaning administrative authority, infrastructure continuity and jurisdiction. The paper presents these as a starting point for deciding how much sovereignty a given deployment needs, not as a finished policy.\n\n## Money and timing\n\nThe Conversation reports that the Chancellor announced £60 million more for the national Sovereign AI Fund in the October 28 Budget. The fund launched in April 2026 with a £500 million commitment. The Conversation describes the aim as growing a native UK AI industry to reduce reliance on systems made by foreign companies.\n\n## What to watch\n\nThe council’s most concrete request is a single accountable owner for sovereignty choices, which it suggests could be the head of the Cabinet Office AI Taskforce. Whether the government adopts a named plan, owner or set of principles has not yet been confirmed in the sources reviewed here. For readers, the key question is whether “sovereignty” will mean more domestic capacity, or simply clearer contracts and safeguards around models built elsewhere.",
+  "sources": [
+    { "title": "AI sovereignty: preserving UK agency in an AI-enabled world", "publisher": "GOV.UK", "url": "https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world", "accessedAt": "2026-11-02" },
+    { "title": "‘Control and sovereignty’ to shape UK approach to AI", "publisher": "Financial Times", "url": "https://www.ft.com/content/6ebe232f-9dbe-4d02-b01e-47deefe7602d", "accessedAt": "2026-11-02" },
+    { "title": "AI Sovereignty and National Security: Identifying the UK’s Dimensions of Control", "publisher": "CETaS, Alan Turing Institute", "url": "https://cetas.turing.ac.uk/publications/ai-sovereignty-and-national-security-identifying-uks-dimensions-control", "accessedAt": "2026-11-02" },
+    { "title": "The UK wants ‘AI sovereignty’ to cut its reliance on foreign tech – here’s how that can be achieved", "publisher": "The Conversation", "url": "https://theconversation.com/the-uk-wants-ai-sovereignty-to-cut-its-reliance-on-foreign-tech-heres-how-that-can-be-achieved-295031", "accessedAt": "2026-11-02" }
+  ]
+}
