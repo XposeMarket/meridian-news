@@ -1,0 +1,86 @@
+{
+  "slug": "futures-rebound-oil-slides-hormuz-talks-tech-steadies",
+  "title": "Stock Futures Rebound as Oil Slides on Hormuz Talks and Chip Names Steady After Friday's Rout",
+  "dek": "S&P 500 and Nasdaq-100 futures rose before the open after the Nasdaq Composite's 2.9% Friday drop, while WTI fell about 4.4% to $99.51.",
+  "section": "markets",
+  "tags": [
+    "futures",
+    "oil",
+    "tech",
+    "chips",
+    "premarket"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T12:30:00Z",
+  "updatedAt": "2026-11-02T12:30:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "S&P 500 futures were up 0.4% and Nasdaq-100 futures up 0.7% in early trading, with Dow futures adding 196 points (CNBC).",
+    "WTI fell more than 4.4% to $99.51 and Brent tumbled 4.3% to $108.60 as US-Iran diplomacy in Doha revived hopes for reopening the Strait of Hormuz (CNBC, AP).",
+    "Micron, Sandisk and Western Digital rose more than 2% each in early trading (CNBC).",
+    "Friday's session left the Nasdaq Composite down 2.9% (NordFX), and CNBC reported the Nasdaq had its worst October losses since March 2025."
+  ],
+  "body": "## Futures recover part of Friday's loss\n\nU.S. stock futures moved higher before Monday's open. S&P 500 futures traded 0.4% higher, Nasdaq-100 futures gained 0.7%, and Dow futures added 196 points, or 0.4%, according to CNBC.\n\nThe move follows a Friday session in which the Nasdaq Composite fell 2.9% and the S&P 500 dropped 1.8%. Investors had been scrutinising AI spending, and the tech selloff pulled the broader market lower for the week.\n\n## Oil leads the move\n\nCrude was the main driver. WTI futures pulled back more than 4.4% to $99.51, and Brent fell 4.3% to $108.60, CNBC reported. The Associated Press tied the decline to renewed hopes for progress in U.S.-Iran diplomacy, with talks in Doha reported to be in their third day.\n\nLower oil eases inflation worries that had weighed on rate expectations. It also reduces pressure on energy-cost-sensitive sectors. The gain is partial: Brent is still above $100 and tanker attacks in the Gulf keep the risk premium elevated.\n\n## Chips and memory names rebound\n\nChip names are where the tech rebound is showing first. Micron, Sandisk and Western Digital each rose more than 2%, and Nvidia and Microsoft ticked higher, according to CNBC. Bloomberg reported an exchange-traded fund tracking chipmakers signaled a modest rebound.\n\nIntel is a different story. Its shares were still lower in premarket trading after a sharp drop on its guidance, which keeps chip sentiment mixed.\n\n## What to watch\n\nThe opening bell is the first test. Futures moves often fade or extend once cash trading starts, and this session also brings the ISM Manufacturing PMI at 10 a.m. Eastern, with a forecast of 54.7.\n\n## What the futures signal\n\nThe combination of falling oil and rising futures is the one investors had been waiting for after a week in which the AI trade drove most of the losses. Bloomberg reported that an exchange-traded fund tracking chipmakers signaled a modest rebound for the sector, and that Apple, which had reclaimed the title of the world's most valuable company, edged lower in early trading ahead of its results. The move is early. Premarket moves in index futures often narrow or reverse once cash trading begins.\n\n## Context from Friday\n\nThe Nasdaq Composite fell 2.9% on Friday and the S&P 500 dropped 1.8%, according to the Associated Press. The Dow Jones Industrial Average fell 1.1%, a smaller decline, as investors rotated into defensive areas such as healthcare, CNBC reported. Analysts quoted by CNBC said they did not see anything fundamentally broken in the AI trade, while acknowledging that the technicals had weakened. That split view is why this morning's rebound is being treated as a test rather than a clear turn.\n\n## Risks to the rebound\n\nBrent remains above $108 even after its fall, and tanker attacks in the Gulf keep the risk premium elevated, according to NordFX. If the U.S.-Iran talks in Doha stall, oil could recover quickly and pull inflation expectations with it. Investors are also watching the ISM Manufacturing PMI at 10 a.m. Eastern and the midterm elections on Tuesday, both of which could shift rate and policy expectations for the rest of the week.",
+  "marketImpact": {
+    "summary": "A lower oil price and a tech bounce give the market a cleaner start to a week dominated by the midterms and the jobs report, but the rebound is fragile while Brent stays near $108.",
+    "timeframe": "Monday, Nov. 2 open through the ISM release",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "SPY",
+        "direction": "up",
+        "rationale": "S&P 500 futures up 0.4% in early trading after Friday's 1.8% drop (CNBC)."
+      },
+      {
+        "symbol": "QQQ",
+        "direction": "up",
+        "rationale": "Nasdaq-100 futures up 0.7%, with chip names rising more than 2% (CNBC); Friday's Nasdaq drop leaves room for a rebound."
+      },
+      {
+        "symbol": "INTC",
+        "direction": "down",
+        "rationale": "Still lower in premarket trading after its guidance-driven slide (CNBC)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-02",
+        "event": "Opening bell; ISM Manufacturing PMI at 10:00 a.m. ET, forecast 54.7 (InvestingLive)"
+      },
+      {
+        "date": "2026-11-02",
+        "event": "Apple and Palantir report after the close (CNBC)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock futures rise to start busy week as oil prices tumble, tech rebounds: Live updates",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Global shares are mixed and US futures advance, while oil prices fall nearly 4%",
+      "publisher": "Bloomberg (via BNN Bloomberg)",
+      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4/",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Asian shares are mixed and US futures advance, while oil prices retreat",
+      "publisher": "Associated Press (via WSLS)",
+      "url": "https://www.wsls.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/",
+      "accessedAt": "2026-11-02"
+    }
+  ]
+}

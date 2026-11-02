@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T21:30:00Z",
-  "edition": "afternoon",
+  "updatedAt": "2026-11-02T12:45:00Z",
+  "edition": "pre-market",
   "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Binance restarts withdrawals as the FBI names North Korea; midterms and jobs data set the week",
-    "summary": "Binance reopened bitcoin, ether and BNB Smart Chain withdrawals on Sunday and says about 90% of the $6.3 billion stolen is covered (CNBC). The FBI named North Korea (CNBC, Guardian). Stocks closed Friday with the Nasdaq down 2.9% and the S&P 500 down 1.8% (Associated Press).",
-    "asOf": "2026-11-01T21:30:00Z",
+    "headline": "Futures rebound as oil slides on Hormuz talks; Apple and Palantir report tonight",
+    "summary": "S&P 500 futures rose 0.4% and Nasdaq-100 futures 0.7% before the open, after Friday's Nasdaq Composite fall of 2.9%. WTI dropped more than 4.4% to $99.51 on U.S.-Iran talks (CNBC). Apple and Palantir report after the close Monday (CNBC, Benzinga).",
+    "asOf": "2026-11-02T12:45:00Z",
     "bullets": [
-      "Binance reopened withdrawals Sunday, starting with bitcoin, then Ethereum and BNB Smart Chain (CNBC).",
-      "Binance says about 90% of stolen assets are backed; the remaining 10% is less-liquid tokens (CNBC).",
-      "The FBI said North Korea was responsible and that stolen assets were being converted into ether (Guardian).",
-      "Friday: bitcoin fell 4.1% to $77,445.96 and ether 4.4% to $2,229.50 (CNBC).",
-      "Week ahead: ISM Manufacturing and the RBA decision Monday, the midterms Tuesday, and the October jobs report Friday, Nov. 6 (Trading Economics, InvestingLive)."
+      "S&P 500 futures +0.4%, Nasdaq-100 futures +0.7%, Dow futures +196 points before the open (CNBC).",
+      "WTI fell more than 4.4% to $99.51; Brent fell 4.3% to $108.60 (CNBC).",
+      "Micron, Sandisk and Western Digital rose more than 2% each in early trading (CNBC).",
+      "Asia mixed: Kospi +2.8%, Shanghai +1.2%, but China's official manufacturing PMI slipped to 49.3 (NordFX, AP).",
+      "Apple and Palantir report after the close Monday; ISM Manufacturing PMI at 10 a.m. ET (CNBC, InvestingLive)."
     ]
   },
   "marketSnapshot": [
@@ -71,21 +71,30 @@
     },
     {
       "label": "WTI crude futures",
-      "value": "104+",
-      "change": "+2.4%",
-      "direction": "up",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212",
-      "asOf": "2026-10-30 3:26 PM ET (intraday)"
+      "value": "99.51",
+      "change": "-4.4%",
+      "direction": "down",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "asOf": "2026-11-02 premarket"
     },
     {
-      "label": "Gold futures",
-      "value": "3,883",
-      "change": "-3.7%",
+      "label": "Brent crude futures",
+      "value": "108.60",
+      "change": "-4.3%",
       "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212",
-      "asOf": "2026-10-30 3:26 PM ET (intraday)"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "asOf": "2026-11-02 premarket"
+    },
+    {
+      "label": "Nasdaq-100 futures",
+      "value": "+0.7%",
+      "change": "premarket",
+      "direction": "up",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "asOf": "2026-11-02 premarket"
     },
     {
       "label": "10-year Treasury yield",
@@ -104,6 +113,13 @@
       "event": "ISM Manufacturing PMI",
       "importance": "high",
       "why": "Forecast 54.7 vs 54.5 previously (InvestingLive); a reading above 50 signals expansion."
+    },
+    {
+      "date": "2026-11-02",
+      "time": "After close",
+      "event": "Apple and Palantir quarterly results",
+      "importance": "high",
+      "why": "Palantir guided Q3 revenue to $2.160B-$2.164B (Tech Insider); both shares are sensitive to AI-spending sentiment (CNBC)."
     },
     {
       "date": "2026-11-02",
@@ -136,8 +152,9 @@
   ],
   "trending": [
     "binance-withdrawals-resume-fbi-blames-north-korea",
-    "bitcoin-ether-slide-binance-hack-weekend",
-    "week-ahead-midterms-ism-rba-jobs-report",
-    "earnings-week-ai-trade-test-rate-hike-odds"
+    "futures-rebound-oil-slides-hormuz-talks-tech-steadies",
+    "apple-palantir-report-after-bell-what-to-watch",
+    "asia-shares-mixed-china-pmi-below-50-oil-retreats",
+    "week-ahead-midterms-ism-rba-jobs-report"
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "slug": "apple-palantir-report-after-bell-what-to-watch",
+  "title": "Apple and Palantir Report After the Bell, Testing iPhone Demand and the AI Software Trade",
+  "dek": "Both companies report quarterly results after Monday's close, arriving after a tech selloff that has made investors more sensitive to AI spending.",
+  "section": "markets",
+  "tags": [
+    "apple",
+    "palantir",
+    "earnings",
+    "ai",
+    "premarket"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T12:35:00Z",
+  "updatedAt": "2026-11-02T12:35:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "Apple reports after the bell on Monday, Nov. 2, and CNBC says it is a Magnificent Seven report this week (CNBC).",
+    "Apple edged lower in early trading ahead of its results, after reclaiming the title of the world's most valuable company (Bloomberg).",
+    "Palantir reports third-quarter results after the US close on Monday, with a webcast at 5 p.m. ET (Benzinga, Finryse).",
+    "Palantir guided third-quarter revenue to $2.160 billion to $2.164 billion (Tech Insider, citing TokenPost)."
+  ],
+  "body": "## Two big reports after the close\n\nApple and Palantir both report after Monday's closing bell. The results arrive a day after the Nasdaq Composite's 2.9% drop on Friday, which made the AI trade a focus of investor worry.\n\n## Apple: iPhone and the market-cap crown\n\nBloomberg reported that Apple had reclaimed the title of the world's most valuable company, and its shares edged lower in early trading ahead of the results. CNBC's preview names Apple as the report that will draw the most attention among the week's Magnificent Seven earnings.\n\n## Palantir: the AI software test\n\nPalantir guided third-quarter revenue to $2.160 billion to $2.164 billion, and adjusted operating income to $1.292 billion to $1.296 billion, according to Tech Insider citing TokenPost. Benzinga reports that the company has beaten estimates on both EPS and revenue in recent quarters, and that its second-quarter revenue rose 93%. The company's webcast is at 5 p.m. ET.\n\nThe report is being read as a test of AI-software sentiment after a sharp selloff in ServiceNow.\n\n## What the market will judge\n\nFor Apple, the key number is iPhone growth and the outlook after a strong run. For Palantir, the question is whether the company can again beat its guidance and raise its full-year outlook. Either company can move its own shares sharply after the bell, and both could move the Nasdaq-100 at Tuesday's open.\n\nThese are previews; neither company's results were out at the time of writing.\n\n## What the previews expect\n\nTradingKey's Palantir preview put market consensus for third-quarter revenue at $2.17 billion to $2.18 billion, slightly above the company's own guidance, with adjusted EPS projected at $0.41. Those figures are from a single preview and should be checked against the company's release. The gap between consensus and guidance is the detail the market will compare once the numbers are out.\n\n## Why the timing matters\n\nBoth reports land a day after the Nasdaq Composite fell 2.9% on Friday. Finryse described Palantir's report as a test of AI-software sentiment after ServiceNow's sharp selloff. Palantir's second-quarter revenue rose 93%, and the company raised its 2026 revenue guidance to about $8.15 billion, according to the same preview. TradingKey put the stock's price-to-earnings ratio near 157 times, a sign of how much growth the share price already assumes.\n\n## What to watch in Apple's numbers\n\nBenzinga framed Apple's report as a test of iPhone growth alongside AI demand. Investors will look for the iPhone line, the outlook for the coming quarter and any commentary on AI features. Because Apple has just regained the title of the world's most valuable company, a result that disappoints could move the index-level weight of the largest stock. Shares were already lower in early trading, so the bar for a positive reaction may be set low.",
+  "marketImpact": {
+    "summary": "Apple and Palantir set the tone for Tuesday's tech trade. A strong AI-software print could support the rebound, while a miss would reopen the question of AI spending that drove Friday's selloff.",
+    "timeframe": "After the close Monday, Nov. 2, through Tuesday's open",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "AAPL",
+        "direction": "watch",
+        "rationale": "Reports after the bell; shares edged lower in early trading after reclaiming the most-valuable title (Bloomberg)."
+      },
+      {
+        "symbol": "PLTR",
+        "direction": "watch",
+        "rationale": "Guided Q3 revenue to $2.160B to $2.164B; a read on AI-software demand (Tech Insider, Benzinga)."
+      },
+      {
+        "symbol": "QQQ",
+        "direction": "watch",
+        "rationale": "Nasdaq-100 exposure to both reports and to the AI-spending debate."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-02",
+        "event": "Apple quarterly results after the close (CNBC)"
+      },
+      {
+        "date": "2026-11-02",
+        "event": "Palantir Q3 results after the close; webcast at 5:00 p.m. ET (Benzinga)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stock futures rise to start busy week as oil prices tumble, tech rebounds: Live updates",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62766571/apple-palantir-on-deck-monday-as-ai-demand-iphone-growth-face-test",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Earnings to watch: November 2 – November 6, 2026",
+      "publisher": "Finryse",
+      "url": "https://finryse.substack.com/p/earnings-to-watch-november-2-november",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Apple, Palantir Earnings Nov. 2 and 55K Jobs Est. [2026]",
+      "publisher": "Tech Insider",
+      "url": "https://tech-insider.org/apple-palantir-earnings-october-jobs-report-week-ahead-2026/",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Global shares are mixed and US futures advance, while oil prices fall nearly 4%",
+      "publisher": "Bloomberg (via BNN Bloomberg)",
+      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4/",
+      "accessedAt": "2026-11-02"
+    }
+  ]
+}

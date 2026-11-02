@@ -1,0 +1,77 @@
+{
+  "slug": "asia-shares-mixed-china-pmi-below-50-oil-retreats",
+  "title": "Asian Shares Mixed as China's Factory PMI Slips Below 50 and Oil Retreats",
+  "dek": "Seoul's Kospi rose 2.8% and Shanghai gained 1.2%, but China's official manufacturing PMI fell to 49.3, a sign of softer factory activity.",
+  "section": "markets",
+  "tags": [
+    "asia",
+    "china",
+    "pmi",
+    "oil",
+    "premarket"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T12:40:00Z",
+  "updatedAt": "2026-11-02T12:40:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 2,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "China's official manufacturing PMI slipped to 49.3, below the 50 level that separates expansion from contraction (NordFX market pulse).",
+    "South Korea's Kospi rose 2.8% and Shanghai's composite gained 1.2%, led by hopes of state support after China's worst month for stocks in over a decade (NordFX).",
+    "Japan's Nikkei was roughly flat, while Australia's ASX 200 slipped 0.6% (NordFX).",
+    "Asian shares were mixed overall as oil retreated on Hormuz talks (Associated Press)."
+  ],
+  "body": "## Mixed session across the region\n\nAsian shares were mixed on Monday, with oil prices retreating after renewed signals from U.S.-Iran talks in Doha, the Associated Press reported. Tech names remained volatile after Friday's selloff.\n\nSeoul led the gains, with the Kospi up 2.8%, while Shanghai rose 1.2% and Hong Kong's Hang Seng added 0.65%. Tokyo's Nikkei was roughly flat and Sydney's ASX 200 slipped 0.56%, according to NordFX's market summary.\n\n## China's factory data is the weak spot\n\nThe official manufacturing PMI fell to 49.3, below 50. A reading under 50 signals contraction in factory activity. The Shanghai rally appears to rest on expectations of policy support rather than on the data, and the market summary links it to China's worst month for stocks in more than a decade.\n\n## Why it matters for U.S. markets\n\nWeak Chinese factory data can weigh on commodity demand and on global industrial names, and it adds to the case for policy support. A stronger Kospi and a firmer Shanghai open would ease some of the pressure on chip and industrial shares that is also visible in the U.S. futures.\n\nEuro-zone factory data is not covered in this edition, because the published October final figures were not checked against a second source.\n\n## Europe in the morning\n\nEuropean markets firmed in the morning session. CNBC reported the Stoxx 600 was last 0.1% higher after reversing earlier losses, with France's CAC 40 up 0.4% and Germany's DAX up 0.3%. The European gains came as oil fell, which eases input costs for energy-heavy industry on the continent.\n\n## Currencies and commodities\n\nNordFX put EUR/USD at 1.1175 and USD/JPY at 157.89, with the dollar index near 101.8. Gold was around $3,900, bouncing from a one-year low, and bitcoin near $78,500, according to the same market summary. These are secondary-source levels and should be read as approximate.\n\n## Why it matters\n\nChina's weak factory print and the rally in Seoul and Shanghai point in different directions. The equity gains rest on hopes for policy support, while the PMI is harder data. The U.S. ISM Manufacturing PMI at 10 a.m. Eastern will be the first test of whether global manufacturing is holding up outside China.",
+  "marketImpact": {
+    "summary": "China's PMI below 50 is a warning for global industrial demand, but Asian equities are rallying on policy-support hopes. The net effect for U.S. markets this morning is modest and depends on whether the Chinese data is read as a reason for more stimulus.",
+    "timeframe": "Monday's Asian session through the U.S. open",
+    "confidence": "low",
+    "tickers": [
+      {
+        "symbol": "FXI",
+        "direction": "watch",
+        "rationale": "China-exposure ETF; Shanghai rose 1.2% but the official PMI slipped to 49.3 (NordFX)."
+      },
+      {
+        "symbol": "EWY",
+        "direction": "up",
+        "rationale": "South Korea-exposure ETF; the Kospi rose 2.8% (NordFX)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-02",
+        "event": "U.S. ISM Manufacturing PMI at 10:00 a.m. ET, forecast 54.7 (InvestingLive); compare with China's 49.3"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Market Pulse – November 2, 2026: Oil Falls on Hormuz Talks",
+      "publisher": "NordFX",
+      "url": "https://nordfx.com/market-news/market-pulse-november-02-2026",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Asian shares are mixed and US futures advance, while oil prices retreat",
+      "publisher": "Associated Press (via WSLS)",
+      "url": "https://www.wsls.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "Crude Oil - Price - Chart - Historical Data - News",
+      "publisher": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil",
+      "accessedAt": "2026-11-02"
+    }
+  ]
+}
