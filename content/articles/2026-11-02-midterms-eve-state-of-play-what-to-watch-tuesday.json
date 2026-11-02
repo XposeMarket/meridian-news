@@ -1,0 +1,54 @@
+{
+  "slug": "midterms-eve-state-of-play-what-to-watch-tuesday",
+  "title": "On the Eve of Midterms, Early Voting Is at Record Pace and Control of Congress Is Up for Grabs",
+  "dek": "More than 50 million early votes were cast before Election Day, according to a University of Florida analysis. Polls close from 6 p.m. Eastern on Tuesday, with Georgia, South Carolina, North Carolina and Ohio among the states to watch.",
+  "section": "us",
+  "tags": ["midterms", "elections", "Senate", "House", "polls", "early voting", "Georgia", "Election Day"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-02T21:30:00Z",
+  "updatedAt": "2026-11-02T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg",
+    "alt": "The U.S. Capitol, west front (file photo)",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg"
+  },
+  "keyPoints": [
+    "More than 50.5 million early votes had been cast nationwide as of Saturday morning, according to a University of Florida analysis cited by The Guardian. That is nearly 5 million more than the total early vote in the 2022 midterms.",
+    "The first polls close at 6 p.m. Eastern on Tuesday in eastern Indiana and Kentucky. Polls in Georgia, South Carolina and Virginia close at 7 p.m. Eastern, and the last polls close at 1 a.m. Eastern Wednesday in Alaska, according to The New York Times.",
+    "All 435 House seats and 35 Senate seats are on the ballot, along with governor races in 36 states, CBS News reported.",
+    "Democrats lead the national congressional ballot average by 8.2 points, according to RealClearPolling, as cited by Al Jazeera. Analysts quoted by Al Jazeera said the House is likely to flip, but the Senate is much less certain."
+  ],
+  "body": "Americans vote on Tuesday in midterm elections that will decide control of Congress and shape the final two years of President Donald Trump's term. Early voting has run ahead of the last midterm cycle, and the result will not be known for hours after the first polls close.\n\n## Early voting\n\nMore than 50.5 million early votes had been cast across the country as of Saturday morning, according to an analysis by the University of Florida, reported by The Guardian. The Associated Press counted more than 43 million early or mail ballots returned five days before Election Day, Al Jazeera reported. Where states publish party registration data, registered Democrats have cast more early ballots than registered Republicans. Those figures do not show how people voted.\n\n## Polls and expectations\n\nRealClearPolling's national congressional ballot average showed Democrats ahead of Republicans by 8.2 points, Al Jazeera reported. An Economist/YouGov survey found 44% of registered voters expected Democrats to win control of the House, compared with 31% who expected Republicans to keep it. Expectations for the Senate were closer, with 39% expecting a Democratic majority and 36% a Republican one. Kyle Kondik of the University of Virginia's Sabato's Crystal Ball told Al Jazeera that the House is almost certain to flip based on generic-ballot polling, but that the Senate is more uncertain.\n\n## What to watch on Tuesday\n\nThe first polls close at 6 p.m. Eastern in parts of Indiana and Kentucky. Kentucky's 6th Congressional District, which includes the Lexington area, is competitive this cycle, and The New York Times described its result as a possible early indicator of House control. By 7 p.m. Eastern, polls have closed in Georgia and South Carolina, which the Times identified as states that could determine Senate control. It said Georgia's Senate contest leans Democratic and South Carolina's leans Republican.\n\nCBS News will begin its prime-time election coverage at 7 p.m. Eastern. Results are expected to start coming in Tuesday night. Many states count mail ballots at different speeds, so early returns may not reflect the final outcome, the Times noted.\n\n## Where things stand\n\nRepublicans are defending a 53-47 Senate majority, The Guardian reported. Governor races are also on the ballot in 36 states and three U.S. territories, CBS News reported.",
+  "sources": [
+    {
+      "title": "What Time Do Polls Close? Midterm Elections 2026",
+      "publisher": "The New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/11/02/us/elections/polls-closing-time-midterm-elections.html",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "How to watch live 2026 midterm election results",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "accessedAt": "2026-11-02"
+    },
+    {
+      "title": "What latest polls reveal as early voting surges ahead of US midterms",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges",
+      "accessedAt": "2026-11-02"
+    }
+  ]
+}
