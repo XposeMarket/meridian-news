@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-02T21:40:00Z",
-  "edition": "afternoon",
+  "updatedAt": "2026-11-03T12:10:00Z",
+  "edition": "pre-market",
   "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Nasdaq falls 1.07% as tech sells off; Dow gains 0.41% and oil drops at the close",
-    "summary": "At the 4:00 p.m. ET close the S&P 500 lost 0.51% to 7,541.40 and the Nasdaq Composite fell 1.07% to 25,164.32, while the Dow rose 213.67 points to 51,983.98 (CNBC). Brent settled 7.63% lower at $104.77 (CNBC). Palantir reported after the close and fell about 3% in after-hours trading (24/7 Wall St.).",
-    "asOf": "2026-11-02T21:02:00Z",
+    "headline": "Futures slip into election day as oil rebounds; Apple falls after hours on memory costs",
+    "summary": "US futures fell before the midterm vote as oil bounced on doubts about a U.S.-Iran deal (Bloomberg). Monday's close: S&P 500 down 0.5%, Nasdaq 100 down 1.4% into correction, Dow up 0.4% (Saxo Bank). European indexes closed higher, with the DAX up 0.64% and the CAC 40 up 0.98% (Newsquawk). Apple slipped 2.8% after hours on margin worries (Saxo Bank). AMD reports after the close today.",
+    "asOf": "2026-11-03T12:10:00Z",
     "bullets": [
-      "S&P 500 7,541.40, down 0.51%, at the 4:00 p.m. ET close (CNBC).",
-      "Nasdaq Composite 25,164.32, down 1.07%; QQQ down 1.36% (CNBC, StockTitan).",
-      "Dow Jones Industrial Average 51,983.98, up 213.67 points or 0.41% (CNBC).",
-      "Brent $104.77, down 7.63%; WTI $96.46, down 7.36% (CNBC).",
-      "Marvell and Lumentum closed sharply lower after Marvell agreed to buy Lumentum in a deal valued at about $115 billion including debt (CNBC, StockTitan).",
-      "Palantir: Q3 revenue up 96%, 2026 guidance raised to 91% growth; shares about 3% lower after hours at $178.46 (Business Wire, 24/7 Wall St.)."
+      "US futures lower before the midterm vote (Bloomberg).",
+      "Oil rebounded after Monday's slump on doubts about U.S.-Iran peace talks (Bloomberg, Saxo Bank).",
+      "10-year Treasury yield 4.91% at Monday's close (Saxo Bank).",
+      "Europe closed higher Monday: Euro Stoxx 50 +0.78%, DAX +0.64%, FTSE 100 +0.29% (Newsquawk).",
+      "Apple slipped 2.8% after hours on memory costs despite strong iPhone sales (Saxo Bank).",
+      "AMD reports after the close today (Yahoo Finance, Earnings Whispers)."
     ]
   },
   "marketSnapshot": [
@@ -60,22 +60,24 @@
       "source": "CNBC",
       "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
       "asOf": "2026-11-02 settlement"
+    },
+    {
+      "label": "10-year Treasury yield",
+      "value": "4.91%",
+      "change": "slightly lower",
+      "direction": "down",
+      "source": "Saxo Bank",
+      "sourceUrl": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026",
+      "asOf": "2026-11-02 close"
     }
   ],
   "calendar": [
-    {
-      "date": "2026-11-02",
-      "time": "10:30 PM ET",
-      "event": "Reserve Bank of Australia rate decision",
-      "importance": "high",
-      "why": "Forecast 4.85% vs 4.60%, a 25-basis-point hike (InvestingLive); guidance matters as much as the move."
-    },
     {
       "date": "2026-11-03",
       "time": "All day",
       "event": "US midterm elections",
       "importance": "high",
-      "why": "All 435 House seats and 35 Senate seats are contested (Trading Economics); the result sets the room for the President's agenda."
+      "why": "All 435 House seats and 35 Senate seats are contested (Trading Economics); results depend on poll closing times (Saxo Bank)."
     },
     {
       "date": "2026-11-03",
@@ -85,14 +87,30 @@
       "why": "Forecast 7.11 million vs 7.08 million (InvestingLive)."
     },
     {
+      "date": "2026-11-03",
+      "time": "After close",
+      "event": "AMD earnings",
+      "importance": "high",
+      "why": "Confirmed for Tuesday after the close (Yahoo Finance, Earnings Whispers)."
+    },
+    {
+      "date": "2026-11-04",
+      "time": "All day",
+      "event": "Treasury quarterly refunding",
+      "importance": "medium",
+      "why": "Week schedule per Saxo Bank."
+    },
+    {
       "date": "2026-11-06",
       "time": "8:30 AM ET",
       "event": "October Employment Situation (jobs report)",
       "importance": "high",
-      "why": "Nonfarm payrolls forecast +56,000 and unemployment 4.2% (Trading Economics); a key input for rate-hike expectations."
+      "why": "Nonfarm payrolls forecast +56,000 and unemployment 4.2% (Trading Economics)."
     }
   ],
   "trending": [
+    "futures-election-day-overnight-asia-europe-oil-treasuries",
+    "apple-shares-slip-after-hours-amd-reports-after-close-today",
     "close-recap-nasdaq-falls-1-percent-dow-gains-oil-tumbles",
     "palantir-q3-revenue-up-96-percent-shares-slip-after-hours",
     "us-open-stocks-rise-dow-up-1-percent-oil-falls",

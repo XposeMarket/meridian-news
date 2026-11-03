@@ -1,0 +1,83 @@
+{
+    "slug":  "apple-shares-slip-after-hours-amd-reports-after-close-today",
+    "title":  "Apple Shares Slip After Hours on Memory Costs Despite Strong iPhone Sales; AMD Reports Tonight",
+    "dek":  "Apple shares fell about 2.8% after its results on Monday, as rising memory costs threatened margins. AMD reports after the close today.",
+    "section":  "markets",
+    "tags":  [
+                 "apple",
+                 "amd",
+                 "earnings",
+                 "iphone",
+                 "pre-market"
+             ],
+    "author":  "Meridian Newsroom",
+    "publishedAt":  "2026-11-03T12:05:00Z",
+    "updatedAt":  "2026-11-03T12:05:00Z",
+    "edition":  "pre-market",
+    "featured":  false,
+    "breaking":  false,
+    "readMinutes":  3,
+    "image":  {
+                  "url":  "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+                  "alt":  "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+                  "credit":  "Library of Congress, U.S. News \u0026 World Report Magazine Photograph Collection (photo by Thomas J. O\u0027Halloran)",
+                  "license":  "Public domain",
+                  "sourceUrl":  "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+              },
+    "keyPoints":  [
+                      "Apple reported after the close on Monday, Nov. 2 (MarketChameleon).",
+                      "Apple slipped 2.8% after hours as rising memory costs threatened margins, despite strong iPhone sales (Saxo Bank).",
+                      "Investors reacted to Apple\u0027s earnings report as US stock futures were mixed on Tuesday (TheStreet).",
+                      "AMD is confirmed to report after the close on Tuesday, Nov. 3 (Earnings Whispers, Yahoo Finance)."
+                  ],
+    "body":  "## Apple: strong iPhone sales, margin worry\n\nApple reported its results after the close on Monday, Nov. 2 (MarketChameleon). Saxo Bank said the stock slipped 2.8% in after-hours trading as rising memory costs threatened margins, even though iPhone sales were strong (Saxo Bank). TheStreet said futures were mixed as investors reacted to the report (TheStreet).\n\nThis edition does not include Apple\u0027s reported revenue, earnings per share or guidance. Those figures were not verified from a primary release or a second wire in time for this edition, so they are left out rather than estimated. The next update should add them once the company\u0027s release or a wire report confirms them.\n\n## AMD reports tonight\n\nAdvanced Micro Devices is set to report after the close on Tuesday. Yahoo Finance said investors will look for signs of AI demand at a time of pressure on the AI trade (Yahoo Finance). Earnings Whispers listed the same date (Earnings Whispers). Saxo Bank listed AMD among today\u0027s US earnings, alongside Shopify and Pfizer (Saxo Bank).\n\n## What the after-hours move signals\n\nThe reaction came from margins, not from the top line. Saxo Bank described strong iPhone sales alongside the memory-cost problem, which suggests the company is selling well but paying more for the chips and memory that go into its devices (Saxo Bank). When component costs rise faster than prices, analysts usually focus on gross margin guidance and on how much of the cost can be passed on to customers. Those details are what the market will look for once the full release is reviewed.\n\nThe move also fits a broader pattern this week. Investors have been asking whether heavy technology spending is paying off, and the Nasdaq 100 slipped into correction on Monday (Saxo Bank). A company that beats on demand but warns on costs can still lose ground when the sector is nervous.\n\n## What to watch today\n\nThree items matter for the open. First, the Apple reaction itself: whether the 2.8% after-hours decline holds once regular trading begins. Second, the AMD report after the close, which will test whether AI demand is still supporting chip stocks. Third, the election result, which may dominate the tape regardless of company news (Bloomberg). Readers should treat any Apple figures beyond the after-hours move as unconfirmed until the company\u0027s own release or a second wire report is reviewed.\n\n## Scope of this update\n\nThis article is a pre-market preview and reaction note. It does not restate Apple\u0027s revenue, earnings per share or guidance, because those figures were not confirmed in the sources reviewed for this edition.\n\n## Why it matters\n\nApple\u0027s after-hours move points to cost pressure. Memory costs have become a cross-sector issue, which matters for hardware makers and chip suppliers. AMD\u0027s report tonight is the next test of AI-driven chip demand, and the market is already sensitive after the Nasdaq 100\u0027s slide into correction.",
+    "marketImpact":  {
+                         "summary":  "Apple\u0027s after-hours drop reflects margin concern, not a demand miss, while AMD\u0027s after-close report is a direct test of AI chip sentiment. Both could move semiconductor and hardware names at the open.",
+                         "timeframe":  "Monday after-hours through Wednesday\u0027s open",
+                         "confidence":  "medium",
+                         "tickers":  [
+                                         {
+                                             "symbol":  "AAPL",
+                                             "direction":  "down",
+                                             "rationale":  "Slipped 2.8% after hours as memory costs threatened margins (Saxo Bank)."
+                                         },
+                                         {
+                                             "symbol":  "AMD",
+                                             "direction":  "watch",
+                                             "rationale":  "Reports after the close Tuesday; investors will watch AI demand (Yahoo Finance)."
+                                         }
+                                     ],
+                         "catalysts":  [
+                                           {
+                                               "date":  "2026-11-03",
+                                               "event":  "AMD earnings after the close (Yahoo Finance, Earnings Whispers)"
+                                           }
+                                       ]
+                     },
+    "sources":  [
+                    {
+                        "title":  "Market Quick Take - US mid-term elections today the focus - 3 November 2026",
+                        "publisher":  "Saxo Bank",
+                        "url":  "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026",
+                        "accessedAt":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Stock Market Today (Nov. 3, 2026): Dow futures fall ahead of U.S. elections",
+                        "publisher":  "TheStreet",
+                        "url":  "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026",
+                        "accessedAt":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Earnings Report Calendar",
+                        "publisher":  "MarketChameleon",
+                        "url":  "https://marketchameleon.com/Calendar/Earnings",
+                        "accessedAt":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Stock market today: Dow, S\u0026P 500, Nasdaq futures waver ahead of midterm election results, AMD earnings",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html",
+                        "accessedAt":  "2026-11-03"
+                    }
+                ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "futures-election-day-overnight-asia-europe-oil-treasuries",
+  "title": "Stocks Slip Into Election Day as Oil Rebounds and Tech Stays Weak; Europe Rose on Monday",
+  "dek": "US futures fell before the midterm vote as oil bounced on doubts about a U.S.-Iran deal, Asian markets were mixed, and European indexes closed higher.",
+  "section": "markets",
+  "tags": [
+    "markets",
+    "futures",
+    "midterms",
+    "oil",
+    "treasuries",
+    "pre-market"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T12:00:00Z",
+  "updatedAt": "2026-11-03T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
+    "alt": "A gold-colored coin bearing the Bitcoin symbol",
+    "credit": "justanothercreativesoul (Satheesh Sankaran), via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "keyPoints": [
+    "US stock futures fell as oil rebounded on worries that the U.S. and Iran remain far apart on a peace deal (Bloomberg).",
+    "The 10-year Treasury yield ended Monday at 4.91%, after probing as low as 4.865% intraday (Saxo Bank).",
+    "Europe rose on Monday: Euro Stoxx 50 +0.78%, DAX +0.64%, FTSE 100 +0.29%, CAC 40 +0.98% (Newsquawk).",
+    "Asian markets were mixed; the Nikkei and Shanghai indexes fell while the Hang Seng rose, and Korean tech weighed on the region (Investrade, Saxo Bank)."
+  ],
+  "body": "## Election day opens with stocks lower\n\nUS stock futures fell in early trading on Tuesday, the day of the midterm elections. Bloomberg reported that oil prices rebounded on worries that America and Iran remain far apart on a peace deal, adding to subdued risk sentiment before voting began (Bloomberg). Saxo Bank said the vote is the main focus, with the VIX rising and nine-day volatility moving above spot while the vote sits inside that window (Saxo Bank).\n\nMonday's session set the tone. The S&P 500 fell 0.5% and the Nasdaq 100 dropped 1.4%, entering correction territory, while the Dow rose 0.4%, according to Saxo Bank. Investors continued to question the return on large AI investments.\n\n## Oil rebounds after a steep drop\n\nCrude rose after Monday's slump. Saxo said oil rebounded after its sharp fall, and Bloomberg tied the move to doubts about the diplomacy that had pushed prices lower. Saxo also reported that Iran's leadership authorized further talks with Washington, while U.S. officials described limited defensive strikes near the Strait of Hormuz. Saxo quoted President Trump saying strikes would not resume after the midterms. Treasury yields barely moved after the crude drop: the 10-year closed Monday at 4.91% (Saxo Bank).\n\n## Overnight Asia and Europe\n\nAsian markets were mixed. Investrade reported the Nikkei down 208 points to 63,081, the Shanghai Composite down 29 points to 3,608 and the Hang Seng up 132 points to 23,535 (Investrade). Newsquawk said Korean stocks underperformed after the tech sell-off in the US, even though South Korean CPI printed 2.8% against 2.9% expected (Newsquawk). China announced market-support measures, including a halt to large IPOs and large share sales (Saxo Bank).\n\nEurope closed higher on Monday. Newsquawk recorded the Euro Stoxx 50 at 6,179 (+0.78%), the DAX at 25,983 (+0.64%), the FTSE 100 at 10,761 (+0.29%) and the CAC 40 at 8,048 (+0.98%). The Australian central bank raised rates to 4.85%, but the Australian dollar weakened on the dovish guidance (Saxo Bank).\n\n## What to watch\n\nThe vote is the main near-term catalyst. Polls close at different times across the country, so early results may come in before the U.S. market opens. The 10:00 a.m. ET JOLTS job openings report is also due today, with a forecast of 7.11 million (InvestingLive).",
+  "marketImpact": {
+    "summary": "The pre-market setup is defensive. Oil is rebounding on Iran-talk doubts, yields are near 4.9%, and tech is still in correction. A clean election result would reduce uncertainty, but the inflation and oil picture remains a risk.",
+    "timeframe": "Tuesday, Nov. 3 pre-market through the U.S. close",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "QQQ",
+        "direction": "down",
+        "rationale": "Nasdaq 100 fell 1.4% on Monday and entered correction territory (Saxo Bank); futures were lower this morning (Bloomberg)."
+      },
+      {
+        "symbol": "XLE",
+        "direction": "up",
+        "rationale": "Oil rebounded on Iran-talk doubts after a sharp slump (Bloomberg, Saxo Bank)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-03",
+        "event": "U.S. midterm elections; results depend on poll closing times"
+      },
+      {
+        "date": "2026-11-03",
+        "event": "JOLTS job openings, 10:00 a.m. ET, forecast 7.11 million (InvestingLive)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "US Election Day Kicks Off: Stocks Slip, Oil Rebounds",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-opening-trade-11-03-2026-video",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Market Quick Take - US mid-term elections today the focus - 3 November 2026",
+      "publisher": "Saxo Bank",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Newsquawk Daily European Equity Opening News - 3rd November 2026",
+      "publisher": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---3rd-november-2026",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Morning Preview: November 03, 2026",
+      "publisher": "Investrade",
+      "url": "https://investrade.com/morning-preview-november-03-2026/",
+      "accessedAt": "2026-11-03"
+    }
+  ]
+}
