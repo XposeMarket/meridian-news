@@ -1,0 +1,54 @@
+{
+  "slug": "election-day-polls-open-results-timeline",
+  "title": "Election Day 2026: Polls Open Across the Country as Control of Congress Hangs in the Balance",
+  "dek": "Voting ends Tuesday across a country that has already cast more than 54 million ballots. The House is favored to flip, the Senate is a toss-up, and some results will take days.",
+  "section": "us",
+  "tags": ["midterms", "elections", "Election Day", "Senate", "House", "polls", "results", "North Carolina", "Michigan", "Ohio"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T13:00:00Z",
+  "updatedAt": "2026-11-03T13:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 5,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg",
+    "alt": "The U.S. Capitol, west front (file photo)",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg"
+  },
+  "keyPoints": [
+    "Polls opened Tuesday in the earliest time zones, with some states opening at 6:30 a.m. Eastern, according to BBC News. The last polls close at 1 a.m. Eastern Wednesday in Alaska, the New York Times reported.",
+    "NPR reported that more than 54 million people had already cast ballots, nearly half the total of the last midterm election. Democrats held a double-digit advantage in early voting, NPR said.",
+    "Democrats are favored to win the House and need to flip three seats for control, NPR reported. The Senate is far less certain: Democrats need to flip four seats and are favored only in North Carolina among the competitive races, NPR said.",
+    "Results begin at 6 p.m. Eastern in Kentucky and Indiana, and NPR and the New York Times both warned that some races may take days or weeks to call because of close margins and mail-ballot counting."
+  ],
+  "body": "Americans vote on Tuesday in midterm elections that will decide which party controls Congress for the last two years of President Donald Trump's term. Polls opened early in the day in several states, and voting ends in most of the country by 10 p.m. Eastern, according to the New York Times.\n\n## When the results come in\n\nThe first state polls close at 6 p.m. Eastern in eastern Indiana and Kentucky, and the New York Times has a steady stream of closings every 30 to 60 minutes after that. Georgia, South Carolina and Virginia close at 7 p.m. Eastern. North Carolina, Ohio and West Virginia close at 7:30 p.m. Eastern. Most of the Senate battlegrounds close between 8 p.m. and 11 p.m. Eastern.\n\nThe New York Times warned that early results can be misleading because mail, early in-person and Election Day ballots are counted in different orders, so a lead can shift as the full count comes in. The Associated Press decides when a race can be called, and close contests can take hours or days.\n\n## What is at stake\n\nAll 435 House seats and 35 Senate seats are on the ballot, along with governor races in 36 states, CBS News reported. NPR said the House is the more likely of the two chambers to be decided on election night because the margins are larger. The Senate could take much longer, since seven states are especially competitive and two use ranked-choice voting, which can extend the count.\n\nRepublicans' top target is Michigan, NPR reported, and Democrats are favored to flip North Carolina. Otherwise, NPR described most of the remaining Senate races as toss-ups or slight Republican favorites, with the five toss-up seats held by Republicans in states Trump won by double digits in 2024. Maine is an exception to that pattern, NPR said.\n\n## What to watch\n\nNPR's analysis points to Republican turnout on Election Day as a key variable, since Republicans have voted heavily in person on Election Day this cycle. High Republican turnout could limit Democrats to one Senate gain. Low turnout could hand Democrats up to six or seven seats, NPR reported.\n\nMeridian will update this story as states report and as calls are made.",
+  "sources": [
+    {
+      "title": "Election Day 2026: What to know as polls open",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "What Time Do Polls Close? Midterm Elections 2026",
+      "publisher": "The New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/11/02/us/elections/polls-closing-time-midterm-elections.html",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Live updates: 2026 US midterm elections and results",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.com/news/live/cj1dw0ydn595t",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "How to watch live 2026 midterm election results",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
+      "accessedAt": "2026-11-03"
+    }
+  ]
+}
