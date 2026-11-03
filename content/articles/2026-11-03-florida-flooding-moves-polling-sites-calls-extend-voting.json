@@ -1,0 +1,54 @@
+{
+  "slug": "florida-flooding-moves-polling-sites-calls-extend-voting",
+  "title": "Flooding Forces Florida Polling Sites to Move; Officials Say No Plans Yet to Extend Hours",
+  "dek": "Emergency orders let election officials relocate voting sites in several counties after heavy rain, while advocates asked whether polls should stay open later for voters who cannot reach them.",
+  "section": "us",
+  "tags": ["Florida", "Election Day", "flooding", "polling places", "midterms", "Common Cause"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T23:00:00Z",
+  "updatedAt": "2026-11-03T23:00:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg",
+    "alt": "The U.S. Capitol, west front (file photo)",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg"
+  },
+  "keyPoints": [
+    "Flash flooding prompted Gov. Ron DeSantis to issue an emergency order on Monday allowing election officials to move voting sites, and voters in seven counties were directed to temporary locations, according to Florida Phoenix.",
+    "Florida Secretary of State Cord Byrd said at a 1 p.m. briefing that he had not seen any reason \"thus far\" to keep polls open past regular hours, and that 1.2 million Floridians had voted on Election Day as of 12:30 p.m.",
+    "Common Cause Florida said some voters could not reach their polling locations because of flooding and that the group would push to expand voting hours if needed.",
+    "The New York Times reported that more than 20 polling stations across eight counties were relocated."
+  ],
+  "body": "Flooding in Florida forced election officials to move polling places on Election Day, and some voters said they could not reach the sites assigned to them.\n\nThe Associated Press reported that by afternoon, the biggest problems affecting voting nationwide were weather-related, with flooding in Florida and parts of the Southwest prompting changes to polling locations and other emergency measures.\n\n## Emergency moves\n\nFlorida's governor issued an emergency order on Monday allowing election officials to move voting sites before Election Day. Florida Phoenix reported that voters in seven counties were being directed to temporary polling locations. The New York Times reported that more than 20 polling stations across eight counties had been relocated. The counts differ by source, and the state's updated list of polling locations is the authoritative reference for voters.\n\nIn Brevard County, the Supervisor of Elections Office said it would temporarily relocate several precinct polling locations to protect voters and poll workers, according to ClickOrlando. Brevard's supervisor of elections, Tim Bobanic, described the moves as necessary \"due to these unprecedented circumstances.\" The local station reported that parts of Central Florida received about two feet of rain in 24 hours.\n\nFlood warnings from the National Weather Service remained in effect until 9:30 a.m. Wednesday in Brevard, Indian River, Martin and St. Lucie counties, according to Florida Phoenix.\n\n## Calls for more time\n\nAt a 1 p.m. briefing, Florida Secretary of State Cord Byrd said he had not seen any reason \"thus far\" to keep polls open past their regular hours. He said officials had moved polling locations and water \"in some cases\" to ensure voters could reach the polls by the 7 p.m. close. Byrd also urged voters to check their precinct because locations were still moving.\n\nAmy Keith, executive director of Common Cause Florida, said in a call Tuesday morning that some voters \"now can't reach their polling locations because of flooding.\" She said her group was helping those voters find temporary sites and would push to expand voting hours if necessary. Some voters on social media have also called on Gov. Ron DeSantis to extend voting past the 7 p.m. close.\n\nThe Florida Division of Elections has published new polling locations in most of the affected counties, as well as precincts in Palm Beach and Okeechobee counties, Florida Phoenix reported. WPLG in Miami reported one precinct change in Broward County due to flooding.\n\n## What to know\n\nPolls in Florida close at 7 p.m. local time. Voters who are unsure where to vote should check with their county elections office or the Florida Division of Elections list of current polling locations before heading out. Meridian will update this story if officials extend voting hours or announce further changes.",
+  "sources": [
+    {
+      "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/midterms-election-day-voting-polls-trump-ba3037eed7bd816cc084bb1c4a2e6ccf",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Voting locations changed in several Florida counties due to flash flooding",
+      "publisher": "Florida Phoenix",
+      "url": "https://floridaphoenix.com/2026/11/03/voting-locations-changed-in-several-florida-counties-due-to-flash-flooding/",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Record flooding forces Brevard County to move Election Day polling locations",
+      "publisher": "ClickOrlando (WKMG News 6)",
+      "url": "https://www.clickorlando.com/election-2026/2026/11/03/record-flooding-forces-brevard-county-to-move-election-day-polling-locations/",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Live updates: 2026 midterm elections",
+      "publisher": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
+      "accessedAt": "2026-11-03"
+    }
+  ]
+}

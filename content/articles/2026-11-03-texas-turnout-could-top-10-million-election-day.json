@@ -1,0 +1,54 @@
+{
+  "slug": "texas-turnout-could-top-10-million-election-day",
+  "title": "Texas Turnout Could Top 10 Million, Exceeding the Last Two Midterms; Georgia Also On Pace for Record",
+  "dek": "Early voting in the major Senate battlegrounds ran ahead of the last midterm cycle, and officials in Texas and Georgia said Election Day turnout was on track to be large.",
+  "section": "us",
+  "tags": ["Texas", "Georgia", "turnout", "Election Day", "Senate", "midterms", "early voting"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T23:00:00Z",
+  "updatedAt": "2026-11-03T23:00:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Capitol_-_west_front.jpg",
+    "alt": "The U.S. Capitol, west front (file photo)",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front.jpg"
+  },
+  "keyPoints": [
+    "The New York Times reported that overall turnout in Texas could exceed 10 million votes, which would surpass the total in each of the last two midterm elections.",
+    "The Georgia secretary of state said Election Day turnout in Georgia was on track to exceed that of the 2024 presidential election, according to the New York Times.",
+    "In each of the major Senate battlegrounds, including Texas, North Carolina and Michigan, early turnout eclipsed the last midterm cycle, the Times reported.",
+    "The Associated Press reported that early voting turnout was on pace to eclipse that of the last midterm elections, and that voting had largely unfolded with few problems."
+  ],
+  "body": "Turnout on the final day of the 2026 midterm elections was tracking well above recent midterms in several states, according to officials and reporting from The Associated Press and The New York Times.\n\n## Texas\n\nIn Texas, which is hosting a closely watched Senate race, overall turnout could exceed 10 million votes, the New York Times reported in its afternoon live coverage. That would exceed the total in each of the last two midterm elections. CNN's poll-closing guide says most Texas polls close at 8 p.m. Eastern, with the western end of the state closing at 9 p.m. Eastern.\n\n## Georgia\n\nThe Georgia secretary of state said Election Day turnout was on track to exceed the 2024 presidential election turnout, the Times reported. Georgia's polls close at 7 p.m. Eastern, according to the same closing-time guide.\n\n## Battlegrounds\n\nThe Times reported that in each of the major Senate battlegrounds, including Texas, North Carolina and Michigan, early turnout had eclipsed the last midterm cycle. In several states, the share of registered Democrats in the early vote had increased.\n\nThe AP reported that millions of Americans had already cast ballots before Election Day and that early voting turnout was on pace to eclipse the last midterms. Voting so far had unfolded with relatively few problems, the AP said, citing voting rights groups who described the issues as routine and quickly resolved.\n\n## What it means for the count\n\nOfficials and reporters have cautioned that full results will not be known until well into the evening and may take days in close races. Counting speed depends on how many early and mail ballots each state processes before Election Day, and some states will report later than others. Meridian will update this story as official turnout figures are released. Turnout figures reported so far are preliminary and come from officials and news organizations, not final tallies.",
+  "sources": [
+    {
+      "title": "Live updates: 2026 US midterm elections, Election Day coverage",
+      "publisher": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
+      "publisher": "Associated Press",
+      "url": "https://apnews.com/article/midterms-election-day-voting-polls-trump-ba3037eed7bd816cc084bb1c4a2e6ccf",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "When polls close? Hour by hour guide to 2026 election",
+      "publisher": "CNN",
+      "url": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "What Time Do Polls Close? Midterm Elections 2026",
+      "publisher": "The New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/11/02/us/elections/polls-closing-time-midterm-elections.html",
+      "accessedAt": "2026-11-03"
+    }
+  ]
+}
