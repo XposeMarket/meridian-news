@@ -1,0 +1,34 @@
+{
+  "slug": "zero-emissions-commitment-depends-on-warming-level",
+  "title": "Warming After Emissions Stop Depends on How Hot the Planet Gets First",
+  "dek": "A new Nature Climate Change study finds the zero emissions commitment, the temperature change after emissions cease, varies with the warming level reached, and may be positive at higher warming.",
+  "section": "climate",
+  "tags": ["climate science", "zero emissions commitment", "net zero", "warming", "Nature Climate Change"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T22:40:00Z",
+  "updatedAt": "2026-11-03T22:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Antarctic-interglacial_hg.png",
+    "alt": "Diagram of the Antarctic ice sheet size and structure during an interglacial",
+    "credit": "Hannes Grobe, Alfred Wegener Institute, Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antarctic-interglacial_hg.png"
+  },
+  "keyPoints": [
+    "A Nature Climate Change article published November 3 uses model simulations to show the zero emissions commitment depends on the warming level at which emissions cease.",
+    "The study says the commitment might be positive for higher warming, meaning temperatures could keep rising after emissions stop.",
+    "A companion Nature Climate Change piece by Andrew MacDougall argues that global temperature after emissions cease is not well constrained, and that negative CO2 emissions could produce cooling.",
+    "The findings bear on how carefully net-zero pathways and overshoot scenarios are framed."
+  ],
+  "body": "How much the planet warms after humans stop emitting greenhouse gases is one of the open questions in climate science. A new study in Nature Climate Change suggests the answer depends heavily on how much warming has already happened when emissions stop.\n\n## The core finding\n\nThe global temperature change that happens after emissions cease is called the zero emissions commitment. In a [Nature Climate Change article posted November 3](https://www.nature.com/nclimate/), the authors use model simulations to show that this commitment depends on the warming level at which emissions cease, and that it might be positive for higher warming levels.\n\nIn plain terms, if the world stops emitting at a low level of warming, temperatures may level off. If it stops after a larger overshoot, the lag in the climate system could keep temperatures rising for some time, even with no new emissions.\n\n## Why the number is hard to pin down\n\nA companion piece in the same journal, by Andrew MacDougall of St. Francis Xavier University, [states that global temperature change over long timescales after emissions stop is not well constrained](https://www.nature.com/articles/s41558-026-02708-8). That commentary describes research showing consistent global cooling in some scenarios, particularly if negative CO2 emissions offset continued methane and nitrous oxide emissions.\n\nThe two findings point the same way: the sign and size of post-emissions warming depend on assumptions about overshoot, non-CO2 gases and whether carbon is actively removed. A single figure for \"warming in the pipeline\" can hide those choices.\n\n## What it means for net-zero framing\n\nPolicy targets often treat net zero as a finish line. The zero emissions commitment suggests the path matters as much as the destination. A world that overshoots 1.5 degrees Celsius and then reaches net zero may not see temperatures fall at once, and the level of overshoot could change whether the lag is cooling or warming.\n\nThat is a reason to watch how overshoot scenarios are scored in future assessments, and to be cautious about any headline that reads net zero as an immediate stabilization point.\n\n## Limits of the reporting\n\nThe full text of the Nature Climate Change article was not accessible in the coverage reviewed here, which is a subscription journal, so this story relies on the published abstract and the journal's listing. The specific magnitudes of the simulated commitment at different warming levels are not reproduced in this report, and readers should consult the paper for model details and ranges.\n\n## Bottom line\n\nThe study adds to a growing body of work showing that the climate system's response after emissions stop is not a fixed number. It is a function of how much warming has happened and what happens to carbon and non-CO2 gases next.\n\n[Sources: Nature Climate Change listing, 3 November 2026; MacDougall commentary, Nature Climate Change.]"
+  ,
+  "sources": [
+    { "title": "Climate change: latest research and news (Nature Climate Change, 3 Nov 2026 listing)", "publisher": "Nature", "url": "https://www.nature.com/nclimate/", "accessedAt": "2026-11-03" },
+    { "title": "Less than net zero needed to stabilize climate", "publisher": "Nature Climate Change", "url": "https://www.nature.com/articles/s41558-026-02708-8", "accessedAt": "2026-11-03" },
+    { "title": "Climate change - Latest research and news", "publisher": "Nature", "url": "https://www.nature.com/subjects/climate-change", "accessedAt": "2026-11-03" }
+  ]
+}
