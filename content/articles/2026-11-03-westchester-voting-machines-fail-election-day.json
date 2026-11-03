@@ -1,0 +1,54 @@
+{
+  "slug": "westchester-voting-machines-fail-election-day",
+  "title": "Ballot Scanners Stop Accepting Votes at Westchester Polling Sites; New York Attorney General Monitors",
+  "dek": "Voters reported machine failures at multiple Westchester County polling places on Election Day, and the state attorney general said her office is monitoring the problem.",
+  "section": "us",
+  "tags": ["Election Day", "voting machines", "Westchester County", "New York", "Letitia James", "midterms"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T17:30:00Z",
+  "updatedAt": "2026-11-03T17:30:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fidlar_EV_2000_DRE_voting_machine.jpg",
+    "alt": "A Fidlar EV 2000 voting machine (stock photo; not the Westchester County equipment involved in the reports)",
+    "credit": "Wikimedia Commons",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fidlar_EV_2000_DRE_voting_machine.jpg"
+  },
+  "keyPoints": [
+    "Voters reported polling problems across Westchester County on Tuesday, after ballot scanners stopped accepting votes, according to state officials cited by The Hill and NewsNation.",
+    "The county Board of Elections initially blamed the thickness of paper ballots for the machine breakdowns, then removed that explanation from its statement, Axios reported.",
+    "New York Attorney General Letitia James said on X that her office is monitoring the scanner issue and is in touch with the state and local Boards of Elections as they work on a solution.",
+    "Polls in New York are open from 6 a.m. to 9 p.m. Eastern, according to NBC News."
+  ],
+  "body": "Voters across Westchester County, New York, reported problems with ballot scanners at multiple polling sites on Tuesday, Election Day, according to reporting from NBC New York and state officials cited by The Hill.\n\n## What happened\n\nThe Hill and NewsNation reported that ballot scanners at polling sites across the county stopped accepting votes. NBC New York reported that voters were reporting issues at several polling stations.\n\nAxios reported that the county Board of Elections first blamed the thickness of paper ballots for the breakdowns, but later removed that explanation from its statement. Meridian has not been able to confirm the cause of the failures.\n\n## State response\n\nNew York Attorney General Letitia James wrote on X that her office is monitoring the scanner issue in Westchester and is in contact with the state and local Boards of Elections as they work on a solution, PIX11 reported.\n\nAxios described the county as part of a key House battleground. NBC News said New York's 17th, 4th and 3rd districts are among the critical House races, and that Gov. Kathy Hochul is running against Republican Bruce Blakeman in a race polls have shown Hochul leading.\n\n## What to know\n\nNew York polls are open from 6 a.m. to 9 p.m. Eastern. The reports came on the same day that New York voters are casting ballots in races that could affect the national balance of power.\n\n## Why it matters\n\nThe problems come as Democrats look to take control of the House. NBC News reported that Democrats are favored to win the chamber and need to flip three seats. Axios described Westchester as part of a key House battleground, which makes scanner problems in the county a matter of close attention for both campaigns.\n\nElection officials have not yet publicly confirmed how many ballots were affected or whether any were lost. Meridian has not reviewed county records or independently confirmed the number of affected sites. The attorney general's statement says the office is working with the state and local Boards of Elections on a solution, but it does not describe the scope of the fix.\n\n## What we are watching\n\nMeridian will update this story when the county, the state Board of Elections or the attorney general announces a fix, a count of affected ballots, or any further action. Reports of additional problems will be added only when they are confirmed by officials or by reporting from news organizations with direct evidence.",
+  "sources": [
+    {
+      "title": "Live Election Day updates: Major voting problems reported in NY county; AG monitoring",
+      "publisher": "NBC New York",
+      "url": "https://www.nbcnewyork.com/elections/live-updates-election-day-nyc-nj-poll-vote-governor-congress/6566156/",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Letitia James says New York Attorney General office monitoring voting machine issues in Westchester",
+      "publisher": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6191888-letitia-james-new-york-voting-machine-issues-westchester-2026-midterms/",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Voting machine chaos hits key House battleground",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Election Day issues rise as Westchester County voting machines fail",
+      "publisher": "PIX11",
+      "url": "https://pix11.com/news/local-news/westchester-voting-machines-reject-ballots-due-to-paper-thickness/",
+      "accessedAt": "2026-11-03"
+    }
+  ]
+}
