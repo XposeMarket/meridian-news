@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-11-03T12:10:00Z",
-  "edition": "pre-market",
+  "updatedAt": "2026-11-03T17:15:00Z",
+  "edition": "midday",
   "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Futures slip into election day as oil rebounds; Apple falls after hours on memory costs",
-    "summary": "US futures fell before the midterm vote as oil bounced on doubts about a U.S.-Iran deal (Bloomberg). Monday's close: S&P 500 down 0.5%, Nasdaq 100 down 1.4% into correction, Dow up 0.4% (Saxo Bank). European indexes closed higher, with the DAX up 0.64% and the CAC 40 up 0.98% (Newsquawk). Apple slipped 2.8% after hours on margin worries (Saxo Bank). AMD reports after the close today.",
-    "asOf": "2026-11-03T12:10:00Z",
+    "headline": "Dow slips and Nasdaq rises on a chip rebound as Apple weighs on Election Day",
+    "summary": "At about 12:00 p.m. ET the Dow was down 0.42% at 51,765.48, while the Nasdaq Composite rose 0.8% and the S&P 500 rose 0.4% on chip-stock gains (Yahoo Finance, Stock Titan citing CNBC). Apple fell about 2.15% after its margin forecast. Oil eased on hopes of U.S.-Iran talks (Yahoo Finance). AMD reports after the close today.",
+    "asOf": "2026-11-03T17:15:00Z",
     "bullets": [
-      "US futures lower before the midterm vote (Bloomberg).",
-      "Oil rebounded after Monday's slump on doubts about U.S.-Iran peace talks (Bloomberg, Saxo Bank).",
-      "10-year Treasury yield 4.91% at Monday's close (Saxo Bank).",
-      "Europe closed higher Monday: Euro Stoxx 50 +0.78%, DAX +0.64%, FTSE 100 +0.29% (Newsquawk).",
-      "Apple slipped 2.8% after hours on memory costs despite strong iPhone sales (Saxo Bank).",
-      "AMD reports after the close today (Yahoo Finance, Earnings Whispers)."
+      "Dow 51,765.48, down 0.42%, at 11:58 a.m. ET (Yahoo Finance).",
+      "Nasdaq Composite up 0.8% and S&P 500 up 0.4% in late-morning trading (Stock Titan, citing CNBC).",
+      "Apple down about 2.15% at 12:01 p.m. ET, roughly $107 billion in market value (Stock Titan, citing CNBC).",
+      "Ibotta up 28.26% at 12:00 p.m. ET after a revenue beat (Stock Titan).",
+      "WTI near $95 and Brent near $103 a barrel on U.S.-Iran talk hopes (Yahoo Finance).",
+      "AMD reports fiscal Q3 after the close; call at 5:00 p.m. ET (tastylive, CapitalMEG)."
     ]
   },
   "marketSnapshot": [
     {
-      "label": "S&P 500",
-      "value": "7,541.40",
-      "change": "-0.51%",
+      "label": "Dow Jones Industrial Average",
+      "value": "51,765.48",
+      "change": "-218.50 (-0.42%)",
       "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 4:00 PM ET close"
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
+      "asOf": "2026-11-03 11:58 AM ET"
+    },
+    {
+      "label": "S&P 500",
+      "value": "+0.4% midday",
+      "change": "vs. prior close 7,541.40",
+      "direction": "up",
+      "source": "Stock Titan (citing CNBC)",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "asOf": "2026-11-03 12:07 PM ET"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "25,164.32",
-      "change": "-1.07%",
-      "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 4:00 PM ET close"
-    },
-    {
-      "label": "Dow Jones Industrial Average",
-      "value": "51,983.98",
-      "change": "+213.67 (+0.41%)",
+      "value": "+0.8% midday",
+      "change": "vs. prior close 25,164.32",
       "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 4:00 PM ET close"
+      "source": "Stock Titan (citing CNBC)",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "asOf": "2026-11-03 11:44 AM ET"
     },
     {
       "label": "Brent crude",
-      "value": "104.77",
-      "change": "-7.63%",
+      "value": "~103",
+      "change": "down about 1%",
       "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 settlement"
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
+      "asOf": "2026-11-03 midday"
     },
     {
       "label": "WTI crude",
-      "value": "96.46",
-      "change": "-7.36%",
+      "value": "~95",
+      "change": "down less than 1%",
       "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-      "asOf": "2026-11-02 settlement"
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/5-things-to-know-stock-market-november-3-2026-12206961",
+      "asOf": "2026-11-03 morning"
     },
     {
       "label": "10-year Treasury yield",
-      "value": "4.91%",
-      "change": "slightly lower",
-      "direction": "down",
-      "source": "Saxo Bank",
-      "sourceUrl": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026",
-      "asOf": "2026-11-02 close"
+      "value": "4.954%",
+      "change": "+6 bp",
+      "direction": "up",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/5-things-to-know-stock-market-november-3-2026-12206961",
+      "asOf": "2026-11-03 pre-open"
     }
   ],
   "calendar": [
@@ -77,21 +77,28 @@
       "time": "All day",
       "event": "US midterm elections",
       "importance": "high",
-      "why": "All 435 House seats and 35 Senate seats are contested (Trading Economics); results depend on poll closing times (Saxo Bank)."
+      "why": "Results depend on poll closing times; the market reaction is expected to follow the House and Senate outcomes (Saxo Bank, Investing.com)."
     },
     {
       "date": "2026-11-03",
-      "time": "10:00 AM ET",
-      "event": "JOLTS job openings (September)",
+      "time": "8:30 AM ET",
+      "event": "JOLTS (September) released: 7.5 million openings",
       "importance": "medium",
-      "why": "Forecast 7.11 million vs 7.08 million (InvestingLive)."
+      "why": "Released; beat the roughly 7.1 million forecast (Investopedia)."
     },
     {
       "date": "2026-11-03",
       "time": "After close",
-      "event": "AMD earnings",
+      "event": "AMD fiscal Q3 2026 earnings; call at 5:00 p.m. ET",
       "importance": "high",
-      "why": "Confirmed for Tuesday after the close (Yahoo Finance, Earnings Whispers)."
+      "why": "Confirmed by tastylive and CapitalMEG; guidance is the focus."
+    },
+    {
+      "date": "2026-11-04",
+      "time": "Morning",
+      "event": "ISM services PMI and ADP employment",
+      "importance": "medium",
+      "why": "Due Wednesday per Investopedia."
     },
     {
       "date": "2026-11-04",

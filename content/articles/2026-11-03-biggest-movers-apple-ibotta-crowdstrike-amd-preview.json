@@ -1,0 +1,99 @@
+{
+  "slug": "biggest-movers-apple-ibotta-crowdstrike-amd-preview",
+  "title": "Ibotta Jumps 28% on Results, Apple Slides on Margins; AMD Reports Tonight",
+  "dek": "Ibotta led gainers after a revenue beat, Apple fell on its margin outlook and CrowdStrike rose on two AI security deals. AMD reports after the close with its AI chip outlook in focus.",
+  "section": "markets",
+  "tags": [
+    "movers",
+    "apple",
+    "amd",
+    "ibotta",
+    "crowdstrike",
+    "earnings",
+    "midday"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T17:15:00Z",
+  "updatedAt": "2026-11-03T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "alt": "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress, U.S. News & World Report Magazine Photograph Collection (photo by Thomas J. O'Halloran)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+  },
+  "keyPoints": [
+    "Ibotta was the biggest gainer on Stock Titan's board, up 28.26% at 12:00 p.m. ET against Monday's close, after revenue beat its own forecast (Stock Titan).",
+    "Apple was down about 2.15% at 12:01 p.m. ET, roughly $107 billion lower in market value, after a weaker margin forecast (Stock Titan, citing CNBC).",
+    "CrowdStrike said it will buy Fiddler AI and Dreadnode for a combined $495 million, according to the Wall Street Journal; shares rose more than 2% early (Yahoo Finance).",
+    "AMD reports fiscal third-quarter 2026 results after the close today, with its call at 5:00 p.m. ET (tastylive, CapitalMEG)."
+  ],
+  "body": "## Biggest movers: Ibotta up, Apple down\n\nIbotta was the strongest stock on Stock Titan's midday board, up 28.26% at 12:00 p.m. ET against Monday's close, after its revenue beat the company's own forecast (Stock Titan). Apple was one of the weakest large caps. At 12:01 p.m. ET it was down about 2.15%, a decline CNBC estimated at roughly $107 billion of market value (Stock Titan). Investors reacted to a weaker profit margin outlook after Monday's report. Saxo Bank had described the same concern as rising memory costs.\n\nCrowdStrike rose after announcing two AI security acquisitions. The company said it will buy Fiddler AI, which tracks AI systems, and Dreadnode, which tests AI systems for security weaknesses. The Wall Street Journal put the combined price at $495 million, and CrowdStrike shares were up more than 2% in early trading (Yahoo Finance).\n\nPalantir, which reported after Monday's close, fell after its results despite a beat, Yahoo Finance reported.\n\n## Chips: the bounce and its test\n\nChip stocks were the Nasdaq's main support. The PHLX Semiconductor Index closed Monday about 22% below its Oct. 6 high, its second bear market since June. On Tuesday nearly every chip and storage stock in the S&P 500 rose early (Yahoo Finance). The question for the rest of the week is whether the bounce holds.\n\n## AMD earnings preview\n\nAMD reports fiscal third-quarter 2026 results after the U.S. market close today, with its call at 5:00 p.m. ET (tastylive, CapitalMEG). Its newsroom said results would come after the close on Nov. 3 (PrimeXBT, citing AMD's October 6 release).\n\nThe bar is set by recent growth expectations; consensus estimates were not verified for this article and should be checked against the live release.\n\nAnalysts and commentary cited by Yahoo Finance expect the stock reaction to depend more on fourth-quarter guidance than on the quarter itself, the same pattern seen with Intel last week. TradingKey described the setup as a test of whether AI chip growth can reverse a decline in the stock.\n\n## What to watch\n\nAfter the close: AMD results and guidance. Tomorrow: ADP and ISM services data. Friday: October payrolls, with the Nov. 6 jobs report expected at 8:30 a.m. ET.",
+  "marketImpact": {
+    "summary": "Apple's drop reflects margin concern, and the Ibotta jump reflects a single-company beat. AMD's report tonight is the main test of whether the chip rebound can hold, with guidance more important than the quarter.",
+    "timeframe": "Tuesday, Nov. 3 midday through Wednesday's open",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "AAPL",
+        "direction": "down",
+        "rationale": "Down about 2.15% at 12:01 p.m. ET after its margin forecast (Stock Titan, citing CNBC)."
+      },
+      {
+        "symbol": "IBTA",
+        "direction": "up",
+        "rationale": "Up 28.26% at 12:00 p.m. ET after a revenue beat (Stock Titan)."
+      },
+      {
+        "symbol": "CRWD",
+        "direction": "up",
+        "rationale": "Rose more than 2% early after agreeing to buy two AI security startups for a combined $495 million (Yahoo Finance)."
+      },
+      {
+        "symbol": "AMD",
+        "direction": "watch",
+        "rationale": "Reports after the close today; investors will focus on Q4 guidance and AI demand (Yahoo Finance, TradingKey)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-03",
+        "event": "AMD fiscal Q3 2026 earnings after the close, call at 5:00 p.m. ET (tastylive, CapitalMEG)"
+      },
+      {
+        "date": "2026-11-06",
+        "event": "October employment report, 8:30 a.m. ET (Trading Economics)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Chip Stocks Lift the Nasdaq in the Stock Market Today, November 3, as Apple Weighs on the Dow",
+      "publisher": "Stock Titan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of midterm election results, AMD earnings",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "AMD Earnings Preview: Q3 2026 Expectations and Key Risks",
+      "publisher": "tastylive",
+      "url": "https://www.tastylive.com/news-insights/amd-earnings-preview-can-helios-and-mi450-reignite-the-ai-rally-",
+      "accessedAt": "2026-11-03"
+    },
+    {
+      "title": "AMD Earnings Date: Q3 2026 Time and Estimates",
+      "publisher": "CapitalMEG",
+      "url": "https://www.cmelitegroup.com/knowledge-hub/amd-earnings-date-estimates-ai-chip-read-through/",
+      "accessedAt": "2026-11-03"
+    }
+  ]
+}

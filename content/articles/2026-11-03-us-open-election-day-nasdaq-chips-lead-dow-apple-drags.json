@@ -1,0 +1,49 @@
+{
+  "slug": "us-open-election-day-nasdaq-chips-lead-dow-apple-drags",
+  "title": "Nasdaq Climbs on Chip Rebound as Apple Weighs on the Dow on Election Day",
+  "dek": "Midway through Tuesday's session the Nasdaq Composite was up 0.8% and the S&P 500 up 0.4%, while the Dow fell about 0.4% after Apple's margin forecast.",
+  "section": "markets",
+  "tags": ["us-stocks", "midterms", "chips", "apple", "treasuries", "oil", "midday"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T17:15:00Z",
+  "updatedAt": "2026-11-03T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "alt": "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress, U.S. News & World Report Magazine Photograph Collection (photo by Thomas J. O'Halloran)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+  },
+  "keyPoints": [
+    "At about 12:07 p.m. ET the Nasdaq Composite was up 0.8%, the S&P 500 up 0.4% and the Dow down 217 points (Stock Titan, citing CNBC).",
+    "At 11:58 a.m. ET the Dow was at 51,765.48, down 218.50 points or 0.42% (Yahoo Finance).",
+    "Apple was down about 2.15% at 12:01 p.m. ET, a loss of roughly $107 billion in market value versus Monday's close (Stock Titan, citing CNBC).",
+    "Chip stocks bounced after Monday's close left the PHLX Semiconductor Index about 22% below its Oct. 6 high (Yahoo Finance).",
+    "Oil was lower in morning trading, with WTI near $95 and Brent near $103 a barrel on hopes of U.S.-Iran talks (Yahoo Finance)."
+  ],
+  "body": "## Opening: chips lead, Apple drags the Dow\n\nThe U.S. stock market opened Election Day mixed. At 11:58 a.m. ET the Dow Jones Industrial Average was at 51,765.48, down 218.50 points or 0.42%, as Apple weighed on the index (Yahoo Finance). The Nasdaq Composite was the strongest of the three majors, up 0.8% in late-morning trading, according to CNBC figures cited by Stock Titan. At about 12:07 p.m. ET the S&P 500 was up 0.4%.\n\nThe Nasdaq's lift came from semiconductors. Yahoo Finance reported that nearly every chip and storage stock in the S&P 500 rose in early trading, led by memory and chip-equipment names, and that the index climbed back above its July 29 low. The sector had closed Monday in a fresh bear market, about 22% below its Oct. 6 high (Yahoo Finance).\n\n## Apple: margin forecast weighs on the Dow\n\nApple was the Dow's main drag. At 12:01 p.m. ET the stock was down about 2.15% from Monday's close, which CNBC estimated at roughly $107 billion of market value (Stock Titan). The move followed the company's after-hours report, in which investors focused on a weaker profit margin outlook rather than on iPhone demand. Saxo Bank had described the same concern as rising memory costs threatening margins.\n\n## Rates and oil\n\nTreasury yields were higher in pre-open quotes. The 10-year note was at 4.954%, up 6 basis points, and the 30-year at 5.324% (Investopedia). Bloomberg reported that Treasuries later fell after the September JOLTS report beat expectations, lifting yields three to five basis points across maturities as traders priced in a higher chance of Fed rate increases. JOLTS showed 7.5 million job openings in September against an expected 7.1 million (Investopedia, Yahoo Finance).\n\nOil eased in morning trading. Yahoo Finance reported WTI near $95 and Brent near $103 a barrel as investors weighed the odds of a diplomatic resolution to the U.S.-Iran conflict. Oil had moved higher early in the session on reports of limited U.S. strikes, then reversed.\n\n## Election-day positioning\n\nInvestors kept their focus on the midterm results, which were not due until the evening. Analysts quoted by Investing.com had said before the vote that the election mattered less for stocks than the headlines suggested, and that the main risk was a sweep of Congress by one party. Trading was cautious rather than directional: the Dow fell, the Nasdaq rose, and Treasuries moved with the data, not the vote. Nothing in the midday reporting we reviewed showed a broad rush into or out of risk assets.\n\nThe dollar was not covered in the sources used for this story, so no dollar move is reported here.\n\n## What to watch this afternoon\n\nThe next scheduled catalyst is the AMD report after the close. Results from midterm races will start to arrive after polls close. As of this writing, index levels are midday readings and will change through the session.",
+  "marketImpact": {
+    "summary": "The midday pattern is a split market: chip stocks are lifting the Nasdaq while Apple's margin concern drags the Dow. Treasury and oil moves were driven by the JOLTS data and Iran headlines more than by the vote.",
+    "timeframe": "Tuesday, Nov. 3 midday through the close",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AAPL", "direction": "down", "rationale": "Down about 2.15% at 12:01 p.m. ET after its margin forecast (Stock Titan, citing CNBC)." },
+      { "symbol": "AMD", "direction": "watch", "rationale": "Among the chip names lifting the Nasdaq midday; reports after the close (Stock Titan, Yahoo Finance)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "U.S. midterm results after polls close (Yahoo Finance)" },
+      { "date": "2026-11-03", "event": "AMD earnings after the close, call at 5:00 p.m. ET (tastylive, CapitalMEG)" }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of midterm election results, AMD earnings", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html", "accessedAt": "2026-11-03" },
+    { "title": "Chip Stocks Lift the Nasdaq in the Stock Market Today, November 3, as Apple Weighs on the Dow", "publisher": "Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026", "accessedAt": "2026-11-03" },
+    { "title": "5 Things Investors Need to Know About Tuesday's Markets", "publisher": "Investopedia", "url": "https://www.investopedia.com/5-things-to-know-stock-market-november-3-2026-12206961", "accessedAt": "2026-11-03" },
+    { "title": "Treasuries Fall Amid Oil Price Swings, Strong Job Openings Data", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-03/treasuries-fall-amid-oil-price-swings-strong-job-openings-data", "accessedAt": "2026-11-03" },
+    { "title": "Market Quick Take - US mid-term elections today the focus - 3 November 2026", "publisher": "Saxo Bank", "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---us-mid-term-elections-today-the-focus---3-november-2026-03112026", "accessedAt": "2026-11-03" }
+  ]
+}
