@@ -1,0 +1,45 @@
+{
+  "slug": "hyundai-toyota-october-sales-record-hybrids",
+  "title": "Hyundai Posts Record October Sales as Hybrids Lead Toyota and Honda Gains",
+  "dek": "Hyundai reported its best October ever on Tuesday, with hybrids at 29% of volume. Automotive News says Toyota, Honda and Kia also rose, as the October forecasts from Cox and J.D. Power begin to be tested.",
+  "section": "autos",
+  "tags": ["October sales", "Hyundai", "Toyota", "hybrids", "US auto market", "EVs"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T16:10:00Z",
+  "updatedAt": "2026-11-03T16:10:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Car_showroom%2C_Birnam_-_geograph.org.uk_-_2664821.jpg",
+    "alt": "A car showroom with vehicles on display",
+    "credit": "Richard Webb, Geograph Britain and Ireland",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Car_showroom,_Birnam_-_geograph.org.uk_-_2664821.jpg"
+  },
+  "keyPoints": [
+    "Hyundai Motor America reported record October total sales of 73,452, up 5% from October 2025, and retail sales of 62,646, up 9%.",
+    "Hyundai's hybrid sales rose 20% in October and made up 29% of its total volume; year-to-date hybrid sales are up 50%.",
+    "Toyota Motor North America reported October U.S. sales of 221,507 vehicles, with 126,054 electrified vehicles, up 34.6% by volume, according to Rallies.",
+    "Automotive News reported that Toyota, Honda, Hyundai and Kia gained in October, helped by hybrids, retail demand, an extra selling day and a weak October 2025 comparison."
+  ],
+  "body": "Hyundai Motor America reported the best October in its history on Tuesday, and the results add to a month in which hybrids did much of the work for Japanese and Korean brands.\n\n## Hyundai\n\nHyundai sold 73,452 vehicles in October, up 5% from 70,118 a year earlier. Retail sales rose 9% to 62,646. Santa Fe (up 52%), Kona (up 21%), IONIQ 5 (up 21%), Elantra (up 17%) and Palisade (up 14%) led the gains, and the Santa Fe and Palisade set October records. Hybrids rose 20% and made up 29% of the month's volume. Year to date, Hyundai is at 770,916 units, up 3%.\n\n## Toyota and the rest of the market\n\nRallies reported that Toyota Motor North America sold 221,507 vehicles in October, including 126,054 electrified vehicles, up 34.6% by volume. Automotive News reported that Toyota's U.S. sales rose 6.5% in the month, with the Toyota division up 5.7% and Lexus up 12%. The same report says Honda and Kia also rose.\n\nAutomotive News had said before the release that the U.S. new-vehicle market was expected to rise between 3.9% and 7.2%, helped by an extra selling day and a soft comparison with October 2025.\n\n## Why it matters\n\nThe strongest signal in the results is the hybrid volume. Hyundai's hybrid share of 29% matches the trend Toyota has shown for months, and it points to buyers choosing hybrids over pure EVs as the U.S. EV market cools after federal tax-credit changes. The pre-release forecasts from Cox Automotive and J.D. Power are now testable against these actuals.\n\nSome automakers have not yet released full October figures in the coverage reviewed here, including GM and Ford, so a full market total is not yet available.\n\n## Context from the year\n\nThe trend is not new. Earlier coverage showed Toyota's electrified sales rising sharply through the third quarter while the broader U.S. market was flat to slightly lower; MarkLines reported U.S. sales up 4.8% in September on strong hybrid demand from Japanese and South Korean brands. GoodCarBadCar's 2026 tally puts Ford's year-to-date sales down 8.6%, and Hyundai's year-to-date hybrid sales are up 50%, which points to a multi-month shift rather than a one-month spike.\n\nFor buyers, hybrids now compete with both gasoline trucks and battery EVs at similar price points. For dealers and automakers, a rising hybrid share changes inventory planning away from pure EV volume.\n\n## What to watch\n\nThe next checkpoints are the full October totals from GM, Ford and Stellantis, and November sales reports due in early December. Those would show whether October's hybrid strength holds into the holiday season.",
+  "marketImpact": {
+    "summary": "Toyota's electrified-vehicle growth and hybrid strength support its U.S. share position. Hyundai is not a U.S.-listed stock, so its results matter here mainly as a read on hybrid demand across the market.",
+    "timeframe": "Next 1-2 weeks, as full October results and dealer commentary arrive",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "TM", "direction": "up", "rationale": "Reported October U.S. sales up 6.5%; electrified sales up 34.6% by volume according to Rallies" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "Hyundai and Toyota release October U.S. sales; Automotive News reports Toyota, Honda and Kia gains" },
+      { "date": "2026-11-04", "event": "Remaining automaker October results expected to fill in the market total" }
+    ]
+  },
+  "sources": [
+    { "title": "Hyundai Motor America Reports Record-Breaking October 2026 Sales", "publisher": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/hyundai-motor-america-reports-record-breaking-october-2026-sales-302927595.html", "accessedAt": "2026-11-03" },
+    { "title": "Toyota, Honda, Hyundai, Kia ride hybrids, retail demand to October gains", "publisher": "Automotive News", "url": "https://www.autonews.com/retail/sales/an-october-us-auto-sales-2026-1103/", "accessedAt": "2026-11-03" },
+    { "title": "Toyota Motor North America reports October 2026 U.S. sales of 221,507 vehicles", "publisher": "Rallies", "url": "https://rallies.ai/news/toyota-motor-north-america-reports-october-2026-us-sales-of-221507-vehicles-3a49b916361615a9", "accessedAt": "2026-11-03" }
+  ]
+}

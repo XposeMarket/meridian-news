@@ -1,0 +1,44 @@
+{
+  "slug": "nvidia-tells-cloud-partners-cap-china-revenue-51-percent",
+  "title": "Nvidia Tells Cloud Partners to Keep 51% of Service Sales Outside China",
+  "dek": "The Financial Times reported that Nvidia wants GPU cloud providers to earn at least half their service revenue from non-Chinese customers, tightening how its scarce compute reaches Chinese buyers.",
+  "section": "ai-tech",
+  "tags": ["Nvidia", "China", "export controls", "cloud", "AI chips", "semiconductors"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T16:00:00Z",
+  "updatedAt": "2026-11-03T16:00:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/A_semiconductor_wafer_on_a_dicing_%28blue%29_tape._Few_chips_%28dies%29_from_the_wafer_have_already_been_picked_up_%28removed%29_for_further_manufacturing.png",
+    "alt": "A semiconductor wafer on blue dicing tape with some chips removed",
+    "credit": "Khpsoi, Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_on_a_dicing_(blue)_tape._Few_chips_(dies)_from_the_wafer_have_already_been_picked_up_(removed)_for_further_manufacturing.png"
+  },
+  "keyPoints": [
+    "The Financial Times reported on November 3 that Nvidia told cloud partners to make sure at least 51% of their service sales come from companies outside China.",
+    "The report cites unnamed people; Nvidia's public response was not included in the coverage reviewed for this story.",
+    "The requirement limits how much of Nvidia-powered cloud capacity can be sold to Chinese customers, rather than banning access outright.",
+    "Coverage describes the rule as a response to Washington's pressure on cloud access to US chips."
+  ],
+  "body": "Nvidia has told the cloud companies that rent its chips to make sure most of their business comes from outside China, according to the Financial Times, which was reported on Tuesday by several outlets.\n\n## What the report says\n\nThe FT says Nvidia asked cloud partners to ensure that at least 51% of their service sales are to companies outside China. Benzinga, The Next Web and Yahoo Finance all describe the same threshold, and runtimewire, citing Bloomberg's account of the FT story, says the instruction was given to clients who depend on Nvidia allocations to grow.\n\nThe requirement works on the sales mix of GPU cloud providers rather than on a formal export licence. That makes it harder to see from outside, because it depends on how each partner reports its customers.\n\n## Why it matters\n\nFor a GPU cloud operator, the cap is a condition on growth. Capacity from Nvidia is scarce, so a partner that wants more chips has to shape its customer base to match the rule. Chinese AI developers that rent compute overseas could find access tighter as a result.\n\nThe reporting does not say how many partners are affected, what happens to contracts already signed, or whether the 51% figure applies to every region. Those details are unconfirmed.\n\n## What to watch\n\nNvidia's next earnings report and any statement from its cloud partners would show whether the rule is being applied as described. Chinese reaction, and any further US guidance on cloud access, would also matter.\n\n## Background\n\nNvidia's AI accelerators are the main compute supply for cloud providers worldwide, so allocation decisions by Nvidia shape which customers can buy capacity. Since 2025, US export controls have limited the most advanced chips that can be shipped to China, and many Chinese developers have turned to overseas cloud providers to rent access instead. A rule that caps the Chinese share of a cloud partner's service sales would close one of those routes without changing the formal export rules.\n\nThe reporting describes the requirement as a condition of supply rather than a legal prohibition. Partners that fall short could lose allocations of scarce chips, which gives Nvidia leverage over how its hardware is used at the end of the supply chain. Readers should treat the details as reported, since the FT's account relies on unnamed people and the rule has not been published in full.\n\n## What is not yet known\n\nThe coverage does not say when the requirement takes effect, whether it applies to every region, or how cloud partners will measure customer nationality in practice. Those points would determine whether the rule changes Chinese demand in a material way.",
+  "marketImpact": {
+    "summary": "A reported cap on Chinese cloud customers could narrow Nvidia's addressable China demand through rented capacity, but the report gives no revenue figure, so the effect is hard to size. Peers that rent Nvidia-based compute face the same condition.",
+    "timeframe": "Next 2-4 weeks, including any Nvidia or cloud partner comment",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Reported rule restricts Chinese use of its cloud channel; no revenue impact has been disclosed" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "FT reports Nvidia's 51% non-China service-sales requirement for cloud partners" }
+    ]
+  },
+  "sources": [
+    { "title": "FT reports Nvidia told cloud clients to sell 51% to companies outside China", "publisher": "RuntimeWire (citing Bloomberg and the FT)", "url": "https://runtimewire.com/article/nvidia-cloud-clients-china-51-percent-ft", "accessedAt": "2026-11-03" },
+    { "title": "Nvidia reportedly restricts Chinese access to AI computing through overseas data centers", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-restricts-chinese-access-112552007.html", "accessedAt": "2026-11-03" },
+    { "title": "Nvidia tells cloud partners to cap Chinese business at 49%, FT reports", "publisher": "The Next Web", "url": "https://thenextweb.com/news/nvidia-cloud-partners-cap-china-business", "accessedAt": "2026-11-03" }
+  ]
+}
