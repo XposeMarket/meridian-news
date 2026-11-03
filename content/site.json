@@ -1,104 +1,83 @@
 {
-  "updatedAt": "2026-11-03T17:15:00Z",
-  "edition": "midday",
+  "updatedAt": "2026-11-03T21:20:00Z",
+  "edition": "afternoon",
   "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Dow slips and Nasdaq rises on a chip rebound as Apple weighs on Election Day",
-    "summary": "At about 12:00 p.m. ET the Dow was down 0.42% at 51,765.48, while the Nasdaq Composite rose 0.8% and the S&P 500 rose 0.4% on chip-stock gains (Yahoo Finance, Stock Titan citing CNBC). Apple fell about 2.15% after its margin forecast. Oil eased on hopes of U.S.-Iran talks (Yahoo Finance). AMD reports after the close today.",
-    "asOf": "2026-11-03T17:15:00Z",
+    "headline": "Nasdaq gains 0.8% on Election Day as chips rebound; Dow falls 0.4% on Apple; AMD rises after hours",
+    "summary": "At the close, the S&P 500 rose 0.4% to 7,568.92, the Nasdaq Composite added 0.8% to 25,372.01 and the Dow fell 0.4% to 51,786.72 (AP). AMD reported a beat and guided fourth-quarter revenue to about $17 billion; its shares rose about 8% after hours (CNBC).",
+    "asOf": "2026-11-03T21:20:00Z",
     "bullets": [
-      "Dow 51,765.48, down 0.42%, at 11:58 a.m. ET (Yahoo Finance).",
-      "Nasdaq Composite up 0.8% and S&P 500 up 0.4% in late-morning trading (Stock Titan, citing CNBC).",
-      "Apple down about 2.15% at 12:01 p.m. ET, roughly $107 billion in market value (Stock Titan, citing CNBC).",
-      "Ibotta up 28.26% at 12:00 p.m. ET after a revenue beat (Stock Titan).",
-      "WTI near $95 and Brent near $103 a barrel on U.S.-Iran talk hopes (Yahoo Finance).",
-      "AMD reports fiscal Q3 after the close; call at 5:00 p.m. ET (tastylive, CapitalMEG)."
+      "Dow Jones Industrial Average closed at 51,786.72, down 0.4%, with Apple the main drag (AP).",
+      "Nasdaq Composite closed at 25,372.01, up 0.8% (AP).",
+      "Apple ended down 1.90%, about $94 billion below Monday's close, on a weaker margin forecast (Stock Titan).",
+      "Ibotta closed up 20.62% after a revenue beat (Stock Titan).",
+      "WTI settled at $96.09 and Brent at $103.60 a barrel as U.S.-Iran talk hopes weighed on oil (Investrade, CNBC).",
+      "AMD: Q3 revenue $13.38 billion, adjusted EPS $2.09; Q4 guide about $17 billion; shares up about 8% after hours (CNBC, AMD)."
     ]
   },
   "marketSnapshot": [
     {
       "label": "Dow Jones Industrial Average",
-      "value": "51,765.48",
-      "change": "-218.50 (-0.42%)",
+      "value": "51,786.72",
+      "change": "-197.26 (-0.4%)",
       "direction": "down",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
-      "asOf": "2026-11-03 11:58 AM ET"
+      "source": "AP",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c",
+      "asOf": "2026-11-03 close (4:14 p.m. ET update)"
     },
     {
       "label": "S&P 500",
-      "value": "+0.4% midday",
-      "change": "vs. prior close 7,541.40",
+      "value": "7,568.92",
+      "change": "+27.52 (+0.4%)",
       "direction": "up",
-      "source": "Stock Titan (citing CNBC)",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
-      "asOf": "2026-11-03 12:07 PM ET"
+      "source": "AP",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c",
+      "asOf": "2026-11-03 close (4:14 p.m. ET update)"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "+0.8% midday",
-      "change": "vs. prior close 25,164.32",
+      "value": "25,372.01",
+      "change": "+207.65 (+0.8%)",
       "direction": "up",
-      "source": "Stock Titan (citing CNBC)",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026",
-      "asOf": "2026-11-03 11:44 AM ET"
-    },
-    {
-      "label": "Brent crude",
-      "value": "~103",
-      "change": "down about 1%",
-      "direction": "down",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
-      "asOf": "2026-11-03 midday"
+      "source": "AP",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c",
+      "asOf": "2026-11-03 close (4:14 p.m. ET update)"
     },
     {
       "label": "WTI crude",
-      "value": "~95",
-      "change": "down less than 1%",
+      "value": "$96.09",
+      "change": "-0.38%",
       "direction": "down",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/5-things-to-know-stock-market-november-3-2026-12206961",
-      "asOf": "2026-11-03 morning"
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/market-review-november-03-2026/",
+      "asOf": "2026-11-03 settlement"
+    },
+    {
+      "label": "Brent crude",
+      "value": "$103.60",
+      "change": "-1.12%",
+      "direction": "down",
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/market-review-november-03-2026/",
+      "asOf": "2026-11-03 settlement"
     },
     {
       "label": "10-year Treasury yield",
-      "value": "4.954%",
+      "value": "4.966%",
       "change": "+6 bp",
       "direction": "up",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/5-things-to-know-stock-market-november-3-2026-12206961",
-      "asOf": "2026-11-03 pre-open"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/amp/2026/11/03/us-treasury-yields-bonds.html",
+      "asOf": "2026-11-03 afternoon (intraday, not a closing print)"
     }
   ],
   "calendar": [
-    {
-      "date": "2026-11-03",
-      "time": "All day",
-      "event": "US midterm elections",
-      "importance": "high",
-      "why": "Results depend on poll closing times; the market reaction is expected to follow the House and Senate outcomes (Saxo Bank, Investing.com)."
-    },
-    {
-      "date": "2026-11-03",
-      "time": "8:30 AM ET",
-      "event": "JOLTS (September) released: 7.5 million openings",
-      "importance": "medium",
-      "why": "Released; beat the roughly 7.1 million forecast (Investopedia)."
-    },
-    {
-      "date": "2026-11-03",
-      "time": "After close",
-      "event": "AMD fiscal Q3 2026 earnings; call at 5:00 p.m. ET",
-      "importance": "high",
-      "why": "Confirmed by tastylive and CapitalMEG; guidance is the focus."
-    },
     {
       "date": "2026-11-04",
       "time": "Morning",
       "event": "ISM services PMI and ADP employment",
       "importance": "medium",
-      "why": "Due Wednesday per Investopedia."
+      "why": "Due Wednesday per Investopedia; part of a busy data week."
     },
     {
       "date": "2026-11-04",

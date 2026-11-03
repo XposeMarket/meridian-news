@@ -1,0 +1,49 @@
+{
+  "slug": "close-recap-election-day-nasdaq-gains-dow-falls-apple-drags",
+  "title": "Nasdaq Gains 0.8% on Election Day as Chips Rebound; Dow Falls 0.4% on Apple",
+  "dek": "The S&P 500 rose 0.4% to 7,568.92, the Nasdaq Composite added 0.8% to 25,372.01 and the Dow lost 0.4% to 51,786.72 at the close, with AMD reporting after the bell.",
+  "section": "markets",
+  "tags": ["markets", "close", "election-day", "nasdaq", "apple", "amd"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-03T21:20:00Z",
+  "updatedAt": "2026-11-03T21:20:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "alt": "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress, U.S. News & World Report Magazine Photograph Collection (photo by Thomas J. O'Halloran)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+  },
+  "keyPoints": [
+    "S&P 500 closed at 7,568.92, up 27.52 points or 0.4%, though most of its stocks fell (AP).",
+    "Nasdaq Composite rose 207.65 points, or 0.8%, to 25,372.01; the Dow fell 197.26 points, or 0.4%, to 51,786.72 (AP).",
+    "Apple ended down 1.90%, about $94 billion below Monday's close, after a weaker margin forecast (Stock Titan).",
+    "Ibotta closed up 20.62% after third-quarter revenue of $97.8 million beat the top of its forecast range (Stock Titan).",
+    "WTI settled at $96.09 and Brent at $103.60 a barrel, down on hopes for U.S.-Iran talks (Investrade, CNBC)."
+  ],
+  "body": "## Close: chips lift the Nasdaq, Apple weighs on the Dow\n\nThe Nasdaq Composite rose 207.65 points, or 0.8%, to 25,372.01 on Tuesday, recouping part of Monday's loss. The S&P 500 rose 27.52 points, or 0.4%, to 7,568.92, even though most of the index's components fell. The Dow Jones Industrial Average lost 197.26 points, or 0.4%, to 51,786.72, with Apple the main drag. The Russell 2000 rose 0.2% to 2,812.45 (AP).\n\nChip stocks did most of the work. Stock Titan said the Nasdaq-100 tracking fund finished up 0.62% on the day, while the Dow tracking fund fell 0.44% (Stock Titan). Investrade noted that the semiconductor index had given back about 12% in the three days before the session, which made the rebound a relief move as much as a new trend (Investrade).\n\n## Apple and Ibotta: one lower on margins, one higher on a beat\n\nApple ended down 1.90%, or about $94 billion of market value below Monday's close, after a fiscal fourth-quarter margin forecast that warned of rising memory costs (Stock Titan, AP). Apple was the largest single drag on the Dow.\n\nIbotta closed up 20.62% after its third-quarter revenue rose 17% to $97.8 million, above the top of its own forecast range (Stock Titan). Aehr Test Systems also ended among the top gainers after a raised sales forecast, and Stevanato Group was among the biggest decliners (Stock Titan).\n\nThis edition does not include a verified closing move for CrowdStrike. Its midday move was reported on the midday edition, and no closing figure was confirmed in the sources used here.\n\n## Oil and Treasuries\n\nOil fell as traders weighed talks with Iran against renewed military activity. WTI settled at $96.09 a barrel, down 0.38%, and Brent settled at $103.60, down 1.12% (Investrade, CNBC). Both were at their lowest settlements in about a month.\n\nThe 10-year Treasury yield rose to 4.966% in afternoon trading, up more than 6 basis points, after a stronger-than-expected JOLTS report showed 7.5 million September job openings against about 7.1 million forecast (CNBC, Investrade). The 30-year yield was 5.334% (CNBC). These are intraday levels from CNBC rather than a confirmed closing yield.\n\n## Election Day and after the bell\n\nThe midterm votes were still being counted at the close. Investors had been watching the House and Senate outcomes through the session, and the VIX stayed above 20 for most of the day (Investrade). AMD reports after the bell; that result is covered in a separate story.\n\n## What to watch\n\nThe next scheduled economic releases are ISM services PMI and ADP employment on Wednesday, Nov. 4, and the October jobs report on Friday, Nov. 6 (Trading Economics, Investopedia).",
+  "marketImpact": {
+    "summary": "The Nasdaq's gain was driven by a chip rebound, while Apple's margin warning weighed on the Dow. Oil fell and yields rose on the JOLTS data. The close leaves the market waiting on the midterm results and on tonight's AMD guidance.",
+    "timeframe": "Tuesday, Nov. 3 close through Wednesday's open",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AAPL", "direction": "down", "rationale": "Closed down 1.90%, about $94 billion, after a weaker margin forecast (Stock Titan)." },
+      { "symbol": "IBTA", "direction": "up", "rationale": "Closed up 20.62% after a revenue beat (Stock Titan)." },
+      { "symbol": "AMD", "direction": "watch", "rationale": "Reports after the close; guidance is the focus (CNBC)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "ISM services PMI and ADP employment (Investopedia)" },
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (Trading Economics)" }
+    ]
+  },
+  "sources": [
+    { "title": "How major US stock indexes fared Tuesday 11/3/2026", "publisher": "AP", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c", "accessedAt": "2026-11-03" },
+    { "title": "Stock Market Today Live, November 3, 2026: Chip Stocks Lift the Nasdaq", "publisher": "Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026", "accessedAt": "2026-11-03" },
+    { "title": "Market Review: November 03, 2026", "publisher": "Investrade", "url": "https://investrade.com/market-review-november-03-2026/", "accessedAt": "2026-11-03" },
+    { "title": "Treasury yields rise as investors weigh midterm vote, jobs data and Iran tensions", "publisher": "CNBC", "url": "https://www.cnbc.com/amp/2026/11/03/us-treasury-yields-bonds.html", "accessedAt": "2026-11-03" }
+  ]
+}
