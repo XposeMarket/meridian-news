@@ -1,0 +1,45 @@
+{
+  "slug": "google-turns-off-search-for-schools-that-block-ai",
+  "title": "Google Will Turn Off Search for Schools That Block AI, Then Walks Part of It Back",
+  "dek": "Google said K-12 students would lose Search at schools that switch off AI tools, drawing political backlash; the company says Search and Gemini can be turned back on by school administrators.",
+  "section": "ai-tech",
+  "tags": ["Google", "Alphabet", "AI in education", "Google Search", "Gemini", "schools"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T18:00:00Z",
+  "updatedAt": "2026-11-04T18:00:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Student_with_computer.JPG",
+    "alt": "A student working at a computer",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Student_with_computer.JPG"
+  },
+  "keyPoints": [
+    "Google said early next year it would turn off AI tools for K-12 students in its education software unless school administrators opt in, per The New York Times.",
+    "Schools that block AI entirely would also lose student access to Google Search, Google's vice president for education Chris Phillips told the Times.",
+    "After criticism from Sen. Bernie Sanders and New York Mayor Zohran Mamdani, Google said Gemini, Gemini Notebook and Search are off by default and can be turned back on by schools.",
+    "Google said AI Mode and AI Overviews in Search will offer step-by-step guided learning for students."
+  ],
+  "body": "Google's plan for AI in classrooms has run into a political fight over whether schools can refuse AI without losing basic search access.\n\n## What Google announced\n\nGoogle said on Tuesday that early next year it would switch off artificial intelligence tools in its K-12 student software unless school administrators choose to enable them. The New York Times reported that schools which block AI entirely would also lose access to Google Search, and that students would see a message from the school saying the service is unavailable.\n\nChris Phillips, Google's vice president for education, told the Times that \"Search and A.I. are deeply integrated.\" Google is the dominant provider of school software and Chromebooks, which gives the policy weight beyond a single product.\n\n## The backlash and the clarification\n\nSen. Bernie Sanders and New York Mayor Zohran Mamdani criticized the policy on social media, with Sanders calling it extortion. CNBC reported that Google responded the same day, saying Gemini, Gemini Notebook and Search are turned off by default and that schools can turn one or all of them back on.\n\nGoogle also said AI Mode and AI Overviews would offer guided, step-by-step help through problems so that students do not simply receive answers. That response does not directly address the core complaint in the Times report: that search access is tied to AI access. Whether schools accept that framing will depend on how the default settings appear in administrator consoles when the change takes effect.\n\n## Why it matters\n\nFor Alphabet, the policy is a bet that AI-integrated search and education tools make its classroom ecosystem harder to replace. The cost is reputational and political, and it lands while lawmakers are looking more closely at AI and children. Nothing in the reporting reviewed here puts a dollar figure on the education business, so the financial effect cannot be sized from these sources.",
+  "marketImpact": {
+    "summary": "The episode is a reputational and policy risk more than a near-term revenue event. It matters for Alphabet only if schools broadly reject the AI-linked defaults or if regulators treat the bundling as anticompetitive.",
+    "timeframe": "Next 1-3 months, as school districts set defaults before the early-2027 change",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "GOOGL", "direction": "watch", "rationale": "Google is tying Search access to AI tool access in K-12 software; the political backlash is public, but no revenue impact has been disclosed" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "Google clarified that Gemini and Search are off by default and can be turned on by schools" },
+      { "date": "2027-01-01", "event": "Planned start of the change in which AI tools are turned off for K-12 students unless schools opt in (early next year, per NYT)" }
+    ]
+  },
+  "sources": [
+    { "title": "Google Will Turn Off Search for Schools That Reject A.I.", "publisher": "The New York Times", "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html", "accessedAt": "2026-11-04" },
+    { "title": "Google responds to outrage over removing search in schools that ban AI", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html", "accessedAt": "2026-11-04" },
+    { "title": "Google will cut off search access for students at schools that reject AI tools", "publisher": "Los Angeles Times", "url": "https://www.latimes.com/business/story/2026-11-03/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai-tools", "accessedAt": "2026-11-04" }
+  ]
+}

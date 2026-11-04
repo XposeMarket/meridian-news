@@ -1,0 +1,45 @@
+{
+  "slug": "chatgpt-search-volume-reaches-a-fifth-of-google",
+  "title": "OpenAI Says ChatGPT Search Volume Is Now About a Fifth of Google's",
+  "dek": "ChatGPT's consumer product lead said its search query volume is roughly 20% of Google's, a claim that is hard to verify because neither company has published a comparable count.",
+  "section": "ai-tech",
+  "tags": ["OpenAI", "ChatGPT", "Google Search", "Alphabet", "AI search", "search market"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T18:05:00Z",
+  "updatedAt": "2026-11-04T18:05:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Buscadores-por-versiones-Smartphone.jpg",
+    "alt": "A smartphone displaying a search engine",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buscadores-por-versiones-Smartphone.jpg"
+  },
+  "keyPoints": [
+    "ChatGPT consumer product lead Adam Fry said search volume in ChatGPT is \"roughly one-fifth (20%) of the volume of queries of Google,\" per 9to5Google.",
+    "Fry did not give a query count. Gizmodo estimated that Google's reported 16 billion daily searches would imply about 3.2 billion similar ChatGPT queries if the claim holds.",
+    "OpenAI counts a search as any time a user asks a question that leads to a web search, which 9to5Google said leaves wide room for interpretation.",
+    "Fry also said most people do not seem to mind ads in ChatGPT, per 9to5Google's account of The Verge's report."
+  ],
+  "body": "OpenAI says ChatGPT now handles search volume roughly equal to a fifth of Google's. If accurate, that would put the assistant much closer to the search giant than most observers had assumed. The figure has not been independently verified.\n\n## The claim\n\nSpeaking at an OpenAI event, ChatGPT consumer product lead Adam Fry said the volume was \"roughly one-fifth (20%)\" of Google's queries, according to 9to5Google. Business Insider reported the same figure, citing Fry's interview with Big Technology.\n\nThe number is a comparison, not a disclosed count. Fry did not provide a daily or monthly query total for either product.\n\n## What is hard to check\n\nThe definition does most of the work. 9to5Google reported that OpenAI counts a search as any time a user asks a question that leads to a web search, which leaves a lot of room for interpretation. The source of Google's volume figure was not revealed, and the companies do not publish comparable data.\n\nGizmodo used Google's reported 16 billion searches a day to estimate that a 20% share would imply about 3.2 billion similar ChatGPT queries a day. That is an inference from one reported figure, not a disclosed total.\n\n## Why it matters\n\nGoogle's search business remains the core of its advertising revenue. 9to5Google noted that Google has been adding AI features to search while acknowledging lower monetization in some of those formats. A credible claim that ChatGPT is taking meaningful search volume would sharpen that competition.\n\nFry also said most people do not seem to mind ads in ChatGPT, and that OpenAI could be doing more of them. Advertising is the business model Google's search franchise depends on, so that comment bears directly on the competitive picture.\n\nUntil OpenAI or an independent measurement firm publishes its methodology, the figure should be read as a company-supplied comparison rather than a measured market share.",
+  "marketImpact": {
+    "summary": "If the 20% comparison holds on a comparable basis, it strengthens the case that AI assistants are pulling search behavior away from Google. The claim is unaudited and loosely defined, so the near-term stock read is limited.",
+    "timeframe": "Next 1-2 weeks, with attention on Alphabet's ad commentary and any independent search-share data",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "GOOGL", "direction": "watch", "rationale": "The claim is a competitive signal for Google Search, but OpenAI has not disclosed a comparable query count, so its effect on search revenue cannot be measured yet" },
+      { "symbol": "MSFT", "direction": "watch", "rationale": "Microsoft is a major OpenAI partner and a competitor in search through Bing, so it has indirect exposure to the same trend" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-03", "event": "OpenAI's Adam Fry said ChatGPT search volume is roughly 20% of Google's, as reported by 9to5Google and Business Insider" }
+    ]
+  },
+  "sources": [
+    { "title": "ChatGPT has hit roughly 20% of Google Search volume, OpenAI says", "publisher": "9to5Google", "url": "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/", "accessedAt": "2026-11-04" },
+    { "title": "ChatGPT's search volume is now roughly 20% of Google's", "publisher": "Business Insider", "url": "https://www.businessinsider.com/chatgpt-20-percent-google-search-volume-adam-fry-2026-11", "accessedAt": "2026-11-04" },
+    { "title": "ChatGPT Claims to Have Achieved 20% of Google's Search Volume", "publisher": "Gizmodo", "url": "https://gizmodo.com/chatgpt-claims-to-have-achieved-20-of-googles-search-volume-2000834464", "accessedAt": "2026-11-04" }
+  ]
+}

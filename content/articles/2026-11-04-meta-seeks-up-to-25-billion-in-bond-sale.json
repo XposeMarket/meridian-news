@@ -1,0 +1,43 @@
+{
+  "slug": "meta-seeks-up-to-25-billion-in-bond-sale",
+  "title": "Meta Seeks Up to $25 Billion in Bonds as AI Spending Outpaces Cash Flow",
+  "dek": "Meta is marketing a $20 billion to $25 billion bond sale, with a euro tranche, days after S&P revised its outlook to negative and as the company reported negative free cash flow.",
+  "section": "ai-tech",
+  "tags": ["Meta", "META stock", "bonds", "AI capex", "data centers", "debt"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T18:10:00Z",
+  "updatedAt": "2026-11-04T18:10:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Datacenter_Server_Racks_%2822370909788%29.jpg",
+    "alt": "Rows of data center server racks",
+    "credit": "Carl Lender (Flickr), via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg"
+  },
+  "keyPoints": [
+    "CNBC reported Meta is seeking $20 billion to $25 billion in a bond sale on Tuesday, expected to be about two-thirds U.S. dollars and one-third euros, citing people familiar with the matter.",
+    "S&P Global Ratings revised Meta's outlook from AA- stable to AA- negative, citing uncertainty about its capex and negative free cash flow.",
+    "Meta's full-year capex is now expected at $135 billion to $145 billion, and its latest quarter showed negative free cash flow of $2.12 billion.",
+    "Meta said it plans to raise $95 billion for AI, including $35 billion in underwritten public equity and $60 billion through an at-the-market program, per CNBC."
+  ],
+  "body": "Meta is tapping the bond market again to help pay for its AI buildout, with a deal that could reach $25 billion.\n\n## The deal\n\nCNBC reported that Meta is seeking between $20 billion and $25 billion in a bond sale on Tuesday. People familiar with the matter told CNBC the deal is expected to be about two-thirds U.S. dollar notes and one-third euro notes, with final pricing expected Tuesday afternoon. Meta declined to comment, and Bloomberg News first reported the plans.\n\nCNBC also reported that Meta raised $25 billion in an April bond sale. That makes this the company's second jumbo bond deal in about six months. Bloomberg described the earlier deal in similar terms and noted that investors were starting to show signs of fatigue.\n\n## Why investors are watching\n\nS&P Global Ratings revised Meta's outlook from AA- stable to AA- negative days before the sale. The agency cited uncertainty about the company's heavy capital spending and its negative free cash flow. CNBC reported that Meta's full-year capex is now expected between $135 billion and $145 billion, a $5 billion increase to the low end of its prior guidance. The company posted negative free cash flow of $2.12 billion in its latest quarter, joining Alphabet and Amazon in reporting a negative figure.\n\nThe bond sale is only part of the funding plan. CNBC reported that Meta said last week it plans to raise $95 billion for AI: $35 billion through underwritten public equity offerings and $60 billion through an at-the-market program. That means existing shareholders face dilution as well as added borrowing.\n\n## Stock context\n\nMeta's shares rose 2.7% on Tuesday after falling in 12 of the prior 14 sessions. CNBC reported that October was the stock's worst month in four years.\n\n## What to watch\n\nThe final size, pricing and order book will show how much appetite investors have for hyperscaler debt. The reporting reviewed here does not include final pricing, so the outcome is not yet confirmed. Any further rating action would be a second signal, and the next capex update will show whether the spending path is changing.",
+  "marketImpact": {
+    "summary": "The deal is a funding signal, not an earnings event. Debt and equity issuance at this scale raises the bar for Meta's free cash flow and adds dilution risk, while a strong order book would suggest investors still back the AI spending.",
+    "timeframe": "Next 1-5 sessions around pricing, then Meta's next capex and cash-flow updates",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "META", "direction": "watch", "rationale": "Bond and equity issuance plus a negative outlook from S&P weigh on funding costs and dilution; the stock rose 2.7% on Tuesday, so the market is not pricing a sharp reaction" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "Expected final pricing of Meta's $20 billion to $25 billion bond sale, per CNBC" }
+    ]
+  },
+  "sources": [
+    { "title": "Meta bond sale targets up to $25 billion for AI spending", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html", "accessedAt": "2026-11-04" },
+    { "title": "Meta Plans $25B Bond Sale to Fuel AI Infrastructure Blitz", "publisher": "The Tech Buzz", "url": "https://www.techbuzz.ai/articles/meta-plans-25b-bond-sale-to-fuel-ai-infrastructure-blitz", "accessedAt": "2026-11-04" }
+  ]
+}
