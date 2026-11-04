@@ -1,0 +1,46 @@
+{
+  "slug": "democrats-congress-ai-tech-oversight-agenda",
+  "title": "A Democratic Congress Puts AI and Big Tech Under Subpoena Power, but Not Under New Law",
+  "dek": "Democrats' House and Senate takeover gives them committee gavels and subpoenas from January, while a veto and the Senate filibuster still limit what they can pass. The likeliest near-term result is more scrutiny, not a new federal AI regime.",
+  "section": "ai-tech",
+  "tags": ["AI regulation", "Congress", "Democrats", "Big Tech", "FTC", "data centers", "midterms"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T21:00:00Z",
+  "updatedAt": "2026-11-04T21:00:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/US_Capitol_dome_Jan_2006.jpg",
+    "alt": "The dome of the US Capitol building in Washington",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg"
+  },
+  "keyPoints": [
+    "IAPP reports Democrats won both chambers of Congress for 2027, giving committee chairs subpoena power, control of hearing agendas, markup authority and oversight.",
+    "Sen. Ed Markey's post said Big Tech executives would need to plant new forests for all the subpoenas Democrats would print; Rep. Greg Casar said AI company CEOs should be called to testify under oath (The Hill).",
+    "Priorities named by IAPP for 2027 include AI governance, federal privacy, children's online safety, platform regulation and FTC oversight in the Senate Commerce Committee.",
+    "ppc.land reports that President Trump keeps his veto and the Senate keeps its 60-vote threshold for most legislation, so a new federal regime is unlikely in the next two years."
+  ],
+  "body": "Democrats won control of both chambers of Congress in Tuesday's midterms, and the most immediate effect for technology companies is procedural. Committee chairs decide what gets investigated, which witnesses are called and which bills are marked up.\n\n## What changes in January\n\nIAPP reported that the Democratic takeover will shift congressional agendas in 2027. Committee gavels give Democrats subpoena power, control over hearing agendas, markup authority and oversight. Potential priorities it listed include AI governance and accountability, federal privacy legislation, children's online safety, platform regulation and FTC oversight in the Senate Commerce Committee. In the House, the Energy and Commerce Committee could push on privacy, and the Oversight Committee could examine federal procurement of technology and AI use.\n\nThe Hill reported that Democrats are making AI regulation and investigations of technology companies a key priority. Rep. Greg Casar (D-Texas) said the party \"must make it a top priority to protect Americans' jobs, freedom and lives from AI billionaires,\" and said AI company CEOs should be called to testify under oath. Sen. Ed Markey (D-Mass.) joked online that Big Tech executives would need to plant new forests for all the subpoenas. The Hill also noted that Warren, Blumenthal and Van Hollen released a 27-page report last month on how data centers could raise costs for consumers.\n\n## The limits\n\nPPC Land reported that Democrats will not be able to write AI or advertising rules alone. President Trump keeps his veto, and the Senate's 60-vote threshold still applies to most legislation. What the result does, according to that analysis, is close the path Republicans were building toward federal preemption of state AI and privacy laws for at least the next two years. It also hands Democrats the subpoenas, committee gavels and confirmation votes that shape how agencies act.\n\nThat points to a state-by-state system continuing rather than being replaced. IAPP quoted Omer Tene of Goodwin, who expects renewed momentum for AI regulation focused on safety and automated decision-making, drawing on models from states such as California, Colorado, Illinois and New York.\n\n## Where Democrats disagree\n\nThe party is not unified. IAPP reported that progressives such as Sen. Bernie Sanders and Rep. Greg Casar want to curb development of \"superintelligence\" and place a moratorium on new data centers. Rep. Scott Peters (D-Calif.) told Politico the AI discussion has been \"pretty populist, pretty devoid of fact,\" according to IAPP's account. That split will matter when bills reach the floor.\n\n## What to watch\n\nThe first signals will come from committee rosters and hearing schedules after the new Congress convenes on January 3, 2027, when Hakeem Jeffries is in line to become speaker, per PPC Land. Investors in Meta, Alphabet and Nvidia are likely to watch subpoena and hearing news more than any bill text in the near term. Any federal AI law would also need to clear a Republican-controlled Senate or a veto override that is unlikely on current numbers.",
+  "marketImpact": {
+    "summary": "The near-term risk is investigations, hearings and data-center cost scrutiny rather than immediate new rules. Federal preemption of state AI laws is less likely, which keeps compliance costs in the state-by-state system.",
+    "timeframe": "Next 1-3 months, as committee rosters and hearing schedules are set before the January 3, 2027 session",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "META", "direction": "watch", "rationale": "Subpoena and hearing risk around AI and child safety, with a state-law regime remaining in place" },
+      { "symbol": "GOOGL", "direction": "watch", "rationale": "FTC oversight and AI governance were named as likely priorities in the Senate Commerce agenda" },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Scrutiny of data-center build-out costs and local pushback could affect AI infrastructure demand" }
+    ],
+    "catalysts": [
+      { "date": "2027-01-03", "event": "New Congress convenes with Democratic control of both chambers, per PPC Land" }
+    ]
+  },
+  "sources": [
+    { "title": "Democratic midterm wins set stage for tougher tech and AI scrutiny", "publisher": "IAPP", "url": "https://iapp.org/news/a/democratic-midterm-wins-set-stage-for-tougher-tech-and-ai-scrutiny", "accessedAt": "2026-11-04" },
+    { "title": "Democrats eye Big Tech after midterm wins", "publisher": "The Hill", "url": "https://thehill.com/policy/technology/6197847-democrats-big-tech-ai-regulations-2026-midterm-wins/", "accessedAt": "2026-11-04" },
+    { "title": "Democrats win Congress: what changes for AI rules, privacy and advertising", "publisher": "PPC Land", "url": "https://ppc.land/democrats-win-congress-what-changes-for-ai-rules-privacy-and-advertising/", "accessedAt": "2026-11-04" }
+  ]
+}

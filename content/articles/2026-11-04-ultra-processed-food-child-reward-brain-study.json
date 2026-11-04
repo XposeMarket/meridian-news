@@ -1,0 +1,33 @@
+{
+  "slug": "ultra-processed-food-child-reward-brain-study",
+  "title": "Children Who Eat More Ultra-Processed Food Show Stronger Brain Reward Response to Food Cues",
+  "dek": "A small USC study of 46 children found that higher ultra-processed food intake was linked to stronger activity in a reward region of the brain, which in turn tracked with body-fat gain a year later.",
+  "section": "health",
+  "tags": ["ultra-processed food", "children", "obesity", "brain", "nutrition", "JAMA Network Open"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T21:00:00Z",
+  "updatedAt": "2026-11-04T21:00:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Children_of_Nuevo_Laredo_in_street_food_stand.png",
+    "alt": "Children standing at a street food stand in Nuevo Laredo",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Children_of_Nuevo_Laredo_in_street_food_stand.png"
+  },
+  "keyPoints": [
+    "Researchers at Keck School of Medicine of USC studied 46 healthy-weight children aged 7 to 10 using dietary recalls and functional MRI, per ScienceDaily and the USC release.",
+    "Children who ate more ultra-processed food showed stronger activity in the dorsal striatum, a reward and motivation region, when viewing pictures of foods such as cookies and French fries.",
+    "Stronger brain responses were linked to larger BMI and body-fat increases a year later, but the study shows association, not cause.",
+    "The paper was published in JAMA Network Open; the sample was small and the direct food-to-fat link fell just short of statistical significance, per a published news summary of the study (Keck release via ScienceDaily)."
+  ],
+  "body": "A small study from the Keck School of Medicine of USC suggests that the brain's response to food cues may help explain why children who eat more ultra-processed food tend to gain weight.\n\n## The study\n\nThe team followed 46 children aged 7 to 10 from the BrainChild study, which recruited families through Kaiser Permanente Southern California. All children were at a healthy weight at the start. Each child completed two 24-hour dietary recalls, then had a functional MRI while viewing pictures of foods and nonfood objects. Before the scan, children drank a standard glucose drink so hunger levels were similar, according to the coverage.\n\nThe researchers reported that children who ate more ultra-processed food showed stronger responses in the dorsal striatum, a brain region involved in reward, motivation and habit. Those stronger responses were associated with larger increases in BMI and body-fat percentage over the next year. According to the USC release as summarized by ScienceDaily, accounting for the brain response reduced the links between ultra-processed food and gains in BMI and body fat by 31% and 44%.\n\n## What it does not show\n\nThe authors did not run a formal mediation analysis because the sample was small. The study does not show that ultra-processed food causes brain changes or weight gain. The direct link between ultra-processed food intake and body-fat gain fell just short of statistical significance, and the children were largely from Southern California, with about 61% Hispanic or Latino participants.\n\nResearchers and commentators also cautioned that stronger reward activation does not automatically mean addiction. Psychology Today's Addiction Outlook column, published November 4, noted that the open question is whether such changes can be prevented or reversed.\n\n## Context\n\nScienceDaily reported that ultra-processed foods make up about 67% of calories for U.S. children, according to the researchers. Earlier research has linked ultra-processed food to obesity, type 2 diabetes and cardiovascular disease, but the biological pathways have been less clear. This study adds a brain-imaging measure to that picture, while leaving the causal question open.",
+  "sources": [
+    { "title": "Kids who eat more ultra-processed foods show a troubling brain response", "publisher": "ScienceDaily (Keck School of Medicine of USC release)", "url": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm", "accessedAt": "2026-11-04" },
+    { "title": "Could Ultra-Processed Foods Rewire Children's Brains?", "publisher": "Psychology Today", "url": "https://www.psychologytoday.com/ca/blog/addiction-outlook/202611/could-ultra-processed-foods-rewire-childrens-brains", "accessedAt": "2026-11-04" },
+    { "title": "Ultra-Processed Foods Sensitize Children's Brain Reward Circuits", "publisher": "Neuroscience News", "url": "https://neurosciencenews.com/ultra-processed-reward-circuits-neurodevelopment-32336/", "accessedAt": "2026-11-04" }
+  ]
+}
