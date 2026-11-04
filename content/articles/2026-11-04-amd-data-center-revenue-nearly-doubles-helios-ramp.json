@@ -1,0 +1,47 @@
+{
+  "slug": "amd-data-center-revenue-nearly-doubles-helios-ramp",
+  "title": "AMD's Data Center Sales Nearly Double as Helios Ramp Lifts Outlook",
+  "dek": "AMD reported record third-quarter revenue of $13.4 billion after Tuesday's close, with data center sales up 97% and a fourth-quarter forecast above Wall Street's estimate.",
+  "section": "ai-tech",
+  "tags": ["AMD", "AMD stock", "data center", "AI chips", "Instinct", "EPYC", "earnings"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T12:00:00Z",
+  "updatedAt": "2026-11-04T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Data_center_1218_143155.jpg",
+    "alt": "Data center computing infrastructure",
+    "credit": "Wikimedia Commons contributor",
+    "license": "CC BY-SA 2.0 fr",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_center_1218_143155.jpg"
+  },
+  "keyPoints": [
+    "AMD reported third-quarter revenue of $13.4 billion, up 45% from a year earlier, and non-GAAP EPS of $2.09 against $1.95 expected, per LSEG consensus cited by CNBC.",
+    "Data Center segment revenue was a record $8.5 billion, up 97%, driven by EPYC CPUs and the launch of Instinct MI450 Series GPUs.",
+    "AMD guided fourth-quarter revenue to about $17 billion, versus $16.2 billion expected by analysts.",
+    "AMD shares rose about 8% in extended trading, according to CNBC; the regular-session reaction is not yet reflected in the reporting reviewed here."
+  ],
+  "body": "AMD's third-quarter report put the data center at the center of the story. The chipmaker said revenue reached a record $13.4 billion, up 45% from a year earlier, with its Data Center segment producing $8.5 billion, up 97%. The company said the growth came from demand for its EPYC server processors and from the launch of its Instinct MI450 Series accelerators.\n\n## Where the growth came from\n\nData center is now the majority of the business. AMD said the segment made up about 64% of revenue, up from 47% a year earlier, according to CNBC. The company's Client and Gaming segment was weaker: its $3.7 billion in revenue fell 8%, with gaming down 40% on lower semi-custom and graphics sales. Client revenue, which covers Ryzen laptop and desktop chips, rose 7% to $2.9 billion. The Embedded segment grew 29% to $1.1 billion, led by aerospace, defense, automotive and industrial customers.\n\nAMD's own release names several customers already running workloads on its first Helios rack-scale systems, built on MI450 GPUs and sixth-generation EPYC CPUs. Anthropic, Meta, Microsoft, OpenAI and Oracle Cloud Infrastructure are on that list. The release does not disclose customer-level revenue, so the size of any single contract remains unknown.\n\n## The guidance\n\nChief Executive Lisa Su said on the earnings call that AMD expects server revenue to double year over year in 2027, and that data center AI growth is accelerating faster than the company projected 90 days ago. Chief Financial Officer Jean Hu said the fourth-quarter outlook reflects accelerating revenue and earnings growth. AMD expects about $17 billion in revenue for the quarter, above the $16.2 billion average estimate compiled by LSEG.\n\nSu also said AMD had secured wafers, substrates, advanced packaging and memory needed to support higher output next year. Supply has been the constraint across the AI hardware chain, and AMD's comments suggest it has locked in some of that capacity.\n\n## The read-across\n\nAMD's report arrived after a difficult stretch. Intel reported that its own data-center revenue rose 78% in the third quarter, yet its shares fell sharply on weak guidance and concern about PC demand. AMD sits in both camps, since it also sells PC processors. Its client business grew, but gaming is shrinking, and the PC market has softened on higher memory and component costs.\n\nCounterpoint Research has reported a 4% decline in global PC shipments in the second quarter from a year earlier, which helps explain why investors focused on the data center rather than the client line.\n\n## What to watch\n\nThe key question is whether the Helios ramp and MI450 volumes arrive on the schedule AMD is describing. The company has said it is scaling production, and the next test will come in its fourth-quarter results. Investors will also watch whether Nvidia's pricing and allocation decisions, including new limits on China cloud access, shift demand toward AMD's accelerators.\n\nAMD said its year-to-date stock gain was roughly 125% before the report, according to CNBC, after a sell-off tied to worries about AI infrastructure spending.",
+  "marketImpact": {
+    "summary": "The report supports the bull case that AMD's data-center mix is now the main earnings driver. The risk is that the stock already carries a premium valuation and that any slip in Helios ramp timing or PC weakness could reverse the gains.",
+    "timeframe": "Next 1-2 sessions, then the fourth-quarter report",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AMD", "direction": "up", "rationale": "Beat on revenue and EPS, data center up 97%, and Q4 guidance of about $17 billion above consensus; shares rose about 8% after hours" },
+      { "symbol": "INTC", "direction": "watch", "rationale": "Intel's data-center growth of 78% was overshadowed by weak guidance; AMD's result tests how much of the server market is being shared among competitors" },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "AMD's accelerator ramp is a competitive read on AI accelerator demand, and Nvidia's new China cloud rules may shift customer allocation" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "Regular-session trading reaction to AMD's Q3 report" },
+      { "date": "2026-11-04", "event": "Investors watch whether the Q4 outlook of about $17 billion holds on the earnings call follow-up" }
+    ]
+  },
+  "sources": [
+    { "title": "AMD Reports Third Quarter 2026 Financial Results", "publisher": "AMD Investor Relations", "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results", "accessedAt": "2026-11-04" },
+    { "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html", "accessedAt": "2026-11-04" },
+    { "title": "Advanced Micro Devices Q3 2026 Earnings Call Transcript", "publisher": "Benzinga", "url": "https://www.benzinga.com/news/26/11/62849372/advanced-micro-devices-q3-2026-earnings-call-transcript", "accessedAt": "2026-11-04" }
+  ]
+}
