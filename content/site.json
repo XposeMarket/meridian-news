@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-11-03T21:20:00Z",
-  "edition": "afternoon",
+  "updatedAt": "2026-11-04T12:00:00Z",
+  "edition": "pre-market",
   "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Nasdaq gains 0.8% on Election Day as chips rebound; Dow falls 0.4% on Apple; AMD rises after hours",
-    "summary": "At the close, the S&P 500 rose 0.4% to 7,568.92, the Nasdaq Composite added 0.8% to 25,372.01 and the Dow fell 0.4% to 51,786.72 (AP). AMD reported a beat and guided fourth-quarter revenue to about $17 billion; its shares rose about 8% after hours (CNBC).",
-    "asOf": "2026-11-03T21:20:00Z",
+    "headline": "Futures rise as Democrats win Congress; Europe higher, Nikkei lower, oil slips; AMD extends gains",
+    "summary": "Early AP reporting: Dow futures +1.4%, S&P 500 futures +1%, Nasdaq futures +0.54%, after Tuesday's close (S&P 500 7,568.92, Nasdaq 25,372.01, Dow 51,786.72). Brent fell 1.2% to $102.35 (AP). AMD rose nearly 8% after its beat and Q4 guide (Yahoo Finance).",
+    "asOf": "2026-11-04T12:00:00Z",
     "bullets": [
-      "Dow Jones Industrial Average closed at 51,786.72, down 0.4%, with Apple the main drag (AP).",
-      "Nasdaq Composite closed at 25,372.01, up 0.8% (AP).",
-      "Apple ended down 1.90%, about $94 billion below Monday's close, on a weaker margin forecast (Stock Titan).",
-      "Ibotta closed up 20.62% after a revenue beat (Stock Titan).",
-      "WTI settled at $96.09 and Brent at $103.60 a barrel as U.S.-Iran talk hopes weighed on oil (Investrade, CNBC).",
-      "AMD: Q3 revenue $13.38 billion, adjusted EPS $2.09; Q4 guide about $17 billion; shares up about 8% after hours (CNBC, AMD)."
+      "Dow Jones futures up 1.4%, S&P 500 futures up 1%, Nasdaq futures up 0.54% in early trade (AP).",
+      "Nikkei 225 fell 1.4% to 62,188.63; Kospi rose 0.6% to 5,683.80 (AP).",
+      "DAX up 1.5%, CAC 40 up 1.6%, FTSE 100 up 1.25% in early European trading (AP).",
+      "Brent down 1.2% to $102.35; WTI down 0.8% to $95.31 (AP).",
+      "Dollar fell to 158.30 yen; euro rose to $1.1255 (AP).",
+      "AMD: Q3 revenue $13.38 billion, adjusted EPS $2.09; Q4 guide about $17 billion; shares up nearly 8% (AMD IR, Yahoo Finance)."
     ]
   },
   "marketSnapshot": [
     {
-      "label": "Dow Jones Industrial Average",
-      "value": "51,786.72",
-      "change": "-197.26 (-0.4%)",
-      "direction": "down",
-      "source": "AP",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c",
-      "asOf": "2026-11-03 close (4:14 p.m. ET update)"
-    },
-    {
-      "label": "S&P 500",
-      "value": "7,568.92",
-      "change": "+27.52 (+0.4%)",
+      "label": "Dow Jones futures",
+      "value": "+1.4% early trade",
+      "change": "+1.4%",
       "direction": "up",
       "source": "AP",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c",
-      "asOf": "2026-11-03 close (4:14 p.m. ET update)"
+      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
+      "asOf": "2026-11-04 early trade (AP)"
+    },
+    {
+      "label": "S&P 500 futures",
+      "value": "+1% early trade",
+      "change": "+1.0%",
+      "direction": "up",
+      "source": "AP",
+      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
+      "asOf": "2026-11-04 early trade (AP)"
     },
     {
       "label": "Nasdaq Composite",
@@ -44,38 +44,54 @@
       "asOf": "2026-11-03 close (4:14 p.m. ET update)"
     },
     {
-      "label": "WTI crude",
-      "value": "$96.09",
-      "change": "-0.38%",
-      "direction": "down",
-      "source": "Investrade",
-      "sourceUrl": "https://investrade.com/market-review-november-03-2026/",
-      "asOf": "2026-11-03 settlement"
-    },
-    {
       "label": "Brent crude",
-      "value": "$103.60",
-      "change": "-1.12%",
+      "value": "$102.35",
+      "change": "-1.2%",
       "direction": "down",
-      "source": "Investrade",
-      "sourceUrl": "https://investrade.com/market-review-november-03-2026/",
-      "asOf": "2026-11-03 settlement"
+      "source": "AP",
+      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
+      "asOf": "2026-11-04 early trade (AP)"
     },
     {
-      "label": "10-year Treasury yield",
-      "value": "4.966%",
-      "change": "+6 bp",
+      "label": "WTI crude",
+      "value": "$95.31",
+      "change": "-0.8%",
+      "direction": "down",
+      "source": "AP",
+      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
+      "asOf": "2026-11-04 early trade (AP)"
+    },
+    {
+      "label": "Nikkei 225",
+      "value": "62,188.63",
+      "change": "-1.4%",
+      "direction": "down",
+      "source": "AP",
+      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
+      "asOf": "2026-11-04 Asian session (AP)"
+    },
+    {
+      "label": "EUR/USD",
+      "value": "1.1255",
+      "change": "from 1.1194",
       "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/amp/2026/11/03/us-treasury-yields-bonds.html",
-      "asOf": "2026-11-03 afternoon (intraday, not a closing print)"
+      "source": "AP",
+      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
+      "asOf": "2026-11-04 early trade (AP)"
     }
   ],
   "calendar": [
     {
       "date": "2026-11-04",
+      "time": "8:15 AM ET",
+      "event": "ADP National Employment Report (October)",
+      "importance": "high",
+      "why": "Consensus differs by source: 80K (Trading Economics) vs 65K (EBC Financial). September was +90K (Trading Economics)."
+    },
+    {
+      "date": "2026-11-04",
       "time": "Morning",
-      "event": "ISM services PMI and ADP employment",
+      "event": "ISM services PMI",
       "importance": "medium",
       "why": "Due Wednesday per Investopedia; part of a busy data week."
     },

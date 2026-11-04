@@ -1,0 +1,51 @@
+{
+  "slug": "amd-extends-post-earnings-gains-adp-report-due-815",
+  "title": "AMD Extends Post-Earnings Gains Ahead of the Open; ADP Report Due at 8:15 a.m.",
+  "dek": "AMD's shares rose nearly 8% after a third-quarter beat and a fourth-quarter revenue guide of about $17 billion. Morning data includes the ADP private payrolls report, where forecasts differ by source.",
+  "section": "markets",
+  "tags": ["amd", "earnings", "guidance", "adp", "jobs", "pre-market"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T12:00:00Z",
+  "updatedAt": "2026-11-04T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "alt": "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress, U.S. News & World Report Magazine Photograph Collection (photo by Thomas J. O'Halloran)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+  },
+  "keyPoints": [
+    "AMD reported third-quarter revenue of $13.38 billion and adjusted EPS of $2.09 on Nov. 3 (AMD IR).",
+    "Consensus cited by Yahoo Finance was $1.94 EPS and $13.06 billion revenue; CNBC, citing LSEG, gave $1.95 and $13.09 billion.",
+    "AMD guided fourth-quarter revenue to about $17 billion; estimates cited by CNBC (LSEG) and TimothySykes were about $16.2 billion and $16.14 billion.",
+    "Shares rose nearly 8% after the report (Yahoo Finance); the stock had fallen about 29% from its 52-week high before the release (Tradingpedia).",
+    "ADP's October private payrolls report is due at 8:15 a.m. ET. September was +90,000; the October consensus is 80,000 per Trading Economics and 65,000 per EBC Financial, so forecasts differ."
+  ],
+  "body": "## AMD: a beat, a stronger guide, and a rebound\n\nAdvanced Micro Devices reported fiscal third-quarter results after the close on Tuesday, Nov. 3. Revenue rose 45% from a year earlier to a record $13.38 billion. Data center revenue reached $8.5 billion, up 97%, according to the company's release. Non-GAAP earnings per share were $2.09.\n\nConsensus varies by source. Yahoo Finance cited $1.94 in EPS and $13.06 billion in revenue; CNBC, citing LSEG, cited $1.95 and $13.09 billion. Either way, AMD beat.\n\nThe fourth-quarter outlook drove the reaction. AMD guided to about $17 billion in revenue, against an LSEG-based estimate of about $16.2 billion that CNBC reported. Analysts quoted by CNBC said the supply position on the N2 process was underrated. Shares rose nearly 8% after the report, Yahoo Finance said, after a sharp drop in the weeks before.\n\n## Other earnings before the bell\n\nMarketChameleon's calendar lists McDonald's, CVS, Uber, Novo Nordisk and Emerson among companies reporting before the open today. We have not yet verified their results, so this story does not report them.\n\n## ADP at 8:15 a.m. ET\n\nADP's National Employment Report for October is due at 8:15 a.m. ET. September private payrolls rose by 90,000, above forecasts at the time, after 36,000 in August, according to Trading Economics. The October consensus differs by source: 80,000 per Trading Economics and 65,000 per EBC Financial Group. We have not verified a Dow Jones consensus, so we are not stating one. ADP's weekly NER Pulse showed an average of 16,750 private jobs a week for the four weeks ending Oct. 10.\n\n## What it means\n\nFor AMD, the test is whether the fourth-quarter guide holds up against AI-spending concerns that have weighed on the chip sector. For the labour market, a result well below the consensus range would be the first sign that the post-election rebound is not showing up in hiring data.",
+  "marketImpact": {
+    "summary": "AMD's guide is the main company-level signal this morning, and it supports the chip rebound. The ADP number is a secondary test for rates: the forecast range is wide, so a miss in either direction could move Treasuries.",
+    "timeframe": "Wednesday, Nov. 4, pre-market through the 8:15 a.m. ADP release and the U.S. open",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AMD", "direction": "up", "rationale": "Shares rose nearly 8% after a beat and a Q4 revenue guide of about $17 billion (Yahoo Finance; AMD IR)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "ADP National Employment Report, 8:15 a.m. ET (Trading Economics)" },
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (Trading Economics)" }
+    ]
+  },
+  "sources": [
+    { "title": "AMD Reports Third Quarter 2026 Financial Results", "publisher": "AMD Investor Relations", "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results", "accessedAt": "2026-11-04" },
+    { "title": "AMD earnings beat the Street. Here's what analysts are saying", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/04/amd-earnings-analysts-ai-growth.html", "accessedAt": "2026-11-04" },
+    { "title": "AMD Shares Surge Nearly 8% as Q3 Earnings Beat Forecasts", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/amd-shares-surge-nearly-8-113251376.html", "accessedAt": "2026-11-04" },
+    { "title": "AMD Soars After Blowout Q3 Results and Upbeat Outlook", "publisher": "Tradingpedia", "url": "https://www.tradingpedia.com/2026/11/04/amd-soars-after-blowout-q3-results-and-upbeat-outlook/", "accessedAt": "2026-11-04" },
+    { "title": "United States ADP Employment Change", "publisher": "Trading Economics", "url": "https://tradingeconomics.com/united-states/adp-employment-change", "accessedAt": "2026-11-04" },
+    { "title": "U.S. ADP Employment Report for October 2026: Forecast 65K", "publisher": "EBC Financial Group", "url": "https://www.ebc.com/forex/317585.html", "accessedAt": "2026-11-04" },
+    { "title": "ADP National Employment Report Preliminary Estimate for October 10, 2026", "publisher": "ADP Media Center", "url": "https://mediacenter.adp.com/2026-10-27-ADP-National-Employment-Report-Preliminary-Estimate-for-October-10,-2026", "accessedAt": "2026-11-04" },
+    { "title": "Earnings Report Calendar", "publisher": "MarketChameleon", "url": "https://marketchameleon.com/Calendar/Earnings", "accessedAt": "2026-11-04" }
+  ]
+}

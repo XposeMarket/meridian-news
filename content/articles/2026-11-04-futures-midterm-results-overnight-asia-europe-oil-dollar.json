@@ -1,0 +1,46 @@
+{
+  "slug": "futures-midterm-results-overnight-asia-europe-oil-dollar",
+  "title": "Futures Rise as Democrats Win Congress; Asian Markets Mixed, Europe Higher, Oil Lower",
+  "dek": "US index futures rebounded after Democrats won majorities in both houses of Congress. Japan's Nikkei fell 1.4%, European indexes gained 1.25% to 1.6%, and Brent slipped to $102.35.",
+  "section": "markets",
+  "tags": ["markets", "futures", "midterms", "oil", "dollar", "pre-market"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T12:00:00Z",
+  "updatedAt": "2026-11-04T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "alt": "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress, U.S. News & World Report Magazine Photograph Collection (photo by Thomas J. O'Halloran)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+  },
+  "keyPoints": [
+    "Dow Jones futures were up 1.4%, S&P 500 futures up 1% and Nasdaq Composite futures up 0.54% in early trade, after earlier AI-led losses (AP).",
+    "Nikkei 225 fell 1.4% to 62,188.63; Taiwan's Taiex lost 0.8%; South Korea's Kospi rose 0.6% to 5,683.80 (AP).",
+    "Early European trading: DAX up 1.5% to 26,249.34, CAC 40 up 1.6% to 8,148.42, FTSE 100 up 1.25% to 10,770.95 (AP).",
+    "Brent fell 1.2% to $102.35 a barrel and US crude fell 0.8% to $95.31 (AP).",
+    "The dollar fell to 158.30 yen from 158.69; the euro rose to $1.1255 from $1.1194 (AP)."
+  ],
+  "body": "## Futures: the midterm result removes a risk\n\nU.S. stock futures rose Wednesday after the midterm elections gave Democrats majorities in both houses of Congress, according to AP. Futures had dropped on Tuesday as traders priced in the outcome, then recovered as investors read a divided government as less likely to produce sweeping policy changes. Capital Economics said the result did not change the near-term policy outlook much, because Democrats still lack a filibuster-proof Senate majority and President Trump keeps veto power.\n\n## Asia: split by sector\n\nAsian markets were mixed. Technology shares led losses in parts of the region, Euronews reported, as investors weighed tighter AI regulation and data-center restrictions. Japan's Nikkei 225 fell 1.4%, and Kioxia Holdings dropped 5.4%. South Korea's Kospi rose 0.6%, while Samsung Electronics slipped 0.7% (AP).\n\n## Europe: a firmer start\n\nEuropean indexes opened higher. The DAX gained 1.5%, the CAC 40 rose 1.6% and the FTSE 100 was up 1.25% in early trade (AP).\n\n## Oil, dollar and Treasuries\n\nBrent crude fell 1.2% to $102.35 and U.S. crude fell 0.8% to $95.31 a barrel, AP reported. Defence stocks retreated on the chance that the war in Iran is scaled back, while wind-energy shares rose. The dollar weakened against both the yen and the euro.\n\nWe do not have a verified Treasury yield level for this morning, so this story does not give one. Tickmill said the move in five-year Treasuries reflects a market reassessing the fiscal path, not only the election headline.\n\n## What to watch\n\nThe ADP private payrolls report is due at 8:15 a.m. ET, and the ISM services PMI is also scheduled for Wednesday. Trump's response to the result and any change in AI policy tone are the next signals to watch.\n\nThe overnight picture is also shaped by the wider backdrop. Oil remains high, with Brent at $102.35 after a 1.2% fall, and any progress on U.S.-Iran talks would be the main driver for crude. Defence and energy names have been reacting more to the war headlines than to the vote itself. For bond traders, the midterm result reduces the chance of new debt-funded fiscal stimulus, which investors see as easing pressure on longer-dated Treasury yields. That view is still tentative, and it will be tested by the ADP and ISM readings.\n\nFor readers, the practical point is simple: the opening move reflects a political risk that has now been resolved, but the drivers that matter for the next session, oil, AI policy and the labour market, remain open.",
+  "marketImpact": {
+    "summary": "The midterm outcome removed a political risk that had weighed on futures, so the early reaction is a rebound. The main caveats are AI regulation, which hit Asian tech, and oil, which is still above $95 for U.S. crude.",
+    "timeframe": "Wednesday, Nov. 4, pre-market through the U.S. open",
+    "confidence": "medium",
+    "tickers": [],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "ADP National Employment Report, 8:15 a.m. ET (Trading Economics)" },
+      { "date": "2026-11-04", "event": "ISM services PMI (Investopedia)" },
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (Trading Economics)" }
+    ]
+  },
+  "sources": [
+    { "title": "US futures sharply higher after Democratic route in midterm elections", "publisher": "AP (via KSLA)", "url": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/", "accessedAt": "2026-11-04" },
+    { "title": "Asian stocks and dollar fall as Democrats gain ground in US midterms", "publisher": "Euronews", "url": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms", "accessedAt": "2026-11-04" },
+    { "title": "Daily Market Outlook, November 4, 2026", "publisher": "Tickmill", "url": "https://www.tickmill.com/blog/daily-market-outlook-november-4-2026", "accessedAt": "2026-11-04" },
+    { "title": "US stock futures rise as investors weigh Democrats' midterm sweep", "publisher": "USA Today (Reuters copy)", "url": "https://www.usatoday.com/story/money/markets/2026/11/04/stocks-wednesday-democrats-midterms/92607023007/", "accessedAt": "2026-11-04" }
+  ]
+}
