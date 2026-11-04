@@ -1,0 +1,84 @@
+{
+  "slug": "close-recap-dow-gains-3-percent-democrats-sweep-oil-drops",
+  "title": "Close Recap: Dow Gains 3% to 53,356 as Democrats Take Congress and Oil Falls",
+  "dek": "The Dow closed up 1,569 points, its best day since April 2025, while the S&P 500 rose 1.58% and the Nasdaq Composite 1.44%. US crude fell more than 8%.",
+  "section": "markets",
+  "tags": [
+    "markets",
+    "close",
+    "dow",
+    "midterms",
+    "oil",
+    "afternoon"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T21:35:00Z",
+  "updatedAt": "2026-11-04T21:35:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Historic black-and-white photograph of automatic ticker apparatus stations on the floor of the New York Stock Exchange",
+    "credit": "Library of Congress, via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "The Dow Jones Industrial Average rose 1,569.40 points, or 3.03%, to close at 53,356.12, its best day since April 9, 2025 (CNBC, via Stock Titan).",
+    "The S&P 500 gained 1.58% to 7,688.62 and the Nasdaq Composite rose 1.44% to 25,736.51 (CNBC, via Stock Titan).",
+    "US crude fell more than 8% by 4:16 p.m. ET, as Vice President JD Vance blamed the Iran war for the Republican losses (CNBC, via Stock Titan).",
+    "Apple closed up 5.30% at a record, Microsoft, Amazon and Alphabet rose, while Nvidia and AI data-center builders fell on regulatory worry (CNBC, via Stock Titan; Trading Economics)."
+  ],
+  "body": "## Stocks: a broad rally after the midterm result\n\nU.S. stocks closed sharply higher on Wednesday, Nov. 4, the day after Democrats won control of both chambers of Congress. The Dow Jones Industrial Average rose 1,569.40 points, or 3.03%, to 53,356.12, its best close since April 9, 2025, CNBC reported at 4:16 p.m. ET (via Stock Titan). The S&P 500 gained 1.58% to 7,688.62, and the Nasdaq Composite added 1.44% to 25,736.51 (CNBC, via Stock Titan).\n\nThe gains held from the open through the final hour. CNBC's live coverage showed the S&P 500 on pace for its best day since April 8 by mid-afternoon. Commentators framed the result as a gridlock trade: a divided government is seen as less likely to pass large new laws. CNN described the Dow's move as its biggest post-midterm single-day gain since 1982, citing CFRA Research.\n\n## Sectors and movers\n\nMega-cap technology led the advance, with an important exception. Apple reached a record high of $354.33 and closed up 5.30%, CNBC reported. Its shares were helped by the view that a slower build-out of data centers would ease pressure on memory-chip prices. Microsoft, Amazon and Alphabet also closed higher. Trading Economics' market stream put Microsoft up 6.7% and Alphabet up 3.2%, and listed JPMorgan up 4.2% and Berkshire Hathaway up 3.9%, with credit-sensitive financials leading.\n\nNvidia fell, and AI data-center builders dropped on concern about tighter limits on the sector. Strategist Thierry Wizman of Macquarie told CNBC that the biggest policy effect of the win could be slower data-center construction. Because AI spending has supported US growth, he said a politically driven slowdown would hurt the dollar.\n\nSingle-stock moves were driven by company news. Cricut rose 48.99% after revenue grew 11%, and Nurix fell 38.23% after Sanofi ended a drug program with it (CNBC, via Stock Titan).\n\n## Oil, Treasuries and the dollar\n\nOil was the day's second big story. US crude was down more than 8% at 4:16 p.m. ET, according to CNBC. Brent crude fell below $100 a barrel on Wednesday afternoon for the first time in about a month, as hopes of a US-Iran deal outweighed a surprise drop in US crude inventories (Invezz). We did not find a verified official settlement price for either benchmark in the sources used here, so this story does not give closing prices for oil.\n\nBond yields also fell. The New York Times reported that the 10-year Treasury yield dropped to 4.91% during the session, extending a recent decline. CNBC's live page put the 10-year at about 4.90% earlier in the day. The US dollar fell on Wednesday after the election result, CNBC reported.\n\n## What it means\n\nThe midterm outcome removed one risk for equities, and oil's drop removed another. The rally was broad enough to suggest more than a bet on technology. The main caveat is AI regulation, which has already weighed on chipmakers and data-center stocks.\n\n*AI-assisted analysis. Not financial advice.*",
+  "marketImpact": {
+    "summary": "The close confirmed a gridlock-and-oil trade: stocks and yields rallied, oil fell and the dollar weakened. The risks are AI-related regulatory scrutiny, which hit chips and data-center builders, and whether oil stays lower if US-Iran talks stall.",
+    "timeframe": "Wednesday, Nov. 4 close, through Thursday's session",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "AAPL",
+        "direction": "up",
+        "rationale": "Closed up 5.30% at a record high of $354.33 (CNBC, via Stock Titan)."
+      },
+      {
+        "symbol": "NVDA",
+        "direction": "down",
+        "rationale": "Fell as AI shares slid on regulatory worry (CNBC, via Stock Titan)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-06",
+        "event": "October employment report, 8:30 a.m. ET (Trading Economics)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dow Closes Up 3% as Oil Falls in the Stock Market Today, November 4",
+      "publisher": "Stock Titan (citing CNBC)",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Dow eyes best post-midterm elections day in 44 years as Democrats take control of Congress",
+      "publisher": "CNN Business",
+      "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "US 10 Year Treasury Note Yield",
+      "publisher": "Trading Economics",
+      "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Brent crude price falls below $100 as Iran deal hopes outweigh EIA draw",
+      "publisher": "Invezz",
+      "url": "https://invezz.com/in/news/2026/11/04/brent-crude-price-falls-below-dollar100-as-iran-deal-hopes-outweigh-eia-draw/",
+      "accessedAt": "2026-11-04"
+    }
+  ]
+}

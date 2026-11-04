@@ -1,0 +1,83 @@
+{
+  "slug": "qualcomm-applovin-shares-move-after-hours-on-results",
+  "title": "AppLovin Jumps 16% After Hours on 55% Revenue Growth; Qualcomm Slips on Soft Sales",
+  "dek": "AppLovin and Qualcomm both reported after the close on Wednesday. AppLovin's revenue rose 55% and its shares climbed in extended trading; Qualcomm's revenue fell 8% and its shares slipped.",
+  "section": "markets",
+  "tags": [
+    "earnings",
+    "after-hours",
+    "applovin",
+    "qualcomm",
+    "afternoon"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T21:40:00Z",
+  "updatedAt": "2026-11-04T21:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Silicon_wafer.jpg",
+    "alt": "Photograph of a silicon wafer, the thin disc on which semiconductor chips are made",
+    "credit": "Inductiveload, via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silicon_wafer.jpg"
+  },
+  "keyPoints": [
+    "AppLovin reported third-quarter revenue of $2.18 billion, up 55%, and net income of $1.44 billion, up 72% (AppLovin release, via Business Wire and MarketScreener).",
+    "AppLovin shares were up 16.29% in after-hours trading at 4:16 p.m. ET, against a $271.75 close (CNBC, via Stock Titan).",
+    "Qualcomm reported fiscal fourth-quarter revenue of $10.32 billion, down 8% from a year earlier, and guided to $10.4 billion to $11.2 billion for the current quarter (Qualcomm release).",
+    "Qualcomm shares were down 4.44% in after-hours trading at 4:16 p.m. ET, against a $173.19 close (CNBC, via Stock Titan)."
+  ],
+  "body": "## Two companies, two very different reactions\n\nTwo companies reported results after the close on Wednesday, Nov. 4. AppLovin and Qualcomm are the names confirmed in CNBC's live coverage as reporting after the bell (CNBC, via Stock Titan). The reactions split sharply.\n\n## AppLovin: revenue and profit both up\n\nAppLovin said third-quarter revenue rose 55% to a record $2.18 billion for the quarter ended Sept. 30. Net income grew 72% to $1.44 billion, and the company cited an industry-leading net-income margin of 66% (MarketScreener, summarizing the company release). The company also said it repurchased and withheld 4.1 million Class A shares during the quarter (AppLovin release, via Stock Titan).\n\nIn extended trading, the stock rose 16.29% at 4:16 p.m. ET, against a $271.75 close (CNBC, via Stock Titan). That move is an after-hours price, not a regular-session close, and it may change at the next open.\n\n## Qualcomm: a revenue decline and a modest guide\n\nQualcomm reported fiscal fourth-quarter revenue of $10.32 billion for the quarter ended Sept. 27, down 8% from a year earlier. It expects revenue of $10.4 billion to $11.2 billion in the current quarter (Qualcomm release, via Stock Titan). The company's release is available on its investor relations site, and this story relies on the figures as reported by CNBC and Stock Titan.\n\nShares fell 4.44% in extended trading, against a $173.19 close (CNBC, via Stock Titan). The drop came on a day when the broader market rallied on the midterm result and lower oil prices.\n\n## What to watch\n\nThe reactions suggest investors are paying for growth. AppLovin's double-digit revenue growth and margin lifted the stock, while Qualcomm's revenue decline weighed on it. The next checkpoint is the regular-session trade on Thursday, when after-hours moves are tested against the open.\n\n*AI-assisted analysis. Not financial advice.*",
+  "marketImpact": {
+    "summary": "Growth beat for AppLovin and a revenue decline with a modest guide for Qualcomm. The after-hours moves show investors rewarding growth and penalizing a revenue decline; the regular-session open will show whether those moves hold.",
+    "timeframe": "After-hours Wednesday, Nov. 4, through Thursday's open",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "APP",
+        "direction": "up",
+        "rationale": "Up 16.29% in after-hours trading at 4:16 p.m. ET on record revenue (CNBC, via Stock Titan)."
+      },
+      {
+        "symbol": "QCOM",
+        "direction": "down",
+        "rationale": "Down 4.44% in after-hours trading at 4:16 p.m. ET after revenue fell 8% (CNBC, via Stock Titan)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-05",
+        "event": "Regular-session trading in APP and QCOM after the after-hours moves"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dow Closes Up 3% as Oil Falls in the Stock Market Today, November 4 (after-hours figures for Qualcomm and AppLovin)",
+      "publisher": "Stock Titan (citing CNBC)",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "AppLovin Announces Third Quarter 2026 Financial Results",
+      "publisher": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/applovin-announces-third-quarter-2026-financial-results-ce785fdfde80f326",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "AppLovin to Announce Third Quarter 2026 Results (confirms Nov. 4 after-close timing)",
+      "publisher": "Nasdaq (Business Wire)",
+      "url": "https://www.nasdaq.com/press-release/applovin-announce-third-quarter-2026-results-2026-10-07",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Qualcomm Earnings Release Available on Company's Investor Relations Website",
+      "publisher": "PR Newswire (Qualcomm)",
+      "url": "https://www.prnewswire.com/news-releases/qualcomm-earnings-release-available-on-companys-investor-relations-website-302929564.html",
+      "accessedAt": "2026-11-04"
+    }
+  ]
+}
