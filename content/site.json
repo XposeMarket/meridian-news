@@ -1,47 +1,92 @@
 {
-  "updatedAt": "2026-11-04T12:00:00Z",
-  "edition": "pre-market",
+  "updatedAt": "2026-11-04T16:15:00Z",
+  "edition": "midday",
   "leadSlug": "binance-withdrawals-resume-fbi-blames-north-korea",
   "marketBrief": {
-    "headline": "Futures rise as Democrats win Congress; Europe higher, Nikkei lower, oil slips; AMD extends gains",
-    "summary": "Early AP reporting: Dow futures +1.4%, S&P 500 futures +1%, Nasdaq futures +0.54%, after Tuesday's close (S&P 500 7,568.92, Nasdaq 25,372.01, Dow 51,786.72). Brent fell 1.2% to $102.35 (AP). AMD rose nearly 8% after its beat and Q4 guide (Yahoo Finance).",
-    "asOf": "2026-11-04T12:00:00Z",
+    "headline": "Dow jumps 2.7% as Democrats take Congress; Treasury yields fall, dollar slides; Apple and Amazon rally, Nvidia slips",
+    "summary": "At 11:00 a.m. ET the Dow was up 1,377 points, or 2.7%, the S&P 500 up 1.6% and the Nasdaq Composite up 1.8% (CNBC, via Stock Titan). The 10-year Treasury yield fell to 4.91% and the dollar weakened (New York Times). ADP reported private payrolls up 86,000 in October, above forecasts.",
+    "asOf": "2026-11-04T16:05:00Z",
     "bullets": [
-      "Dow Jones futures up 1.4%, S&P 500 futures up 1%, Nasdaq futures up 0.54% in early trade (AP).",
-      "Nikkei 225 fell 1.4% to 62,188.63; Kospi rose 0.6% to 5,683.80 (AP).",
-      "DAX up 1.5%, CAC 40 up 1.6%, FTSE 100 up 1.25% in early European trading (AP).",
-      "Brent down 1.2% to $102.35; WTI down 0.8% to $95.31 (AP).",
-      "Dollar fell to 158.30 yen; euro rose to $1.1255 (AP).",
-      "AMD: Q3 revenue $13.38 billion, adjusted EPS $2.09; Q4 guide about $17 billion; shares up nearly 8% (AMD IR, Yahoo Finance)."
+      "Dow Jones up 1,377 points (2.7%), S&P 500 up 1.6%, Nasdaq Composite up 1.8% at 11:00 a.m. ET (CNBC, via Stock Titan).",
+      "Apple +6.63%, Amazon +6.57%, Microsoft +6.04%; Nvidia -1.91%, all at 11:01 a.m. ET against the Nov. 3 close (Stock Titan real-time data).",
+      "10-year Treasury yield fell to 4.91%; the dollar fell (New York Times).",
+      "ADP: private-sector employment +86,000 in October, released 8:15 a.m. ET (PRNewswire).",
+      "AMD: Q3 revenue $13.38 billion, adjusted EPS $2.09; Q4 guide about $17 billion; shares up nearly 8% (AMD IR, Yahoo Finance).",
+      "Early trade before the open (AP): Brent $102.35, WTI $95.31; Nikkei 225 -1.4%; Dow futures had been up 1.4%."
     ]
   },
   "marketSnapshot": [
     {
-      "label": "Dow Jones futures",
-      "value": "+1.4% early trade",
-      "change": "+1.4%",
+      "label": "Dow Jones Industrial Average",
+      "value": "+1,377 pts (+2.7%)",
+      "change": "+2.7%",
       "direction": "up",
-      "source": "AP",
-      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
-      "asOf": "2026-11-04 early trade (AP)"
+      "source": "CNBC via Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "asOf": "2026-11-04 11:00 a.m. ET"
     },
     {
-      "label": "S&P 500 futures",
-      "value": "+1% early trade",
-      "change": "+1.0%",
+      "label": "S&P 500",
+      "value": "+1.6%",
+      "change": "+1.6%",
       "direction": "up",
-      "source": "AP",
-      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
-      "asOf": "2026-11-04 early trade (AP)"
+      "source": "CNBC via Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "asOf": "2026-11-04 11:00 a.m. ET"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "25,372.01",
-      "change": "+207.65 (+0.8%)",
+      "value": "+1.8%",
+      "change": "+1.8%",
       "direction": "up",
-      "source": "AP",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c",
-      "asOf": "2026-11-03 close (4:14 p.m. ET update)"
+      "source": "CNBC via Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "asOf": "2026-11-04 11:00 a.m. ET"
+    },
+    {
+      "label": "Apple",
+      "value": "+6.63%",
+      "change": "+6.63% vs Nov. 3 close",
+      "direction": "up",
+      "source": "Stock Titan real-time data",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "asOf": "2026-11-04 11:01 a.m. ET"
+    },
+    {
+      "label": "Amazon",
+      "value": "+6.57%",
+      "change": "+6.57% vs Nov. 3 close",
+      "direction": "up",
+      "source": "Stock Titan real-time data",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "asOf": "2026-11-04 11:01 a.m. ET"
+    },
+    {
+      "label": "Nvidia",
+      "value": "-1.91%",
+      "change": "-1.91% vs Nov. 3 close",
+      "direction": "down",
+      "source": "Stock Titan real-time data",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+      "asOf": "2026-11-04 11:01 a.m. ET"
+    },
+    {
+      "label": "10-year Treasury yield",
+      "value": "4.91%",
+      "change": "lower (yield fell)",
+      "direction": "down",
+      "source": "New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+      "asOf": "2026-11-04 Wednesday session (NYT; intraday time not stated)"
+    },
+    {
+      "label": "ADP private payrolls (October)",
+      "value": "+86,000",
+      "change": "above 80,000 (TE) and 65,000 (EBC) forecasts",
+      "direction": "up",
+      "source": "PRNewswire (ADP)",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-86-000-jobs-in-october-302929216.html",
+      "asOf": "2026-11-04 8:15 a.m. ET release"
     },
     {
       "label": "Brent crude",
@@ -50,25 +95,7 @@
       "direction": "down",
       "source": "AP",
       "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
-      "asOf": "2026-11-04 early trade (AP)"
-    },
-    {
-      "label": "WTI crude",
-      "value": "$95.31",
-      "change": "-0.8%",
-      "direction": "down",
-      "source": "AP",
-      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
-      "asOf": "2026-11-04 early trade (AP)"
-    },
-    {
-      "label": "Nikkei 225",
-      "value": "62,188.63",
-      "change": "-1.4%",
-      "direction": "down",
-      "source": "AP",
-      "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
-      "asOf": "2026-11-04 Asian session (AP)"
+      "asOf": "2026-11-04 early trade (AP, before the open)"
     },
     {
       "label": "EUR/USD",
@@ -77,16 +104,16 @@
       "direction": "up",
       "source": "AP",
       "sourceUrl": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/",
-      "asOf": "2026-11-04 early trade (AP)"
+      "asOf": "2026-11-04 early trade (AP, before the open)"
     }
   ],
   "calendar": [
     {
       "date": "2026-11-04",
       "time": "8:15 AM ET",
-      "event": "ADP National Employment Report (October)",
+      "event": "ADP National Employment Report (October): released, +86,000",
       "importance": "high",
-      "why": "Consensus differs by source: 80K (Trading Economics) vs 65K (EBC Financial). September was +90K (Trading Economics)."
+      "why": "Released above the 80,000 Trading Economics and 65,000 EBC Financial forecasts (PRNewswire)."
     },
     {
       "date": "2026-11-04",

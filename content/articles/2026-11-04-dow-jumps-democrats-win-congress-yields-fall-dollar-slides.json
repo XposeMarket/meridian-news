@@ -1,0 +1,44 @@
+{
+  "slug": "dow-jumps-democrats-win-congress-yields-fall-dollar-slides",
+  "title": "Dow Jumps 2.7% as Democrats Take Congress; Treasury Yields Fall, Dollar Slides",
+  "dek": "At 11:00 a.m. ET the Dow was up 1,377 points, the S&P 500 up 1.6% and the Nasdaq up 1.8%. The 10-year Treasury yield dropped to 4.91% and the dollar weakened.",
+  "section": "markets",
+  "tags": ["markets", "midterms", "dow", "treasuries", "dollar", "midday"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T16:10:00Z",
+  "updatedAt": "2026-11-04T16:10:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "alt": "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress, U.S. News & World Report Magazine Photograph Collection (photo by Thomas J. O'Halloran)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+  },
+  "keyPoints": [
+    "At 11:00 a.m. ET the Dow Jones Industrial Average was up 1,377 points, or 2.7%; the S&P 500 was up 1.6% and the Nasdaq Composite up 1.8% (CNBC, via Stock Titan).",
+    "The 10-year Treasury yield fell to 4.91%, extending a recent decline, so bond prices rose (New York Times).",
+    "The dollar fell after the midterm result, as yields eased (New York Times).",
+    "Morgan Stanley Investment Management's Andrew Slimmon told CNBC that markets like gridlock, when a split government passes few new laws (CNBC, via Stock Titan).",
+    "Around 11:00 a.m. ET the iShares Semiconductor ETF was down about 1% as AI shares fell on worries about tougher scrutiny (CNBC, via Stock Titan)."
+  ],
+  "body": "## Stocks: the midterm result removes a risk\n\nU.S. stocks rallied after Democrats won control of both the House and the Senate. At 11:00 a.m. ET the Dow Jones Industrial Average was up 1,377 points, or 2.7%, CNBC reported. The S&P 500 was up 1.6% and the Nasdaq Composite up 1.8% at the same time (CNBC, via Stock Titan). The Dow had been up more than 1,300 points earlier in the morning, and it was the rally in the blue-chip index that drew most of the attention.\n\nTraders described the outcome as a gridlock trade: a divided government is seen as less likely to pass sweeping new laws. Andrew Slimmon of Morgan Stanley Investment Management told CNBC that markets generally like that setup.\n\n## Bonds: yields fall\n\nThe 10-year Treasury yield dropped to 4.91% on Wednesday, extending its recent decline, the New York Times reported. Government borrowing costs had tracked the price of oil for much of this year, and the yield fell as oil eased. A lower yield means higher bond prices.\n\n## Dollar: weaker in early trade\n\nThe dollar also fell, the New York Times reported, in line with the drop in rates. Before the U.S. open, AP reported the euro at $1.1255 from $1.1194 and the dollar at 158.30 yen from 158.69.\n\n## Why the rally looks different this time\n\nThe Dow's gain was broad at the open, and the consumer staples group also reached a record high on Wednesday morning, CNBC reported, according to the same Stock Titan live page. Solar and hospital stocks added to gains as well. That breadth suggests investors were not only chasing technology. The S&P 500's gain of 1.6% was smaller than the Dow's 2.7% over the same hour.\n\nThe session's company news also moved single stocks. FIS fell after it cut its profit-growth forecast for this year. Alight rose sharply after it raised its outlook, and Sanofi ended a drug program with Nurix, which sent that company lower, according to the same report.\n\n## What to watch\n\nAI shares were the exception. CNBC reported that investors sold companies most likely to be hurt by closer scrutiny from a left-leaning Congress, and that the iShares Semiconductor ETF was down about 1% at the time. The ADP report, released at 8:15 a.m. ET, showed private payrolls up 86,000 in October (PRNewswire). The next major jobs data is the October employment report, due Nov. 6 at 8:30 a.m. ET.",
+  "marketImpact": {
+    "summary": "The midterm result is the dominant driver. Stocks, bonds and the dollar all moved in the direction expected from a gridlock outcome. The caveat is AI regulation: the same outcome that lifted the Dow weighed on chip and AI shares.",
+    "timeframe": "Wednesday, Nov. 4, from the open through 11:05 a.m. ET",
+    "confidence": "medium",
+    "tickers": [],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "ISM services PMI (Investopedia)" },
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (Trading Economics)" }
+    ]
+  },
+  "sources": [
+    { "title": "Dow Rallies After Democrats Win Congress; Live Updates (Dow up 1,377 points at 11:00 a.m. ET)", "publisher": "Stock Titan (citing CNBC)", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026", "accessedAt": "2026-11-04" },
+    { "title": "Stock markets rise as Democrats take control of Congress; 10-year yield falls to 4.91%", "publisher": "New York Times", "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html", "accessedAt": "2026-11-04" },
+    { "title": "Stock futures rise after Democrats take control of Congress", "publisher": "AP (via KSLA)", "url": "https://www.ksla.com/2026/11/04/stock-futures-rise-after-democrats-take-control-congress/", "accessedAt": "2026-11-04" }
+  ]
+}

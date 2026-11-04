@@ -1,0 +1,50 @@
+{
+  "slug": "apple-amazon-lead-rally-nvidia-slips-adp-86000",
+  "title": "Apple and Amazon Lead Big Tech Rally as Nvidia Slips; ADP Shows 86,000 Private Jobs",
+  "dek": "Apple rose 6.63% and Amazon 6.57% by 11:01 a.m. ET, while Nvidia fell 1.91%. The ADP report beat both forecasts, and AMD's post-earnings gain from Tuesday's report was still in focus.",
+  "section": "markets",
+  "tags": ["movers", "apple", "amazon", "nvidia", "amd", "adp", "midday"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-04T16:15:00Z",
+  "updatedAt": "2026-11-04T16:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "alt": "Black-and-white photograph of stock brokers working on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress, U.S. News & World Report Magazine Photograph Collection (photo by Thomas J. O'Halloran)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg"
+  },
+  "keyPoints": [
+    "Apple was up 6.63% and Amazon 6.57% at 11:01 a.m. ET against the Nov. 3 close; Microsoft was up 6.04% (Stock Titan real-time data).",
+    "Nvidia was down 1.91% at 11:01 a.m. ET; Tesla also fell, CNBC reported (CNBC, via Stock Titan).",
+    "ADP reported private-sector employment up 86,000 in October, above the 80,000 Trading Economics consensus and the 65,000 EBC Financial forecast (PRNewswire, Trading Economics, EBC).",
+    "AMD shares rose nearly 8% after its fiscal third-quarter beat and fourth-quarter revenue guide of about $17 billion (Yahoo Finance; AMD investor relations).",
+    "Apple ended Tuesday down 1.90% after warning on margins, so its Wednesday gain partly reverses that decline (Stock Titan)."
+  ],
+  "body": "## Movers: Apple and Amazon lead, Nvidia lags\n\nApple and Amazon were the biggest large-cap gainers in the morning. At 11:01 a.m. ET, Apple was up 6.63% and Amazon up 6.57% against the Nov. 3 close, Stock Titan's real-time data showed. Microsoft was up 6.04%. Apple had fallen 1.90% on Tuesday after warning that memory-chip costs could squeeze its margins, so Wednesday's move partly reverses that drop.\n\nNvidia slipped 1.91% at the same time. CNBC reported that the AI trade broadly sold off on concern about closer scrutiny from a Congress now led by Democrats, and that Nvidia and Tesla were among the decliners. The iShares Semiconductor ETF was down about 1%.\n\n## ADP: a beat on private payrolls\n\nThe ADP National Employment Report showed private-sector employment rose 86,000 in October, according to ADP's release at 8:15 a.m. ET. Forecasts had varied: Trading Economics had 80,000 and EBC Financial 65,000. Investing.com reported the figure matched a downwardly revised September total. A strong print can push Treasury yields up; yields fell during the session, so the report did not change the broader direction of bonds.\n\n## AMD: the gain extends\n\nAMD's shares rose nearly 8% after its fiscal third-quarter report, which showed revenue of $13.38 billion and adjusted EPS of $2.09, and a fourth-quarter revenue guide of about $17 billion. We did not find a verified intraday AMD price for Wednesday in the sources used here, so this story does not give one.\n\n## Why the rally is uneven\n\nThe split reflects two different stories. For Apple, the Tuesday drop came from a company-specific warning about margins on memory-chip costs, so a rebound depends on whether investors read that warning as a one-time pressure. For Amazon, the move came in a session when the broad market was rising on the midterm result, so part of the gain reflects the same market-wide relief. Nvidia and Tesla fell while investors weighed whether a Congress led by Democrats would bring closer scrutiny of AI companies, according to CNBC's reporting as relayed by Stock Titan.\n\nBecause the figures above are intraday readings taken at specific times, they can change by the close. This story will not be updated with closing numbers unless a source for those is published.\n\n## What to watch\n\nThe jobs report on Nov. 6 at 8:30 a.m. ET is the next major labor data point. Watch whether Apple and Amazon hold their gains into the afternoon, and whether Nvidia's decline spreads through the chip group.",
+  "marketImpact": {
+    "summary": "The mega-cap rally is broad but uneven: Apple and Amazon are recovering, while Nvidia and the wider AI trade lag on regulatory worry. ADP beat both forecasts, which keeps rate expectations from easing too fast.",
+    "timeframe": "Wednesday, Nov. 4, from the 8:15 a.m. ADP release through 11:05 a.m. ET",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "AAPL", "direction": "up", "rationale": "Up 6.63% at 11:01 a.m. ET against the Nov. 3 close, partly reversing Tuesday's 1.90% drop on margin worries (Stock Titan)." },
+      { "symbol": "AMZN", "direction": "up", "rationale": "Up 6.57% at 11:01 a.m. ET; was up 8.12% at 10:01 a.m. (Stock Titan)." },
+      { "symbol": "NVDA", "direction": "down", "rationale": "Down 1.91% at 11:01 a.m. ET as AI shares fell on regulatory scrutiny worries (CNBC, via Stock Titan)." },
+      { "symbol": "AMD", "direction": "up", "rationale": "Shares rose nearly 8% after the fiscal Q3 beat and Q4 guide of about $17 billion (Yahoo Finance; AMD IR)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-04", "event": "ADP National Employment Report, 8:15 a.m. ET (PRNewswire)" },
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (Trading Economics)" }
+    ]
+  },
+  "sources": [
+    { "title": "Stock Market Today Live, November 4, 2026", "publisher": "Stock Titan (citing CNBC)", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026", "accessedAt": "2026-11-04" },
+    { "title": "ADP National Employment Report: Private-Sector Employment Increased by 86,000 Jobs in October", "publisher": "PRNewswire (ADP)", "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-86-000-jobs-in-october-302929216.html", "accessedAt": "2026-11-04" },
+    { "title": "U.S. private payrolls rise by 86,000 in October, ADP says", "publisher": "Investing.com", "url": "https://www.investing.com/news/economic-indicators/us-private-payrolls-rise-by-86000-in-october-adp-says-4999417", "accessedAt": "2026-11-04" },
+    { "title": "AMD Reports Third Quarter 2026 Financial Results", "publisher": "AMD Investor Relations", "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results", "accessedAt": "2026-11-03" }
+  ]
+}
