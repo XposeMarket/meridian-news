@@ -1,0 +1,48 @@
+{
+  "slug": "us-october-auto-sales-hybrids-lift-toyota-hyundai-ford-slips",
+  "title": "Hybrids Carry October U.S. Auto Sales as Toyota and Hyundai Gain and Ford Slips",
+  "dek": "Hybrid demand and retail buyers pushed Toyota, Honda, Hyundai and Kia to October gains, while Ford fell behind the market's lift.",
+  "section": "autos",
+  "tags": ["auto sales", "hybrids", "Toyota", "Hyundai", "Ford", "October sales"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T21:30:00Z",
+  "updatedAt": "2026-11-05T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Car_dealership_on_Nithsdale_Drive_%28B763%29%2C_Glasgow_%28geograph_6971412%29.jpg",
+    "alt": "Exterior of a car dealership showroom on a city street",
+    "credit": "JThomas / Geograph / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Car_dealership_on_Nithsdale_Drive_(B763),_Glasgow_(geograph_6971412).jpg"
+  },
+  "keyPoints": [
+    "Automotive News reported that U.S. sales rose 6.5% in October at Toyota Motor Corp., with the Toyota division up 5.7% and Lexus up 12%.",
+    "Hyundai Motor America reported record October total sales of 73,452, up 5%, and retail sales of 62,646, up 9%, per its Nov. 3 release.",
+    "Hyundai's hybrid sales rose 20% in October and made up 29% of its volume; its year-to-date hybrid sales are up 50%.",
+    "Automotive News said Ford slipped in October while Toyota, Honda, Hyundai and Kia gained on retail demand.",
+    "Carpro's October roundup said Honda's electrified sales, mostly hybrids, rose 11% to 33,760."
+  ],
+  "body": "October was a good month for the Japanese and Korean automakers that lean on hybrids. Automotive News reported that Toyota Motor Corp. sold 6.5% more vehicles in the U.S. last month, with the Toyota brand up 5.7% and Lexus up 12%. The trade publication said Honda, Hyundai and Kia also posted gains, helped by retail buyers. Ford was the notable laggard.\n\n## Hyundai's numbers\n\nHyundai Motor America reported its best October on record, with 73,452 vehicles sold, a 5% increase from October 2025. Retail sales, which exclude fleet deals, rose 9% to 62,646. The company credited the Santa Fe, Kona, IONIQ 5, Elantra and Palisade, and said its hybrid lineup grew 20% to make up 29% of its October volume. Year to date, Hyundai's hybrid sales are up 50%.\n\n## Why hybrids matter\n\nThe pattern fits a market that is buying efficiency without fully committing to battery-electric cars. Hybrids let buyers avoid charging while cutting fuel costs, and they have become a fast-growing share of the sales mix for several brands. Hyundai's own release frames the shift as a choice across SUVs, hybrids and EVs rather than a single move away from gasoline.\n\n## The wider picture\n\nAutomotive News describes the month as a mix of retail buyers and fleet deliveries, and said the overall market benefited from an extra selling day and a comparison with a weaker October 2025. Part of the gain is therefore calendar-driven rather than a clean trend. Carpro's roundup also pointed to Honda's electrified sales, which are mostly hybrids, rising 11% to 33,760 units.\n\nHyundai used its release to highlight new product: an all-new Tucson with a next-generation hybrid system targeting up to 42 mpg, and about $450 million of investment at its Montgomery, Alabama plant for future vehicles and propulsion technology. Hybrid share is now a product-cycle question as much as a demand question.\n\n## What to watch\n\nThe October figures arrive before the holiday shopping season and before the full-year comparisons carmakers tend to emphasize in fourth-quarter reports. Investors will look for whether Toyota's hybrid strength holds through November, and whether Ford can close the gap in its truck and SUV lineup.",
+  "marketImpact": {
+    "summary": "Strong hybrid and retail sales support the case that Toyota's mix is working. Ford's October slip is a smaller negative signal, and one month of unit sales does not settle either company's margin outlook.",
+    "timeframe": "Next 1-2 weeks, until November sales and fourth-quarter guidance commentary arrive",
+    "confidence": "low",
+    "catalysts": [
+      { "date": "2026-11-03", "event": "Automotive News and Hyundai report October U.S. sales, with Toyota up 6.5% and Ford slipping" },
+      { "date": "2026-11-03", "event": "Hyundai reports a 20% rise in October hybrid sales, with hybrids at 29% of its volume" }
+    ],
+    "tickers": [
+      { "symbol": "TM", "direction": "up", "rationale": "Toyota's October U.S. sales rose 6.5%, led by the Toyota brand and Lexus, supporting the hybrid-demand story" },
+      { "symbol": "F", "direction": "down", "rationale": "Ford slipped in October while most Japanese and Korean rivals gained, a relative weakness in the monthly data" }
+    ]
+  },
+  "sources": [
+    { "title": "Market gets October lift from hybrids, fleet; Toyota, Honda, Hyundai, Kia ride retail to gains; Ford slips", "publisher": "Automotive News", "url": "https://www.autonews.com/retail/sales/an-october-us-auto-sales-2026-1103/", "accessedAt": "2026-11-05" },
+    { "title": "Hyundai Motor America Reports Record-Breaking October 2026 Sales", "publisher": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/hyundai-motor-america-reports-record-breaking-october-2026-sales-302927595.html", "accessedAt": "2026-11-05" },
+    { "title": "October 2026 National Auto Sales", "publisher": "Carpro", "url": "https://www.carpro.com/blog/october-2026-national-auto-sales", "accessedAt": "2026-11-05" }
+  ]
+}

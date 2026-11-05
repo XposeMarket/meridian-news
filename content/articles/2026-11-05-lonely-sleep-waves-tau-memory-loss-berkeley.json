@@ -1,0 +1,34 @@
+{
+  "slug": "lonely-sleep-waves-tau-memory-loss-berkeley",
+  "title": "'Lonely' Deep-Sleep Waves Track Tau Buildup and Memory Loss in Older Adults",
+  "dek": "UC Berkeley researchers found that tau protein in the frontal cortex is linked to slow sleep waves that travel less far, and to weaker overnight memory, even in people without Alzheimer's.",
+  "section": "science",
+  "tags": ["sleep", "memory", "tau", "Alzheimer's", "brain", "UC Berkeley"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T21:30:00Z",
+  "updatedAt": "2026-11-05T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Brain_MRI_0145_02.jpg",
+    "alt": "Grayscale brain MRI scan showing cross-sectional anatomy",
+    "credit": "Nevit Dilmen / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_MRI_0145_02.jpg"
+  },
+  "keyPoints": [
+    "UC Berkeley researchers, led by postdoctoral researcher Omer Sharon under the direction of Matthew Walker, linked tau buildup to disrupted slow waves during deep sleep.",
+    "In older adults, slow waves traveled shorter distances and more often occurred alone, which the team called 'lonely waves'.",
+    "Participants with more of these isolated waves remembered less of the word associations they had learned the night before.",
+    "The older participants did not have Alzheimer's disease; the researchers described their tau levels as subclinical.",
+    "The study was published in Nature Neuroscience. It is an association study, so it does not show that tau causes the sleep changes."
+  ],
+  "body": "A new study from UC Berkeley adds a sleep-related clue to the question of why memory gets harder to recall with age. The researchers connected three things: buildup of tau, a protein tied to Alzheimer's disease; changes in the slow brain waves of deep sleep; and weaker memory the next morning.\n\n## What the team measured\n\nThe researchers gave participants word associations to learn in the evening and tested their recall the next day, a process that tracks memory consolidation during sleep. They recorded brain activity with EEG during the night and compared cognitively healthy young adults in their early 20s with older adults in their mid-60s to mid-70s. Some older participants also had PET scans showing tau in the frontal cortex.\n\n## The 'lonely waves'\n\nIn the younger group, clusters of slow waves spread across roughly a handspan of the scalp. In the older group, the waves covered less ground and more often happened alone. Those isolated, short-range waves were the ones the team called 'lonely,' and participants who had more of them remembered less the following day.\n\n## Not Alzheimer's, but a warning sign\n\nSharon said the older participants did not have Alzheimer's, though they had tau in their brains with subclinical effects, and their memory decline was within the normal range for their age. That is the study's most important caveat. The work suggests that changes in how the brain processes memory overnight may begin well before the symptoms that define Alzheimer's.\n\n## What it does not show\n\nThe study is an association between tau, sleep waves and memory, and a small one. It does not show that tau causes the wave changes, and it does not offer a treatment. Researchers will need larger, longer studies to test whether improving slow-wave activity could help protect memory. For now, the finding gives scientists a more specific sleep marker to study alongside amyloid and tau imaging.",
+  "sources": [
+    { "title": "Scientists discover mysterious 'lonely' brain waves linked to memory loss", "publisher": "ScienceDaily (UC Berkeley release)", "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm", "accessedAt": "2026-11-05" },
+    { "title": "Scientists Link 'Lonely' Sleep Waves to Memory Decline With Age", "publisher": "SciTechDaily", "url": "https://scitechdaily.com/scientists-link-lonely-sleep-waves-to-memory-decline-with-age/", "accessedAt": "2026-11-05" }
+  ]
+}
