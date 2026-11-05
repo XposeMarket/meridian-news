@@ -1,0 +1,47 @@
+{
+  "slug": "nvidia-h200-chips-stockpile-hong-kong-china-approval",
+  "title": "About 600,000 Nvidia H200 Chips Wait in Hong Kong as Beijing Withholds Import Approval",
+  "dek": "Reuters reports a large H200 stockpile in Hong Kong while Beijing has not approved large-volume imports, a bottleneck that adds to Nvidia's China risk as chip stocks slide.",
+  "section": "ai-tech",
+  "tags": ["Nvidia", "NVDA stock", "H200", "China", "export controls", "AI chips"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T16:45:00Z",
+  "updatedAt": "2026-11-05T16:45:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/NVidia_G71_GPU.jpg",
+    "alt": "Close-up of an Nvidia GPU chip on a circuit board",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVidia_G71_GPU.jpg"
+  },
+  "keyPoints": [
+    "Reuters reported on Nov. 5, citing two people familiar with the matter, that about 600,000 of Nvidia's advanced H200 AI chips are stored in Hong Kong awaiting shipment to mainland China.",
+    "Beijing has not approved large-volume imports, though some chips have entered China in recent months; three people said several major Chinese internet companies each obtained about 10,000 H200 chips.",
+    "Small quantities have moved through intermediaries and indirect routes, according to the same Reuters reporting, but the total was not specified.",
+    "One person said an eight-card H200 server was offered for more than 6 million yuan (about $900,000) in mainland China by the end of October, roughly three times its price a year earlier.",
+    "Nvidia, the Chinese companies named in the report, and China's industry and planning ministries did not respond to Reuters' requests for comment."
+  ],
+  "body": "About 600,000 of Nvidia's H200 AI chips are sitting in Hong Kong, waiting for a go-ahead from Beijing that has not come in bulk, according to a Reuters exclusive published Thursday. The report describes a stockpile that had not been public before, and it lands on a day when chip stocks were already falling.\n\n## What Reuters reported\n\nThe news agency's sources said Beijing has not approved large-volume imports into mainland China, despite demand from technology firms. Chinese companies still need Nvidia's computing power to meet growing AI demand, and the H200 is not Nvidia's newest processor. It remains useful for training AI models, especially alongside Nvidia's software.\n\nReuters also reported that China has let some chips in over recent months. Several large internet companies have each obtained about 10,000 H200s, one source said, and three people said smaller quantities have arrived through intermediaries.\n\n## Why the price matters\n\nBecause authorized supply is tight, buyers have turned to unofficial channels. The Reuters report cites an eight-card H200 server offered for more than 6 million yuan by the end of October. Servers using Nvidia's newer Blackwell chips, which fall under U.S. export controls, were offered for more than 20 million yuan each.\n\nThat pricing shows the demand is real, but it does not show that Nvidia is collecting the revenue. Most of the sales described in the report run through a grey market, and the story does not say how much of the stockpile Nvidia has already booked.\n\n## Context for the stock\n\nThe China question has been a live one for Nvidia this week. Earlier reporting from the Financial Times, carried by Bloomberg on Nov. 3, said Nvidia had told data center clients to trim China business. Taken together, the stockpile and the import hold suggest that Nvidia's China sales depend on Beijing as much as on Washington's export rules.\n\nTipRanks reported that Nvidia fell about 6% on Thursday, with the broader chip selloff tied to the midterm results and fears of tighter AI data-center rules. The H200 report is a separate factor, and reporting does not attribute the drop to it alone.\n\n## What to watch\n\nThe key open questions are whether Beijing approves a large import, whether Nvidia confirms any shipment volumes, and whether the stockpile is sold through official channels or stays in Hong Kong. Until one of those changes, the 600,000 figure is a single-source-group estimate from Reuters, not a company disclosure.",
+  "marketImpact": {
+    "summary": "A large H200 stockpile that Beijing has not cleared shows that Nvidia's China sales can stall even when demand is strong. Reuters gave no revenue figure, so the earnings effect is hard to size.",
+    "timeframe": "Next 1-3 months, as Beijing's import decisions and Nvidia's China commentary become clearer",
+    "confidence": "medium",
+    "catalysts": [
+      { "date": "2026-11-05", "event": "Reuters reports about 600,000 H200 chips held in Hong Kong while Beijing has not approved large-volume imports" },
+      { "date": "2026-11-05", "event": "Nvidia had not responded to Reuters' request for comment; any company comment on China shipments is still pending" }
+    ],
+    "tickers": [
+      { "symbol": "NVDA", "direction": "down", "rationale": "The China import hold adds to a selloff that had Nvidia down about 6-7% intraday on Thursday; the H200 report is one factor among several, not the sole cause" }
+    ]
+  },
+  "sources": [
+    { "title": "Exclusive-Nvidia chips pile up in Hong Kong as China withholds import approval", "publisher": "Reuters (via Yahoo News)", "url": "https://www.yahoo.com/news/articles/exclusive-nvidia-chips-pile-hong-112651215.html", "accessedAt": "2026-11-05" },
+    { "title": "China's Nvidia H200 Bottleneck Deepens: 600,000 Chips Reportedly Await Approval In Hong Kong", "publisher": "Benzinga", "url": "https://www.benzinga.com/markets/tech/26/11/62919241/chinas-nvidia-h200-bottleneck-deepens-600000-chips-reportedly-await-approval-in-hong-kong-as-servers-fetch-nearly-1-million-each", "accessedAt": "2026-11-05" },
+    { "title": "Why Chip Stocks Intel, Nvidia, and AMD Are Sinking Today, Nov. 5", "publisher": "TipRanks", "url": "https://www.tipranks.com/news/why-chip-stocks-intel-nvidia-and-amd-are-sinking-today-nov-5", "accessedAt": "2026-11-05" }
+  ]
+}
