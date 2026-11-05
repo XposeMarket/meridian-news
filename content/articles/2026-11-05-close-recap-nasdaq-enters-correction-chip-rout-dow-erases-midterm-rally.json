@@ -1,0 +1,92 @@
+{
+  "slug": "close-recap-nasdaq-enters-correction-chip-rout-dow-erases-midterm-rally",
+  "title": "Nasdaq Falls Into Correction as Chip Rout Erases the Midterm Rally; Dow Sheds About 1,800 Points",
+  "dek": "CNBC put the Nasdaq Composite down about 5.4% and the S&P 500 down 4.3% at the 4 p.m. ET update. The Dow fell about 1,844 points, giving back Wednesday's post-election gain.",
+  "section": "markets",
+  "tags": [
+    "markets",
+    "nasdaq",
+    "correction",
+    "chips",
+    "close",
+    "afternoon"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T21:30:00Z",
+  "updatedAt": "2026-11-05T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "CNBC's 4:00 p.m. ET update: Nasdaq Composite down 5.4%, S&P 500 down 4.3%, Dow down 1,844 points (Stock Titan).",
+    "Nasdaq fell more than 10% below its record set last month, which meets the usual definition of a correction (CNBC; Yahoo Finance).",
+    "Nvidia closed down 9.26% at $181.60; the Invesco QQQ fell 6.49% (Stock Titan real-time data).",
+    "All 11 S&P 500 sectors were lower at 1:57 p.m. ET; technology fell the most (CNBC, via Stock Titan).",
+    "The Cboe Volatility Index briefly reached 28.09, its highest since March 31 (CNBC, via Stock Titan)."
+  ],
+  "body": "## The close: a broad selloff\n\nStocks closed sharply lower on Thursday as the selling in AI and chip stocks spread across the market. CNBC's 4:00 p.m. ET update put the Nasdaq Composite down 5.4%, the S&P 500 down 4.3% and the Dow down 1,844 points, according to [Stock Titan's close recap](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026). All three indexes were headed for their worst day since April 2025, CNBC said.\n\nThe Nasdaq's move meets the usual definition of a correction, a decline of at least 10% from a recent high. [Yahoo Finance's live page](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html) described the index as closing in correction territory. The Nasdaq also fell below its 200-day moving average for the first time since April, CNBC reported at 3:02 p.m. ET.\n\n## Sectors and top movers\n\nAll 11 S&P 500 sectors were lower at 1:57 p.m. ET, with technology falling most (CNBC, via Stock Titan). Chip names took the heaviest losses. Nvidia closed down 9.26% at $181.60, and the Invesco QQQ, which tracks the Nasdaq-100, fell 6.49% (Stock Titan). Stock Titan's real-time data also showed AMD down 17.26% at the official close.\n\nThe [Trading Economics US index summary](https://tradingeconomics.com/united-states/stock-market) put the Dow down 3.4% and the Nasdaq-100 down 6.4%, using CFD prices that differ slightly from the CNBC index figures. Treat the index percentages above as CNBC's; the CFD figures are shown for context only.\n\nOutside tech, the CBOE Volatility Index briefly reached 28.09, its highest level since March 31, and the Russell 2000 entered a correction (CNBC, via Stock Titan). Traders' odds of a December rate increase slipped to 70.1% from 82.7% on Wednesday, according to CME FedWatch data cited by CNBC.\n\n## What the close changes\n\nThe midterm rally of Wednesday has been fully reversed. The next test is whether chip stocks stabilize when the market reopens Friday, and whether the Nasdaq holds the 200-day average it just lost.",
+  "marketImpact": {
+    "summary": "The Nasdaq correction and chip rout raise pressure on AI-linked valuations. Investors are reassessing data-center spending after the Democratic sweep, while the rate-hike debate is now priced less aggressively.",
+    "timeframe": "Friday, Nov. 6 open, and the next Fed-odds update",
+    "confidence": "medium",
+    "catalysts": [
+      {
+        "date": "2026-11-06",
+        "event": "Chip stocks and the Nasdaq-100 reopen after Thursday's close; watch whether the 200-day average holds (CNBC, via Stock Titan)."
+      },
+      {
+        "date": "2026-11-05",
+        "event": "Cloudflare and Airbnb conference calls at 5:00 p.m. ET, which may steer software and AI-cloud sentiment (MarketBeat; Cloudflare release)."
+      },
+      {
+        "date": "2026-11-06",
+        "event": "CME FedWatch odds for a December rate increase, which fell to 70.1% from 82.7% on Wednesday (CNBC)."
+      }
+    ],
+    "tickers": [
+      {
+        "symbol": "NVDA",
+        "direction": "down",
+        "rationale": "Closed down 9.26% at $181.60 on data-center policy fears (Stock Titan)."
+      },
+      {
+        "symbol": "AMD",
+        "direction": "down",
+        "rationale": "Down 17.26% at the official close on the chip selloff (Stock Titan real-time data)."
+      },
+      {
+        "symbol": "QQQ",
+        "direction": "down",
+        "rationale": "Nasdaq-100 ETF down 6.49% (Stock Titan real-time data)."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "The AI Chip Selloff Drags the Nasdaq Sharply Lower in the Stock Market Today Live, November 5, 2026",
+      "publisher": "Stock Titan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "accessedAt": "2026-11-05"
+    },
+    {
+      "title": "Stock market today: Nasdaq plunges 5% as chip stocks sell off",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
+      "accessedAt": "2026-11-05"
+    },
+    {
+      "title": "United States Stock Market Index",
+      "publisher": "Trading Economics",
+      "url": "https://tradingeconomics.com/united-states/stock-market",
+      "accessedAt": "2026-11-05"
+    }
+  ]
+}

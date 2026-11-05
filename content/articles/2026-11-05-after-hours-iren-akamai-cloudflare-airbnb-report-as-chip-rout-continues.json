@@ -1,0 +1,83 @@
+{
+  "slug": "after-hours-iren-akamai-cloudflare-airbnb-report-as-chip-rout-continues",
+  "title": "After the Bell: IREN and Akamai Report; Cloudflare Shares Jump in Extended Trading as Airbnb Reports",
+  "dek": "IREN said its AI cloud revenue nearly tripled, Akamai reported 6% revenue growth, and Cloudflare traded sharply higher after hours. Airbnb was also scheduled to report after the close.",
+  "section": "markets",
+  "tags": [
+    "earnings",
+    "after-hours",
+    "iren",
+    "akamai",
+    "cloudflare",
+    "airbnb",
+    "afternoon"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T21:30:00Z",
+  "updatedAt": "2026-11-05T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "IREN: AI cloud revenue nearly tripled to $200 million in the quarter to September; release at 4:01 p.m. ET (Stock Titan, citing IREN release).",
+    "Akamai: third-quarter revenue rose 6% (Stock Titan, citing Akamai release).",
+    "Cloudflare: closed at $243.79, down 8.55%, then traded at $286.60 (+17.56%) at 4:22 p.m. ET in extended trading (MarketBeat). Its report was scheduled for after the close with a 5:00 p.m. ET call.",
+    "Airbnb was scheduled to report after the close at 5:00 p.m. ET; we have not verified its results or after-hours move in the sources reviewed."
+  ],
+  "body": "## Reports after the bell\n\nSeveral companies reported after the close on Thursday. The verified results so far are from company releases as summarized by [Stock Titan](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026). IREN, which rents out AI computing power, said its AI cloud revenue nearly tripled to $200 million in the quarter to September. Akamai, which runs a cloud and security network, said third-quarter revenue rose 6%.\n\n## Cloudflare: a sharp extended-hours move\n\nCloudflare was scheduled to report after the close with a call at 5:00 p.m. ET. [MarketBeat](https://www.marketbeat.com/earnings/reports/2026-11-5-cloudflare-inc-stock/) listed the regular-session close at $243.79, down 8.55%, and an extended-hours price of $286.60, up 17.56% at 4:22 p.m. ET. Analysts had expected earnings of $0.3424 per share on revenue of $737.16 million, according to the same source. We have not yet verified the reported results against that consensus, so this story does not state a beat or miss.\n\n## Airbnb: scheduled, not yet verified\n\nAirbnb was scheduled to report after the close at 5:00 p.m. ET. We did not find a verified results release or after-hours price move in the sources reviewed, so we are not reporting its numbers. The next update should add them once a company release or wire report is available.\n\n## Why the after-hours moves matter\n\nThe afternoon chip rout is a backdrop for these reports. AI-cloud and data-center results, such as IREN's, may be read against concern about slower data-center spending after the election.\n\n## What the reports do and do not tell us\n\nThe releases cited here cover results for the quarter to September for IREN and Akamai. Those figures describe business performance before the Thursday selloff, so they cannot show how investors will weigh guidance or the political backdrop for AI infrastructure. Stock Titan reported IREN's release at 4:01 p.m. ET, one minute after the close, and Akamai's revenue growth of 6% was smaller than the growth rate reported for IREN's AI cloud business.\n\n## The wider backdrop\n\nThe after-hours reports arrive after the close of a session in which the Nasdaq Composite closed down about 5.4% and the S&P 500 about 4.3%, according to CNBC's 4:00 p.m. ET update (Stock Titan). Chip stocks led the decline, and the Democratic sweep of Congress raised fears of tighter oversight of data centers. Investors will read after-hours moves through that lens: a strong AI-cloud result may be judged as evidence that demand is still intact, while weaker guidance would add to worries about spending.\n\n## What to watch next\n\nThe next verifiable data points are the regular-session prices for Cloudflare, IREN and Akamai on Friday, Nov. 6, and whatever Airbnb reports once its release is available in a reputable source. Until then, this story sticks to figures we could verify and does not characterize results we have not seen.",
+  "marketImpact": {
+    "summary": "After-hours results add company-level signals to a session dominated by AI-chip selling. Cloudflare's extended-hours move and IREN's AI-cloud growth both bear on whether data-center demand is holding up.",
+    "timeframe": "Friday, Nov. 6 regular session",
+    "confidence": "low",
+    "catalysts": [
+      {
+        "date": "2026-11-05",
+        "event": "Cloudflare and Airbnb conference calls at 5:00 p.m. ET (company schedule)."
+      },
+      {
+        "date": "2026-11-06",
+        "event": "Regular-session trading in Cloudflare, IREN and Akamai reflects the after-hours reports."
+      }
+    ],
+    "tickers": [
+      {
+        "symbol": "NET",
+        "direction": "up",
+        "rationale": "Extended-hours price $286.60, up 17.56%, after a $243.79 close (MarketBeat)."
+      },
+      {
+        "symbol": "IREN",
+        "direction": "up",
+        "rationale": "AI cloud revenue nearly tripled to $200 million in the quarter to September (Stock Titan, citing IREN release)."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "The AI Chip Selloff Drags the Nasdaq Sharply Lower in the Stock Market Today Live, November 5, 2026",
+      "publisher": "Stock Titan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "accessedAt": "2026-11-05"
+    },
+    {
+      "title": "Cloudflare Q3 2026 Earnings Date and Estimates",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-11-5-cloudflare-inc-stock/",
+      "accessedAt": "2026-11-05"
+    },
+    {
+      "title": "Cloudflare Announces Date of Third Quarter 2026 Financial Results",
+      "publisher": "Cloudflare",
+      "url": "https://cloudflare.net/news/news-details/2026/Cloudflare-Announces-Date-of-Third-Quarter-2026-Financial-Results/default.aspx",
+      "accessedAt": "2026-11-05"
+    }
+  ]
+}

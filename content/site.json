@@ -1,108 +1,82 @@
 {
-  "updatedAt": "2026-11-05T17:15:00Z",
+  "updatedAt": "2026-11-05T21:30:00Z",
   "edition": "afternoon",
-  "leadSlug": "close-recap-dow-gains-3-percent-democrats-sweep-oil-drops",
+  "leadSlug": "close-recap-nasdaq-enters-correction-chip-rout-dow-erases-midterm-rally",
   "marketBrief": {
-    "headline": "Chip selloff pushes Nasdaq toward a correction as the midterm rally fades; Dow down 2.6% at midday",
-    "summary": "By 10:58 a.m. ET the Nasdaq Composite was down 4.9%, more than 10% below its record, CNBC reported. The S&P 500 was down 3.2% and the Dow 1,136 points. Chip stocks led the fall, with Nvidia down 8.64% at 11:02 a.m. ET. Oil rose on Iran uncertainty, Brent near $96, and the Bank of England's hike to 4% lifted UK gilt yields.",
+    "headline": "Nasdaq enters correction as chip rout erases the midterm rally; Dow down about 1,844 points",
+    "summary": "At the 4:00 p.m. ET update CNBC put the Nasdaq Composite down 5.4%, the S&P 500 down 4.3% and the Dow down 1,844 points. Nvidia closed down 9.26%. Cloudflare moved sharply higher after hours.",
     "bullets": [
-      "Nasdaq Composite -4.9% at 10:58 a.m. ET, more than 10% below its record (CNBC, via Stock Titan).",
-      "S&P 500 -3.2% and Dow -1,136 points at 10:58 a.m. ET (CNBC, via Stock Titan); Dow at 51,970.29, -2.60%, at 12:07 p.m. EST (Yahoo Finance).",
-      "Nvidia -8.64% and Broadcom -9.31% at 11:02 a.m. ET; the PHLX Semiconductor index down about 11% (Stock Titan; Yahoo Finance).",
-      "Brent near $96 to $97 and WTI near $89 to $90 in late-morning reports (Yahoo Finance; CNBC).",
-      "Bank of England raised its rate to 4% by 8-1; 10-year gilt yield 5.1546% after the decision (CNBC).",
-      "AppLovin up 31.50% at 10:01 a.m. ET on its results; Qualcomm fell in premarket trading on guidance (CNBC, via Stock Titan)."
+      "Nasdaq Composite -5.4%, more than 10% below its record: correction (CNBC, via Stock Titan).",
+      "S&P 500 -4.3%; Dow -1,844 points at 4:00 p.m. ET (CNBC, via Stock Titan).",
+      "Nvidia closed -9.26% at $181.60; QQQ -6.49% (Stock Titan real-time data).",
+      "Cloudflare: $243.79 close (-8.55%), $286.60 extended (+17.56%) at 4:22 p.m. ET (MarketBeat).",
+      "IREN AI cloud revenue nearly tripled to $200M; Akamai revenue +6% (Stock Titan, citing company releases)."
     ],
-    "asOf": "2026-11-05T17:15:00Z"
+    "asOf": "2026-11-05T21:30:00Z"
   },
   "marketSnapshot": [
     {
       "label": "Nasdaq Composite",
-      "value": "-4.9%",
-      "change": "-4.9%",
+      "value": "-5.4%",
+      "change": "-5.4%",
       "direction": "down",
       "source": "CNBC, via Stock Titan",
-      "sourceUrl": "https://stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 10:58 a.m. ET"
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 4:00 p.m. ET"
     },
     {
       "label": "S&P 500",
-      "value": "-3.2%",
-      "change": "-3.2%",
+      "value": "-4.3%",
+      "change": "-4.3%",
       "direction": "down",
       "source": "CNBC, via Stock Titan",
-      "sourceUrl": "https://stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 10:58 a.m. ET"
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 4:00 p.m. ET"
     },
     {
       "label": "Dow Jones Industrial Average",
-      "value": "51,970.29 (-2.60%)",
-      "change": "-2.60%",
+      "value": "-1,844 points",
+      "change": "-1,844 pts",
       "direction": "down",
-      "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
-      "asOf": "2026-11-05 12:07 p.m. EST"
+      "source": "CNBC, via Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 4:00 p.m. ET"
     },
     {
       "label": "Nvidia",
-      "value": "-8.64%",
-      "change": "-8.64%",
+      "value": "-9.26% ($181.60)",
+      "change": "-9.26%",
       "direction": "down",
       "source": "Stock Titan real-time data",
-      "sourceUrl": "https://stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 11:02 a.m. ET"
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 close"
     },
     {
-      "label": "Brent crude",
-      "value": "$96.15 (+1.6%)",
-      "change": "+1.6%",
+      "label": "Cloudflare (extended)",
+      "value": "$286.60 (+17.56%)",
+      "change": "+17.56%",
       "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/amp/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
-      "asOf": "2026-11-05 late morning (no timestamp in source)"
-    },
-    {
-      "label": "WTI crude",
-      "value": "$88.64 (+0.6%)",
-      "change": "+0.6%",
-      "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/amp/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
-      "asOf": "2026-11-05 late morning (no timestamp in source)"
-    },
-    {
-      "label": "UK 10-year gilt yield",
-      "value": "5.1546%",
-      "change": "+2 bp",
-      "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-      "asOf": "2026-11-05 after the Bank of England decision"
+      "source": "MarketBeat",
+      "sourceUrl": "https://www.marketbeat.com/earnings/reports/2026-11-5-cloudflare-inc-stock/",
+      "asOf": "2026-11-05 4:22 p.m. ET"
     },
     {
       "label": "CBOE Volatility Index (VIX)",
-      "value": "as high as 27.45",
-      "change": "+65%",
+      "value": "as high as 28.09",
+      "change": "highest since Mar 31",
       "direction": "up",
-      "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
-      "asOf": "2026-11-05 late morning"
+      "source": "CNBC, via Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 2:03 p.m. ET"
     }
   ],
   "calendar": [
     {
-      "date": "2026-11-05",
-      "time": "8:30 AM ET",
-      "event": "Weekly initial jobless claims: 189,000 (from 195,000)",
-      "importance": "medium",
-      "why": "Released; Labor Department via CNBC, via Stock Titan."
-    },
-    {
-      "date": "2026-11-05",
-      "time": "After the close",
-      "event": "Airbnb (ABNB) earnings",
-      "importance": "medium",
-      "why": "EPS estimate $2.91 (JournalArta)."
+      "date": "2026-11-06",
+      "time": "Regular session",
+      "event": "Regular session reopens after the Nasdaq correction; Cloudflare, IREN and Akamai trade on their after-hours reports",
+      "importance": "high",
+      "why": "Nasdaq closed more than 10% below its record on Thursday (CNBC, via Stock Titan)."
     },
     {
       "date": "2026-11-06",
