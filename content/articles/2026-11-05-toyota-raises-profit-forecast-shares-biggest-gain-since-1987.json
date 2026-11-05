@@ -1,0 +1,71 @@
+{
+  "slug": "toyota-raises-profit-forecast-shares-biggest-gain-since-1987",
+  "title": "Toyota Raises Profit Forecast 15% on Hybrid Demand; Shares Post Biggest Gain Since 1987",
+  "dek": "Toyota lifted its annual operating income forecast to ¥3.9 trillion and reported a 34% rise in quarterly operating income. The stock climbed the most in nearly four decades.",
+  "section": "markets",
+  "tags": [
+    "toyota",
+    "autos",
+    "earnings",
+    "hybrids",
+    "yen",
+    "pre-market"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T13:15:00Z",
+  "updatedAt": "2026-11-05T13:15:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Headquarter_of_Toyota_Motor_Corporation_3.JPG",
+    "alt": "Exterior of the Toyota Motor Corporation headquarters building in Toyota City, Japan",
+    "credit": "Tokumeigakarinoaoshima, via Wikimedia Commons",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Headquarter_of_Toyota_Motor_Corporation_3.JPG"
+  },
+  "keyPoints": [
+    "Toyota raised its operating income forecast for the fiscal year ending March 2027 by 15% to ¥3.9 trillion ($24.7 billion) (Bloomberg).",
+    "Operating income for the three months to September rose 34% to ¥1.1 trillion, higher than estimated and the first gain in six quarters (Bloomberg).",
+    "Shares climbed the most in nearly four decades, Bloomberg reported.",
+    "Bloomberg attributed the strength to demand for hybrid vehicles and a weak yen, and said Toyota stepped up shareholder returns."
+  ],
+  "body": "## A higher forecast and a strong quarter\n\nToyota Motor Corp. raised its operating income forecast for the fiscal year ending March 2027 by 15%, to ¥3.9 trillion ($24.7 billion), the company said Thursday, according to Bloomberg. The forecast raise came alongside quarterly results that beat expectations. For the three months ended September, operating income rose 34% to ¥1.1 trillion, the first quarterly gain in six quarters, Bloomberg reported.\n\nThe stock reaction was the headline. Toyota's shares climbed the most in nearly four decades after the results and a larger shareholder return plan, Bloomberg said. The report did not give a per-share figure for the move, so this story does not quantify it.\n\n## Why hybrids are carrying the result\n\nBloomberg credited strong demand for hybrid vehicles and a weak yen. Hybrids have been a recurring theme in Toyota's recent sales coverage: our earlier report on [October sales for Hyundai and Toyota](/article/hyundai-toyota-october-sales-record-hybrids) showed hybrid demand at record levels in that month. Currency is the second driver. A weaker yen raises the yen value of overseas sales, which is one reason an operating income forecast can rise faster than unit volume.\n\n## Earnings on the morning calendar\n\nMarketChameleon's earnings calendar listed Toyota Motor (TM) as reporting on November 5 before the open, alongside ConocoPhillips and Sony. We confirmed Toyota's release through Bloomberg. We did not verify the full list of other pre-market reporters.\n\n## What we could not confirm\n\nSome earnings calendars listed Moderna among Thursday's reporters. A separate KuCoin report said Moderna's third-quarter release is set for November 6, not today, so this story does not treat Moderna as a pre-market reporter. We also did not find a verified Moderna Q3 number to report.\n\n## What it means for the market\n\nFor the Tokyo market, the forecast raise is a company-specific positive for exporters. We did not verify how the wider index responded to the Toyota move. For U.S. investors, the more direct read is the TM American depositary receipt and the wider auto group, where hybrid demand and currency effects are being watched as margin signals.\n\n*AI-assisted analysis. Not financial advice.*",
+  "marketImpact": {
+    "summary": "Toyota's raised full-year forecast and strong September quarter point to better auto margins, helped by hybrid demand and a weaker yen. The stock reaction was the largest in nearly four decades, but the market will test whether the rally holds once the opening trade settles.",
+    "timeframe": "Thursday, Nov. 5, from the pre-market release through the first hour of trading",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "TM",
+        "direction": "up",
+        "rationale": "Toyota raised its annual operating income forecast 15% and reported a 34% rise in quarterly operating income (Bloomberg); the Tokyo shares climbed the most since 1987 (Bloomberg)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-05",
+        "event": "Toyota quarterly results and raised forecast, released before the open (Bloomberg; MarketChameleon)"
+      },
+      {
+        "date": "2026-11-06",
+        "event": "October employment report, 8:30 a.m. ET (Trading Economics)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Toyota Raises Profit Forecast on Hybrid Demand, Weak Yen",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/toyota-raises-profit-forecast-on-hybrid-demand-weak-yen",
+      "accessedAt": "2026-11-05"
+    },
+    {
+      "title": "Earnings Report Calendar: week of November 5 to November 11, 2026",
+      "publisher": "MarketChameleon",
+      "url": "https://marketchameleon.com/Calendar/Earnings",
+      "accessedAt": "2026-11-05"
+    }
+  ]
+}

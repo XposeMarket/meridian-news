@@ -1,0 +1,50 @@
+{
+  "slug": "futures-mixed-after-midterm-rally-oil-boe-hike",
+  "title": "Futures Split After the Midterm Rally as Oil Wavers; Bank of England Raises Rates to 4%",
+  "dek": "Dow futures rose 0.5% while Nasdaq-100 futures fell 0.7% after Wednesday's rally. Brent was near $94 in early trading, Asian shares mostly gained, and the Bank of England lifted its rate to 4%.",
+  "section": "markets",
+  "tags": ["markets", "futures", "oil", "treasuries", "dollar", "bank-of-england", "pre-market"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T13:15:00Z",
+  "updatedAt": "2026-11-05T13:15:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Dow Jones futures rose 0.5%, S&P 500 futures 0.1% and Nasdaq-100 futures fell 0.7% as semiconductor stocks declined (Yahoo Finance live).",
+    "Brent fell 0.85% to $93.82 a barrel and WTI fell 1.36% to $86.92 at 04:26 GMT (Yahoo Finance). Later in the same live coverage, oil was cited at $96 Brent and $89 WTI.",
+    "Japan's Nikkei 225 fell 1.8%; Germany's DAX rose 0.6%, France's CAC 40 1.2% and Britain's FTSE 100 1% (AP figures, via Time News).",
+    "The Bank of England raised its rate a quarter point to 4%, voting 8-1 (Yahoo Finance live).",
+    "Challenger, Gray & Christmas said October layoff plans fell to their lowest level since 2023 (Yahoo Finance live)."
+  ],
+  "body": "## Futures: the rally cools unevenly\n\nU.S. index futures split early Thursday. Dow Jones futures rose 0.5%, S&P 500 futures climbed 0.1%, and Nasdaq-100 futures dropped 0.7% as semiconductor stocks declined, according to Yahoo Finance's live coverage. The split followed Wednesday's session, when the Dow posted its best day since April 2025 after Democrats took control of Congress. Charles Schwab's morning note described the result as ending election uncertainty, which took pressure off Wall Street.\n\nFor the full picture of Wednesday's session, see [our close recap](/article/close-recap-dow-gains-3-percent-democrats-sweep-oil-drops).\n\n## Oil: two readings, two moods\n\nOil was the most contested input. Yahoo Finance reported that Brent fell 0.85% to $93.82 a barrel and WTI fell 1.36% to $86.92 at 04:26 GMT. Later in the same live coverage, the outlet said oil had halted its descent, with Brent at $96 and WTI at $89. The shift came as traders weighed comments from Vice President JD Vance, who said on X that \"the reason we lost\" the midterm elections \"is the war,\" a remark read as a push toward a resolution with Iran. The two readings come from different times, so no single oil price should be taken as the morning level.\n\n## Asia and Europe: mostly higher, with chip exceptions\n\nAsian shares mostly gained after the U.S. rally, AP reported, though South Korea's Kospi fell on selling of chipmakers. Time News, citing AP figures, put Japan's Nikkei 225 down 1.8%. In Europe, Germany's DAX rose 0.6%, France's CAC 40 rose 1.2% and Britain's FTSE 100 gained 1%.\n\nThe biggest policy event in the region was in London. The Bank of England voted 8-1 to raise its rate by a quarter point to 4%, its first increase since 2023. One member voted for a larger hike. Governor Andrew Bailey said the move \"shouldn't be seen as the first in an inevitable long sequence of hikes,\" but added that unless the conflict in the Middle East is resolved, \"neither does it seem likely to be the last increase.\"\n\n## Treasuries and the dollar: no verified overnight quote\n\nSchwab reported that Treasury yields fell and gold rose in Wednesday's session. The New York Times had put the 10-year yield near 4.91% during that session, as covered in our close recap. We did not find a verified Thursday overnight Treasury yield or dollar index reading in the sources reviewed, so this story does not give one.\n\n## Data and earnings ahead\n\nChallenger, Gray & Christmas reported that October layoff plans fell to their lowest level since 2023, as companies focused on keeping existing staff. Yahoo Finance tied that to Friday's October employment report. Thursday's earnings include Duke Energy, Airbnb and Lumentum (Yahoo Finance), along with ConocoPhillips and Kimberly-Clark (Trading Economics). Weekly jobless claims are due at 8:30 a.m. ET; the consensus for that release was not confirmed in the sources we reviewed.\n\n## What to watch\n\nThe index split suggests the midterm relief is being priced, but not uniformly. The Nasdaq-100's early weakness and the BoE's hawkish tone are the two signals most likely to shape the first hour. Oil is the swing factor for inflation expectations, and until the Iran headlines settle, both the energy and rate-sensitive parts of the market can move on a single comment.\n\n*AI-assisted analysis. Not financial advice.*",
+  "marketImpact": {
+    "summary": "Index futures are split: the Dow is leaning higher while Nasdaq-100 futures lean lower on chip weakness. Oil is volatile around Iran headlines, and the Bank of England's hike adds a global rate backdrop. We see the Nasdaq as the more sensitive market to the open.",
+    "timeframe": "Thursday, Nov. 5, pre-market through the 9:30 a.m. ET open",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NQ=F", "direction": "down", "rationale": "Nasdaq-100 futures down 0.7% in early trading as semiconductor stocks declined (Yahoo Finance live)." },
+      { "symbol": "YM=F", "direction": "up", "rationale": "Dow futures up 0.5% after Wednesday's best day since April 2025 (Yahoo Finance live; Trading Economics)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-05", "event": "Weekly initial jobless claims, 8:30 a.m. ET (Finance Calendar)" },
+      { "date": "2026-11-05", "event": "AppLovin and Qualcomm first regular-session trades after Wednesday results (CNBC, via Stock Titan)" },
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (Trading Economics)" }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed as post-election relief rally cools, oil rises", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html", "accessedAt": "2026-11-05" },
+    { "title": "Shares advance after Wall Street rally following US midterm elections", "publisher": "Yahoo Finance (AP)", "url": "https://finance.yahoo.com/markets/world-indices/articles/shares-advance-wall-street-rally-053011467.html", "accessedAt": "2026-11-05" },
+    { "title": "Global Stock Markets: Asia and Europe figures (AP, via Time News)", "publisher": "Time News", "url": "https://time.news/asian-markets-mostly-climb-following-u-s-midterms-amid-tech-losses/", "accessedAt": "2026-11-05" },
+    { "title": "Stock Market Update at the Open (Charles Schwab)", "publisher": "Charles Schwab", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "accessedAt": "2026-11-05" },
+    { "title": "United States Stock Market Index", "publisher": "Trading Economics", "url": "https://tradingeconomics.com/united-states/stock-market", "accessedAt": "2026-11-05" }
+  ]
+}

@@ -1,95 +1,111 @@
 {
-  "updatedAt": "2026-11-04T21:45:00Z",
+  "updatedAt": "2026-11-05T13:15:00Z",
   "edition": "afternoon",
   "leadSlug": "close-recap-dow-gains-3-percent-democrats-sweep-oil-drops",
   "marketBrief": {
-    "headline": "Dow closes up 3% at 53,356 as Democrats take Congress; oil falls more than 8%; AppLovin up and Qualcomm down after hours",
-    "summary": "The Dow rose 1,569.40 points, or 3.03%, to 53,356.12, its best day since April 9, 2025 (CNBC, via Stock Titan). The S&P 500 gained 1.58% to 7,688.62 and the Nasdaq Composite 1.44% to 25,736.51. US crude fell more than 8%. AppLovin rose and Qualcomm fell in after-hours trading.",
+    "headline": "Futures split after the midterm rally: Dow futures up 0.5%, Nasdaq-100 down 0.7%; Bank of England hikes to 4%; Toyota lifts forecast",
+    "summary": "Early Thursday, Dow futures rose 0.5% and S&P 500 futures 0.1% while Nasdaq-100 futures fell 0.7% on chip weakness (Yahoo Finance live). Brent was near $94 in early trade, though later reports had it near $96. Asian shares mostly gained, the Bank of England raised rates to 4%, and Toyota raised its annual profit forecast.",
     "bullets": [
-      "Dow Jones closed at 53,356.12, up 1,569.40 points (3.03%), at 4:16 p.m. ET (CNBC, via Stock Titan).",
-      "S&P 500 closed at 7,688.62, up 1.58%; Nasdaq Composite closed at 25,736.51, up 1.44% (CNBC, via Stock Titan).",
-      "Apple closed up 5.30% and reached a record high of $354.33 (CNBC, via Stock Titan). Nvidia fell as AI data-center builders dropped on regulatory worry.",
-      "US crude fell more than 8% as of 4:16 p.m. ET (CNBC, via Stock Titan). Brent fell below $100 a barrel in the afternoon (Invezz).",
-      "The 10-year Treasury yield fell to about 4.91% during the session (New York Times). The dollar fell after the election result (CNBC).",
-      "After the close: AppLovin up 16.29% against a $271.75 close; Qualcomm down 4.44% against a $173.19 close (CNBC, via Stock Titan)."
+      "Dow futures +0.5%, S&P 500 futures +0.1%, Nasdaq-100 futures -0.7% (Yahoo Finance live, early Thursday).",
+      "Brent $93.82 (-0.85%) and WTI $86.92 (-1.36%) at 04:26 GMT; later coverage cited $96 and $89 (Yahoo Finance).",
+      "Bank of England raised its rate a quarter point to 4%, voting 8-1 (Yahoo Finance live).",
+      "Nikkei 225 -1.8%; DAX +0.6%, CAC 40 +1.2%, FTSE 100 +1% (AP figures, via Time News).",
+      "Toyota raised its FY2027 operating income forecast 15% to ¥3.9 trillion; quarterly operating income rose 34% (Bloomberg).",
+      "No verified overnight Treasury yield or dollar quote for Thursday was found; see yesterday's close recap for context (/article/close-recap-dow-gains-3-percent-democrats-sweep-oil-drops)."
     ],
-    "asOf": "2026-11-04T21:16:00Z"
+    "asOf": "2026-11-05T13:15:00Z"
   },
   "marketSnapshot": [
     {
-      "label": "Dow Jones Industrial Average",
-      "value": "53,356.12 (+1,569.40, +3.03%)",
-      "change": "+3.03%",
+      "label": "Dow Jones futures",
+      "value": "+0.5%",
+      "change": "+0.5%",
       "direction": "up",
-      "source": "CNBC via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
-      "asOf": "2026-11-04 4:16 p.m. ET"
+      "source": "Yahoo Finance live",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+      "asOf": "2026-11-05 early trade (Yahoo update 4:53 a.m. PST)"
     },
     {
-      "label": "S&P 500",
-      "value": "7,688.62 (+1.58%)",
-      "change": "+1.58%",
+      "label": "S&P 500 futures",
+      "value": "+0.1%",
+      "change": "+0.1%",
       "direction": "up",
-      "source": "CNBC via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
-      "asOf": "2026-11-04 4:16 p.m. ET"
+      "source": "Yahoo Finance live",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+      "asOf": "2026-11-05 early trade"
     },
     {
-      "label": "Nasdaq Composite",
-      "value": "25,736.51 (+1.44%)",
-      "change": "+1.44%",
-      "direction": "up",
-      "source": "CNBC via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
-      "asOf": "2026-11-04 4:16 p.m. ET"
-    },
-    {
-      "label": "Apple",
-      "value": "+5.30% close (record high $354.33)",
-      "change": "+5.30%",
-      "direction": "up",
-      "source": "CNBC via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
-      "asOf": "2026-11-04 4:00 p.m. ET close"
-    },
-    {
-      "label": "US crude oil",
-      "value": "Down more than 8%",
-      "change": "-8%+",
+      "label": "Nasdaq-100 futures",
+      "value": "-0.7%",
+      "change": "-0.7%",
       "direction": "down",
-      "source": "CNBC via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
-      "asOf": "2026-11-04 4:16 p.m. ET"
+      "source": "Yahoo Finance live",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+      "asOf": "2026-11-05 early trade"
     },
     {
-      "label": "10-year Treasury yield",
-      "value": "about 4.91%",
-      "change": "lower",
+      "label": "Brent crude",
+      "value": "$93.82 (-0.85%)",
+      "change": "-0.85%",
       "direction": "down",
-      "source": "New York Times",
-      "sourceUrl": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
-      "asOf": "2026-11-04 session (NYT; intraday time not stated)"
+      "source": "Yahoo Finance live",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+      "asOf": "2026-11-05 04:26 GMT"
     },
     {
-      "label": "AppLovin (after hours)",
-      "value": "+16.29% vs $271.75 close",
-      "change": "+16.29%",
+      "label": "WTI crude",
+      "value": "$86.92 (-1.36%)",
+      "change": "-1.36%",
+      "direction": "down",
+      "source": "Yahoo Finance live",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+      "asOf": "2026-11-05 04:26 GMT"
+    },
+    {
+      "label": "Nikkei 225",
+      "value": "-1.8%",
+      "change": "-1.8%",
+      "direction": "down",
+      "source": "AP figures via Time News",
+      "sourceUrl": "https://time.news/asian-markets-mostly-climb-following-u-s-midterms-amid-tech-losses/",
+      "asOf": "2026-11-05 Asia close"
+    },
+    {
+      "label": "Germany DAX",
+      "value": "+0.6% (26,598.03)",
+      "change": "+0.6%",
       "direction": "up",
-      "source": "CNBC via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
-      "asOf": "2026-11-04 4:16 p.m. ET"
+      "source": "AP figures via Time News",
+      "sourceUrl": "https://time.news/asian-markets-mostly-climb-following-u-s-midterms-amid-tech-losses/",
+      "asOf": "2026-11-05 European session"
     },
     {
-      "label": "Qualcomm (after hours)",
-      "value": "-4.44% vs $173.19 close",
-      "change": "-4.44%",
-      "direction": "down",
-      "source": "CNBC via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
-      "asOf": "2026-11-04 4:16 p.m. ET"
+      "label": "Bank of England policy rate",
+      "value": "4% (+0.25 point; 8-1 vote)",
+      "change": "+0.25",
+      "direction": "up",
+      "source": "Yahoo Finance live",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+      "asOf": "2026-11-05"
+    },
+    {
+      "label": "Toyota FY2027 operating income forecast",
+      "value": "¥3.9 trillion (+15%)",
+      "change": "+15%",
+      "direction": "up",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-05/toyota-raises-profit-forecast-on-hybrid-demand-weak-yen",
+      "asOf": "2026-11-05 (released Thursday)"
     }
   ],
   "calendar": [
+    {
+      "date": "2026-11-05",
+      "time": "8:30 AM ET",
+      "event": "Weekly initial jobless claims (week ending around Nov. 1)",
+      "importance": "medium",
+      "why": "Consensus not confirmed in the sources reviewed (Finance Calendar notes none had been published). Prior week: 194,000 (Finance Calendar)."
+    },
     {
       "date": "2026-11-05",
       "time": "Regular session",
