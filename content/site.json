@@ -1,117 +1,122 @@
 {
-  "updatedAt": "2026-11-05T13:15:00Z",
+  "updatedAt": "2026-11-05T17:15:00Z",
   "edition": "afternoon",
   "leadSlug": "close-recap-dow-gains-3-percent-democrats-sweep-oil-drops",
   "marketBrief": {
-    "headline": "Futures split after the midterm rally: Dow futures up 0.5%, Nasdaq-100 down 0.7%; Bank of England hikes to 4%; Toyota lifts forecast",
-    "summary": "Early Thursday, Dow futures rose 0.5% and S&P 500 futures 0.1% while Nasdaq-100 futures fell 0.7% on chip weakness (Yahoo Finance live). Brent was near $94 in early trade, though later reports had it near $96. Asian shares mostly gained, the Bank of England raised rates to 4%, and Toyota raised its annual profit forecast.",
+    "headline": "Chip selloff pushes Nasdaq toward a correction as the midterm rally fades; Dow down 2.6% at midday",
+    "summary": "By 10:58 a.m. ET the Nasdaq Composite was down 4.9%, more than 10% below its record, CNBC reported. The S&P 500 was down 3.2% and the Dow 1,136 points. Chip stocks led the fall, with Nvidia down 8.64% at 11:02 a.m. ET. Oil rose on Iran uncertainty, Brent near $96, and the Bank of England's hike to 4% lifted UK gilt yields.",
     "bullets": [
-      "Dow futures +0.5%, S&P 500 futures +0.1%, Nasdaq-100 futures -0.7% (Yahoo Finance live, early Thursday).",
-      "Brent $93.82 (-0.85%) and WTI $86.92 (-1.36%) at 04:26 GMT; later coverage cited $96 and $89 (Yahoo Finance).",
-      "Bank of England raised its rate a quarter point to 4%, voting 8-1 (Yahoo Finance live).",
-      "Nikkei 225 -1.8%; DAX +0.6%, CAC 40 +1.2%, FTSE 100 +1% (AP figures, via Time News).",
-      "Toyota raised its FY2027 operating income forecast 15% to ¥3.9 trillion; quarterly operating income rose 34% (Bloomberg).",
-      "No verified overnight Treasury yield or dollar quote for Thursday was found; see yesterday's close recap for context (/article/close-recap-dow-gains-3-percent-democrats-sweep-oil-drops)."
+      "Nasdaq Composite -4.9% at 10:58 a.m. ET, more than 10% below its record (CNBC, via Stock Titan).",
+      "S&P 500 -3.2% and Dow -1,136 points at 10:58 a.m. ET (CNBC, via Stock Titan); Dow at 51,970.29, -2.60%, at 12:07 p.m. EST (Yahoo Finance).",
+      "Nvidia -8.64% and Broadcom -9.31% at 11:02 a.m. ET; the PHLX Semiconductor index down about 11% (Stock Titan; Yahoo Finance).",
+      "Brent near $96 to $97 and WTI near $89 to $90 in late-morning reports (Yahoo Finance; CNBC).",
+      "Bank of England raised its rate to 4% by 8-1; 10-year gilt yield 5.1546% after the decision (CNBC).",
+      "AppLovin up 31.50% at 10:01 a.m. ET on its results; Qualcomm fell in premarket trading on guidance (CNBC, via Stock Titan)."
     ],
-    "asOf": "2026-11-05T13:15:00Z"
+    "asOf": "2026-11-05T17:15:00Z"
   },
   "marketSnapshot": [
     {
-      "label": "Dow Jones futures",
-      "value": "+0.5%",
-      "change": "+0.5%",
-      "direction": "up",
-      "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
-      "asOf": "2026-11-05 early trade (Yahoo update 4:53 a.m. PST)"
+      "label": "Nasdaq Composite",
+      "value": "-4.9%",
+      "change": "-4.9%",
+      "direction": "down",
+      "source": "CNBC, via Stock Titan",
+      "sourceUrl": "https://stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 10:58 a.m. ET"
     },
     {
-      "label": "S&P 500 futures",
-      "value": "+0.1%",
-      "change": "+0.1%",
-      "direction": "up",
-      "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
-      "asOf": "2026-11-05 early trade"
+      "label": "S&P 500",
+      "value": "-3.2%",
+      "change": "-3.2%",
+      "direction": "down",
+      "source": "CNBC, via Stock Titan",
+      "sourceUrl": "https://stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 10:58 a.m. ET"
     },
     {
-      "label": "Nasdaq-100 futures",
-      "value": "-0.7%",
-      "change": "-0.7%",
+      "label": "Dow Jones Industrial Average",
+      "value": "51,970.29 (-2.60%)",
+      "change": "-2.60%",
       "direction": "down",
       "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
-      "asOf": "2026-11-05 early trade"
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
+      "asOf": "2026-11-05 12:07 p.m. EST"
+    },
+    {
+      "label": "Nvidia",
+      "value": "-8.64%",
+      "change": "-8.64%",
+      "direction": "down",
+      "source": "Stock Titan real-time data",
+      "sourceUrl": "https://stocktitan.net/articles/stock-market-today-live-november-5-2026",
+      "asOf": "2026-11-05 11:02 a.m. ET"
     },
     {
       "label": "Brent crude",
-      "value": "$93.82 (-0.85%)",
-      "change": "-0.85%",
-      "direction": "down",
-      "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
-      "asOf": "2026-11-05 04:26 GMT"
+      "value": "$96.15 (+1.6%)",
+      "change": "+1.6%",
+      "direction": "up",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/amp/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+      "asOf": "2026-11-05 late morning (no timestamp in source)"
     },
     {
       "label": "WTI crude",
-      "value": "$86.92 (-1.36%)",
-      "change": "-1.36%",
-      "direction": "down",
-      "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
-      "asOf": "2026-11-05 04:26 GMT"
-    },
-    {
-      "label": "Nikkei 225",
-      "value": "-1.8%",
-      "change": "-1.8%",
-      "direction": "down",
-      "source": "AP figures via Time News",
-      "sourceUrl": "https://time.news/asian-markets-mostly-climb-following-u-s-midterms-amid-tech-losses/",
-      "asOf": "2026-11-05 Asia close"
-    },
-    {
-      "label": "Germany DAX",
-      "value": "+0.6% (26,598.03)",
+      "value": "$88.64 (+0.6%)",
       "change": "+0.6%",
       "direction": "up",
-      "source": "AP figures via Time News",
-      "sourceUrl": "https://time.news/asian-markets-mostly-climb-following-u-s-midterms-amid-tech-losses/",
-      "asOf": "2026-11-05 European session"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/amp/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+      "asOf": "2026-11-05 late morning (no timestamp in source)"
     },
     {
-      "label": "Bank of England policy rate",
-      "value": "4% (+0.25 point; 8-1 vote)",
-      "change": "+0.25",
+      "label": "UK 10-year gilt yield",
+      "value": "5.1546%",
+      "change": "+2 bp",
+      "direction": "up",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "asOf": "2026-11-05 after the Bank of England decision"
+    },
+    {
+      "label": "CBOE Volatility Index (VIX)",
+      "value": "as high as 27.45",
+      "change": "+65%",
       "direction": "up",
       "source": "Yahoo Finance live",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
-      "asOf": "2026-11-05"
-    },
-    {
-      "label": "Toyota FY2027 operating income forecast",
-      "value": "¥3.9 trillion (+15%)",
-      "change": "+15%",
-      "direction": "up",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-05/toyota-raises-profit-forecast-on-hybrid-demand-weak-yen",
-      "asOf": "2026-11-05 (released Thursday)"
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
+      "asOf": "2026-11-05 late morning"
     }
   ],
   "calendar": [
     {
       "date": "2026-11-05",
       "time": "8:30 AM ET",
-      "event": "Weekly initial jobless claims (week ending around Nov. 1)",
+      "event": "Weekly initial jobless claims: 189,000 (from 195,000)",
       "importance": "medium",
-      "why": "Consensus not confirmed in the sources reviewed (Finance Calendar notes none had been published). Prior week: 194,000 (Finance Calendar)."
+      "why": "Released; Labor Department via CNBC, via Stock Titan."
     },
     {
       "date": "2026-11-05",
-      "time": "Regular session",
-      "event": "First trade for AppLovin (APP) and Qualcomm (QCOM) after Wednesday results",
+      "time": "After the close",
+      "event": "Airbnb (ABNB) earnings",
       "importance": "medium",
-      "why": "After-hours moves will be tested against the open (CNBC, via Stock Titan)."
+      "why": "EPS estimate $2.91 (JournalArta)."
+    },
+    {
+      "date": "2026-11-06",
+      "time": "8:30 AM ET",
+      "event": "October Employment Situation (jobs report)",
+      "importance": "high",
+      "why": "Nonfarm payrolls forecast +56,000 and unemployment 4.2% (Trading Economics)."
+    },
+    {
+      "date": "2026-11-06",
+      "time": "Before the open",
+      "event": "Charter Communications (CHTR) earnings",
+      "importance": "low",
+      "why": "EPS estimate $9.24 (JournalArta)."
     },
     {
       "date": "2026-11-06",

@@ -1,0 +1,51 @@
+{
+  "slug": "applovin-surges-qualcomm-slides-biggest-earnings-movers-midday",
+  "title": "AppLovin Surges as Earnings Beat Lifts the Stock; Qualcomm Slides on Guidance; Sezzle and Krispy Kreme Jump",
+  "dek": "AppLovin was up more than 26% intraday after its results and forecast beat estimates. Qualcomm fell in premarket trading after its guidance. Gildan, Veracyte and Bloom Energy were among the biggest decliners.",
+  "section": "markets",
+  "tags": ["earnings", "applovin", "qualcomm", "toyota", "movers", "midday"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T17:15:00Z",
+  "updatedAt": "2026-11-05T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "AppLovin was up 31.50% at 10:01 a.m. ET, after results and a forecast that beat estimates (CNBC, via Stock Titan). It reached $342.07 intraday, up 26.18% (TokenPost).",
+    "Qualcomm fell in premarket trading, by about 9% to 12% depending on the source, after its guidance; we did not verify a midday price.",
+    "Toyota rose more than 16% in Tokyo, its biggest gain since 1987, after raising its profit forecast (Bloomberg; Straits Times).",
+    "Sezzle was up 29.92% at 8:59 a.m. ET after raising its annual forecast for the fourth time (Stock Titan).",
+    "Gildan fell 22.53% at 9:00 a.m. ET on weak demand; Veracyte fell 54.84% at 11:02 a.m. ET after cutting its 2026 testing revenue forecast (Stock Titan)."
+  ],
+  "body": "## AppLovin leads the gainers\n\nAppLovin was the biggest large-cap gainer of the morning. The stock was up 31.50% at 10:01 a.m. ET, after results and a forecast that beat estimates, CNBC reported, according to Stock Titan's real-time data. TokenPost reported that the shares reached $342.07 during U.S. trading, up 26.18%. That is well above the premarket gain of about 20% that many outlets reported earlier. Our [November 4 story on the after-hours move](/article/qualcomm-applovin-shares-move-after-hours-on-results) covered the first reaction. The follow-through is larger.\n\n## Qualcomm: the guidance drag\n\nQualcomm fell in premarket trading after its results, with reports putting the decline between about 9% and 12%. CNBC said Qualcomm and Arm fell further as the chip selling deepened. We have not verified a Qualcomm price from later in the session, so the size of the move at midday is unconfirmed. Qualcomm's own revenue decline and soft outlook were covered in our [after-hours story](/article/qualcomm-applovin-shares-move-after-hours-on-results).\n\n## Toyota: the move happened in Tokyo\n\nToyota shares rose more than 16% in Tokyo, the biggest one-day gain since 1987, Bloomberg reported. The company raised its operating income forecast and stepped up shareholder returns. The stock had already gained about 8% before results, the Straits Times reported. Because the move happened in Tokyo, it does not show up in U.S. trading. See our [Toyota story](/article/toyota-raises-profit-forecast-shares-biggest-gain-since-1987) for the results.\n\n## Other movers\n\nSezzle was up 29.92% at 8:59 a.m. ET, after raising its forecast for the year for the fourth time. Krispy Kreme rose 23.86% at 10:01 a.m. ET after raising its 2026 revenue forecast to $1.35 billion to $1.40 billion. Sony rose about 8% after it raised its full-year earnings forecast and reported a 44% rise in second-quarter net profit, Investrade reported.\n\nThe decliners were mostly company-specific. Gildan fell 22.53% at 9:00 a.m. ET, after saying results fell short of its own expectations as demand stayed weak. Veracyte fell 54.84% at 11:02 a.m. ET after lowering its 2026 testing revenue forecast. Bloom Energy fell 15.29% at 10:01 a.m. ET even though it announced a 900-megawatt deal with NTT DATA earlier in the morning. Bloom was down 5.62% at 9:02 a.m. ET, which means the deal did not stop the decline.\n\n## What is next\n\nAirbnb reports after the close on Thursday. Charter Communications reports before the open on Friday, the same day the October jobs report is due on Nov. 6, according to Trading Economics and JournalArta.\n",
+  "marketImpact": {
+    "summary": "Earnings are driving single-stock moves more than the index. AppLovin's follow-through strengthens the case that its results and forecast were better than expected. Qualcomm's guidance is the main negative in semiconductors, and that reinforces the chip pressure in the broader index. Toyota's gain belongs to Tokyo and is a company-specific story, not a sign that Japan's market is following through.",
+    "timeframe": "Thursday, Nov. 5, from the 8:59 a.m. ET moves through about 12:07 p.m. EST",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "APP", "direction": "up", "rationale": "Up 31.50% at 10:01 a.m. ET; intraday high of $342.07 (+26.18%) reported by TokenPost." },
+      { "symbol": "QCOM", "direction": "down", "rationale": "Fell roughly 9% to 12% in premarket trading on guidance; midday price not verified." },
+      { "symbol": "TM", "direction": "up", "rationale": "Shares rose more than 16% in Tokyo after the forecast raise (Bloomberg)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-05", "event": "Airbnb reports after the close (JournalArta)." },
+      { "date": "2026-11-06", "event": "Charter Communications reports before the open, and the October jobs report is due at 8:30 a.m. ET (JournalArta; Trading Economics)." }
+    ]
+  },
+  "sources": [
+    { "title": "The AI Chip Selloff Drags the Nasdaq Sharply Lower in the Stock Market Today Live, November 5, 2026", "publisher": "Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026", "accessedAt": "2026-11-05" },
+    { "title": "AppLovin Shares Rise 26.18% During U.S. Trading to $342.07", "publisher": "TokenPost", "url": "https://www.tokenpost.com/news/investing/49336", "accessedAt": "2026-11-05" },
+    { "title": "Morning Brief Nov 5, 2026: APP Jumps, QCOM Falls on Guide", "publisher": "Current Logic", "url": "https://currentlogic.substack.com/p/the-morning-brief-november-5-2026", "accessedAt": "2026-11-05" },
+    { "title": "Toyota Soars Most Since 1987 on Higher Profit Outlook, Buybacks", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-05/toyota-raises-profit-forecast-on-hybrid-demand-weak-yen", "accessedAt": "2026-11-05" },
+    { "title": "Toyota posts profit surge and lifts annual outlook as hybrid sales shine", "publisher": "The Straits Times", "url": "https://www.straitstimes.com/business/toyota-posts-profit-surge-and-lifts-annual-outlook-as-hybrid-sales-shine", "accessedAt": "2026-11-05" },
+    { "title": "Mid-Morning Look: November 05, 2026", "publisher": "Investrade", "url": "https://investrade.com/mid-morning-look-november-05-2026/", "accessedAt": "2026-11-05" }
+  ]
+}

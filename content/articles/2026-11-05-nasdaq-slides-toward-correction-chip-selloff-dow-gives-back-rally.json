@@ -1,0 +1,50 @@
+{
+  "slug": "nasdaq-slides-toward-correction-chip-selloff-dow-gives-back-rally",
+  "title": "Nasdaq Heads Toward a Correction as Chip Stocks Slide; Dow Gives Back Much of the Midterm Rally",
+  "dek": "By 10:58 a.m. ET the Nasdaq Composite was down 4.9%, more than 10% below its record. The Dow was down 1,136 points and oil rose on Iran war uncertainty. The Bank of England's hike moved UK gilts higher.",
+  "section": "markets",
+  "tags": ["markets", "nasdaq", "chips", "oil", "bank-of-england", "midday"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-05T17:15:00Z",
+  "updatedAt": "2026-11-05T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "At 10:00 a.m. ET the Dow was down 391 points, the Nasdaq Composite down 3.1% and the S&P 500 down 1.7% (CNBC, via Stock Titan).",
+    "At 10:58 a.m. ET the Nasdaq was down 4.9%, more than 10% below its record from last month; the S&P 500 was down 3.2% and the Dow 1,136 points (CNBC, via Stock Titan).",
+    "Yahoo Finance showed the Dow at 51,970.29, down 2.60%, as of 12:07 p.m. EST. The Dow closed Wednesday at 53,356.",
+    "Nvidia was down 8.64% and Broadcom 9.31% at 11:02 a.m. ET; the PHLX Semiconductor index was down about 11% (Stock Titan; Yahoo Finance).",
+    "The Bank of England raised its rate to 4% by an 8-1 vote; the 10-year gilt yield was 5.1546% after the decision (CNBC)."
+  ],
+  "body": "## The open: the midterm rally fades\n\nWednesday's rally did not last into Thursday. Dow futures had been up early, but stocks turned lower soon after the opening bell. At 10:00 a.m. ET the Dow was down 391 points, the Nasdaq Composite down 3.1% and the S&P 500 down 1.7%, CNBC reported, according to Stock Titan's live page. By 10:58 a.m. ET the Nasdaq was down 4.9%, more than 10% below its record from last month, a level that meets the usual definition of a correction. The S&P 500 was down 3.2% and the Dow was down 1,136 points at that time.\n\nYahoo Finance's live page showed the Dow at 51,970.29, down 2.60%, as of 12:07 p.m. EST. That is consistent with the Dow's Wednesday close of 53,356 in [our close recap](/article/close-recap-dow-gains-3-percent-democrats-sweep-oil-drops). We did not use a separate early-session quote that showed the Dow higher, because it conflicts with the later CNBC and Yahoo readings.\n\n## Chips lead the losses\n\nThe selling was concentrated in semiconductors and AI-linked names. Nvidia was down 8.64% and Broadcom down 9.31% at 11:02 a.m. ET, according to Stock Titan's real-time data. Yahoo Finance put the PHLX Semiconductor index down about 11%. CNBC reported that traders were worried about a backlash against data centers after the election results in several states. MRB Partners wrote that the midterm result would add to headwinds for big tech and the data center buildout. Consumer staples, health care and utilities rose, CNBC said.\n\nThe CBOE Volatility Index rose more than 65% at one point, to as much as 27.45, the largest one-day jump in more than two years, Yahoo Finance reported.\n\n## Oil and yields\n\nOil moved against stocks. Yahoo Finance put Brent near $97 and WTI near $90 in late morning trading, citing optimism about a deal with Iran that drew a mixed response from traders after Vice President JD Vance said the party lost because of the war. CNBC reported Brent up 1.6% at $96.15 and WTI up 0.6% at $88.64, without giving a timestamp. We have not verified a dated Thursday quote for U.S. Treasury yields. The Treasury figures in our earlier stories come from earlier sessions.\n\n## Bank of England: hike delivered, gilts higher\n\nThe Bank of England raised its rate by a quarter point to 4%, its first increase since August 2023. The vote was 8-1; one member wanted a 50-basis-point move. Markets had priced a more than 99% chance of a hike, according to LSEG data cited by CNBC. The policy statement said UK inflation was now expected to reach about 5% by mid-2027. After the decision, the 10-year gilt yield was last seen 2 basis points higher at 5.1546% and the 2-year gilt yield 4 basis points higher at 4.782%, CNBC reported.\n\n## Economic data\n\nInitial jobless claims fell to 189,000 from 195,000 the previous week, the Labor Department said, according to CNBC via Stock Titan. Third-quarter productivity rose 3.6%, faster than economists polled by Dow Jones expected.\n",
+  "marketImpact": {
+    "summary": "The midday tape shows the rally giving back its gains, led by semiconductors. Staples and health care are holding up better. The Nasdaq is the most exposed index while chip names keep weighing on it. Oil is a second risk factor, because a deal with Iran is still unresolved. The Bank of England move is a reminder that rate pressure is global, but it is a smaller driver of U.S. stocks today.",
+    "timeframe": "Thursday, Nov. 5, from the open through about 12:07 p.m. EST",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "^IXIC", "direction": "down", "rationale": "Down 4.9% at 10:58 a.m. ET, more than 10% below its record (CNBC, via Stock Titan)." },
+      { "symbol": "^DJI", "direction": "down", "rationale": "Down 2.60% at 12:07 p.m. EST, at 51,970.29 (Yahoo Finance)." },
+      { "symbol": "NVDA", "direction": "down", "rationale": "Down 8.64% at 11:02 a.m. ET (Stock Titan real-time data)." },
+      { "symbol": "BZ=F", "direction": "up", "rationale": "Brent near $96 to $97 in late morning on Iran uncertainty (Yahoo Finance; CNBC)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-05", "event": "Airbnb reports after the close (JournalArta, citing consensus)." },
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (Trading Economics)." }
+    ]
+  },
+  "sources": [
+    { "title": "The AI Chip Selloff Drags the Nasdaq Sharply Lower in the Stock Market Today Live, November 5, 2026", "publisher": "Stock Titan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026", "accessedAt": "2026-11-05" },
+    { "title": "Stock market today: Nasdaq plunges 5% as chip stocks sell off, Dow and S&P 500 give back post-election rally gains", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html", "accessedAt": "2026-11-05" },
+    { "title": "Bank of England hikes interest rates, warns inflation will near 5%", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html", "accessedAt": "2026-11-05" },
+    { "title": "Oil rises as investors weigh uncertainties around Iran war", "publisher": "CNBC", "url": "https://www.cnbc.com/amp/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html", "accessedAt": "2026-11-05" }
+  ]
+}
