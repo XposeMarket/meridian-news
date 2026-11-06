@@ -1,0 +1,56 @@
+{
+  "slug": "close-recap-nasdaq-rebounds-1-09-percent-dow-falls-237-points-draftkings-plunges",
+  "title": "Close Recap: Nasdaq Rebounds 1.09% to 24,579; Dow Slips 237 Points; DraftKings Plunges on Forecast Cut",
+  "dek": "The Nasdaq Composite closed up 1.09% at 24,579.42 and the S&P 500 rose 0.31% to 7,376.86. The Dow fell 237.33 points to 51,285.73. Chips led the bounce, while DraftKings shares were hit hard after cutting its profit outlook.",
+  "section": "markets",
+  "tags": ["markets", "close", "nasdaq", "dow", "vix", "draftkings", "afternoon"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T21:30:00Z",
+  "updatedAt": "2026-11-06T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Nasdaq Composite closed up 1.09% at 24,579.42, and the S&P 500 rose 0.31% to 7,376.86 (CNBC live updates; Investrade's closing recap shows the S&P 500 up 0.32%).",
+    "The Dow Jones Industrial Average lost 237.33 points, or 0.46%, to settle at 51,285.73 (CNBC live updates; Investrade shows a 236.85-point drop).",
+    "The Russell 2000 gained 0.89% to 2,754 (Investrade closing recap).",
+    "DraftKings fell about 25.9% to $17.44 on the day after a Q3 miss and a cut to its 2026 profit outlook (GuruFocus). Intraday it traded as low as $16.55, down 29.6% from the $23.52 prior close (24/7 Wall St.).",
+    "Week-to-date, Investrade put the Dow down 0.94%, the S&P 500 down 2.68% and the Nasdaq down 3.37%. Those figures differ from other week totals in our midday coverage, which should be read with that in mind."
+  ],
+  "body": "## The close\n\nU.S. stocks rebounded on Friday after Thursday's AI-led rout. The Nasdaq Composite closed up 1.09% at 24,579.42, according to CNBC's live coverage. The S&P 500 rose 0.31% to 7,376.86, and the Dow Jones Industrial Average lost 237.33 points, or 0.46%, to 51,285.73. Investrade's closing table gives slightly different percentage moves for the S&P 500 (+0.32%) and the Dow (-0.46%), with a 236.85-point Dow loss; the levels agree.\n\nThe Russell 2000 gained 0.89% to 2,754, Investrade reported.\n\n## Thursday's damage, and the week\n\nThursday's session was the reference point for Friday's rebound. Zacks reported that the Nasdaq Composite fell 5.5% to 24,315.00 and the S&P 500 fell 4.4% to 7,353.73 on Thursday, while the Dow fell 3.4% to 51,523.06. The Philadelphia semiconductor index fell more than 12%, according to the same report.\n\nFor the week, Investrade put the Dow down 0.94%, the S&P 500 down 2.68% and the Nasdaq down 3.37%. Trading Economics figures quoted in our midday rebound story put the week's losses larger (Nasdaq about 4.4%, S&P 500 nearly 3%, Dow about 0.5%). We have not been able to reconcile those two sets of weekly figures, so we present Investrade's numbers as the close-week summary and flag the gap here.\n\nInvestrade also said XLK fell about 8% on the week and XLE about 12%. The Nasdaq 100 closed down 6.4% on Thursday, its worst day since March 2020, and remained in a correction from its Oct. 6 record.\n\n## Volatility\n\nThe VIX jumped 69.7% on Thursday to about 28.18, its biggest one-day percentage gain since December 2024, according to TheStreet and Zacks. On Friday it fell 15.73%, Yahoo Finance's quote page showed. Applying that decline to Thursday's close implies a level near 23.7, but that level is derived and was not printed in the sources we fetched.\n\n## Movers: DraftKings\n\nDraftKings was the day's biggest single-stock casualty. Bloomberg reported shares fell as much as 29% after the company cut its profit forecast on continued spending on its prediction-market product. GuruFocus reported a close near $17.44, down 25.85%. The roughly 21% figure in the assignment brief did not match the sources we checked, which put the close nearer 26%. Benzinga reported an adjusted loss of 53 cents a share in the third quarter, wider than the 39-cent loss expected.\n\n## Why it matters\n\nThe rebound came on chips, which carry the most direct exposure to the AI-spending worry, but the week still closed with heavy losses in technology and energy. Investors now look to next week's CPI print and a slate of tech earnings, including Applied Materials, Nebius, CoreWeave and Cisco, as the next tests for the AI trade.",
+  "marketImpact": {
+    "summary": "The close shows a partial repair after the worst Nasdaq session in months, but the week's losses in technology and energy are still large. DraftKings' collapse shows how sharply the market is punishing spending that cuts near-term profit.",
+    "timeframe": "Friday, Nov. 6 close, and the coming week's inflation and tech earnings",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "^IXIC", "direction": "up", "rationale": "Closed up 1.09% at 24,579.42 (CNBC live updates), after a 5.5% fall on Thursday (Zacks via Yahoo Finance)." },
+      { "symbol": "^DJI", "direction": "down", "rationale": "Lost 237.33 points to 51,285.73 (CNBC live updates)." },
+      { "symbol": "DKNG", "direction": "down", "rationale": "Closed near $17.44, down about 25.9% after a Q3 miss and a profit-outlook cut (GuruFocus; Bloomberg)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "October CPI inflation report, due Tuesday (Investrade)." },
+      { "date": "2026-11-12", "event": "Week of tech earnings including Applied Materials, Nebius, CoreWeave and Cisco (Investrade); exact dates should be checked against company releases." },
+      { "date": "2026-12-08", "event": "FOMC meeting Dec. 8-9; hike odds were 76.8% after the jobs report (CNBC via midday coverage)." }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market news for Nov. 6, 2026 (CNBC live updates)", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html", "accessedAt": "2026-11-06" },
+    { "title": "Market Review: November 06, 2026", "publisher": "Investrade", "url": "https://investrade.com/market-review-november-06-2026/", "accessedAt": "2026-11-06" },
+    { "title": "Stock Market News for Nov 6, 2026", "publisher": "Zacks via Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-6-132900980.html", "accessedAt": "2026-11-06" },
+    { "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html", "accessedAt": "2026-11-06" },
+    { "title": "CBOE Volatility Index (^VIX)", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/quote/%5EVIX/", "accessedAt": "2026-11-06" },
+    { "title": "Stock Market Today: November 6, 2026", "publisher": "TheStreet Pro", "url": "https://pro.thestreet.com/stock-market-today/2026-11-06", "accessedAt": "2026-11-06" },
+    { "title": "DraftKings Plunges 29% After Slashing Profit Projection", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates", "accessedAt": "2026-11-06" },
+    { "title": "DraftKings (DKNG) Shares Plunge 25.85% After Q3 Miss and Lowered 2026 Revenue Outlook", "publisher": "GuruFocus", "url": "https://www.gurufocus.com/news/9181931/draftkings-dkng-shares-plunge-2585-after-q3-miss-and-lowered-2026-revenue-outlook", "accessedAt": "2026-11-06" },
+    { "title": "DraftKings Lost 28% in One Morning", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/06/draftkings-lost-28-in-one-morning-and-elizabeth-warren-is-already-probing-the-product-it-bet-everything-on/", "accessedAt": "2026-11-06" },
+    { "title": "DraftKings Stock Plunges After Double Miss, Full-Year Guidance Cut", "publisher": "Benzinga", "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62973734/draftkings-stock-plunges-after-double-miss-full-year-guidance-cut", "accessedAt": "2026-11-06" }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "friday-earnings-moderna-humana-vistra-oklo-terawulf-charter-report",
+  "title": "Friday Earnings: Moderna Beats and Raises; Humana Lifts Guidance; Vistra, Oklo, TeraWulf and Charter Report",
+  "dek": "Six companies on Earnings Whispers' Friday list reported before the open. Moderna and Humana raised full-year outlooks; Charter announced a new operating model and a $2 billion savings plan.",
+  "section": "markets",
+  "tags": ["earnings", "moderna", "humana", "vistra", "oklo", "terawulf", "charter", "afternoon"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T21:30:00Z",
+  "updatedAt": "2026-11-06T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 5,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Moderna reported Q3 revenue of $1.31 billion, up 29%, and GAAP EPS of 38 cents against an expected loss of $1.25 (CNBC; LSEG consensus). It raised 2026 revenue growth guidance to 15%-25%, from up to 10% (CNBC; company release via Yahoo Finance).",
+    "Humana reported Q3 GAAP EPS of $1.33 and raised its 2026 adjusted EPS guidance to at least $9.50, from at least $9.00 (Humana release, Business Wire, Nov. 6).",
+    "Vistra reported Q3 GAAP net income of $1,140 million and Ongoing Operations Adjusted EBITDA of $2,378 million, and raised the midpoint of its 2026 EBITDA guidance to a $7.1 billion-$7.5 billion range (Vistra release, PR Newswire).",
+    "Oklo reported Q3 sales of $1.86 million and a net loss of $41.75 million (MarketScreener). TeraWulf reported Q3 revenue of $76.2 million, including $63.0 million of HPC lease revenue, and net income of about $709.9 million, helped by a non-cash item (TeraWulf release, GlobeNewswire, Nov. 6).",
+    "Charter reported Q3 results alongside a new operating model and a $2 billion annualized expense-savings plan. GAAP net loss per share attributable to Charter shareholders was $20.50 (Charter release, PR Newswire)."
+  ],
+  "body": "## Six reports before the bell\n\nEarnings Whispers listed MRNA, OKLO, VST, WULF, CHTR and HUM as reporting before Friday's open. Each has now published third-quarter results. None of them reported after the close, so the market reaction was already in Friday's session. Earnings Whispers also listed HE and TOMZ after the close; we did not verify those reports and do not cover them here.\n\n## Moderna: a beat and a raise\n\nModerna reported third-quarter revenue of $1.31 billion, up 29%, with GAAP net income of $162 million, or 38 cents a share. LSEG consensus had called for a loss of $1.25 a share and revenue of $885.1 million, according to CNBC. The company raised its 2026 revenue growth outlook to 15%-25%. Shares rose roughly 3% in premarket trading.\n\n## Humana: guidance up\n\nHumana reported third-quarter GAAP EPS of $1.33 and an adjusted loss of $0.70 a share. Its insurance-segment benefit ratio was 93.7%, better than the 'slightly above 94%' guidance. It raised 2026 adjusted EPS guidance to at least $9.50 and GAAP EPS guidance to at least $15.09.\n\n## Vistra: power demand\n\nVistra reported GAAP net income of $1,140 million, which included a $559 million unrealized hedge gain, and Ongoing Operations Adjusted EBITDA of $2,378 million, more than 50% higher than a year earlier. The company closed its Cogentrix acquisition, adding about 5,500 MW of gas-fired generation, and authorized an extra $1.5 billion of buybacks.\n\n## Oklo and TeraWulf: AI-power names\n\nOklo's Q3 sales were $1.86 million, with a net loss of $41.75 million, according to MarketScreener. Oklo's company release confirmed the results and an 8:30 a.m. ET call. TeraWulf reported Q3 revenue of $76.2 million, of which $63.0 million was high-performance computing lease revenue. Its net income of about $709.9 million reflected a non-cash item, so it should not be read as operating profit.\n\n## Charter: new operating model\n\nCharter reported a net loss of $20.50 a share attributable to shareholders, compared with income of $8.50 a year earlier. It also announced a $2 billion annualized expense-savings plan on top of more than $1 billion of planned synergies from the Cox deal. Management said it will reformulate its go-to-market approach and aims to return to internet customer growth.\n\n## What to watch\n\nThe reports are mostly backward-looking, but the guidance changes matter for the next quarter. Vistra and Humana raised outlooks; Moderna did too. Charter's savings plan is a restructuring signal rather than a near-term revenue story.",
+  "marketImpact": {
+    "summary": "Guidance changes drove the Friday read-through more than the headline results. Moderna, Humana and Vistra raised outlooks, while Charter's new operating model and savings plan point to a restructuring that could shape its next several quarters.",
+    "timeframe": "Friday, Nov. 6 pre-market releases, and the following week's earnings slate",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "MRNA", "direction": "up", "rationale": "Raised 2026 revenue growth guidance to 15%-25%; shares up about 3% premarket (CNBC)." },
+      { "symbol": "HUM", "direction": "up", "rationale": "Raised 2026 adjusted EPS guidance to at least $9.50 (Humana release)." },
+      { "symbol": "VST", "direction": "up", "rationale": "Raised the midpoint of 2026 EBITDA guidance and authorized $1.5 billion more buybacks (Vistra release)." },
+      { "symbol": "CHTR", "direction": "down", "rationale": "Reported a $20.50 GAAP loss per share and announced a restructuring-style operating model (Charter release)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "October CPI inflation report, due Tuesday (Investrade)." },
+      { "date": "2026-11-09", "event": "Week of Nov. 9: tech earnings slate including Applied Materials, Nebius, CoreWeave and Cisco (Investrade); confirm exact dates against company releases." }
+    ]
+  },
+  "sources": [
+    { "title": "Moderna Reports Third Quarter 2026 Financial Results", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/healthcare/articles/moderna-reports-third-quarter-2026-114500292.html", "accessedAt": "2026-11-06" },
+    { "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html", "accessedAt": "2026-11-06" },
+    { "title": "Humana Reports Third Quarter 2026 Financial Results; Raises Full Year 2026 Adjusted EPS Guidance", "publisher": "Humana Inc.", "url": "https://humana.gcs-web.com/news-releases/news-release-details/humana-reports-third-quarter-2026-financial-results-raises-full", "accessedAt": "2026-11-06" },
+    { "title": "Vistra Reports Third Quarter 2026 Results", "publisher": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/vistra-reports-third-quarter-2026-results-302931798.html", "accessedAt": "2026-11-06" },
+    { "title": "Oklo Publishes Third Quarter 2026 Financial Results and Business Update", "publisher": "Oklo", "url": "https://oklo.com/newsroom/oklo-publishes-third-quarter-2026-financial-results-and-business-update", "accessedAt": "2026-11-06" },
+    { "title": "Oklo Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026", "publisher": "MarketScreener", "url": "https://www.marketscreener.com/news/oklo-inc-reports-earnings-results-for-the-third-quarter-and-nine-months-ended-september-30-2026-ce785fd2db8df424", "accessedAt": "2026-11-06" },
+    { "title": "TeraWulf Reports Third Quarter 2026 Results", "publisher": "GlobeNewswire", "url": "https://www.globenewswire.com/news-release/2026/11/06/3397443/0/en/terawulf-reports-third-quarter-2026-results.html", "accessedAt": "2026-11-06" },
+    { "title": "Charter Announces Third Quarter 2026 Results and Launches New Operating Model", "publisher": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/charter-announces-third-quarter-2026-results-and-launches-new-operating-model-302931669.html", "accessedAt": "2026-11-06" },
+    { "title": "Earnings Calendar: November 6, 2026", "publisher": "Earnings Whispers", "url": "https://www.earningswhispers.com/calendar", "accessedAt": "2026-11-06" }
+  ]
+}

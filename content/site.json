@@ -1,64 +1,73 @@
 {
-  "updatedAt": "2026-11-06T15:46:00Z",
-  "edition": "midday",
+  "updatedAt": "2026-11-06T21:30:00Z",
+  "edition": "afternoon",
   "leadSlug": "nasdaq-rebounds-after-correction-chips-lead-dow-flat-jobs-beat",
   "marketBrief": {
-    "headline": "Payrolls beat forecasts at 165,000 as Nasdaq rebounds from correction on chip buying",
-    "summary": "The BLS reported 165,000 October jobs at 8:30 a.m. ET, with unemployment at 4.1%. By 10:46 a.m. ET Yahoo Finance showed the Nasdaq Composite up 1.9% and the S&P 500 up 1%, with the Dow about flat. Rate-hike odds for the Dec. 8-9 FOMC rose to 76.8% after the report (CME FedWatch via CNBC).",
+    "headline": "Nasdaq rebounds 1.09% to 24,579 after Thursday's rout; Dow slips 237 points",
+    "summary": "The Nasdaq Composite closed up 1.09% at 24,579.42 and the S&P 500 rose 0.31% to 7,376.86, per CNBC's live coverage. The Dow fell 237.33 points to 51,285.73. The week still closed lower for all three indexes. DraftKings was the day's biggest casualty after a Q3 miss and a profit-outlook cut. Friday's earnings slate was led by Moderna, Humana and Vistra, which all reported before the open.",
     "bullets": [
-      "Nonfarm payrolls +165,000 in October vs. 59,000 Dow Jones forecast; unemployment 4.1% (BLS, 8:30 a.m. ET release; CNBC).",
-      "Nasdaq Composite +1.9%, S&P 500 +1.0%, Dow +0.1% at 10:46 a.m. ET (Yahoo Finance live page).",
-      "Nvidia +5.9%, AMD +10.2%, Micron +6.8%, Broadcom +4.9% in Friday's trading (Trading Economics daily summary).",
-      "Brent $96.93 (-1.38%) and WTI $89.17 (-1.49%) at 4:38 a.m. ET, the last oil quote in the sources reviewed (CNBC).",
-      "Average hourly earnings +0.4% m/m, +3.1% y/y vs. 2.9% estimate (CNBC)."
+      "Nasdaq Composite +1.09% to 24,579.42; S&P 500 +0.31% to 7,376.86; Dow -237.33 points (-0.46%) to 51,285.73 (CNBC live updates).",
+      "Week: Nasdaq -3.37%, S&P 500 -2.68%, Dow -0.94% (Investrade closing recap).",
+      "VIX fell 15.73% on Friday after jumping 69.7% on Thursday (Yahoo Finance quote page; Zacks via Yahoo Finance).",
+      "DraftKings closed near $17.44, down about 25.9% after a Q3 miss and a cut to its 2026 profit outlook (GuruFocus).",
+      "Moderna raised 2026 revenue growth guidance to 15%-25%; Humana raised adjusted EPS guidance to at least $9.50; Vistra raised its EBITDA guidance midpoint (company releases)."
     ],
-    "asOf": "2026-11-06T15:46:00Z"
+    "asOf": "2026-11-06T21:30:00Z"
   },
   "marketSnapshot": [
     {
       "label": "Nasdaq Composite",
-      "value": "+1.9%",
-      "change": "+1.9%",
+      "value": "24,579.42",
+      "change": "+1.09%",
       "direction": "up",
-      "source": "Yahoo Finance live page",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-      "asOf": "2026-11-06 10:46 a.m. ET"
+      "source": "CNBC live updates",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "asOf": "2026-11-06 close"
     },
     {
       "label": "S&P 500",
-      "value": "+1.0%",
-      "change": "+1.0%",
+      "value": "7,376.86",
+      "change": "+0.31%",
       "direction": "up",
-      "source": "Yahoo Finance live page",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-      "asOf": "2026-11-06 10:46 a.m. ET"
+      "source": "CNBC live updates",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "asOf": "2026-11-06 close"
     },
     {
       "label": "Dow Jones Industrial Average",
-      "value": "+0.1%",
-      "change": "+0.1%",
-      "direction": "up",
-      "source": "Yahoo Finance live page",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-      "asOf": "2026-11-06 10:46 a.m. ET"
+      "value": "51,285.73",
+      "change": "-0.46%",
+      "direction": "down",
+      "source": "CNBC live updates",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "asOf": "2026-11-06 close"
     },
     {
-      "label": "Brent crude",
-      "value": "$96.93",
-      "change": "-1.38%",
+      "label": "VIX",
+      "value": "-15.73% on the day",
+      "change": "-15.73%",
       "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-      "asOf": "2026-11-06 4:38 a.m. ET"
+      "source": "Yahoo Finance quote page",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EVIX/",
+      "asOf": "2026-11-06"
     },
     {
-      "label": "WTI crude",
-      "value": "$89.17",
-      "change": "-1.49%",
+      "label": "DraftKings (DKNG)",
+      "value": "$17.44",
+      "change": "-25.85%",
       "direction": "down",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-      "asOf": "2026-11-06 4:38 a.m. ET"
+      "source": "GuruFocus",
+      "sourceUrl": "https://www.gurufocus.com/news/9181931/draftkings-dkng-shares-plunge-2585-after-q3-miss-and-lowered-2026-revenue-outlook",
+      "asOf": "2026-11-06"
+    },
+    {
+      "label": "Nasdaq Composite (week)",
+      "value": "-3.37%",
+      "change": "-3.37%",
+      "direction": "down",
+      "source": "Investrade closing recap",
+      "sourceUrl": "https://investrade.com/market-review-november-06-2026/",
+      "asOf": "2026-11-06 close"
     },
     {
       "label": "Nonfarm payrolls (October)",
@@ -72,25 +81,18 @@
   ],
   "calendar": [
     {
-      "date": "2026-11-06",
-      "time": "8:30 AM ET",
-      "event": "October Employment Situation (released)",
+      "date": "2026-11-09",
+      "time": "Week of Nov. 9",
+      "event": "Tech earnings: Applied Materials, Nebius, CoreWeave, Cisco (dates to confirm against company releases)",
       "importance": "high",
-      "why": "Payrolls +165,000 vs. 59,000 Dow Jones forecast; unemployment 4.1% (BLS; CNBC)."
-    },
-    {
-      "date": "2026-11-06",
-      "time": "9:30 AM ET",
-      "event": "Regular session opened after the Nasdaq correction",
-      "importance": "high",
-      "why": "Nasdaq Composite logged its steepest one-day drop in 19 months on Thursday (Reuters, via Yahoo Finance)."
+      "why": "Investrade named these as the main tech reports next week, after the AI-spending selloff (Investrade closing recap)."
     },
     {
       "date": "2026-11-10",
       "time": "Tuesday",
-      "event": "Inflation data, to test whether 3.1% wage growth beats prices",
-      "importance": "medium",
-      "why": "Business Insider noted the wage-versus-inflation check is due Tuesday."
+      "event": "October CPI inflation report",
+      "importance": "high",
+      "why": "Investrade flagged Tuesday's CPI as the next test after the jobs beat; the wage gain was +3.1% y/y (CNBC)."
     },
     {
       "date": "2026-12-08",
