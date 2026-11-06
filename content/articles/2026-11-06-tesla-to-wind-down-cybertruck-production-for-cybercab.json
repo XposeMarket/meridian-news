@@ -1,0 +1,45 @@
+{
+  "slug": "tesla-to-wind-down-cybertruck-production-for-cybercab",
+  "title": "Tesla Will Wind Down Cybertruck Production in Texas by Mid-2027 to Make Room for Cybercab",
+  "dek": "Elon Musk said Tesla will end Cybertruck output at Gigafactory Texas around mid-2027, freeing space for the Cybercab robotaxi, after sales fell well short of plan.",
+  "section": "autos",
+  "tags": ["Tesla", "TSLA stock", "Cybertruck", "Cybercab", "EV", "Gigafactory Texas"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T12:30:00Z",
+  "updatedAt": "2026-11-06T12:30:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Car_dealership_on_Nithsdale_Drive_%28B763%29%2C_Glasgow_%28geograph_6971412%29.jpg",
+    "alt": "Exterior of a car dealership showroom on a city street",
+    "credit": "JThomas / Geograph / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Car_dealership_on_Nithsdale_Drive_(B763),_Glasgow_(geograph_6971412).jpg"
+  },
+  "keyPoints": [
+    "Elon Musk wrote on X on November 6 that Tesla will wind down Cybertruck production at Gigafactory Texas around the middle of next year.",
+    "Musk said the move makes room for increased production of the Cybercab, Tesla's robotaxi vehicle.",
+    "Electrek reported that Cybertruck sales have stalled at about 10% of plan.",
+    "Reuters, carried by Investing.com, reported the wind-down timing as around mid-2027."
+  ],
+  "body": "Tesla will stop building the Cybertruck at its Texas factory around the middle of 2027, Chief Executive Elon Musk said early on Friday, November 6. He framed the change as a way to free production space for the Cybercab, the robotaxi Tesla has been developing for its driverless service.\n\n## What Musk said\n\nIn a post on X, Musk wrote that Tesla \"will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production.\" Reuters reported the same timing, describing it as a wind-down after years of persistently weak sales. The sources reviewed did not give a production number for the final months or a date for the last unit built.\n\n## Sales well below plan\n\nElectrek reported that Cybertruck sales have stalled at about 10% of the volume Tesla planned. The pickup has been one of the most visible products in Tesla's lineup since it went on sale, and it has drawn strong reactions for its styling, its price and a narrow set of markets where it sells in meaningful numbers. Business Insider framed the decision as an end to one of the company's most polarizing vehicles.\n\n## Why it matters for the business\n\nThe Cybertruck is a small share of Tesla's total deliveries, so the direct revenue effect of ending it is limited. The larger question is whether Tesla can scale the Cybercab in the same Texas plant on the timeline it has set. Shifting capacity toward a robotaxi signals that management is prioritizing autonomy and new vehicle categories over a low-volume truck.\n\n## What to watch\n\nInvestors will look for three things: Tesla's next quarterly delivery and production figures, any update on Cybercab output timing, and whether Tesla gives guidance on Texas capacity. Until then, the decision is best read as a focus change rather than a measure of total demand for Tesla vehicles.",
+  "marketImpact": {
+    "summary": "Ending the Cybertruck is mostly a volume and focus story. It removes a low-selling model and signals that Texas capacity is moving toward robotaxi production. The near-term stock read depends on Cybercab timing, not on Cybertruck revenue.",
+    "timeframe": "Next 1-2 weeks, with attention on Tesla's next delivery and production commentary",
+    "confidence": "low",
+    "catalysts": [
+      { "date": "2026-11-06", "event": "Musk announces on X that Cybertruck production at Gigafactory Texas will wind down around mid-2027" }
+    ],
+    "tickers": [
+      { "symbol": "TSLA", "direction": "down", "rationale": "Investors may read a stalled model and a shift in plant capacity as a sign of weaker volume; the Cybercab timeline is the offsetting positive" }
+    ]
+  },
+  "sources": [
+    { "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan", "publisher": "Electrek", "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/", "accessedAt": "2026-11-06" },
+    { "title": "Tesla to wind down Cybertruck production at Texas gigafactory next year, Musk says", "publisher": "Reuters via Investing.com", "url": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624", "accessedAt": "2026-11-06" },
+    { "title": "RIP the Cybertruck: Elon Musk says Tesla will wind down production of its most polarizing EV", "publisher": "Business Insider", "url": "https://www.businessinsider.com/tesla-wind-down-cybertruck-production-elon-musk-cybercab-texas-2026-11", "accessedAt": "2026-11-06" }
+  ]
+}

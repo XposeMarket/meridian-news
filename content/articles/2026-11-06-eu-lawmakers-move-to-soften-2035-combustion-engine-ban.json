@@ -1,0 +1,47 @@
+{
+  "slug": "eu-lawmakers-move-to-soften-2035-combustion-engine-ban",
+  "title": "EU Lawmakers Back Softer 2035 Car CO2 Target, Letting Some Combustion Cars Stay on Sale",
+  "dek": "The European Parliament's environment committee gave initial approval to cutting the 2035 fleet CO2 target from 100% to 87.5%, a step back from the full combustion-engine phase-out.",
+  "section": "autos",
+  "tags": ["EU", "2035 ban", "CO2 targets", "EV", "combustion engine", "automakers"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T12:45:00Z",
+  "updatedAt": "2026-11-06T12:45:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg",
+    "alt": "Electric car charging points on a street",
+    "credit": "Geograph / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_points_-_geograph.org.uk_-_7322507.jpg"
+  },
+  "keyPoints": [
+    "A European Parliament environment committee backed a proposal that cuts the 2035 fleet CO2 reduction target from 100% to 87.5%, per eunews.",
+    "Under the proposal, carmakers could still register combustion-engine cars without compensation obligations, according to Italian MEP Massimiliano Salini's comments reported by EV Powered.",
+    "The original Commission package proposed a 90% tailpipe reduction by 2035 with compensation for the rest, per ESG Today.",
+    "The vote is an initial committee position; it still needs the full Parliament and member-state approval before it becomes law."
+  ],
+  "body": "European lawmakers have taken a first step toward easing the EU's plan to phase out new combustion-engine car sales by 2035. A committee of the European Parliament has backed a version of the rules that lowers the required cut in fleet CO2 emissions for 2035.\n\n## What the committee backed\n\nAccording to eunews, MEPs proposed reducing the 2035 target for cutting CO2 across the whole car fleet from 100% to 87.5%. EV Powered reported that the change would allow combustion-engine cars to stay on sale beyond 2035 and would count some renewable fuels toward zero-emission classifications.\n\nThe Commission's December 2025 Automotive Package had already proposed a 90% tailpipe reduction by 2035, with compensation for the remainder, according to ESG Today. The committee's version goes further in easing the target, and it is that gap that has drawn attention from both industry groups and climate advocates.\n\n## Industry and political reaction\n\nSupporters argue the change protects suppliers and gives automakers room to adjust. Massimiliano Salini, the Italian MEP who leads the work, said registering combustion-engine cars without compensation obligations would protect technological freedom and restore prospects for the supply chain. Critics see the change as a retreat from a climate commitment that car companies have been planning around for years.\n\n## Why it matters for carmakers\n\nA softer 2035 target gives legacy and hybrid-heavy manufacturers more flexibility on the mix of vehicles they sell in Europe. It also reduces the regulatory pressure that had pushed some companies to commit heavily to battery-electric models on a fixed schedule. Companies that have built their European plans around the original mandate may need to revisit those assumptions once the final text is clear.\n\n## What happens next\n\nThe committee vote is not final. The full Parliament must vote, and member states must agree to the text before it becomes law. Until then, carmakers are planning against the existing 2035 rules, and the outcome is not settled. Readers should treat the 87.5% figure as the committee's position, not as settled EU law.",
+  "marketImpact": {
+    "summary": "A softer 2035 target would reduce the pressure on European automakers to shift fully to EVs on a fixed schedule, which could help legacy combustion and hybrid volume. It could hurt EV-focused players that depended on the mandate. Nothing is final, so the stock read is early.",
+    "timeframe": "Next 1-3 months, until the full Parliament and Council positions are known",
+    "confidence": "low",
+    "catalysts": [
+      { "date": "2026-11-04", "event": "Parliament environment committee gives initial approval to an 87.5% 2035 fleet CO2 target" },
+      { "date": "2026-11-06", "event": "Coverage of the committee vote; full Parliament and Council positions still pending" }
+    ],
+    "tickers": [
+      { "symbol": "VOW3.DE", "direction": "up", "rationale": "A softer mandate would ease the cost of the transition for a large combustion and hybrid portfolio" },
+      { "symbol": "TSLA", "direction": "down", "rationale": "Weaker EU zero-emission mandates reduce a regulatory tailwind for EV makers selling into Europe" }
+    ]
+  },
+  "sources": [
+    { "title": "The Environment Committee scales back the CO2 reduction target for cars", "publisher": "eunews", "url": "https://www.eunews.it/en/2026/11/04/parliament-gives-initial-approval-to-the-backtracking-on-the-ban-on-internal-combustion-engines-from-2035/", "accessedAt": "2026-11-06" },
+    { "title": "EU leaders vote to water down 2035 EV targets", "publisher": "EV Powered", "url": "https://evpowered.co.uk/news/eu-emissions-targets-watered-down-2035/", "accessedAt": "2026-11-06" },
+    { "title": "EU Lawmakers Vote to Water Down CO2 Emissions Reduction Requirements for Cars", "publisher": "ESG Today", "url": "https://www.esgtoday.com/eu-lawmakers-vote-to-water-down-co2-emissions-reduction-requirements-for-cars/", "accessedAt": "2026-11-06" }
+  ]
+}
