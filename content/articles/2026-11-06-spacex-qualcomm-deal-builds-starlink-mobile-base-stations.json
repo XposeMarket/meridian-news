@@ -1,0 +1,47 @@
+{
+  "slug": "spacex-qualcomm-deal-builds-starlink-mobile-base-stations",
+  "title": "SpaceX Taps Qualcomm to Build Base Stations for Starlink Mobile",
+  "dek": "A multiyear agreement puts Qualcomm technology in the ground network SpaceX needs to challenge Verizon, AT&T and T-Mobile, with deployment set to begin in 2027.",
+  "section": "ai-tech",
+  "tags": ["SpaceX", "Starlink Mobile", "Qualcomm", "QCOM stock", "5G", "wireless"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T21:30:00Z",
+  "updatedAt": "2026-11-06T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Qualcomm_headquarters.jpg",
+    "alt": "Qualcomm headquarters building in San Diego",
+    "credit": "Coolcaesar / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qualcomm_headquarters.jpg"
+  },
+  "keyPoints": [
+    "SpaceX signed a multiyear deal with Qualcomm to supply technology for the base stations of Starlink Mobile, the company's planned U.S. cellular service, per CNBC.",
+    "Qualcomm said the deal is its largest 5G initiative to date and points to AI-native 6G work in later years.",
+    "AskTraders, citing CNBC, reports the radio network will run on Qualcomm's Dragonwing platform; no contract value was disclosed.",
+    "Deployment of the ground network is planned to begin in 2027, so the deal does not add near-term revenue for either company.",
+    "CNBC reports Starlink accounts for 36% of SpaceX's third-quarter revenue and 85% of its operating profit."
+  ],
+  "body": "SpaceX has chosen Qualcomm to help build the terrestrial network behind Starlink Mobile, the satellite company's plan to offer cellular service in the United States. The multiyear deal, reported by CNBC, is a step from satellite broadband toward a phone-carrier business that would compete with Verizon, AT&T and T-Mobile.\n\n## What the deal covers\n\nAccording to CNBC, Qualcomm will supply technology for the base stations that Starlink Mobile will use on the ground. SpaceX already beams Starlink internet to millions of U.S. subscribers from low-Earth-orbit satellites, but mobile phone service needs towers and radio equipment that connect handsets to the network. That is the gap this agreement addresses.\n\nQualcomm described the arrangement as its largest 5G initiative to date. The company also said the two will work toward \"AI-native 6G\" in the years ahead. AskTraders, summarizing CNBC's report, said the radio network will be built on Qualcomm's Dragonwing platform. Neither company disclosed a contract value.\n\n## Timing\n\nDeployment of the ground network is planned to begin in 2027, according to reporting that cites CNBC. That timing means the agreement is a building block rather than a near-term revenue event for either company. Starlink Mobile will need to clear regulatory and spectrum steps and build out the tower network before it can sell service at scale, and the public reporting does not spell out those milestones.\n\n## Why it matters\n\nSatellite broadband has been Starlink's core business. CNBC reported that Starlink accounts for 36% of SpaceX's third-quarter revenue and 85% of its operating profit. A mobile carrier would add a new revenue line and put SpaceX in direct competition with the three largest U.S. wireless operators. That is why the choice of an established chip and radio supplier matters: it shows SpaceX is leaning on proven cellular technology rather than building every layer itself.\n\nThe deal is also a positive signal for Qualcomm, which supplies smartphone processors and 5G technology. Because the value and volume are undisclosed, the financial effect on Qualcomm cannot yet be sized from the public reporting. The company's stock reaction should be read against that gap.",
+  "marketImpact": {
+    "summary": "A multiyear supply agreement for Starlink Mobile base-station technology gives Qualcomm a large new 5G customer and reinforces its infrastructure business. Contract value was not disclosed, so the earnings effect is unknown until deployment starts.",
+    "timeframe": "Next 3-6 months for sentiment; revenue effects are not expected before deployment in 2027",
+    "confidence": "low",
+    "catalysts": [
+      { "date": "2026-11-04", "event": "CNBC reports SpaceX signed a multiyear deal with Qualcomm for Starlink Mobile base-station technology" },
+      { "date": "2027-01-01", "event": "Planned start of Starlink Mobile ground-network deployment, per CNBC-sourced reporting" }
+    ],
+    "tickers": [
+      { "symbol": "QCOM", "direction": "up", "rationale": "Adds a large multiyear 5G infrastructure customer; contract value undisclosed and revenue not expected until 2027" }
+    ]
+  },
+  "sources": [
+    { "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html", "accessedAt": "2026-11-06" },
+    { "title": "Qualcomm Lands SpaceX Starlink Mobile Network Deal", "publisher": "AskTraders", "url": "https://www.asktraders.com/analysis/qualcomm-lands-spacex-starlink-mobile-network-deal/", "accessedAt": "2026-11-06" },
+    { "title": "SpaceX inks Qualcomm deal, putting Starlink closer to becoming the fourth major US wireless carrier", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/article/spacex-inks-qualcomm-deal-putting-starlink-closer-to-becoming-the-fourth-major-us-wireless-carrier-133000731.html", "accessedAt": "2026-11-06" }
+  ]
+}

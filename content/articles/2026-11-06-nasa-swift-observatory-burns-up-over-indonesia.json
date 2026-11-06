@@ -1,0 +1,35 @@
+{
+  "slug": "nasa-swift-observatory-burns-up-over-indonesia",
+  "title": "NASA's 22-Year-Old Swift Observatory Re-Enters Over Indonesia After Failed Rescue",
+  "dek": "The gamma-ray telescope re-entered the atmosphere over North Sumatra on Wednesday, after a boost mission failed to lift it out of a decaying orbit.",
+  "section": "science",
+  "tags": ["NASA", "Swift", "space", "re-entry", "gamma-ray bursts", "Indonesia"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T21:30:00Z",
+  "updatedAt": "2026-11-06T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Model_of_the_Swift_satellite.jpg",
+    "alt": "Scale model of the Swift satellite",
+    "credit": "Mike Peel / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Model_of_the_Swift_satellite.jpg"
+  },
+  "keyPoints": [
+    "NASA said the U.S. Space Force confirmed Swift re-entered the atmosphere at 7:39 a.m. EST Wednesday, Nov. 4, over North Sumatra, Indonesia.",
+    "NASA expected most of the spacecraft to burn up, but some components may have survived re-entry.",
+    "Swift launched in 2004 for a two-year prime mission and was still observing more than two decades later.",
+    "A July 2026 mission to raise Swift to a higher orbit was declared unsuccessful by NASA in August; NASA ended operations on Oct. 23.",
+    "Times of India, citing NASA, reports an estimated 1-in-2,100 risk that debris could harm someone."
+  ],
+  "body": "NASA's Neil Gehrels Swift Observatory has re-entered Earth's atmosphere, ending nearly 22 years in orbit for the space telescope that became one of the most-used tools for studying gamma-ray bursts.\n\n## The re-entry\n\nNASA said in an update that the U.S. Space Force confirmed Swift came back to Earth at 7:39 a.m. EST on Wednesday, Nov. 4, at about 3.4 degrees north latitude and 98.6 degrees east longitude, over the North Sumatra region of Indonesia. Spaceflight Now and Live Science both reported the same time and location from NASA's statement.\n\nNASA had expected most of the spacecraft to burn up on the way down. The agency said some components could survive, which is why the event drew attention. The Times of India, citing NASA, put the estimated chance of debris harming a person at about 1 in 2,100.\n\n## How it got here\n\nSwift launched on Nov. 20, 2004, aboard a Delta II rocket. It was designed for a two-year prime mission to study the most powerful explosions in the universe. It stayed in service far longer and was used for a wide range of targets, from active galaxies to comets and asteroids.\n\nIts orbit had been falling for years as solar activity heated the upper atmosphere and increased drag. NASA launched a mission on July 3, 2026, to raise the observatory to a higher orbit. The agency announced on Aug. 19 that the effort had failed. NASA officially ended Swift's operations on Oct. 23, days before the re-entry.\n\n## What it means\n\nSwift's loss does not end gamma-ray astronomy, but it removes a rapid-response instrument that sent alerts to other observatories within minutes of a burst. Scientists will now depend on other missions for quick follow-up on bursts and transient events, and the archive of Swift data will remain a research resource for years.\n\nThe re-entry also highlights a broader issue for low-orbit spacecraft: rising solar activity can expand the upper atmosphere and speed the decay of satellites that were not designed for that drag. NASA's own statement about surviving components is a reminder that even mostly burned-up spacecraft can leave debris on the ground.\n\nNo company stock is affected by this story.",
+  "sources": [
+    { "title": "NASA's Swift Observatory Re-Entered Atmosphere", "publisher": "NASA Science", "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/", "accessedAt": "2026-11-06" },
+    { "title": "NASA's Neil Gehrels Swift Observatory reenters over Western Indonesia", "publisher": "Spaceflight Now", "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/", "accessedAt": "2026-11-06" },
+    { "title": "NASA's Swift Observatory burns up over Indonesia after 22 years in orbit, agency confirms", "publisher": "Live Science", "url": "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra", "accessedAt": "2026-11-06" }
+  ]
+}
