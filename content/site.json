@@ -1,103 +1,89 @@
 {
-  "updatedAt": "2026-11-05T21:30:00Z",
-  "edition": "afternoon",
+  "updatedAt": "2026-11-06T13:15:00Z",
+  "edition": "pre-market",
   "leadSlug": "close-recap-nasdaq-enters-correction-chip-rout-dow-erases-midterm-rally",
   "marketBrief": {
-    "headline": "Nasdaq enters correction as chip rout erases the midterm rally; Dow down about 1,844 points",
-    "summary": "At the 4:00 p.m. ET update CNBC put the Nasdaq Composite down 5.4%, the S&P 500 down 4.3% and the Dow down 1,844 points. Nvidia closed down 9.26%. Cloudflare moved sharply higher after hours.",
+    "headline": "Futures bounce after Nasdaq correction as chips rebound; Asian markets slide and oil eases",
+    "summary": "At 6:24 a.m. ET Nasdaq 100 futures were up 1.41% and Dow futures down 0.91%, after Thursday's steepest Nasdaq drop in 19 months. Nikkei and Kospi sold off hard overnight. The 8:30 a.m. ET October jobs report is the next scheduled test.",
     "bullets": [
-      "Nasdaq Composite -5.4%, more than 10% below its record: correction (CNBC, via Stock Titan).",
-      "S&P 500 -4.3%; Dow -1,844 points at 4:00 p.m. ET (CNBC, via Stock Titan).",
-      "Nvidia closed -9.26% at $181.60; QQQ -6.49% (Stock Titan real-time data).",
-      "Cloudflare: $243.79 close (-8.55%), $286.60 extended (+17.56%) at 4:22 p.m. ET (MarketBeat).",
-      "IREN AI cloud revenue nearly tripled to $200M; Akamai revenue +6% (Stock Titan, citing company releases)."
+      "Nasdaq 100 futures +1.41%, Dow E-minis -0.91%, S&P 500 E-minis +0.29% at 6:24 a.m. ET (Reuters, via Yahoo Finance).",
+      "Nvidia +4.5% premarket after its worst day since January 2025; AMD, Intel, Broadcom, Micron up 4.6% to 8.2% (Reuters, via Yahoo Finance).",
+      "Brent -1.38% to $96.93 and WTI -1.49% to $89.17 at 4:38 a.m. ET (CNBC).",
+      "Nikkei fell as much as 7%; Kospi fell as much as 8.8% and triggered a circuit breaker (Coinedition).",
+      "October jobs report due 8:30 a.m. ET; Dow Jones consensus 59,000 payrolls and 4.2% unemployment (CNBC)."
     ],
-    "asOf": "2026-11-05T21:30:00Z"
+    "asOf": "2026-11-06T13:15:00Z"
   },
   "marketSnapshot": [
     {
-      "label": "Nasdaq Composite",
-      "value": "-5.4%",
-      "change": "-5.4%",
-      "direction": "down",
-      "source": "CNBC, via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 4:00 p.m. ET"
-    },
-    {
-      "label": "S&P 500",
-      "value": "-4.3%",
-      "change": "-4.3%",
-      "direction": "down",
-      "source": "CNBC, via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 4:00 p.m. ET"
-    },
-    {
-      "label": "Dow Jones Industrial Average",
-      "value": "-1,844 points",
-      "change": "-1,844 pts",
-      "direction": "down",
-      "source": "CNBC, via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 4:00 p.m. ET"
-    },
-    {
-      "label": "Nvidia",
-      "value": "-9.26% ($181.60)",
-      "change": "-9.26%",
-      "direction": "down",
-      "source": "Stock Titan real-time data",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 close"
-    },
-    {
-      "label": "Cloudflare (extended)",
-      "value": "$286.60 (+17.56%)",
-      "change": "+17.56%",
+      "label": "Nasdaq 100 futures",
+      "value": "+1.41%",
+      "change": "+1.41%",
       "direction": "up",
-      "source": "MarketBeat",
-      "sourceUrl": "https://www.marketbeat.com/earnings/reports/2026-11-5-cloudflare-inc-stock/",
-      "asOf": "2026-11-05 4:22 p.m. ET"
+      "source": "Reuters, via Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
+      "asOf": "2026-11-06 6:24 a.m. ET"
+    },
+    {
+      "label": "Dow E-minis",
+      "value": "-0.91%",
+      "change": "-0.91%",
+      "direction": "down",
+      "source": "Reuters, via Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
+      "asOf": "2026-11-06 6:24 a.m. ET"
+    },
+    {
+      "label": "S&P 500 E-minis",
+      "value": "+0.29%",
+      "change": "+0.29%",
+      "direction": "up",
+      "source": "Reuters, via Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
+      "asOf": "2026-11-06 6:24 a.m. ET"
+    },
+    {
+      "label": "Brent crude",
+      "value": "$96.93",
+      "change": "-1.38%",
+      "direction": "down",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "asOf": "2026-11-06 4:38 a.m. ET"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$89.17",
+      "change": "-1.49%",
+      "direction": "down",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "asOf": "2026-11-06 4:38 a.m. ET"
     },
     {
       "label": "CBOE Volatility Index (VIX)",
-      "value": "as high as 28.09",
-      "change": "highest since Mar 31",
-      "direction": "up",
-      "source": "CNBC, via Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
-      "asOf": "2026-11-05 2:03 p.m. ET"
+      "value": "26.70",
+      "change": "down slightly",
+      "direction": "down",
+      "source": "Reuters, via Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
+      "asOf": "2026-11-06 early Friday"
     }
   ],
   "calendar": [
     {
       "date": "2026-11-06",
-      "time": "Regular session",
-      "event": "Regular session reopens after the Nasdaq correction; Cloudflare, IREN and Akamai trade on their after-hours reports",
-      "importance": "high",
-      "why": "Nasdaq closed more than 10% below its record on Thursday (CNBC, via Stock Titan)."
-    },
-    {
-      "date": "2026-11-06",
       "time": "8:30 AM ET",
       "event": "October Employment Situation (jobs report)",
       "importance": "high",
-      "why": "Nonfarm payrolls forecast +56,000 and unemployment 4.2% (Trading Economics)."
+      "why": "Dow Jones consensus 59,000 nonfarm payrolls and 4.2% unemployment; September was 29,000 (CNBC)."
     },
     {
       "date": "2026-11-06",
-      "time": "Before the open",
-      "event": "Charter Communications (CHTR) earnings",
-      "importance": "low",
-      "why": "EPS estimate $9.24 (JournalArta)."
-    },
-    {
-      "date": "2026-11-06",
-      "time": "8:30 AM ET",
-      "event": "October Employment Situation (jobs report)",
+      "time": "9:30 AM ET",
+      "event": "Regular session opens after the Nasdaq correction",
       "importance": "high",
-      "why": "Nonfarm payrolls forecast +56,000 and unemployment 4.2% (Trading Economics)."
+      "why": "Nasdaq Composite logged its steepest one-day drop in 19 months on Thursday (Reuters, via Yahoo Finance)."
     }
   ],
   "trending": [

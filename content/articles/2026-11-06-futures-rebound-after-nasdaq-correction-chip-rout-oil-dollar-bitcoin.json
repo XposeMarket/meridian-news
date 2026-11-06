@@ -1,0 +1,52 @@
+{
+  "slug": "futures-rebound-after-nasdaq-correction-chip-rout-oil-dollar-bitcoin",
+  "title": "Futures Rebound After Nasdaq Correction and Chip Rout; Nasdaq 100 Futures Up 1.4%, Dow Futures Lower",
+  "dek": "Nasdaq 100 futures rose 1.41% at 6:24 a.m. ET after Thursday's steepest Nasdaq drop in 19 months. Dow futures fell 0.91%. Asian markets sold off hard, Brent traded near $97 and bitcoin was reported near $75,500.",
+  "section": "markets",
+  "tags": ["markets", "futures", "nasdaq", "chips", "oil", "dollar", "bitcoin", "pre-market"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T13:15:00Z",
+  "updatedAt": "2026-11-06T13:15:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Nasdaq 100 futures were up 1.41% and Dow E-minis down 0.91% at 6:24 a.m. ET; S&P 500 E-minis were up 0.29% (Reuters, via Yahoo Finance).",
+    "The Nasdaq Composite logged its steepest one-day decline in 19 months on Thursday and entered correction territory; the S&P 500 lost nearly $3 trillion in market value in that rout (Reuters, via Yahoo Finance).",
+    "Nvidia was up 4.5% in premarket trading after its worst day since January 2025; AMD, Intel, Broadcom and Micron rose between 4.6% and 8.2% (Reuters, via Yahoo Finance).",
+    "Brent fell 1.38% to $96.93 at 4:38 a.m. ET and WTI dropped 1.49% to $89.17, after Brent had hit a weekly peak above $110 on Monday (CNBC).",
+    "Asian markets fell sharply: the Nikkei fell as much as 7% and dropped below 60,000 for the first time since May, and Kospi fell as much as 8.8% and triggered a circuit breaker in Seoul (Coinedition Asia recap; CNN Business)."
+  ],
+  "body": "## Overnight: futures lift off a steep low\n\nU.S. index futures bounced early Friday after Thursday's tech-led selloff. Nasdaq 100 futures were up 1.41% at 6:24 a.m. ET, while Dow futures were down 0.91%. S&P 500 futures were up 0.29%, Reuters reported. The bounce came after the Nasdaq Composite logged its steepest one-day decline in 19 months, which confirmed a correction, and after the S&P 500 lost nearly $3 trillion in value.\n\nThe chip group led the rebound. Nvidia added 4.5% in premarket trading after its worst day since January 2025. AMD, Intel, Broadcom and Micron were up between 4.6% and 8.2%. Data-center names such as IREN and Applied Digital, which fell sharply on Thursday, also recovered. Reuters described the Thursday drop as tied to fears that a Democratic-controlled Congress could bring tougher AI regulation and slow data-center buildout. Jefferies strategist Jane Gibbons called the selloff reactionary rather than a fundamental reset.\n\n## Asia and Europe: a harder open\n\nAsian markets were not as steady. Coinedition's Asia recap reported that the Nikkei fell as much as 7% and dropped below 60,000 for the first time since May. Kospi plunged as much as 8.8%, which set off a circuit breaker in Seoul. CNN Business reported that Asian and European stocks were falling Friday on worries about the AI investment boom. The Nasdaq 100 closed 6.5% lower on Thursday, according to the same Coinedition recap. Hong Kong, Mumbai and Jakarta had closed higher before the U.S. decline, according to JournalArta.\n\n## Oil, yields and the dollar\n\nOil was the other swing factor. Brent fell 1.38% to $96.93 at 4:38 a.m. ET and WTI fell 1.49% to $89.17, CNBC reported. Brent had reached a weekly peak above $110 on Monday. Traders are weighing the risk that U.S.-Iran fighting resumes against signs of diplomacy, including an Iranian nuclear proposal sent through Qatar, Reuters reported. Iran reported three more tanker attacks in the Strait of Hormuz on Thursday.\n\nReuters said traders are pricing a more than 65% chance of a December rate hike, according to the CME FedWatch Tool. That keeps Treasury yields and the dollar in focus ahead of the 8:30 a.m. ET jobs report. We did not confirm an overnight Treasury yield or dollar index level in the sources reviewed for this story, so we are not giving a number for either.\n\n## Bitcoin\n\nBitcoin was reported near $75,500 on Friday, down about 6% in one account (Sunday Guardian), and near $75,524 in CoinGecko-based data (FinFly.news). The figures are from secondary sites, so treat them as approximate. Bitcoin's move fits the broader risk-off tone that has followed the Nasdaq correction.\n\n## What to watch\n\nThe regular session opens at 9:30 a.m. ET. The first hour will show whether the chip bounce holds after Thursday's correction, and whether oil keeps its Thursday-to-Friday decline. The jobs report, due at 8:30 a.m. ET, is the next scheduled test for the rate outlook. See our companion preview on the October jobs report.",
+  "marketImpact": {
+    "summary": "The futures bounce points to a relief attempt in chips, but the Asian selloff and the rate-hike odds leave the open fragile. Nasdaq and semiconductor names carry the most direct exposure to the bounce. Oil and rate expectations are the main macro risks for the broader market.",
+    "timeframe": "Friday, Nov. 6, from the overnight session through the 9:30 a.m. ET open",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NQ", "direction": "up", "rationale": "Nasdaq 100 futures up 1.41% at 6:24 a.m. ET (Reuters, via Yahoo Finance)." },
+      { "symbol": "YM", "direction": "down", "rationale": "Dow E-minis down 0.91% at 6:24 a.m. ET (Reuters, via Yahoo Finance)." },
+      { "symbol": "NVDA", "direction": "up", "rationale": "Up 4.5% in premarket after its worst day since January 2025 (Reuters, via Yahoo Finance)." },
+      { "symbol": "BZ=F", "direction": "down", "rationale": "Brent down 1.38% to $96.93 at 4:38 a.m. ET (CNBC)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-06", "event": "October employment report, 8:30 a.m. ET (CNBC; BLS schedule)." },
+      { "date": "2026-11-06", "event": "Regular session opens at 9:30 a.m. ET after the Nasdaq correction." }
+    ]
+  },
+  "sources": [
+    { "title": "Nasdaq futures rise after steep AI selloff as chip stocks stabilize", "publisher": "Reuters, via Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html", "accessedAt": "2026-11-06" },
+    { "title": "Oil price today: Brent, WTI", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html", "accessedAt": "2026-11-06" },
+    { "title": "Asia Market Recap November 6: Seoul Halts Trading, Nikkei Suffers and Bitcoin Slips", "publisher": "Coinedition", "url": "https://coinedition.com/asia-market-recap-november-6-seoul-halts-trading-nikkei-suffers-and-bitcoin-slips/", "accessedAt": "2026-11-06" },
+    { "title": "Global stocks reel after $2.5 trillion wiped off US markets over AI fears", "publisher": "CNN Business", "url": "https://us.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk", "accessedAt": "2026-11-06" },
+    { "title": "Bitcoin Price Today, November 6, 2026: BTC Crashes Nearly 6% to $75,496", "publisher": "Sunday Guardian Live", "url": "https://sundayguardianlive.com/business/bitcoin-price-today-november-6-2026-btc-crashes-nearly-6-to-75496-why-is-bitcoin-falling-and-whats-next-check-market-metrics-key-drivers-318146/", "accessedAt": "2026-11-06" },
+    { "title": "Bitcoin and crypto prices on November 6, 2026", "publisher": "FinFly.news", "url": "https://finfly.news/en/crypto/crypto-prices-2026-11-06", "accessedAt": "2026-11-06" }
+  ]
+}

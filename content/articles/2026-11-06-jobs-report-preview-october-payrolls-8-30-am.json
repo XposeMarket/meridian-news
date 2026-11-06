@@ -1,0 +1,47 @@
+{
+  "slug": "jobs-report-preview-october-payrolls-8-30-am",
+  "title": "October Jobs Report Due at 8:30 a.m.: Economists Expect About 59,000 Payrolls as Rate-Hike Odds Stay High",
+  "dek": "The Bureau of Labor Statistics releases October nonfarm payrolls at 8:30 a.m. ET. The Dow Jones consensus is 59,000 jobs and a 4.2% unemployment rate, after September's 29,000 gain.",
+  "section": "economy",
+  "tags": ["economy", "jobs", "payrolls", "federal-reserve", "markets", "pre-market"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T13:15:00Z",
+  "updatedAt": "2026-11-06T13:15:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "The October Employment Situation is scheduled for 8:30 a.m. ET on Friday, Nov. 6 (CNBC; Bureau of Labor Statistics schedule).",
+    "The Dow Jones consensus for nonfarm payrolls is 59,000, and the unemployment rate is forecast to hold at 4.2%; September's gain was 29,000 (CNBC).",
+    "Kiplinger cited an expectation of a 65,000 payroll gain, in line with the six-month average pace (Kiplinger).",
+    "Payroll growth from January 2025 through September 2026 averaged just 35,000 a month, and seven of those months showed losses (CNBC).",
+    "Traders are pricing a more than 65% chance of a rate hike in December, according to the CME FedWatch Tool (Reuters, via Yahoo Finance)."
+  ],
+  "body": "## The release: 8:30 a.m. ET\n\nThe Bureau of Labor Statistics publishes the October Employment Situation at 8:30 a.m. ET Friday. This story was written at 8:15 a.m. ET, before the release, so it does not report any October payroll or unemployment figure. The numbers below are forecasts only.\n\n## What economists expect\n\nThe Dow Jones consensus, as cited by CNBC, is for a gain of 59,000 nonfarm jobs. That would be a slight pickup from the 29,000 jobs added in September. The unemployment rate is forecast to hold at 4.2%. Kiplinger cited a higher forecast of 65,000 jobs, which it said was roughly in line with the six-month average pace. Forecasts vary by source, so the consensus should be read as a range rather than a single figure.\n\n## Why the number matters now\n\nThe jobs report lands the morning after the Nasdaq entered correction and the chip sector sold off. Reuters reported that traders are pricing a more than 65% chance of a December rate hike, according to the CME FedWatch Tool. A strong number would add to hike expectations. A weak one could ease them, but CNBC noted that hiring has been sparse for months while unemployment has moved only modestly. Payroll growth from January 2025 through September 2026 averaged 35,000 a month, CNBC reported, and seven of those months showed losses.\n\n## Context\n\nThe labor market is described by economists as stable on the unemployment rate, though weak on hiring. Long-term unemployment is rising and the labor force has shrunk, so a smaller payroll gain can still keep unemployment flat. Economists quoted by CNBC said that makes the report harder to read on its own.\n\n## What to watch after the release\n\nWe will report the actual payroll and unemployment figures only once they are published. Watch the revisions to August and September, the unemployment rate, and average hourly earnings for wage pressure. The Treasury market and the dollar are likely to react first, followed by rate-sensitive sectors.",
+  "marketImpact": {
+    "summary": "The jobs report is the main scheduled data point of the morning. The consensus figures point to a soft hiring market with a steady unemployment rate. The rate-hike odds mean even a modest surprise could move Treasury yields, the dollar and rate-sensitive stocks.",
+    "timeframe": "Friday, Nov. 6, from 8:30 a.m. ET release through the first hour of trading",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "^DJI", "direction": "down", "rationale": "Dow E-minis were down 0.91% at 6:24 a.m. ET ahead of the release (Reuters, via Yahoo Finance)." },
+      { "symbol": "^TNX", "direction": "up", "rationale": "A hotter-than-expected report would add to December hike odds, which are above 65% (CME FedWatch via Reuters)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-06", "event": "October Employment Situation, 8:30 a.m. ET (BLS schedule; CNBC)." }
+    ]
+  },
+  "sources": [
+    { "title": "The October jobs report is out Friday. Here's everything to expect", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html", "accessedAt": "2026-11-06" },
+    { "title": "Schedule of Releases for the Employment Situation", "publisher": "Bureau of Labor Statistics", "url": "https://www.bls.gov/schedule/news_release/empsit.htm", "accessedAt": "2026-11-06" },
+    { "title": "What to Expect From the October Jobs Report", "publisher": "Kiplinger", "url": "https://www.kiplinger.com/investing/economy/jobs-report-october-2026-what-to-expect", "accessedAt": "2026-11-06" },
+    { "title": "Nasdaq futures rise after steep AI selloff as chip stocks stabilize", "publisher": "Reuters, via Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html", "accessedAt": "2026-11-06" }
+  ]
+}
