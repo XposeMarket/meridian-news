@@ -1,0 +1,46 @@
+{
+  "slug": "nvidia-faces-democratic-congress-scrutiny-over-china-ai-chip-exports",
+  "title": "Nvidia Faces Congressional Scrutiny Over AI Chip Exports as Democrats Prepare to Question Jensen Huang",
+  "dek": "Incoming Democratic committee chairs plan to demand answers on whether Nvidia is keeping its AI chips out of China, adding regulatory risk to a stock already down about 21% over a month.",
+  "section": "ai-tech",
+  "tags": ["Nvidia", "NVDA stock", "export controls", "China", "Congress", "Jensen Huang"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T15:00:00Z",
+  "updatedAt": "2026-11-06T15:00:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/NVidia_G71_GPU.jpg",
+    "alt": "Close-up of an Nvidia GPU chip on a circuit board",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVidia_G71_GPU.jpg"
+  },
+  "keyPoints": [
+    "Bloomberg reports a new Democratic majority in Congress is set to demand answers from Nvidia CEO Jensen Huang about keeping advanced AI chips away from China and other U.S. adversaries.",
+    "Democrats can use committee chairmanships to summon executives from Nvidia and other Silicon Valley companies to testify publicly and produce documents for investigations.",
+    "Benzinga reports that Huang also faces congressional scrutiny over suspected Chinese intelligence ties, chip diversion concerns and AI security safeguards.",
+    "Nvidia shares fell about 9% on Thursday and rose about 5% on Friday in early trading, per 24/7 Wall St.; the stock is still down about 21% over one month."
+  ],
+  "body": "Nvidia is heading into a tougher period of congressional scrutiny, as a Democratic majority prepares to press Chief Executive Jensen Huang on whether the company is doing enough to keep its AI chips out of China and other U.S. adversaries' hands, Bloomberg reported on Friday.\n\n## What is changing\n\nRepublicans largely avoided this kind of oversight during two years of GOP control, Bloomberg reported. With Democrats expected to chair key committees in January, they can subpoena documents and call executives to testify publicly. Nvidia, the largest maker of AI accelerators, would be a natural first target.\n\nThe scrutiny goes beyond China sales. Benzinga reports that Huang faces questions about suspected Chinese intelligence ties, possible diversion of chips to restricted buyers, and the security of AI systems. Benzinga's report describes a Republican-led request for a closed-door briefing, which shows the concern is bipartisan even though the Democratic majority would hold the subpoena power.\n\n## Why it matters for the stock\n\nNvidia has been one of the most exposed names in Thursday's chip sell-off. The stock fell about 9% on Thursday and bounced about 5% on Friday in early trading, but it remains down about 21% over one month, according to 24/7 Wall St.\n\nThe investor concern is that tighter export enforcement or hearings could slow sales into China, a market that has already been constrained. Earlier this week, the Financial Times reported that Nvidia told data-center clients to trim China-related business, a detail Bloomberg has cited in its coverage of the company's export exposure.\n\n## What is not yet known\n\nThe reports do not establish wrongdoing by Nvidia. Bloomberg's account describes scrutiny and planned requests, not findings, and Nvidia has not publicly responded to the Democratic plans in the sources reviewed for this story. The timing of any hearings will depend on committee organization in January.\n\nFor readers, the key distinction is between oversight and new law. A Congress with a Democratic majority can demand documents and hold hearings, but it cannot enact new export rules over a presidential veto or past the Senate filibuster without Republican votes.",
+  "marketImpact": {
+    "summary": "Congressional scrutiny adds a headline risk to Nvidia's China exposure. Hearings and document demands could weigh on sentiment even without a rule change. The near-term impact depends on whether committees announce concrete investigations.",
+    "timeframe": "Next 1-3 months, as committees are organized in January and hearing schedules are announced",
+    "confidence": "medium",
+    "catalysts": [
+      { "date": "2026-11-06", "event": "Bloomberg reports the incoming Democratic majority plans to demand answers from Jensen Huang on China chip sales" },
+      { "date": "2026-11-06", "event": "Benzinga reports Huang faces congressional scrutiny over suspected Chinese intelligence ties and chip diversion concerns" }
+    ],
+    "tickers": [
+      { "symbol": "NVDA", "direction": "down", "rationale": "Added regulatory and headline risk on China AI chip sales; the stock is already down about 21% over a month" }
+    ]
+  },
+  "sources": [
+    { "title": "Nvidia Faces Congressional Scrutiny Over AI Chip Sales, Export Controls", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress", "accessedAt": "2026-11-06" },
+    { "title": "Nvidia CEO Jensen Huang Faces Congressional Scrutiny Over Alleged Chinese Spy Links as Republicans Warn of Significant National Security Concerns", "publisher": "Benzinga", "url": "https://www.benzinga.com/markets/tech/26/11/62970670/nvidia-ceo-jensen-huang-faces-congressional-scrutiny-over-alleged-chinese-spy-links-as-republicans-warn-of-significant-national-security-concerns", "accessedAt": "2026-11-06" },
+    { "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/06/amd-jumps-8-intel-and-nvidia-climb-5-as-chip-stocks-rebound-from-worst-sell-off-since-2020/", "accessedAt": "2026-11-06" }
+  ]
+}

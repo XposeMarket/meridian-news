@@ -1,0 +1,50 @@
+{
+  "slug": "chip-stocks-rebound-from-worst-selloff-since-2020-data-center-fear-unresolved",
+  "title": "Chip Stocks Rebound From Worst Selloff Since 2020, but Data-Center Policy Fear Is Unresolved",
+  "dek": "AMD, Intel, Nvidia and Micron bounced on Friday after the PHLX Semiconductor Index fell 12% on Thursday, but investors are still weighing whether a Democratic Congress will limit U.S. data-center projects.",
+  "section": "ai-tech",
+  "tags": ["chip stocks", "AMD stock", "Nvidia stock", "Intel stock", "Micron stock", "data centers", "semiconductors"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T14:30:00Z",
+  "updatedAt": "2026-11-06T14:30:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/NVidia_G71_GPU.jpg",
+    "alt": "Close-up of an Nvidia GPU chip on a circuit board",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVidia_G71_GPU.jpg"
+  },
+  "keyPoints": [
+    "The PHLX Semiconductor Index plunged 12% on Thursday, Nov. 5, its worst sell-off since 2020, before bouncing about 4% on Friday, according to Yahoo Finance.",
+    "AMD rose about 8% in morning trading to $437.11 after a 17% drop on Thursday; it is still down about 33% over the past month, per 24/7 Wall St.",
+    "Intel rose about 5% to $55.09 after a 10% slide, but is down about 51% over one month. Nvidia rose about 5% to $189.80 after a 9% drop, and is down about 21% over one month.",
+    "Micron rose about 8% to $709.50 and Broadcom about 6% to $307.65, according to 24/7 Wall St.",
+    "Investors tied Thursday's rout to concern that Democratic policymakers could block U.S. data-center projects after the midterm win, plus growing local opposition to data-center construction."
+  ],
+  "body": "Chip stocks bounced on Friday after their worst sell-off since 2020, but the rebound has not settled the question that triggered the drop: whether a Democratic-led Congress will try to slow U.S. data-center construction.\n\n## The rebound\n\nThe PHLX Semiconductor Index rose about 4% in early trading after falling 12% on Thursday, according to Yahoo Finance. AMD led the gains, with 24/7 Wall St. reporting a rise of about 8% to $437.11. Micron, the memory maker that supplies high-bandwidth memory for AI chips, climbed about 8%. Intel and Nvidia each rose about 5%, and Broadcom gained about 6%.\n\nThe moves recovered only part of Thursday's damage. AMD had fallen 17% in that session, and Nvidia had dropped 9%. Over the past month, Intel is down about 51% and AMD about 33%, while Nvidia has lost about 21%.\n\n## Why the sell-off happened\n\nThe trigger was political rather than a change in chip demand. Investors sold AI stocks after Democrats won control of the House and Senate, worried that the new majority could use committee power to restrict data-center projects. Local opposition to data-center construction added to the pressure. Thursday's selling spread to Asia, where South Korea's Kospi fell more than 6%, its worst day since 2025, according to 24/7 Wall St.\n\nA Democratic Congress can hold hearings and issue subpoenas from January, but it cannot pass new federal law over a presidential veto or past the Senate filibuster without Republican support. That gap between scrutiny and enacted rules is why analysts describe Friday's bounce as fragile.\n\n## What bulls point to\n\nAMD's latest results give buyers a fundamental argument. The company reported third-quarter revenue of $13.38 billion, up 44.7% from a year earlier, with Data Center sales nearly doubling, according to AMD's results release and CNBC. CEO Lisa Su said demand exceeds supply. AMD guided fourth-quarter revenue to about $17 billion, above the $16.2 billion analyst average cited by CNBC.\n\nU.S. payrolls also helped sentiment. The Labor Department reported 165,000 jobs added in October, well above the roughly 70,000 economists had forecast, according to the 24/7 Wall St. and Bloomberg-cited figures.\n\n## What to watch\n\nThe bounce could fade quickly if fresh headlines revive data-center limits. Investors will also watch whether Democratic committees begin to summon chip and cloud executives, a subject covered in a separate Meridian story on Nvidia and congressional export scrutiny. AMD's own planning assumption calls for double-digit declines in PC unit shipments in 2027, a drag outside its AI business.\n\nThis is a market-moves story, not investment advice. Stock levels reflect early-session prices reported Friday morning and may have changed.",
+  "marketImpact": {
+    "summary": "The rebound is mostly a repricing of policy risk. Fundamentals from AMD's Q3 report and Micron's memory demand support the bounce, but a single policy headline could reverse it. Nvidia and Intel remain well below their one-month levels.",
+    "timeframe": "Next 1-2 weeks, while investors test whether the Democratic oversight agenda turns into concrete data-center limits",
+    "confidence": "medium",
+    "catalysts": [
+      { "date": "2026-11-05", "event": "PHLX Semiconductor Index falls 12%, its worst sell-off since 2020, on data-center policy fears" },
+      { "date": "2026-11-06", "event": "Chip stocks rebound in early trading; AMD up about 8%, Intel up about 5%, Nvidia up about 5%, Micron up about 8%" }
+    ],
+    "tickers": [
+      { "symbol": "AMD", "direction": "up", "rationale": "Strong Q3 data-center growth and guidance support a rebound, but the stock is still down about 33% over one month" },
+      { "symbol": "NVDA", "direction": "up", "rationale": "Bounced about 5% after a 9% drop, but policy scrutiny and China export questions remain open" },
+      { "symbol": "MU", "direction": "up", "rationale": "Memory demand for AI servers helped it recover about 8%, though it is down about 32% over one month" }
+    ]
+  },
+  "sources": [
+    { "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/06/amd-jumps-8-intel-and-nvidia-climb-5-as-chip-stocks-rebound-from-worst-sell-off-since-2020/", "accessedAt": "2026-11-06" },
+    { "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html", "accessedAt": "2026-11-06" },
+    { "title": "AMD reports third quarter 2026 financial results", "publisher": "AMD Investor Relations", "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results", "accessedAt": "2026-11-06" },
+    { "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html", "accessedAt": "2026-11-06" }
+  ]
+}
