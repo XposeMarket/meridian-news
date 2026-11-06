@@ -1,0 +1,79 @@
+{
+  "slug": "kospi-plunges-8-percent-triggers-circuit-breaker-ai-selloff",
+  "title": "Kospi Plunges More Than 8% Intraday, Triggering Circuit Breaker in AI Selloff",
+  "dek": "South Korea's benchmark fell below 5,000 for the first time in nine months before recovering to close down 6.02%, with Samsung and SK Hynix leading losses.",
+  "section": "business",
+  "tags": [
+    "South Korea",
+    "Kospi",
+    "stocks",
+    "AI",
+    "Samsung",
+    "SK Hynix"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T21:00:00Z",
+  "updatedAt": "2026-11-06T21:00:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1600&q=80",
+    "alt": "Electronic market-price display with rows of financial information",
+    "credit": "Patrick Weissenberger / Unsplash",
+    "license": "Unsplash License",
+    "sourceUrl": "https://unsplash.com/photos/black-and-white-analog-wall-clock-while-11-00-cckf4TsHAuw"
+  },
+  "keyPoints": [
+    "The Kospi fell as much as 8.8% intraday on Friday, triggering a Level 1 circuit breaker and a 20-minute trading halt, according to Korean and regional market reports.",
+    "The index dropped below 5,000 for the first time in nine months before closing at 5,059.69, down 6.02%, the Korea Herald reported.",
+    "Samsung and SK Hynix led the selloff, which reports tied to a broader AI-stock rout.",
+    "Japan's Nikkei 225 also fell sharply, down about 6% in early trading, according to TradingKey."
+  ],
+  "body": "South Korea's benchmark Kospi index plunged more than 8% at its lowest point on Friday, triggering a Level 1 circuit breaker and a 20-minute trading halt, market reports said.\n\n## Intraday plunge, partial recovery\n\nEBC Financial Group reported that the index fell 8.52% to 4,924.61 within minutes of the open, the first time it had dropped below 5,000 in nine months. SBS News reported that the decline also triggered circuit breakers. The index recovered during the session.\n\nThe Korea Herald reported that the Kospi closed at 5,059.69, down 6.02% from the previous session.\n\n## Chipmakers at the center\n\nReports from Coinpaper and TradingKey tied the selloff to Samsung Electronics and SK Hynix, which both fell more than 10% at points in the session, according to TradingKey. Analysts cited in these reports linked the move to a broader rout in AI-related stocks.\n\nThe Nikkei 225 in Tokyo also fell about 6% in early trading, TradingKey reported.\n\n## What we do not know\n\nThe reports do not identify a single trigger for the selloff beyond the AI-stock rout. Meridian has not verified the causes of the move beyond what these outlets reported.\n\n## Why it matters beyond Seoul\n\nThe Kospi moves matter beyond South Korea because the same chip names sit at the center of global AI trading. Reports from Coinpaper and TradingKey placed Samsung and SK Hynix at the heart of the decline, and the Nikkei decline suggests investors pulled back from Asian technology stocks more broadly.\n\nBecause the reports describe the decline as a rout rather than a single corporate event, the session is best read as a sentiment move that could be reversed or extended depending on the next run of chip-sector news. Meridian will update this story if regulators, companies or market analysts give a verified explanation.\n\nMeridian's market desk covers US stock movement separately.",
+  "sources": [
+    {
+      "title": "Kospi plunges 6% amid brutal AI sell-off",
+      "publisher": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10928857",
+      "accessedAt": "2026-11-06"
+    },
+    {
+      "title": "KOSPI Plummets Over 8% and Circuit Breakers Triggered, Falling Below 5,000",
+      "publisher": "SBS News",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008833614",
+      "accessedAt": "2026-11-06"
+    },
+    {
+      "title": "KOSPI Plunges 8.5% Below 5,000 as AI Rout Triggers Trading Halt",
+      "publisher": "EBC Financial Group",
+      "url": "https://www.ebc.com/forex/kospi-trading-halt-2026",
+      "accessedAt": "2026-11-06"
+    },
+    {
+      "title": "Kospi Plunges 8% to Trigger Level 1 Circuit Breaker and Fall Below 5,000, Nikkei Sinks 6%",
+      "publisher": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262287971-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-mu-sox-tradingkey",
+      "accessedAt": "2026-11-06"
+    }
+  ],
+  "marketImpact": {
+    "summary": "The Kospi intraday plunge and partial recovery point to heavy selling in AI-linked chip stocks, with the index still down sharply at the close.",
+    "timeframe": "Friday, Nov. 6 Seoul session",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "^KS11",
+        "direction": "down",
+        "rationale": "Closed at 5,059.69, down 6.02%, after an intraday drop of 8.52% to 4,924.61 (Korea Herald; EBC Financial Group)."
+      },
+      {
+        "symbol": "^N225",
+        "direction": "down",
+        "rationale": "Fell about 6% in early trading, according to TradingKey."
+      }
+    ],
+    "catalysts": []
+  }
+}
