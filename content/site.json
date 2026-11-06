@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-11-06T13:15:00Z",
-  "edition": "pre-market",
-  "leadSlug": "close-recap-nasdaq-enters-correction-chip-rout-dow-erases-midterm-rally",
+  "updatedAt": "2026-11-06T15:46:00Z",
+  "edition": "midday",
+  "leadSlug": "nasdaq-rebounds-after-correction-chips-lead-dow-flat-jobs-beat",
   "marketBrief": {
-    "headline": "Futures bounce after Nasdaq correction as chips rebound; Asian markets slide and oil eases",
-    "summary": "At 6:24 a.m. ET Nasdaq 100 futures were up 1.41% and Dow futures down 0.91%, after Thursday's steepest Nasdaq drop in 19 months. Nikkei and Kospi sold off hard overnight. The 8:30 a.m. ET October jobs report is the next scheduled test.",
+    "headline": "Payrolls beat forecasts at 165,000 as Nasdaq rebounds from correction on chip buying",
+    "summary": "The BLS reported 165,000 October jobs at 8:30 a.m. ET, with unemployment at 4.1%. By 10:46 a.m. ET Yahoo Finance showed the Nasdaq Composite up 1.9% and the S&P 500 up 1%, with the Dow about flat. Rate-hike odds for the Dec. 8-9 FOMC rose to 76.8% after the report (CME FedWatch via CNBC).",
     "bullets": [
-      "Nasdaq 100 futures +1.41%, Dow E-minis -0.91%, S&P 500 E-minis +0.29% at 6:24 a.m. ET (Reuters, via Yahoo Finance).",
-      "Nvidia +4.5% premarket after its worst day since January 2025; AMD, Intel, Broadcom, Micron up 4.6% to 8.2% (Reuters, via Yahoo Finance).",
-      "Brent -1.38% to $96.93 and WTI -1.49% to $89.17 at 4:38 a.m. ET (CNBC).",
-      "Nikkei fell as much as 7%; Kospi fell as much as 8.8% and triggered a circuit breaker (Coinedition).",
-      "October jobs report due 8:30 a.m. ET; Dow Jones consensus 59,000 payrolls and 4.2% unemployment (CNBC)."
+      "Nonfarm payrolls +165,000 in October vs. 59,000 Dow Jones forecast; unemployment 4.1% (BLS, 8:30 a.m. ET release; CNBC).",
+      "Nasdaq Composite +1.9%, S&P 500 +1.0%, Dow +0.1% at 10:46 a.m. ET (Yahoo Finance live page).",
+      "Nvidia +5.9%, AMD +10.2%, Micron +6.8%, Broadcom +4.9% in Friday's trading (Trading Economics daily summary).",
+      "Brent $96.93 (-1.38%) and WTI $89.17 (-1.49%) at 4:38 a.m. ET, the last oil quote in the sources reviewed (CNBC).",
+      "Average hourly earnings +0.4% m/m, +3.1% y/y vs. 2.9% estimate (CNBC)."
     ],
-    "asOf": "2026-11-06T13:15:00Z"
+    "asOf": "2026-11-06T15:46:00Z"
   },
   "marketSnapshot": [
     {
-      "label": "Nasdaq 100 futures",
-      "value": "+1.41%",
-      "change": "+1.41%",
+      "label": "Nasdaq Composite",
+      "value": "+1.9%",
+      "change": "+1.9%",
       "direction": "up",
-      "source": "Reuters, via Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
-      "asOf": "2026-11-06 6:24 a.m. ET"
+      "source": "Yahoo Finance live page",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+      "asOf": "2026-11-06 10:46 a.m. ET"
     },
     {
-      "label": "Dow E-minis",
-      "value": "-0.91%",
-      "change": "-0.91%",
-      "direction": "down",
-      "source": "Reuters, via Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
-      "asOf": "2026-11-06 6:24 a.m. ET"
+      "label": "S&P 500",
+      "value": "+1.0%",
+      "change": "+1.0%",
+      "direction": "up",
+      "source": "Yahoo Finance live page",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+      "asOf": "2026-11-06 10:46 a.m. ET"
     },
     {
-      "label": "S&P 500 E-minis",
-      "value": "+0.29%",
-      "change": "+0.29%",
+      "label": "Dow Jones Industrial Average",
+      "value": "+0.1%",
+      "change": "+0.1%",
       "direction": "up",
-      "source": "Reuters, via Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
-      "asOf": "2026-11-06 6:24 a.m. ET"
+      "source": "Yahoo Finance live page",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+      "asOf": "2026-11-06 10:46 a.m. ET"
     },
     {
       "label": "Brent crude",
@@ -61,39 +61,55 @@
       "asOf": "2026-11-06 4:38 a.m. ET"
     },
     {
-      "label": "CBOE Volatility Index (VIX)",
-      "value": "26.70",
-      "change": "down slightly",
-      "direction": "down",
-      "source": "Reuters, via Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html",
-      "asOf": "2026-11-06 early Friday"
+      "label": "Nonfarm payrolls (October)",
+      "value": "+165,000",
+      "change": "vs. 59,000 forecast",
+      "direction": "up",
+      "source": "BLS Employment Situation",
+      "sourceUrl": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "asOf": "2026-11-06 8:30 a.m. ET"
     }
   ],
   "calendar": [
     {
       "date": "2026-11-06",
       "time": "8:30 AM ET",
-      "event": "October Employment Situation (jobs report)",
+      "event": "October Employment Situation (released)",
       "importance": "high",
-      "why": "Dow Jones consensus 59,000 nonfarm payrolls and 4.2% unemployment; September was 29,000 (CNBC)."
+      "why": "Payrolls +165,000 vs. 59,000 Dow Jones forecast; unemployment 4.1% (BLS; CNBC)."
     },
     {
       "date": "2026-11-06",
       "time": "9:30 AM ET",
-      "event": "Regular session opens after the Nasdaq correction",
+      "event": "Regular session opened after the Nasdaq correction",
       "importance": "high",
       "why": "Nasdaq Composite logged its steepest one-day drop in 19 months on Thursday (Reuters, via Yahoo Finance)."
+    },
+    {
+      "date": "2026-11-10",
+      "time": "Tuesday",
+      "event": "Inflation data, to test whether 3.1% wage growth beats prices",
+      "importance": "medium",
+      "why": "Business Insider noted the wage-versus-inflation check is due Tuesday."
+    },
+    {
+      "date": "2026-12-08",
+      "time": "Dec. 8-9",
+      "event": "FOMC meeting",
+      "importance": "high",
+      "why": "CME FedWatch odds for a quarter-point hike were 76.8% after the jobs report (CNBC)."
     }
   ],
   "trending": [
+    "nasdaq-rebounds-after-correction-chips-lead-dow-flat-jobs-beat",
+    "jobs-report-preview-october-payrolls-8-30-am",
+    "futures-rebound-after-nasdaq-correction-chip-rout-oil-dollar-bitcoin",
     "close-recap-dow-gains-3-percent-democrats-sweep-oil-drops",
     "qualcomm-applovin-shares-move-after-hours-on-results",
     "dow-jumps-democrats-win-congress-yields-fall-dollar-slides",
     "apple-amazon-lead-rally-nvidia-slips-adp-86000",
     "amd-extends-post-earnings-gains-adp-report-due-815",
     "democrats-win-control-of-congress-midterms",
-    "futures-midterm-results-overnight-asia-europe-oil-dollar",
-    "close-recap-election-day-nasdaq-gains-dow-falls-apple-drags"
+    "futures-midterm-results-overnight-asia-europe-oil-dollar"
   ]
 }

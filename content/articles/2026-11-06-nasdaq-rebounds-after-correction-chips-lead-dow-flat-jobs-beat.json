@@ -1,0 +1,49 @@
+{
+  "slug": "nasdaq-rebounds-after-correction-chips-lead-dow-flat-jobs-beat",
+  "title": "Nasdaq Rebounds From Correction as Chips Lead; Dow Flat as Strong Jobs Report Lands",
+  "dek": "Stocks stabilized Friday after Thursday's AI-led rout. Chip shares led the rebound, the Dow was roughly flat, and the 8:30 a.m. ET jobs report beat forecasts.",
+  "section": "markets",
+  "tags": ["markets", "nasdaq", "chips", "jobs", "midday"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-06T15:46:00Z",
+  "updatedAt": "2026-11-06T15:46:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Yahoo Finance's live page, updated 7:46 a.m. PST (10:46 a.m. ET), showed the Dow up 0.1%, the S&P 500 up 1% and the Nasdaq Composite up 1.9% after its Thursday correction (Yahoo Finance).",
+    "Chip names led: Nvidia rose 5.9%, Micron 6.8%, AMD 10.2% and Broadcom 4.9% in the day's trading, per Trading Economics' daily summary.",
+    "The October jobs report showed payrolls up 165,000 against a Dow Jones forecast of 59,000; unemployment was 4.1% (BLS; CNBC).",
+    "Thursday's rout erased $2.3 trillion in market value; the Nasdaq logged its steepest one-day decline in 19 months (Yahoo Finance; Reuters via Yahoo).",
+    "On the week, Trading Economics put the S&P 500 down nearly 3%, the Dow off 0.5% and the Nasdaq lower by around 4.4% as of Friday's close."
+  ],
+  "body": "## Early trade: a bounce after the correction\n\nU.S. stocks steadied on Friday after Thursday's AI-led sell-off. At 10:46 a.m. ET, Yahoo Finance's live page showed the Dow up 0.1%, the S&P 500 up 1% and the Nasdaq Composite up 1.9%. The Nasdaq had slipped into correction territory on Thursday, and the rout had erased $2.3 trillion of market value, Yahoo reported.\n\nThe concern behind the sell-off was less about this week's data than about whether a Democratic sweep of Congress would slow data-center construction and AI spending. Chip stocks took the hardest hit and then led the rebound.\n\n## Chips lead the rebound\n\nTrading Economics' daily summary described technology as the top-performing sector and consumer staples as the laggard. It reported Nvidia up 5.9%, Broadcom up 4.9%, Micron Technology up 6.8% and AMD up 10.2%, with Tesla up 1.9%. Dip-buying in the major chipmakers is what paused the sell-off, the summary said.\n\n## The jobs report lands at 8:30 a.m.\n\nThe Bureau of Labor Statistics reported that nonfarm payrolls rose 165,000 in October, above the Dow Jones forecast of 59,000 (CNBC), though Business Insider cited a 65,000 consensus, and that the unemployment rate changed little at 4.1%. The BLS also reported average hourly earnings up 0.4% on the month and 3.1% over the year. Professional and business services led with a gain of 70,000, followed by health care at 42,000.\n\nTraders had been pricing a rate increase from the Federal Reserve. CME FedWatch odds for a quarter-point hike at the Dec. 8-9 meeting were 76.8% after the report, according to CNBC.\n\n## What we do not know yet\n\nThe picture is intraday. None of the sources reviewed gives a settled close, and the Trading Economics figures are a daily summary rather than a timed quote. Readers should treat the index levels above as a point-in-time snapshot.\n",
+  "marketImpact": {
+    "summary": "The rebound is led by chips, which carry the most direct exposure to the AI-spending worry. The stronger jobs report adds to rate-hike odds, which is a headwind for rate-sensitive stocks even as it steadies sentiment.",
+    "timeframe": "Friday, Nov. 6, from the 8:30 a.m. ET jobs release through the midday session",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "^IXIC", "direction": "up", "rationale": "Nasdaq Composite up 1.9% at 10:46 a.m. ET (Yahoo Finance), after its correction on Thursday." },
+      { "symbol": "NVDA", "direction": "up", "rationale": "Up 5.9% in the day's trading (Trading Economics)." },
+      { "symbol": "^DJI", "direction": "down", "rationale": "Dow was roughly flat, up 0.1% at 10:46 a.m. ET (Yahoo Finance), with the jobs beat weighing against it." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-06", "event": "October Employment Situation, released 8:30 a.m. ET (BLS)." },
+      { "date": "2026-12-08", "event": "FOMC meeting Dec. 8-9; hike odds at 76.8% (CME FedWatch via CNBC)." }
+    ]
+  },
+  "sources": [
+    { "title": "Stock market today: Nasdaq, S&P 500 rebound after brutal sell-off as US adds 165K jobs", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html", "accessedAt": "2026-11-06" },
+    { "title": "Stock Market Update: S&P 500 edges higher; US economy adds 165,000 jobs in October", "publisher": "Trading Economics", "url": "https://tradingeconomics.com/united-states/stock-market", "accessedAt": "2026-11-06" },
+    { "title": "Employment Situation Summary - October 2026", "publisher": "Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/empsit.nr0.htm", "accessedAt": "2026-11-06" },
+    { "title": "U.S. economy added 165,000 jobs in October, way more than expected", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html", "accessedAt": "2026-11-06" }
+  ]
+}
