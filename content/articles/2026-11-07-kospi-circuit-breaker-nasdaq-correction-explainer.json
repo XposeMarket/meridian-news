@@ -1,0 +1,50 @@
+{
+  "slug": "kospi-circuit-breaker-nasdaq-correction-explainer",
+  "title": "Explainer: How the Nasdaq Correction and Seoul's Kospi Circuit Breaker Are Linked",
+  "dek": "Samsung Electronics and SK Hynix make up more than half of the Kospi, so their slump on Friday halted trading in Seoul. Here is how it connects to Wall Street's chip rout.",
+  "section": "markets",
+  "tags": ["kospi", "circuit-breaker", "nasdaq", "correction", "samsung", "sk-hynix", "explainer"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-07T17:15:00Z",
+  "updatedAt": "2026-11-07T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Kospi fell as much as 8.5% to 8.8% at the open on Friday (reports differ), triggering a circuit breaker at about 9:03 a.m. Seoul time and a trading halt of about 20 minutes.",
+    "Samsung Electronics and SK Hynix together account for more than half of the Kospi's market value, so their drop moved the whole index.",
+    "The Nasdaq Composite fell into correction territory on Thursday, then rose 1.09% on Friday (CNBC).",
+    "Both selloffs were tied to doubts that AI infrastructure spending will pay off, which was reinforced by the U.S. midterm results."
+  ],
+  "body": "## What a circuit breaker is\n\nA circuit breaker is an automatic pause in trading when an index falls by a set percentage. On Friday, Seoul's Kospi dropped sharply at the open, and the Korea Exchange halted trading at about 9:03 a.m. local time. Reports put the opening drop between 8.5% and 8.8%, and the index fell below 5,000 before trading froze for roughly 20 minutes, according to the Korea JoongAng Daily and Startup Fortune, which cited Xinhua and South Korea's SBS. Chosun Biz described the day as a sector-led selloff despite strong chip profits. Korean outlets said it was the 11th trading halt of 2026 on a single-day plunge.\n\n## Why one index moved so much\n\nSamsung Electronics and SK Hynix account for more than half of the Kospi's total market value. Both are leading makers of high-bandwidth memory, the chips used in Nvidia's AI accelerators. When foreign investors sold both at once, there was no other large stock in the index to offset the drop. That concentration is why a sell-off in two companies can trip a circuit breaker for the whole market.\n\n## How it connects to Wall Street\n\nThe trigger came from the U.S. Tuesday midterm results. Democrats took the House and, in several races, the Senate, and traders had been warned that a sweep could weigh on AI-linked stocks. Bank of America's Michael Hartnett had said a full sweep could bring a 10% slide in U.S. stocks, given the risk to the AI complex. Citigroup's Scott Chronert called it a marginal negative for the AI trade and the deregulation bet investors had placed on chip stocks.\n\nOn Wall Street, the Nasdaq Composite fell into correction territory on Thursday, meaning it was more than 10% below its record. The rout erased about $2.3 trillion of market value, the Nasdaq's steepest one-day decline in 19 months, according to Yahoo Finance's coverage.\n\n## Friday's partial rebound\n\nU.S. stocks recovered on Friday. The Nasdaq Composite closed up 1.09% at 24,579.42, the S&P 500 rose 0.31% to 7,376.86, and the Dow fell 237.33 points to 51,285.73 (CNBC live coverage). Chip stocks led the bounce, with a semiconductor measure up about 4.6% after a drop of more than 12% the day before (GV Wire). The sources reviewed for this piece did not report a full Seoul recovery, so none is described here.\n\n## What to watch\n\nThe key question is whether chip-stock earnings and AI capital spending plans reassure investors. Kospi's concentration means Samsung and SK Hynix results, and their guidance, will move the index. For U.S. investors, the same question applies to Nvidia-linked suppliers and the Nasdaq's heavy weighting in semiconductors. Nothing in this explainer is investment advice; the figures are as reported by the cited outlets and may be revised."
+  ,
+  "marketImpact": {
+    "summary": "The Kospi halt and the Nasdaq correction share one driver: doubts about AI infrastructure spending. Samsung and SK Hynix are the most direct exposure in Seoul, and Nvidia-linked chip names are the most direct exposure in the U.S. A recovery in AI-capex expectations would help both markets; further doubts would keep the chip sector volatile.",
+    "timeframe": "Next 1-2 sessions in Seoul and New York, then the week of Nov. 9 earnings",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Central to the AI-chip selloff and rebound; its suppliers are the main link to the Kospi drop" },
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq-100 exposure to the correction and the partial rebound" },
+      { "symbol": "AMAT", "direction": "watch", "rationale": "Chip-equipment earnings in the week of Nov. 9 test AI-capex expectations" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-09", "event": "Tech earnings week begins, including Applied Materials (dates to confirm)" },
+      { "date": "2026-11-10", "event": "October CPI report (tentative, per Schaeffer's)" }
+    ]
+  },
+  "sources": [
+    { "title": "Kospi tracks U.S. stocks to tank nearly 9% after opening, triggering circuit breaker", "publisher": "Korea JoongAng Daily", "url": "https://www.koreajoongangdaily.com/business/kospi-tracks-us-stocks-to-tank-nearly-9-after-opening-triggering-circuit-breaker/12959005", "accessedAt": "2026-11-07" },
+    { "title": "Korea's chip slump defies record profits as sector-led selloff hits KOSPI", "publisher": "CHOSUNBIZ", "url": "https://biz.chosun.com/en/en-finance/2026/11/06/X2AZ43ZDBBDEDAWVKZGAQM3LTU/", "accessedAt": "2026-11-07" },
+    { "title": "Kospi halts trading as Samsung and SK Hynix crater", "publisher": "Startup Fortune", "url": "https://startupfortune.com/kospi-circuit-breaker-halts-trading-as-samsung-and-sk-hynix-crater/", "accessedAt": "2026-11-07" },
+    { "title": "Nasdaq attempts to recover from worst rout in 19 months as AI stocks see some buying: Live updates", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html", "accessedAt": "2026-11-07" },
+    { "title": "Nasdaq Rebounds as Chips Stocks Recover From Steep Losses", "publisher": "GV Wire", "url": "https://gvwire.com/2026/11/06/nasdaq-rebounds-as-chips-stocks-recover-from-steep-losses/", "accessedAt": "2026-11-07" }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-06T21:30:00Z",
-  "edition": "afternoon",
-  "leadSlug": "nasdaq-rebounds-after-correction-chips-lead-dow-flat-jobs-beat",
+  "updatedAt": "2026-11-07T17:15:00Z",
+  "edition": "midday",
+  "leadSlug": "week-ahead-cpi-chip-selloff-earnings-nov-9-13",
   "marketBrief": {
-    "headline": "Nasdaq rebounds 1.09% to 24,579 after Thursday's rout; Dow slips 237 points",
-    "summary": "The Nasdaq Composite closed up 1.09% at 24,579.42 and the S&P 500 rose 0.31% to 7,376.86, per CNBC's live coverage. The Dow fell 237.33 points to 51,285.73. The week still closed lower for all three indexes. DraftKings was the day's biggest casualty after a Q3 miss and a profit-outlook cut. Friday's earnings slate was led by Moderna, Humana and Vistra, which all reported before the open.",
+    "headline": "Week ahead: October CPI on Tuesday after a chip rout and partial rebound",
+    "summary": "Markets were closed Saturday. Friday's close (as of Nov. 6): the Nasdaq Composite rose 1.09% to 24,579.42 and the S&P 500 rose 0.31% to 7,376.86, while the Dow fell 237.33 points to 51,285.73 (CNBC live updates). The week still closed lower for all three indexes. October CPI is the main data event on Tuesday, Nov. 10, and the December hike odds sit near 76.8% after the 165,000-job report.",
     "bullets": [
-      "Nasdaq Composite +1.09% to 24,579.42; S&P 500 +0.31% to 7,376.86; Dow -237.33 points (-0.46%) to 51,285.73 (CNBC live updates).",
-      "Week: Nasdaq -3.37%, S&P 500 -2.68%, Dow -0.94% (Investrade closing recap).",
-      "VIX fell 15.73% on Friday after jumping 69.7% on Thursday (Yahoo Finance quote page; Zacks via Yahoo Finance).",
-      "DraftKings closed near $17.44, down about 25.9% after a Q3 miss and a cut to its 2026 profit outlook (GuruFocus).",
-      "Moderna raised 2026 revenue growth guidance to 15%-25%; Humana raised adjusted EPS guidance to at least $9.50; Vistra raised its EBITDA guidance midpoint (company releases)."
+      "Friday close (Nov. 6): Nasdaq Composite +1.09% to 24,579.42; S&P 500 +0.31% to 7,376.86; Dow -0.46% to 51,285.73 (CNBC live updates).",
+      "Week to Friday: Nasdaq -3.37%, S&P 500 -2.68%, Dow -0.94% (Investrade closing recap).",
+      "Tuesday, Nov. 10: October CPI and core CPI (dates tentative per Schaeffer's Research).",
+      "Earnings week of Nov. 9: Applied Materials, CoreWeave, Nebius and Cisco named as main tech reports (Investrade; confirm dates against company releases).",
+      "Kospi halted for about 20 minutes on Friday after Samsung Electronics and SK Hynix led an 8.5%-8.8% opening drop (Korea JoongAng Daily; Startup Fortune)."
     ],
-    "asOf": "2026-11-06T21:30:00Z"
+    "asOf": "2026-11-07T17:15:00Z"
   },
   "marketSnapshot": [
     {
@@ -82,17 +82,31 @@
   "calendar": [
     {
       "date": "2026-11-09",
-      "time": "Week of Nov. 9",
-      "event": "Tech earnings: Applied Materials, Nebius, CoreWeave, Cisco (dates to confirm against company releases)",
-      "importance": "high",
-      "why": "Investrade named these as the main tech reports next week, after the AI-spending selloff (Investrade closing recap)."
+      "time": "Monday",
+      "event": "Monthly wholesale trade data; tech earnings week begins",
+      "importance": "medium",
+      "why": "Schaeffer's Research lists wholesale trade for Monday; Investrade named Applied Materials, Nebius, CoreWeave and Cisco as the main tech reports (dates to confirm against company releases)."
     },
     {
       "date": "2026-11-10",
       "time": "Tuesday",
-      "event": "October CPI inflation report",
+      "event": "October CPI and core CPI; NFIB small-business index",
       "importance": "high",
-      "why": "Investrade flagged Tuesday's CPI as the next test after the jobs beat; the wage gain was +3.1% y/y (CNBC)."
+      "why": "The inflation print is the week's main test after the 165,000-job report; CME FedWatch put December hike odds at 76.8% after the jobs report (CNBC). Dates tentative per Schaeffer's."
+    },
+    {
+      "date": "2026-11-12",
+      "time": "Thursday",
+      "event": "Weekly jobless claims; existing home sales",
+      "importance": "medium",
+      "why": "Schaeffer's Research lists these releases for Thursday; claims are a read on the labor market after the October beat."
+    },
+    {
+      "date": "2026-11-13",
+      "time": "Friday",
+      "event": "October PPI",
+      "importance": "medium",
+      "why": "Closes the week's economic calendar; Schaeffer's Research lists it for Friday, tentatively."
     },
     {
       "date": "2026-12-08",
@@ -103,6 +117,8 @@
     }
   ],
   "trending": [
+    "week-ahead-cpi-chip-selloff-earnings-nov-9-13",
+    "kospi-circuit-breaker-nasdaq-correction-explainer",
     "nasdaq-rebounds-after-correction-chips-lead-dow-flat-jobs-beat",
     "jobs-report-preview-october-payrolls-8-30-am",
     "futures-rebound-after-nasdaq-correction-chip-rout-oil-dollar-bitcoin",
@@ -110,8 +126,6 @@
     "qualcomm-applovin-shares-move-after-hours-on-results",
     "dow-jumps-democrats-win-congress-yields-fall-dollar-slides",
     "apple-amazon-lead-rally-nvidia-slips-adp-86000",
-    "amd-extends-post-earnings-gains-adp-report-due-815",
-    "democrats-win-control-of-congress-midterms",
-    "futures-midterm-results-overnight-asia-europe-oil-dollar"
+    "democrats-win-control-of-congress-midterms"
   ]
 }

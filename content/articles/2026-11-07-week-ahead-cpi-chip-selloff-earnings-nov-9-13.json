@@ -1,0 +1,53 @@
+{
+  "slug": "week-ahead-cpi-chip-selloff-earnings-nov-9-13",
+  "title": "Week Ahead: October CPI Leads a Light Data Week as Chip Stocks Try to Steady",
+  "dek": "Inflation data on Tuesday is the main test after a hot jobs report, a Fed rate-hike debate and a chip rout that Friday's rebound only partly reversed.",
+  "section": "markets",
+  "tags": ["week-ahead", "cpi", "inflation", "chips", "earnings", "fed", "nasdaq"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-07T17:15:00Z",
+  "updatedAt": "2026-11-07T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "October CPI and core CPI are due Tuesday, Nov. 10; PPI follows on Friday, Nov. 13 (Schaeffer's Research calendar, dates tentative).",
+    "Applied Materials, CoreWeave, Nebius, Cisco and Constellation Energy are among the earnings names expected in the week of Nov. 9.",
+    "Friday's close left the Nasdaq Composite up 1.09% for the session but down 3.37% for the week (CNBC; Investrade).",
+    "December rate-hike odds rose to about 76.8% after the 165,000-job October report (CNBC)."
+  ],
+  "body": "## The main event: October CPI\n\nThe week opens quietly. Monday brings monthly wholesale trade data, and Tuesday's October consumer price index and core CPI readings are the headline release. Schaeffer's Research notes that the NFIB small-business index also lands Tuesday, but the inflation print will set the tone. The dates are tentative and should be checked against the Bureau of Labor Statistics schedule before trading.\n\nThe timing matters because the labor data from Friday has already pushed rate expectations higher. The October jobs report showed 165,000 payrolls and an unemployment rate of 4.1%, well above the forecasts cited by CNBC and other outlets. CME FedWatch odds of a quarter-point hike at the Dec. 8-9 meeting rose to about 76.8% after the report, according to CNBC. A cooler CPI would ease that pressure; a hot one would reinforce it.\n\n## Chips: a selloff, then a partial rebound\n\nThursday's rout was led by semiconductors. The Nasdaq Composite fell into correction territory, and the rout erased roughly $2.3 trillion of market value, according to Yahoo Finance's coverage of the session. Friday brought a bounce: the Nasdaq Composite closed up 1.09% at 24,579.42, and a broader semiconductor measure rose about 4.6% after a drop of more than 12% the day before (GV Wire). The S&P 500 finished up 0.31% at 7,376.86, while the Dow lost 237.33 points to 51,285.73 (CNBC live coverage).\n\nThe rebound did not repair the week. Investrade's closing recap put the Nasdaq down 3.37%, the S&P 500 down 2.68% and the Dow down 0.94% for the week. Traders will watch whether chip stocks can hold their Friday gains through a week in which the bulk of the AI-linked earnings are still ahead.\n\n## Earnings: a slower week with AI names in focus\n\nSchaeffer's Research expects earnings season to cool this week. Names on its list include Applied Materials (AMAT), CoreWeave (CRWV), Constellation Energy (CEG), AST SpaceMobile (ASTS), Hims & Hers (HIMS), On Holding (ONON), Sea (SE), Take-Two (TTWO) and YETI. Investrade named Applied Materials, Nebius, CoreWeave and Cisco as the main tech reports next week. Exact dates should be confirmed against company releases before anyone acts on them.\n\nApplied Materials and CoreWeave matter most for the chip and AI-infrastructure story, because they sit closest to the spending doubts that drove Thursday's selloff.\n\n## Fed speakers and the rest of the calendar\n\nWeekly jobless claims arrive Thursday, Nov. 12, along with existing home sales. The producer price index closes the week on Friday, Nov. 13. We did not find a confirmed list of Federal Reserve speaking appearances for the week in the sources reviewed for this edition, so none is included here. Any speech by a rate-setter would add to the hike debate.\n\n## What it means for markets\n\nA firm CPI print would keep pressure on rate-sensitive stocks and support Treasury yields, while a softer one could help the chip rebound extend. Friday's session suggests the market is still deciding whether Thursday's AI selloff was a repricing or an overreaction. The week's data will likely settle that question only partly."
+  ,
+  "marketImpact": {
+    "summary": "The week is driven by inflation data and rate expectations rather than new company news. A hot CPI would reinforce the December hike odds and weigh on rate-sensitive and high-multiple AI stocks. A cooler print could support the chip rebound. Earnings from AI-infrastructure names are the main company-specific swing factor.",
+    "timeframe": "Monday, Nov. 9 through Friday, Nov. 13",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq-100 exposure to the chip and AI selloff and rebound; CPI on Tuesday is the swing event" },
+      { "symbol": "AMAT", "direction": "watch", "rationale": "Chip-equipment earnings in the week of Nov. 9; sensitive to AI capex doubts" },
+      { "symbol": "CRWV", "direction": "watch", "rationale": "AI-infrastructure earnings in the week of Nov. 9; sensitive to AI spending expectations" },
+      { "symbol": "TLT", "direction": "watch", "rationale": "Long Treasuries react to CPI and the December hike odds" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-09", "event": "Monthly wholesale trade data; tech earnings week begins (dates to confirm)" },
+      { "date": "2026-11-10", "event": "October CPI and core CPI; NFIB small-business index (tentative, per Schaeffer's)" },
+      { "date": "2026-11-12", "event": "Weekly jobless claims; existing home sales" },
+      { "date": "2026-11-13", "event": "October PPI (tentative, per Schaeffer's)" }
+    ]
+  },
+  "sources": [
+    { "title": "The Week Ahead: Inflation Data on Deck as Earnings Slow", "publisher": "Schaeffer's Research", "url": "https://www.schaeffersresearch.com/content/news/2026/11/05/the-week-ahead-inflation-data-on-deck-as-earnings-slow", "accessedAt": "2026-11-07" },
+    { "title": "Stock market today: Nasdaq and S&P 500 rebound after brutal sell-off as US adds 165K jobs", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html", "accessedAt": "2026-11-07" },
+    { "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html", "accessedAt": "2026-11-07" },
+    { "title": "Nasdaq Rebounds as Chips Stocks Recover From Steep Losses", "publisher": "GV Wire", "url": "https://gvwire.com/2026/11/06/nasdaq-rebounds-as-chips-stocks-recover-from-steep-losses/", "accessedAt": "2026-11-07" },
+    { "title": "Market Review: November 06, 2026", "publisher": "Investrade", "url": "https://investrade.com/market-review-november-06-2026/", "accessedAt": "2026-11-07" }
+  ]
+}
