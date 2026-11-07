@@ -1,0 +1,34 @@
+{
+  "slug": "rubin-observatory-finds-two-hidden-milky-way-companions",
+  "title": "Rubin Observatory Finds Two Hidden Milky Way Companions in Early Data",
+  "dek": "Astronomers identified Aquarius IV, a faint galaxy about 355,000 light-years away, and Rubin-GC1, a star cluster behind cosmic dust, from preview data covering about 7% of the sky.",
+  "section": "science",
+  "tags": ["astronomy", "Milky Way", "Rubin Observatory", "satellite galaxies", "Vera Rubin", "dark matter"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-07T21:30:00Z",
+  "updatedAt": "2026-11-07T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vera_C_Rubin_Observatory_in_the_Snow_%28IMG_0315-CC%29.jpg",
+    "alt": "The Vera C. Rubin Observatory on Cerro Pachón, Chile, covered in snow",
+    "credit": "NOIRLab/NSF/AURA/C. Corco via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vera_C_Rubin_Observatory_in_the_Snow_(IMG_0315-CC).jpg"
+  },
+  "keyPoints": [
+    "Aquarius IV is an ultra-faint galaxy in the Milky Way's distant outskirts, about 355,000 light-years away, according to ScienceDaily's summary of the Yale release.",
+    "Rubin-GC1 is a star cluster on the far side of the galaxy, inside a dust-obscured region; a study published Oct. 28 in The Astrophysical Journal Letters describes it.",
+    "The discoveries came from preview data covering only about 7% of the night sky.",
+    "About 65 satellite galaxies of the Milky Way are known; some estimates suggest hundreds more remain undetected.",
+    "The 10-year Legacy Survey of Space and Time began in June, and its main goal includes mapping the galaxy's halo for hidden satellites."
+  ],
+  "body": "The Vera C. Rubin Observatory in Chile has found two previously unknown companions of the Milky Way in early data, an early sign of what its full survey could reveal.\n\n## Two new neighbors\n\nThe first object, Aquarius IV, is a tiny galaxy in the distant outskirts of the Milky Way, roughly 355,000 light-years from Earth. A study led by Yale graduate student William Cerny was published in Research Notes of the AAS. The team identified it with automated search algorithms, and it is barely detectable by eye in the survey image.\n\nThe second, Rubin-GC1, is a star cluster on the far side of the galaxy. It sits inside a region shrouded by cosmic dust, and it stands out because it resolves into many individual stars. A separate study published Oct. 28 in The Astrophysical Journal Letters describes it. University of Washington researchers co-authored both studies.\n\n## Why the sky coverage matters\n\nThe two discoveries came from preview data covering only about 7% of the night sky. The telescope's 3.2-gigapixel camera, which the University of Washington describes as the largest digital camera ever built, is designed to see faint objects over a much larger area.\n\nAstronomers have identified about 65 satellite galaxies around the Milky Way, but some estimates suggest hundreds more are still hidden. Finding the faintest ones depends on a clean stellar catalog. Peter Ferguson, a University of Washington postdoctoral scholar and co-author of both studies, said a handful of misclassified galaxies or spurious detections can erase the signal entirely.\n\n## What comes next\n\nRubin began its 10-year Legacy Survey of Space and Time in June. One of its main missions is to map the Milky Way's halo, the cloud of gas, stars and dark matter that surrounds the galaxy, and to find hidden satellites and star clusters. The researchers say the new satellites could help test models of galaxy formation and the history of how the Milky Way assembled.\n\nThe findings are early detections from preview data, so the full population of hidden satellites is not yet measured.",
+  "sources": [
+    { "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting", "publisher": "ScienceDaily (Yale University release)", "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm", "accessedAt": "2026-11-07" },
+    { "title": "Rubin observatory reveals two hidden companions of the Milky Way", "publisher": "University of Washington News", "url": "https://www.washington.edu/news/2026/11/05/rubin-observatory-milky-way-satellites/", "accessedAt": "2026-11-07" }
+  ]
+}

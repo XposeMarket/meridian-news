@@ -1,0 +1,47 @@
+{
+  "slug": "microchip-says-ai-buyers-crowd-out-chip-supply-stock-falls-10",
+  "title": "Microchip Says AI Buyers Crowded Out Its Suppliers, and Shares Fell 10%",
+  "dek": "CEO Steve Sanghi said lead times have stretched from four to eight weeks to six to 32 weeks, pushing revenue into later quarters, while December guidance steps down.",
+  "section": "ai-tech",
+  "tags": ["Microchip", "MCHP stock", "chip shortage", "AI demand", "data centers", "semiconductors"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-07T21:30:00Z",
+  "updatedAt": "2026-11-07T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/NVidia_G71_GPU.jpg",
+    "alt": "Close-up of an Nvidia GPU chip on a circuit board",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVidia_G71_GPU.jpg"
+  },
+  "keyPoints": [
+    "Microchip reported September-quarter net sales of $1.622 billion on Nov. 5, above the top of its guidance, and said it could have shipped more if AI buyers had not taken supplier capacity.",
+    "Standard product lead times have stretched from four to eight weeks to six to 32 weeks, according to 24/7 Wall St. and Yahoo Finance.",
+    "The stock fell 10.02% to $58.35 on Nov. 6 and is down 22.55% from its $75.34 close on Nov. 4, per 24/7 Wall St.",
+    "About $53 million of September-quarter sales came from one-time items at a 100% gross margin, which explains the lower December guidance of $1.573 billion to $1.638 billion.",
+    "Sanghi said most major foundries and assembly and test houses are expected to raise prices again around January; Microchip plans to absorb them for now."
+  ],
+  "body": "Microchip Technology beat its own forecast last week, but its chief executive said the company could have sold even more if AI customers had not taken over the factories that make its chips. The stock fell sharply on Friday.\n\n## What Microchip said\n\nMicrochip reported net sales of $1.622 billion for the September quarter, up 42.2% from a year earlier and above the high end of its guidance, according to 24/7 Wall St. Non-GAAP earnings were $0.97 a share. The company gave December-quarter guidance of $1.573 billion to $1.638 billion.\n\nChief Executive Steve Sanghi said shortages are back in parts of the chip supply chain. AI companies, he said, \"came in and took over the whole factory. They pushed everybody out.\"\n\n## Why supply is tight\n\nMicrochip's own customers still want more parts than it can supply. Data center buyers have taken packaging and test lines at outside assembly and test houses, and some substrates are unavailable, according to the 24/7 Wall St. account of the call. Standard products that once shipped in four to eight weeks now take six to 32 weeks. Orders placed inside those lead times often go unfilled, which moves revenue into later quarters.\n\nSanghi said moving that work in-house or to other suppliers would take about six months. He also said some deceleration in AI demand would be \"quite positive early on,\" a comment that reflects how hard it is for smaller chip makers to get capacity.\n\n## The guidance question\n\nThe December outlook looks weaker mainly because of the September quarter's one-time items. The CFO said about $53 million of sales came from items that will not repeat, all at a 100% gross margin. Those included about $21 million from a price change on distributor inventory, $22 million of extra patent licensing and $10 million from a customer contract. Without them, the company's underlying base is smaller, and the guidance midpoint is still up year over year.\n\nYahoo Finance and 24/7 Wall St. both reported that the stock fell about 10% on Friday, after a 13.9% drop on Thursday during a wider chip selloff. Analyst views on how long the shortage lasts were not in the sources reviewed.\n\n## What to watch\n\nThe next checkpoints are whether lead times ease as new capacity comes online, and whether foundry and assembly price increases expected around January reach Microchip's margins. Investors will also be looking at whether AI demand keeps crowding out other chip buyers.",
+  "marketImpact": {
+    "summary": "Microchip (MCHP) fell about 10% after the company flagged supply constraints and a lower December guidance step-down, largely from non-recurring September items. The shortage supports pricing power for chip makers with capacity, but squeezes customers and margins at firms that depend on outside assembly and test. The stock reaction reflects the guidance step-down more than a change in AI demand.",
+    "timeframe": "Next 1-3 months, until the December-quarter report and any update on lead times",
+    "confidence": "medium",
+    "catalysts": [
+      { "date": "2026-11-05", "event": "Microchip reports September-quarter results and says AI buyers are crowding out supplier capacity" },
+      { "date": "2026-11-06", "event": "Shares fall 10.02% to $58.35, after a 13.9% drop the day before" }
+    ],
+    "tickers": [
+      { "symbol": "MCHP", "direction": "down", "rationale": "Guidance step-down and supply constraints hit the stock; down 22.55% from its Nov. 4 close" }
+    ]
+  },
+  "sources": [
+    { "title": "The Chip Shortage Is Back, and Microchip Says AI Customers Are Crowding Everyone Out", "publisher": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/", "accessedAt": "2026-11-07" },
+    { "title": "The Chip Shortage Is Back, and Microchip Says AI Customers Are Crowding Everyone Out", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/articles/chip-shortage-back-microchip-says-134647000.html", "accessedAt": "2026-11-07" },
+    { "title": "Microchip Sales Up 42%; Ex-One-Offs Its Guide Points Up 2.4%", "publisher": "FourWeekMBA", "url": "https://fourweekmba.com/ai-microchip-sales-up-42-ex-one-offs-its-guide-points-up-2-4/", "accessedAt": "2026-11-07" }
+  ]
+}
