@@ -1,0 +1,50 @@
+{
+  "slug": "friday-close-chips-energy-drag-tech-sector-weekly-scorecard",
+  "title": "Weekly Scorecard: Tech and Energy Sectors Took the Worst of the Week's Losses; Friday's Rebound Did Not Reverse It",
+  "dek": "The Nasdaq, S&P 500 and Dow all finished the week lower after the chip-led sell-off. Technology fell about 7% and energy about 11% for the week, according to Yahoo Finance data.",
+  "section": "markets",
+  "tags": ["sectors", "chips", "nasdaq", "weekly", "ai", "energy"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-07T21:45:00Z",
+  "updatedAt": "2026-11-07T21:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Week to Friday, Nov. 6: Nasdaq Composite -3.37%, S&P 500 -2.68%, Dow -0.94% (Investrade closing recap).",
+    "Friday's close: Nasdaq +1.09% to 24,579.42; S&P 500 +0.31% to 7,376.86; Dow -0.46% to 51,285.73 (CNBC live updates).",
+    "Technology (XLK) fell about 7% and energy (XLE) about 11% for the week, per Yahoo Finance's live coverage; both sectors had been key beneficiaries of the AI and oil trades.",
+    "Nvidia, AMD and Intel were still lower for the week even though chip stocks rebounded on Friday (Yahoo Finance live coverage)."
+  ],
+  "body": "## The week in numbers\n\nThe three major U.S. indexes all finished the week lower. Investrade's closing recap puts the Nasdaq Composite down 3.37%, the S&P 500 down 2.68% and the Dow Jones Industrial Average down 0.94% for the week to Friday, Nov. 6. The Friday session was a partial rebound. CNBC's live coverage shows the Nasdaq up 1.09% to 24,579.42, the S&P 500 up 0.31% to 7,376.86 and the Dow down 237.33 points to 51,285.73.\n\nThose numbers understate how concentrated the damage was. Yahoo Finance's live coverage on Friday reported that technology (XLK) and energy (XLE) stocks fell about 7% and 11% for the week. Those are the two sectors most directly tied to this autumn's dominant trades, artificial intelligence hardware and oil tied to the Iran conflict. When both fall at once, the market is repricing two themes at the same time.\n\n## Chips: a rebound that did not hold\n\nThursday was the sharpest day. The Nasdaq logged its steepest one-day decline in 19 months and erased about $2.3 trillion of market value, according to Yahoo Finance and Reuters coverage relayed through Yahoo. On Friday, chip stocks bounced. Nvidia rose 5.9%, Micron 6.8%, AMD 10.2% and Broadcom 4.9% during the session, per Trading Economics' daily summary.\n\nBut Yahoo's Friday live page also noted that the PHLX-style semiconductor gauge ended in negative territory for the week, and that Nvidia, AMD and Intel were still down on the week. The rebound recovered part of the damage without reversing it.\n\nThe Yahoo coverage also flagged speculation that Anthropic, the AI developer expected to go public later this month, may need to lower its valuation. That is a reported rumor in market commentary, not a confirmed development, and we have not verified it against a company statement.\n\n## Energy: oil's weekly fall\n\nEnergy's 11% weekly decline came alongside a sharp fall in crude. CNBC reported that oil was set for its sharpest weekly drop after the midterm elections as investors weighed Iran conflict risk. Brent had reached a weekly peak above $110 on Monday before falling back to about $96.93 by early Friday, according to CNBC. The swing reflects a market that is no longer pricing the same geopolitical premium it carried earlier in the week.\n\n## Why the rebound was partial\n\nFriday's jobs report was the main macro event. Payrolls rose 165,000 in October against a forecast of 59,000, and the unemployment rate was 4.1%, according to the Bureau of Labor Statistics. The beat steadied sentiment, but it also lifted the odds of a Federal Reserve rate increase at the Dec. 8-9 meeting to about 76.8% per CME FedWatch, as CNBC reported. A market facing higher rates is a poor backdrop for long-duration growth stocks, which is part of why chips rebounded only partly.\n\n## What this means for the coming week\n\nThe test is whether chip and energy leadership can stabilize before the next catalysts. October CPI on Tuesday, Nov. 10 is the key macro input, and the tech earnings slate that week, including Applied Materials, Nebius, CoreWeave and Cisco per Investrade, will test AI demand expectations. Dates should be confirmed against company releases.\n\nThe weekly figures here come from different aggregators and differ slightly by source. Investrade's and CNBC's numbers are reported separately above rather than blended.",
+  "marketImpact": {
+    "summary": "The sector scorecard shows the market's damage is concentrated in AI hardware and energy, not spread across the index. If chips fail to hold Friday's bounce, the Nasdaq is exposed to another leg lower on Monday. If CPI cools on Tuesday, both sectors have room to recover, but the Fed hike debate limits the upside in long-duration tech.",
+    "timeframe": "Next 2-3 sessions, through the Tuesday CPI release",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Largest chip weight; its Friday rebound has to hold for the group to stabilize" },
+      { "symbol": "AMD", "direction": "watch", "rationale": "Strong Friday bounce after a steep week; high beta to the AI trade" },
+      { "symbol": "XLE", "direction": "watch", "rationale": "Energy fell about 11% in the week as crude retreated from its weekly peak" },
+      { "symbol": "XLK", "direction": "watch", "rationale": "Technology sector ETF down about 7% for the week" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-09", "event": "Week of Nov. 9: tech earnings including Applied Materials, Nebius, CoreWeave and Cisco (Investrade; confirm dates)" },
+      { "date": "2026-11-10", "event": "October CPI and core CPI (dates per Schaeffer's Research; confirm against BLS)" }
+    ]
+  },
+  "sources": [
+    { "title": "Market Review: November 06, 2026", "publisher": "Investrade", "url": "https://investrade.com/market-review-november-06-2026/", "accessedAt": "2026-11-07" },
+    { "title": "Stock market today: Nasdaq, S&P 500 rebound after brutal sell-off as US adds 165K jobs", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html", "accessedAt": "2026-11-07" },
+    { "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June", "publisher": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984", "accessedAt": "2026-11-07" },
+    { "title": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html", "accessedAt": "2026-11-07" },
+    { "title": "Employment Situation Summary - 2026 M10 Results", "publisher": "U.S. Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/empsit.nr0.htm", "accessedAt": "2026-11-07" }
+  ]
+}

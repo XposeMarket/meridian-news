@@ -1,0 +1,48 @@
+{
+  "slug": "bitcoin-ether-weekly-loss-etf-outflows-fed-hike-odds",
+  "title": "Bitcoin Holds Near $76,000 After a Losing Week as ETF Outflows and Rate-Hike Odds Weigh",
+  "dek": "Spot bitcoin ETFs logged their worst week since June, and ether funds extended a six-week outflow run. Here is what drove the weekend move and what traders are watching next.",
+  "section": "crypto",
+  "tags": ["bitcoin", "ether", "crypto", "etf", "fed"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-07T21:30:00Z",
+  "updatedAt": "2026-11-07T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "U.S. spot bitcoin ETFs had $1.28 billion of net outflows in the week to Nov. 6, their worst week since late June, and their 2026 net flows turned negative at about $914.1 million (The Block, SoSoValue data).",
+    "Spot ether ETFs lost $365.3 million, their sixth straight negative week (The Block).",
+    "Bitcoin traded near $76,070 on Saturday, about 2.9% below its weekly open of $78,354 (crypto.news, TradingView chart).",
+    "The 50-week moving average, near $75,562, is the level traders are watching just below spot (crypto.news)."
+  ],
+  "body": "## A losing week for the big tokens\n\nBitcoin finished the trading week to Nov. 6 lower, and ether fell further. Markets for crypto trade through the weekend, so the figures below are the latest available as of Saturday afternoon, not a Friday-close equity print.\n\nThe clearest hard number comes from U.S. exchange-traded funds. The 12 U.S.-listed spot bitcoin funds recorded $1.28 billion of net outflows last week, according to The Block's analysis of SoSoValue data. That was their worst week since late June and their second straight negative week. The funds lost money on every day except Wednesday. BlackRock's IBIT accounted for about 88% of Friday's gross outflows, with $403 million leaving the fund.\n\nThe weekly total erased the year-to-date gain. The funds had entered the week with about $368 million of 2026 net inflows, and they closed Friday at about $914.1 million of net outflows for the year. Total bitcoin held across the funds fell 2.3% to $95.9 billion, roughly 6.3% of the asset's market value, per The Block.\n\nEther's fund flows were weaker. Spot ether ETFs lost $365.3 million, their sixth consecutive negative week, which has drained about $2.02 billion since late September, The Block reported. Solana and Hyperliquid funds also logged their fifth straight weekly outflows.\n\n## Why the selling\n\nThe Block tied the midweek slide to a broader crypto and equity sell-off after Tuesday's midterm elections, and to doubts about AI spending. Bitcoin fell 5.6% on Thursday alone.\n\nThe macro backdrop matters for crypto because it is sensitive to rate expectations. A strong October jobs report, with 165,000 nonfarm payrolls against a forecast of 59,000, lifted the odds of a Federal Reserve rate increase at the December meeting. CME FedWatch odds for a quarter-point hike on Dec. 8-9 were 76.8% after the release, as reported by CNBC. Higher policy-rate expectations tend to pull money away from assets with no cash flow, and that pressure showed up in the ETF data.\n\n## The technical picture\n\nOn Saturday, bitcoin traded between about $75,790 and $76,250, per crypto.news, which described daily momentum as weak, with the daily RSI near 38.8. The 50-week moving average, close to $75,562 in that analysis, sits just under spot. A failed recovery above $80,000 earlier in the week left bitcoin about 5.5% below the $80,470 high of that rally.\n\nTechnical readings are analysis, not forecasts. The more useful framing is that the weekly support near $75,000 is where the next test lies, and the market has not yet confirmed a break.\n\n## What to watch\n\n- Monday's ETF flow data will show whether the outflow streak continued into the new week.\n- Tuesday's October CPI report is the next macro catalyst. A hot print would reinforce the December hike odds.\n- Weekend liquidity is thinner, so moves can overshoot around the $75,000 level.\n\nPrices quoted here are approximate and change through the weekend. The ether price in some weekend coverage (about $2,235, per CryptoTicker) was not independently checked against an exchange feed, so treat it as a secondary figure.",
+  "marketImpact": {
+    "summary": "Continued ETF outflows and higher rate-hike odds are a headwind for bitcoin and ether. A break below the roughly $75,000 weekly support would put more pressure on crypto-linked equities and funds. A reclaim of $77,500-$78,000 would reduce the near-term downside case. The next major macro input is October CPI on Tuesday.",
+    "timeframe": "Next 1-3 sessions, with the outflow data on Monday and CPI on Tuesday, Nov. 10",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "IBIT", "direction": "watch", "rationale": "BlackRock's bitcoin ETF accounted for most of Friday's outflows; its daily flow is the cleanest read on demand" },
+      { "symbol": "COIN", "direction": "down", "rationale": "Exchange volumes and token prices tend to fall together when ETF flows are negative" },
+      { "symbol": "MSTR", "direction": "watch", "rationale": "Large bitcoin holder whose share price tracks the token closely" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-09", "event": "Monday: next ETF flow data for the week to Nov. 13" },
+      { "date": "2026-11-10", "event": "October CPI and core CPI (dates per Schaeffer's Research; confirm against BLS)" }
+    ]
+  },
+  "sources": [
+    { "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June", "publisher": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984", "accessedAt": "2026-11-07" },
+    { "title": "Bitcoin price holds $76K as ETF outflows put $75K support in focus", "publisher": "crypto.news", "url": "https://crypto.news/bitcoin-price-76000-etf-outflows-75000-support/", "accessedAt": "2026-11-07" },
+    { "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html", "accessedAt": "2026-11-07" },
+    { "title": "Employment Situation Summary - 2026 M10 Results", "publisher": "U.S. Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/empsit.nr0.htm", "accessedAt": "2026-11-07" }
+  ]
+}
