@@ -1,0 +1,49 @@
+{
+  "slug": "kospi-200-options-expiry-cpi-coreweave-week",
+  "title": "Seoul's Week Ahead: U.S. CPI, CoreWeave Results and Kospi 200 Options Expiry on Nov. 12",
+  "dek": "Korean stocks face three market-moving events on consecutive days, and the Nov. 12 options expiry could move blue-chip closing prices after a volatile week.",
+  "section": "markets",
+  "tags": ["kospi", "korea", "options-expiry", "coreweave", "asia"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-08T12:10:00Z",
+  "updatedAt": "2026-11-08T12:10:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "U.S. October CPI releases at 10 p.m. Korean time on Nov. 10, before the Korean session on Nov. 11 (Archynewsy, citing stock.mk.co.kr).",
+    "CoreWeave reports third-quarter results at 7 a.m. Korean time on Nov. 11, also before the open (Archynewsy).",
+    "Kospi 200 monthly options expire on Nov. 12, a day that can swing blue-chip closing prices (Archynewsy; BigGo Finance).",
+    "On the Oct. 8 monthly expiry the Kospi fell 2.62%, while the Sept. 10 quadruple witching closed down just 0.25% (Archynewsy)."
+  ],
+  "body": "## Three events, one short stretch\n\nKorean stocks enter a crowded week after a sharp sell-off that followed the U.S. midterm elections. Market commentary cited by Archynewsy, which drew on stock.mk.co.kr, says the Kospi now faces three events on consecutive days: the U.S. October consumer price index, the third-quarter results of AI cloud company CoreWeave, and the expiry of Kospi 200 monthly options.\n\nThe timing matters for Seoul. The CPI report lands at 10 p.m. Korean time on Nov. 10, and CoreWeave's call is at 7 a.m. Korean time on Nov. 11. Both come before the domestic session opens, so the first trades on Nov. 11 will reflect rate expectations and AI-investment sentiment together.\n\n## What the CPI read means for Seoul\n\nArchynewsy reports that in September the U.S. CPI rose 3.7% from a year earlier, and core CPI rose 2.6%. Daishin Securities researcher Lee Kyung-min is quoted as saying that an upside surprise would raise the chance of further Federal Reserve hikes and weigh on stocks, while a clear disinflation signal could help U.S. Treasury yields stabilise and give beaten-down growth shares a chance to rebound. Watch the won-dollar rate and foreign flows on Nov. 11.\n\n## CoreWeave and the AI question\n\nKB Securities researcher Kim Se-hwan is quoted as warning that the largest remaining risk for CoreWeave is slower revenue recognition, if power connections or data-centre builds slip. That would leave interest costs running while revenue lags. The answer will shape how investors read AI infrastructure spending in Korea, where memory and chip names carry much of the index.\n\n## The Nov. 12 expiry\n\nKospi 200 monthly options expire on Nov. 12. When positions tied to options are unwound, orders can bunch up late in the session, and large-cap closes can swing. The record is mixed. Around the Sept. 10 quadruple witching, foreigners net sold call options and bought puts, yet the index closed down only 0.25%. On the Oct. 8 monthly expiry, the Kospi fell 2.62% even though Samsung Electronics reported better-than-expected third-quarter results. That day coincided with ETF rebalancing and pre-holiday position changes.\n\nThe Kospi's own week started with a circuit-breaker halt on Friday, Nov. 6, after Samsung Electronics and SK Hynix fell sharply. Meridian's earlier explainer covers that episode. This preview does not forecast the direction of the index.",
+  "marketImpact": {
+    "summary": "A hot CPI print and a weak CoreWeave read on Nov. 11 would hit Korea's AI and memory exposure first. The Nov. 12 options expiry adds a session-level risk that can amplify moves in large caps regardless of the news flow.",
+    "timeframe": "Nov. 10 (U.S. CPI) through Nov. 12 (options expiry), Korean session",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "KOSPI 200", "direction": "watch", "rationale": "Index direction depends on the CPI reaction and the expiry-day close" },
+      { "symbol": "005930.KS", "direction": "watch", "rationale": "Samsung Electronics is a large index weight and was cited in the Oct. 8 expiry move" },
+      { "symbol": "000660.KS", "direction": "watch", "rationale": "SK Hynix was part of the Nov. 6 halt and is exposed to AI-memory sentiment" },
+      { "symbol": "CRWV", "direction": "watch", "rationale": "CoreWeave results on Nov. 11 (Korean time) set the AI-infrastructure tone" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "U.S. October CPI, 10 p.m. Korean time" },
+      { "date": "2026-11-11", "event": "CoreWeave Q3 results, 7 a.m. Korean time" },
+      { "date": "2026-11-12", "event": "Kospi 200 monthly options expiry" }
+    ]
+  },
+  "sources": [
+    { "title": "KOSPI Faces US CPI, CoreWeave Earnings, Option Expiry Next Week", "publisher": "Archynewsy", "url": "https://www.archynewsy.com/kospi-faces-us-cpi-coreweave-earnings-option-expiry-next-week/", "accessedAt": "2026-11-08" },
+    { "title": "US Inflation, CoreWeave Earnings, Options Expiry Form Triple Threat… KOSPI Tests 5,000 Level", "publisher": "BigGo Finance", "url": "https://finance.biggo.com/news/f5e1bcb3-c96e-4d02-9358-fb9da9a7ad34", "accessedAt": "2026-11-08" },
+    { "title": "Kospi circuit breaker halts trading as Samsung and SK Hynix crater", "publisher": "Startup Fortune", "url": "https://startupfortune.com/kospi-circuit-breaker-halts-trading-as-samsung-and-sk-hynix-crater/", "accessedAt": "2026-11-08" }
+  ]
+}

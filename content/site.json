@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-07T21:45:00Z",
-  "edition": "afternoon",
+  "updatedAt": "2026-11-08T12:15:00Z",
+  "edition": "pre-market",
   "leadSlug": "week-ahead-cpi-chip-selloff-earnings-nov-9-13",
   "marketBrief": {
-    "headline": "Week ahead: October CPI on Tuesday after a chip rout and partial rebound",
+    "headline": "Sunday pre-market: October CPI on Tuesday, Kospi options expiry Nov. 12, bitcoin near $76,000",
     "summary": "Markets were closed Saturday. Friday's close (as of Nov. 6): the Nasdaq Composite rose 1.09% to 24,579.42 and the S&P 500 rose 0.31% to 7,376.86, while the Dow fell 237.33 points to 51,285.73 (CNBC live updates). The week still closed lower for all three indexes. October CPI is the main data event on Tuesday, Nov. 10, and the December hike odds sit near 76.8% after the 165,000-job report.",
     "bullets": [
       "Friday close (Nov. 6): Nasdaq Composite +1.09% to 24,579.42; S&P 500 +0.31% to 7,376.86; Dow -0.46% to 51,285.73 (CNBC live updates).",
@@ -80,6 +80,13 @@
     }
   ],
   "calendar": [
+    {
+      "date": "2026-11-08",
+      "time": "Sunday evening",
+      "event": "Futures reopen; traders weigh October CPI and December hike odds",
+      "importance": "medium",
+      "why": "Sunday-evening positioning sets the tone for the CPI week; CME FedWatch odds for a December hike were about 81% in Kiplinger's preview (Kiplinger)."
+    },
     {
       "date": "2026-11-09",
       "time": "Monday",
