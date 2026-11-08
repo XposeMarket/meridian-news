@@ -1,0 +1,32 @@
+{
+  "slug": "bank-of-england-puts-ai-productivity-gain-at-0-5-percent",
+  "title": "Bank of England Says AI Has Added Only 0.5% to UK Productivity Over Three Years",
+  "dek": "Firms in the Bank's survey estimate AI has lifted their productivity about 0.5%, while the central bank says much of AI's growth contribution comes from building the technology rather than using it.",
+  "section": "economy",
+  "tags": ["Bank of England", "UK economy", "AI productivity", "monetary policy", "growth"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-08T12:10:00Z",
+  "updatedAt": "2026-11-08T12:10:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bank_of_England%2C_Threadneedle_Street_-_geograph.org.uk_-_6558813.jpg",
+    "alt": "The Bank of England building on Threadneedle Street in London",
+    "credit": "Robin Sones / Geograph / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bank_of_England,_Threadneedle_Street_-_geograph.org.uk_-_6558813.jpg"
+  },
+  "keyPoints": [
+    "The Bank of England's Monetary Policy Report estimates AI has raised UK productivity by about 0.5% over the past three years.",
+    "That equals roughly 0.1 to 0.2 percentage points of extra annual productivity growth since early 2024.",
+    "The Bank says AI has accounted for just under a fifth of UK GDP growth since the start of 2026, mostly from developing and deploying AI.",
+    "Firms surveyed reported virtually no overall employment effect so far."
+  ],
+  "body": "The Bank of England says artificial intelligence has added about 0.5% to UK productivity over the past three years. In its latest Monetary Policy Report, the central bank described the gain as modest, and said there is so far only evidence of a small AI-driven rise in productivity growth.\n\n## What the number means\n\nThe 0.5% figure comes from the Bank's Decision Maker Panel, a survey in which firms estimate how much AI has raised their own productivity. Taken in aggregate, those firms report close to zero effect on overall employment. The Bank translates the three-year gain into roughly 0.1 to 0.2 percentage points of additional annual productivity growth since early 2024.\n\nThat is a small figure next to the scale of AI investment that has dominated markets and business plans in the same period. The Register, which reported the findings on Nov. 6, framed the result as a gap between spending on AI infrastructure and measurable gains for businesses.\n\n## Where the growth is coming from\n\nThe Bank estimates AI-related activity has accounted for just under a fifth of UK GDP growth since the beginning of 2026. It attributes most of that to companies that develop and implement AI technologies, rather than to broader gains from adoption elsewhere in the economy. In the Bank's words, the contribution to growth reflects \"activity in the upstream development and implementation of AI technologies rather than broader gains from their adoption elsewhere in the economy.\"\n\nThe central bank also warned against giving AI too much credit for recent productivity improvements. Much of the rise appears to reflect businesses hiring fewer workers while output keeps growing, as companies unwind post-pandemic staffing decisions and respond to higher employment costs.\n\n## Jobs and sectors\n\nFirms in the panel reported almost no overall effect on employment so far, though some are less inclined to hire, or to replace staff who leave. Productivity growth has improved in AI-heavy sectors such as information and communications, but has not yet risen above pre-pandemic averages.\n\n## What to watch\n\nThe read-through for policy is that AI is not yet a material driver of UK productivity, which keeps the growth outlook sensitive to other factors. The next Monetary Policy Report and later Decision Maker Panel surveys will show whether adoption outside the technology sector begins to lift output per worker. Until then, the figure should be read as the Bank's survey-based estimate, not a precise measurement.",
+  "sources": [
+    { "title": "Bank of England pours cold water on AI productivity boom", "publisher": "The Register", "url": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059", "accessedAt": "2026-11-08" },
+    { "title": "AI accounts for nearly a fifth of UK growth in 2026, Bank of England finds", "publisher": "PPC Land", "url": "https://ppc.land/ai-accounts-for-nearly-a-fifth-of-uk-growth-in-2026-bank-of-england-finds/", "accessedAt": "2026-11-08" }
+  ]
+}

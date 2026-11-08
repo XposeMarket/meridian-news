@@ -1,0 +1,43 @@
+{
+  "slug": "openai-closes-11-billion-of-round-at-1-25-trillion-valuation",
+  "title": "OpenAI Closes $11 Billion of Funding at a $1.25 Trillion Valuation, Below Its Earlier Target",
+  "dek": "The first close of a larger round was wired on Friday, but the valuation is lower than the $1.4 trillion OpenAI first sought, a sign of a cooler AI funding market.",
+  "section": "ai-tech",
+  "tags": ["OpenAI", "funding", "valuation", "SoftBank", "AI investment"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-08T12:00:00Z",
+  "updatedAt": "2026-11-08T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Golden_Gate_Bridge_and_San_Francisco_skyline_from_Hawk_Hill_at_Blue_Hour_dllu.jpg",
+    "alt": "The San Francisco skyline at blue hour, seen from Hawk Hill across the Golden Gate Bridge",
+    "credit": "Daniel L. Lu (user:dllu) / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San_Francisco_skyline_from_Hawk_Hill_at_Blue_Hour_dllu.jpg"
+  },
+  "keyPoints": [
+    "Bloomberg reported on Nov. 6 that OpenAI has received roughly $11 billion, the first part of a round valuing it at $1.25 trillion.",
+    "The round could reach as much as $20 billion, with the rest expected in the coming weeks.",
+    "OpenAI first sought $30 billion or more at a $1.4 trillion valuation and scaled back amid an AI stock sell-off.",
+    "Coatue, T. Rowe Price, SoftBank, Sequoia, Founders Fund and Andreessen Horowitz are among the named investors."
+  ],
+  "body": "OpenAI has taken in about $11 billion of new funding, the first close of a round that values the company at $1.25 trillion, according to people familiar with the matter cited by Bloomberg. The money was wired as of Friday, Nov. 6. OpenAI declined to comment.\n\n## A smaller round than planned\n\nBloomberg has reported that OpenAI originally set out to raise $30 billion or more at a $1.4 trillion valuation. The company has since scaled that back, citing a public market sell-off in AI stocks. The round could still grow to as much as $20 billion, and the remainder is expected in the coming weeks, one person said.\n\nThe company last raised $122 billion in March at an $852 billion valuation, according to the same report. The new figure is well above that mark, but below the earlier target.\n\n## Who is in the first close\n\nInvestors named in the first close include Coatue Management and T. Rowe Price. Other reported participants include SoftBank Group, Sequoia Capital, Founders Fund and Andreessen Horowitz, plus a syndicate of backers from the United Arab Emirates. OpenAI is also working with investment banks to reach high-net-worth and retail investors. SoftBank, Founders Fund and T. Rowe Price declined to comment, and several other investors did not respond.\n\n## Why it matters\n\nThe funding comes as investors reassess AI valuations. Bloomberg reports that concern about infrastructure spending and possible limits on data-center construction after the U.S. midterms has changed sentiment. Prospective buyers of a rival, Anthropic, are also discussing lower valuations for its planned IPO.\n\nWhat to watch is whether the remaining tranche closes at or near $20 billion, and whether the $1.25 trillion figure holds. Those two numbers will show whether private AI capital is still willing to pay for the largest labs at that scale.",
+  "marketImpact": {
+    "summary": "SoftBank is a named investor and its shares are tied closely to OpenAI's valuation. A lower-than-targeted round is a mild negative signal for the valuation read-through, but the cash itself is positive for OpenAI's partners. The effect on listed AI names is indirect.",
+    "timeframe": "Next 1-2 sessions, then until the remaining tranche is confirmed",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "9984.T", "direction": "watch", "rationale": "SoftBank is among the named investors; its exposure to OpenAI's valuation is large, but the report gives no stake size" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-06", "event": "Bloomberg reports the roughly $11 billion first close at $1.25 trillion" }
+    ]
+  },
+  "sources": [
+    { "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value", "accessedAt": "2026-11-08" },
+    { "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation", "publisher": "TechCrunch", "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/", "accessedAt": "2026-11-08" }
+  ]
+}
