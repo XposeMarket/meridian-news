@@ -1,0 +1,44 @@
+{
+  "slug": "coreweave-q3-earnings-test-interest-costs-versus-growth",
+  "title": "CoreWeave Reports Q3 Tuesday as Interest Costs Test Its 159% Revenue Growth",
+  "dek": "Wall Street expects about $3.54 billion in revenue, but guided interest expense is more than three times guided operating income, which makes the print a test of financing as much as demand.",
+  "section": "ai-tech",
+  "tags": ["CoreWeave", "CRWV stock", "AI cloud", "earnings", "debt", "data centers"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-09T12:00:00Z",
+  "updatedAt": "2026-11-09T12:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Data_Center_2_%28UNC%29.jpg",
+    "alt": "Interior of a data center with rows of server equipment",
+    "credit": "Ana Las Heras / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_Center_2_(UNC).jpg"
+  },
+  "keyPoints": [
+    "CoreWeave will report third-quarter 2026 results after the close on Tuesday, Nov. 10, with a call at 5:00 p.m. ET, according to the company.",
+    "Company guidance put third-quarter revenue at $3.45 billion to $3.60 billion; analysts expect about $3.54 billion, up roughly 159% from a year earlier.",
+    "Management guided third-quarter interest expense to $860 million to $940 million, up from $640 million in the second quarter, and operating income to $200 million to $260 million.",
+    "Morgan Stanley cut its price target on CRWV to $70 from $99 in late October and kept an Equalweight rating, citing financing uncertainty."
+  ],
+  "body": "CoreWeave, the AI cloud provider, reports third-quarter 2026 results after the market closes on Tuesday, Nov. 10. The company has said it will host its call at 5:00 p.m. Eastern time.\n\n## What the company guided\n\nCoreWeave guided third-quarter revenue to between $3.45 billion and $3.60 billion. The midpoint of $3.525 billion implies growth of about 159% over the $1.36 billion it reported for the same quarter a year earlier, according to TechTimes. Analysts' consensus has moved to about $3.54 billion, slightly above that midpoint.\n\nThe per-share picture is less clear. Estimates vary by source: TradingKey cites a loss of about $1.17 per share, while TechTimes cites a GAAP consensus loss of about $1.57. CoreWeave beat its own EPS guidance in prior quarters, which is one reason traders are watching for an upside surprise.\n\n## The financing question\n\nThe bigger issue is the gap between operating income and interest. Management guided third-quarter interest expense to $860 million to $940 million, compared with $640 million in the second quarter. At the midpoint of its operating income guidance, that is more than three dollars of interest for every dollar of operating income, per TechTimes' reading of the company's figures.\n\nTradingKey reports the stock closed at $46.40 on Nov. 6, and TechTimes says it has fallen about 54% from near $142 earlier this year. Morgan Stanley's cut to a $70 target in late October cited growing uncertainty about financing.\n\n## What to watch\n\nThe print will show whether the revenue ramp is converting into margin, and whether interest costs are holding within the guided range. Demand for compute does not appear to be the open question in the reporting so far; the open question is whether the balance sheet can carry the build-out at current borrowing costs.\n\nThis article is an earnings preview. Results were not yet published at the time of writing.",
+  "marketImpact": {
+    "summary": "CoreWeave is a high-debt, high-growth name, so the print can move the stock sharply in either direction. A revenue beat with interest inside guidance would support the growth case; a miss or higher-than-guided interest would reinforce the financing concern. Read-through to other AI infrastructure names is indirect.",
+    "timeframe": "Next 1-2 sessions after the Nov. 10 report",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "CRWV", "direction": "watch", "rationale": "Revenue guidance and consensus are close, so the swing factor is interest expense versus the $860M-$940M guide and the financing outlook" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "CoreWeave Q3 2026 results after the close; call at 5:00 p.m. ET" }
+    ]
+  },
+  "sources": [
+    { "title": "CoreWeave Announces Date of Third Quarter 2026 Financial Results and Conference Call", "publisher": "CoreWeave Investor Relations (Business Wire)", "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx", "accessedAt": "2026-11-09" },
+    { "title": "CoreWeave Q3 Earnings: 159% Revenue Growth vs $900M Quarterly Interest on Tuesday", "publisher": "TechTimes", "url": "https://www.techtimes.com/articles/330277/20261109/coreweave-q3-earnings-159-revenue-growth-vs-900m-quarterly-interest-tuesday.htm", "accessedAt": "2026-11-09" },
+    { "title": "CoreWeave Q3 Earnings Preview: Revenue Expected to Grow 159%, Debt and Financing Costs in Focus, Wall Street's Top Price Target at $278", "publisher": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262295565-coreweave-q3-earnings-preview-revenue-growth-159-debt-financing-costs-wall-street-price-tradingkey", "accessedAt": "2026-11-09" }
+  ]
+}
