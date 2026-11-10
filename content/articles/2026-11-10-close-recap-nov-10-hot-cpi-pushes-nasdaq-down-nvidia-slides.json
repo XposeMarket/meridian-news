@@ -1,0 +1,47 @@
+{
+  "slug": "close-recap-nov-10-hot-cpi-pushes-nasdaq-down-nvidia-slides",
+  "title": "Stocks Slip After Hot October CPI as Nvidia Leads Nasdaq Losses",
+  "dek": "The S&P 500 closed at 7,520.93 and the Nasdaq Composite at 25,065.87 after an inflation report that was hotter than expected and firmed bets on a December rate hike.",
+  "section": "markets",
+  "tags": ["stock market", "close", "CPI", "Nvidia", "Fed", "rate hike"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-10T21:30:00Z",
+  "updatedAt": "2026-11-10T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "The S&P 500 fell 0.38% to 7,520.93, the Dow Jones Industrial Average slipped 0.30% to 52,231.89 and the Nasdaq Composite lost 0.74% to 25,065.87 (CNBC live coverage).",
+    "October CPI rose 0.4% from September on a seasonally adjusted basis, above the 0.3% economists expected; core CPI rose 0.3% against a 0.2% forecast (BLS; CNBC).",
+    "Nvidia fell more than 5% after a drop of more than 4% the day before, the steepest selling in the stock since 2019 by Yahoo Finance's count (Yahoo Finance).",
+    "After the report, traders priced in a quarter-point December hike and put odds of a half-point move at 13.6%, up from roughly zero before the release (CNBC, citing CME FedWatch)."
+  ],
+  "body": "US stocks closed lower on Tuesday after the Bureau of Labor Statistics reported that consumer prices rose faster than forecast in October. The Dow Jones Industrial Average fell 157.86 points, or 0.30%, to 52,231.89. The S&P 500 lost 0.38% to end at 7,520.93, and the Nasdaq Composite fell 0.74% to 25,065.87, according to CNBC's live coverage. Small differences between data feeds exist; Economic Times reported the S&P 500 at 7,521.48 and the Nasdaq at 25,067.23.\n\n## Why the index moves mattered\n\nThe session reversed a strong start. The S&P 500 had closed Monday at 7,549.94, its best day since April by AP's count, according to a market recap that cited AP. Tuesday's decline was modest for the index, but the report changed the rate outlook. Fed Governor Christopher Waller had said before the release that a hot print could push him toward backing a half-point increase in December, and the core reading was the one he had flagged. Dallas Fed President Lorie Logan, speaking after the release, said she sees a need for two more quarter-point increases.\n\n## Sectors: chips led the decline\n\nSemiconductors were the weakest group. Yahoo Finance reported the PHLX Semiconductor Index fell more than 1% at midday, while the equal-weighted S&P 500 was down only about 0.2% at that point. That gap is the main sector message of the day: the broad market held up better than the largest technology names. Gold futures also fell more than 2% on expectations of a December hike, and Brent and WTI crude each dropped about 1%, according to Yahoo Finance.\n\n## Top movers\n\nNvidia was the session's largest drag on the index. Yahoo Finance said the stock was on track for its lowest close since March 30 and that its relative strength index fell to 23, its most oversold reading since June 2019. The sell-off came as Nvidia's board investigates CEO Jensen Huang, following reports about an alleged personal relationship with a suspected Chinese spy. Investors are also weighing the rate outlook, which raises borrowing costs for richly valued growth stocks.\n\nBond yields rose after the report. Yahoo Finance reported the 10-year Treasury yield up 7 basis points to 4.93% in its intraday update, with the 5-year at 4.75% and the 30-year at 5.29%.\n\n## What comes next\n\nThe next scheduled Fed decision is Dec. 8-9. Traders are positioned for a quarter-point increase, so the larger debate is whether the Fed moves by half a point. CoreWeave reported third-quarter results after the bell, which is covered in a separate story. Investors will also watch the PCE price index, which Logan said could move higher when it is released later in November.\n\nThis is market analysis, not financial advice.",
+  "marketImpact": {
+    "summary": "A hotter core CPI print reinforces the December hike case. Rate-sensitive, high-multiple technology names are most exposed, and the chip sell-off shows where that pressure is concentrated. A soft PCE reading would ease the pressure; another hot one would keep yields and semiconductor volatility elevated.",
+    "timeframe": "Next 1-2 sessions, with the next test being inflation data later in November",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "down", "rationale": "Shares fell more than 5% after a 4% drop the day before, with the stock on track for its lowest close since March 30 and the board probe unresolved" },
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq Composite fell 0.74%; the index proxy is sensitive to the rate-hike outlook and to Nvidia's weight" }
+    ],
+    "catalysts": [
+      { "date": "2026-12-08", "event": "FOMC meeting, Dec. 8-9; markets price a quarter-point hike with about 13.6% odds of a half-point move (CNBC)" },
+      { "date": "2026-11-30", "event": "PCE price index is due later in November, per Logan's comments; exact release date to be confirmed against the official schedule" }
+    ]
+  },
+  "sources": [
+    { "title": "S&P 500 falls, dragged down by Nvidia sell-off and rate-hike fears after hot inflation data: Live updates", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html", "accessedAt": "2026-11-10" },
+    { "title": "CPI inflation report: October 2026", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html", "accessedAt": "2026-11-10" },
+    { "title": "Consumer Price Index Summary - 2026 M10 Results", "publisher": "Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/cpi.nr0.htm", "accessedAt": "2026-11-10" },
+    { "title": "Stock market today: Dow, S&P 500, Nasdaq slip as hot CPI fuels rate hike odds, Nvidia stock sinks", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html", "accessedAt": "2026-11-10" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "coreweave-q3-2026-results-revenue-beats-interest-below-guide",
+  "title": "CoreWeave Beats Q3 Revenue Guide and Raises 2026 Outlook; Interest Expense Lands Below Its Range",
+  "dek": "Revenue of $3.66 billion topped the company's own $3.45-$3.60 billion guidance, operating income fell inside its range, and net interest of $846 million came in under the $860-$940 million it had guided.",
+  "section": "ai-tech",
+  "tags": ["CoreWeave", "CRWV stock", "AI cloud", "earnings", "debt", "data centers"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-10T22:15:00Z",
+  "updatedAt": "2026-11-10T22:15:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Data_Center_2_%28UNC%29.jpg",
+    "alt": "Interior of a data center with rows of server equipment",
+    "credit": "Ana Las Heras / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_Center_2_(UNC).jpg"
+  },
+  "keyPoints": [
+    "CoreWeave reported third-quarter 2026 revenue of $3,661 million, up from $1,365 million a year earlier, and above its guidance of $3.45-$3.60 billion (CoreWeave IR).",
+    "Net interest expense was $846 million, below the $860-$940 million range the company had guided; GAAP operating income was $207 million, inside its $200-$260 million guide (CoreWeave IR; company guidance from the preview).",
+    "GAAP net loss was $709 million, or $1.27 per diluted share; adjusted EBITDA was $2,256 million, a 62% margin (CoreWeave IR).",
+    "The company raised 2026 revenue guidance to $13.0-$13.3 billion and reported revenue backlog of about $132.5 billion; shares rose about 2% in after-hours trading to $49.80 (Benzinga)."
+  ],
+  "body": "CoreWeave reported third-quarter 2026 results after the close on Tuesday, Nov. 10, and management called the quarter a breakout. Chief Executive Michael Intrator said revenue rose by more than $1 billion from the prior quarter and that adjusted operating margins reached double digits a quarter ahead of plan.\n\n## Against the company's own guidance\n\nRevenue of $3.661 billion beat the $3.45-$3.60 billion range management had guided to before the report. Analysts had expected roughly $3.54-$3.55 billion, according to Benzinga, which put the company's adjusted loss at 95 cents a share against an estimate of a $1.16 loss.\n\nThe number that matters most for the financing debate is interest. Net interest expense came in at $846 million, below the $860-$940 million guide and well above the $310 million a year earlier. GAAP operating income of $207 million sat inside the $200-$260 million range.\n\n## Profitability and balance sheet\n\nOn a GAAP basis, CoreWeave lost $709 million, or $1.27 a share, compared with a $0.22 loss a year earlier. Adjusted EBITDA was $2,256 million, and adjusted operating income was $379 million, a 10% margin. Benzinga reported cash and equivalents of about $4.12 billion at quarter-end.\n\nManagement cited several funding sources: customer-backed financing, operating cash flow, and about $9 billion in customer prepayments and deposits it expects in the next three months. The company also said it raised about $4.2 billion through upsized convertible senior notes and set up an at-the-market equity program for up to 35 million Class A shares.\n\n## Guidance\n\nCoreWeave raised 2026 revenue guidance to $13.0-$13.3 billion, from the prior $12.4-$13.2 billion range. It expects to exit the year at an annualized revenue run rate of $20-$21 billion, and it kept its capital spending outlook at $37-$39 billion. The company said it expects more than 1.85 gigawatts of active power at year-end.\n\n## Stock reaction\n\nBenzinga Pro reported CoreWeave shares up 2.2% after hours at $49.80. Other early reports showed larger moves, with 24/7 Wall St. describing shares initially up about 6%. Those figures are early after-hours prints and can change once the regular session opens.\n\nThe results do not settle the financing question. They do show revenue ahead of guidance and interest slightly under it, which is the direction the bull case needs. Investors will want the call commentary on capex funding and whether backlog conversion stays on schedule.\n\nThis is market analysis, not financial advice.",
+  "marketImpact": {
+    "summary": "A revenue beat with interest below guidance supports the growth case, while the $846 million interest bill and the $37-$39 billion capex plan keep financing risk central. The stock move in the next session will depend on how investors weigh the beat against the funding requirement.",
+    "timeframe": "Next regular session after the Nov. 10 report, and the 1-2 sessions after",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "CRWV", "direction": "up", "rationale": "Shares rose about 2% after hours at $49.80 on a revenue beat, a raised revenue outlook and interest below guidance; the early reaction can reverse" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "CoreWeave Q3 2026 call at 5:00 p.m. ET, where management is expected to discuss capex funding" }
+    ]
+  },
+  "sources": [
+    { "title": "CoreWeave Reports Strong Third Quarter 2026 Results", "publisher": "CoreWeave Investor Relations (Business Wire)", "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx", "accessedAt": "2026-11-10" },
+    { "title": "CoreWeave Reports Q3 Double Beat, Raises Guidance: 'This Was a Breakout Quarter'", "publisher": "Benzinga", "url": "https://www.benzinga.com/markets/earnings/26/11/63123969/coreweave-reports-q3-double-beat-raises-guidance-this-was-a-breakout-quarter", "accessedAt": "2026-11-10" },
+    { "title": "CoreWeave Q3 Earnings: 159% Revenue Growth vs $900M Quarterly Interest on Tuesday", "publisher": "TechTimes", "url": "https://www.techtimes.com/articles/330277/20261109/coreweave-q3-earnings-159-revenue-growth-vs-900m-quarterly-interest-tuesday.htm", "accessedAt": "2026-11-09" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "moonshot-rented-restricted-nvidia-b300-servers-in-china",
+  "title": "Moonshot AI Rented Servers With Nvidia's Top B300 Chips in China, Filings Show",
+  "dek": "Beijing regulator filings describe a $64.8 million lease of 32 Super Micro servers, a deal Moonshot disputes and both Nvidia and Super Micro say they had no part in.",
+  "section": "ai-tech",
+  "tags": ["Moonshot AI", "Nvidia", "Super Micro", "export controls", "China", "AI chips"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-10T21:45:00Z",
+  "updatedAt": "2026-11-10T21:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
+    "alt": "The Nvidia headquarters building in Santa Clara, California",
+    "credit": "Coolcaesar / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
+  },
+  "keyPoints": [
+    "Bloomberg reviewed documents filed with Beijing regulators showing Moonshot AI agreed in August to rent 32 Super Micro servers fitted with Nvidia B300 GPUs.",
+    "The filings value the servers at 432 million yuan ($64.8 million) and place them in Qingyang, western China.",
+    "Moonshot disputes the records, saying it has no business relationship with the server owner and did not approve the financing.",
+    "Nvidia said the companies involved are not its customers; Super Micro said it does not do business with them. Bloomberg could not establish whether a US export licence existed."
+  ],
+  "body": "Moonshot AI, the Beijing start-up behind the Kimi model family, signed a contract in August to rent 32 Super Micro Computer servers equipped with Nvidia's B300 accelerators, according to documents Bloomberg reviewed. The filings were submitted to Beijing regulators and place the machines in Qingyang, a computing hub in western China.\n\n## What the filings say\n\nAccording to Bloomberg, two financing contracts were signed on Aug. 4 by Lingmeixin (Beijing) Technology, the server owner, and Beijing Zhongguancun Bank. Lingmeixin pledged the servers, along with 345.6 million yuan in expected earnings from a service contract with Moonshot's main entity, as collateral for a 200 million yuan ($30 million) loan. A Lingmeixin statement attached to the contracts said the hardware was designated for the Moonshot service contract and that Moonshot \"only has right to use the compute service, with no ownership of the equipment.\"\n\nThe bank submitted the records to a credit database run by the People's Bank of China on Aug. 6. After Bloomberg asked for comment on Nov. 3, Bloomberg said the database entries no longer mentioned Moonshot. Lingmeixin and the bank did not respond to requests for comment.\n\n## Disputed, and distanced by suppliers\n\nMoonshot challenged the reliability of the documents. \"We neither participated in nor authorized the related financing or guarantee arrangements, and had no knowledge of them,\" a spokesperson said, according to Bloomberg.\n\nNvidia said the companies behind the purchase \"are not Nvidia customers,\" and Super Micro said it \"does not conduct business with these entities,\" according to Bloomberg. Super Micro has said it follows US export rules.\n\n## Export-control context\n\nU.S. rules bar these chips from being shipped to China without expressly approved sales. Bloomberg said it could not establish whether such approval existed. A White House official has previously said Moonshot obtained use of controlled Nvidia hardware, and the White House said in July that Moonshot had accessed Blackwell chips through a site in Thailand, according to CNBC as cited by Bloomberg.\n\nThe case adds to pressure on how Chinese AI firms access restricted accelerators through rentals rather than purchases. Moonshot is planning a Hong Kong listing early next year, according to reporting cited by The Next Web.\n\n## What to watch\n\nThe unresolved questions are who owns the servers, whether the lease was approved under US rules, and whether Moonshot's denial holds as more filings surface. Nothing in the reporting establishes wrongdoing by Nvidia or Super Micro; both companies say they had no customer relationship with the parties named.",
+  "marketImpact": {
+    "summary": "Nvidia and Super Micro are named in the filings but both say they had no dealings with the companies involved. The main risk is regulatory: any finding that controlled B300 systems reached China through rentals could tighten export enforcement across the AI hardware chain. Near-term price effect is uncertain.",
+    "timeframe": "Next 1-3 sessions, then until regulators or Congress act on the filings",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Named in the filings; Nvidia says the companies are not its customers. Export-enforcement headlines have hit chip stocks this month." },
+      { "symbol": "SMCI", "direction": "watch", "rationale": "Supplier of the 32 servers in the filings; Super Micro says it does not do business with the parties and follows US export rules." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "Bloomberg publishes the Beijing filings on Moonshot's B300 rental" }
+    ]
+  },
+  "sources": [
+    { "title": "Moonshot Rents Nvidia's Top AI Chips in China, Documents Show", "publisher": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show", "accessedAt": "2026-11-10" },
+    { "title": "Moonshot AI rented restricted Nvidia AI chips inside China, documents show", "publisher": "Quartz", "url": "https://qz.com/moonshot-ai-nvidia-b300-chips-china-rental-111026", "accessedAt": "2026-11-10" },
+    { "title": "Moonshot AI rented Nvidia's top chips in China, Bloomberg reports", "publisher": "The Next Web", "url": "https://thenextweb.com/news/moonshot-ai-nvidia-b300-servers-china", "accessedAt": "2026-11-10" }
+  ]
+}

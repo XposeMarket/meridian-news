@@ -1,0 +1,44 @@
+{
+  "slug": "toyota-revives-scion-with-kei-01-tiny-pickup",
+  "title": "Toyota Revives Scion as a Niche Brand, Starting With a Tiny Indiana-Built Pickup",
+  "dek": "The KEI-01, limited to 25 mph and aimed at fleet and farm buyers, will be assembled in Indiana, with the relaunch set for the second half of 2027.",
+  "section": "autos",
+  "tags": ["Toyota", "Scion", "KEI-01", "Indiana", "pickups", "mobility"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-10T21:45:00Z",
+  "updatedAt": "2026-11-10T21:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Toyota_Tacoma_%28N300%29_TRD_IMG_6050.jpg/1280px-Toyota_Tacoma_%28N300%29_TRD_IMG_6050.jpg",
+    "alt": "A Toyota Tacoma pickup, shown for context on Toyota's US truck lineup",
+    "credit": "Alexander Migl / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Tacoma_(N300)_TRD_IMG_6050.jpg"
+  },
+  "keyPoints": [
+    "Toyota is bringing back the Scion name with the KEI-01, a compact four-wheel-drive pickup to be assembled at its Indiana plant.",
+    "Production is slated for the second half of 2027, with the brand initially sold through a select group of dealers.",
+    "The KEI-01 is limited to 25 mph and will be sold to fleet companies, according to the Detroit News, rather than for public roads.",
+    "Toyota discontinued the original Scion in 2016 after it failed to resonate with younger buyers, per Bloomberg as cited by Quartz."
+  ],
+  "body": "Toyota is reviving the Scion name in the United States, starting with a tiny pickup built in Indiana. The KEI-01, an ultra-compact utility truck named for the small Kei-class trucks common in Japan, is due to be assembled at Toyota's Indiana plant in the second half of 2027, according to Quartz and Automotive News.\n\n## A niche relaunch, not a return to mass market\n\nAutomotive News reports the brand will return as a niche mobility line, relaunching in late 2027 and sold first through a select group of dealers. The truck is aimed at farmers and fleet buyers. The Detroit News reports the KEI-01 is limited to 25 mph and will be sold to fleet companies, so it will not be a common sight on public roads.\n\nToyota discontinued the original Scion in 2016 because it never resonated with younger shoppers, according to Bloomberg as cited by Quartz. The new effort follows a 2025 request from President Donald Trump for vehicles of this size to be built domestically, Quartz reported.\n\n## Origins in a skunkworks lab\n\nDon Federico, chief engineer of Toyota Motor North America, said engineering teams in Ann Arbor, Mich., set up a skunkworks lab to explore what mobility products could sit under the Scion by Toyota name, according to Automotive News. Business Insider reports Toyota announced the plan on Tuesday.\n\nQuartz also noted a separate concept, the SxS, a side-by-side off-road vehicle first shown at the 2025 SEMA Show, which uses a turbocharged four-cylinder hybrid powertrain producing more than 300 horsepower. Toyota said it will keep developing that concept, but the reporting does not tie it to the KEI-01.\n\n## What is not yet known\n\nThe reporting does not give a price, a full powertrain specification or a sales volume for the KEI-01. Those details are the questions to watch as the second-half 2027 launch approaches. For readers, the practical takeaway is narrow: this is a small, fleet-first vehicle from a brand Toyota is testing for a niche, not a mass-market return of Scion.",
+  "marketImpact": {
+    "summary": "The KEI-01 is a small, fleet-only launch and is unlikely to move Toyota's financials on its own. Its significance is as a signal of US-built small vehicles and a niche brand strategy, which investors may read as low-risk experimentation.",
+    "timeframe": "Long term; no earnings effect expected before the second half of 2027 launch",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "TM", "direction": "watch", "rationale": "Announcement is small in volume and deferred to late 2027; reporting gives no pricing or sales forecast." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "Toyota announces the Scion revival with the KEI-01 pickup built in Indiana" }
+    ]
+  },
+  "sources": [
+    { "title": "Toyota resurrects Scion as niche mobility brand starting with tiny pickup", "publisher": "Automotive News", "url": "https://www.autonews.com/toyota/an-toyota-scion-return-tiny-pickup-1110/", "accessedAt": "2026-11-10" },
+    { "title": "Toyota revives Scion with wee KEI-01 pickup", "publisher": "The Detroit News", "url": "https://www.detroitnews.com/story/business/autos/2026/11/10/toyota-reboots-scion-in-us-market-heres-how/92704676007/", "accessedAt": "2026-11-10" },
+    { "title": "Toyota is reviving Scion brand with a tiny Indiana-built pickup truck", "publisher": "Quartz", "url": "https://qz.com/toyota-scion-revival-kei-01-indiana-pickup-111026", "accessedAt": "2026-11-10" }
+  ]
+}
