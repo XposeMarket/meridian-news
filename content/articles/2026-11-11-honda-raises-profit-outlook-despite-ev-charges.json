@@ -1,0 +1,45 @@
+{
+  "slug": "honda-raises-profit-outlook-despite-ev-charges",
+  "title": "Honda Raises Annual Profit Outlook 20% Even as EV Writedowns Reach $12 Billion",
+  "dek": "Hybrid demand in the US and a weaker yen lifted Honda's full-year operating forecast, even after another $3 billion in EV restructuring costs in the July-to-September quarter.",
+  "section": "autos",
+  "tags": ["Honda", "EV restructuring", "hybrids", "US auto market", "Japan autos", "profit outlook"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T21:00:00Z",
+  "updatedAt": "2026-11-11T21:00:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Car_showroom%2C_Birnam_-_geograph.org.uk_-_2664821.jpg",
+    "alt": "A car showroom with vehicles on display",
+    "credit": "Richard Webb, Geograph Britain and Ireland",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Car_showroom,_Birnam_-_geograph.org.uk_-_2664821.jpg"
+  },
+  "keyPoints": [
+    "Honda raised its full-year operating profit forecast to 780 billion yen from 650 billion yen, a 20% increase, on US hybrid demand and a weak yen (Reuters, Nov 10).",
+    "Operating profit for July to September fell 39% from a year earlier to 118 billion yen, well below the 250 billion yen median of nine analysts polled by LSEG.",
+    "Honda booked another 484.8 billion yen, about $3 billion, in EV restructuring costs in the quarter, bringing its total EV writedown toward $12 billion.",
+    "Honda cut its global vehicle sales forecast 7% to 3.16 million, mainly on falling sales in China."
+  ],
+  "body": "## A higher forecast with a heavy EV bill\n\nHonda Motor raised its full-year operating profit forecast on Tuesday, to 780 billion yen from 650 billion yen. The 20% increase was driven by strong US hybrid demand and a weak yen, which was trading near 158 to the dollar, according to Reuters ([Reuters via Durham Herald Sun](https://www.heraldsun.com/news/business/article318008365.html)). The upgrade came alongside another $3 billion in charges to restructure the company's electric-vehicle business.\n\nThe quarter itself was weak. Operating profit for July to September fell 39% from a year earlier to 118 billion yen, far short of the 250 billion yen median forecast in a nine-analyst LSEG poll. The weakness was concentrated in the EV bet. Honda kept its estimate for this fiscal year's EV restructuring costs at 520 billion yen, or $3.29 billion, including the 484.8 billion yen booked in the latest quarter.\n\n## The toll of the EV reset\n\nReuters put the total cost of the EV retreat at more than $12 billion, one of the largest writedowns by any legacy automaker. Honda had already booked more than $9 billion in the previous financial year, which pushed the company into its first annual loss in nearly 70 years. The company's CFO, Masao Kawaguchi, said Honda wanted to settle supplier restructuring talks within this financial year.\n\n## Hybrids are carrying the company\n\nThe strategy shift is visible in the numbers. Honda's US sales rose 9% in the second quarter, and hybrids made up half of its global retail sales of 823,000 vehicles. On Monday, Honda also said it would build a $3 billion plant in Ohio that will produce 240,000 hybrid cars a year, with production starting in 2029.\n\nThe outlook is not uniformly strong. Honda cut its full-year global sales forecast by 7%, to 3.16 million vehicles, mainly on China. It also said North American conditions would be slightly tougher in the second half because of higher interest rates and incentives.\n\nToyota also raised its profit forecast last week on hybrid strength, while Hyundai cut its annual outlook on soft demand and raw-material costs, according to Reuters.\n\n## What to watch\n\nThe investor question is whether the hybrid business can keep covering the EV charges and the China shortfall. The forecast upgrade depends heavily on currency and US demand, both of which could move. The supplier settlements Honda has promised to finish this year are the next concrete test: if they land near the 520 billion yen estimate, the EV writedown may be closer to finished. If they run higher, the upgraded outlook could look less durable.",
+  "marketImpact": {
+    "summary": "The upgraded forecast is positive for Honda's near-term earnings, but the quarter missed expectations badly and the EV writedowns are still large. Investors are weighing hybrid strength and a weak yen against China and EV restructuring costs.",
+    "timeframe": "Next 1-2 sessions in Tokyo and New York, then supplier settlement updates through the fiscal year",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "HMC", "direction": "mixed", "rationale": "Raised profit forecast and hybrid strength versus a large EV charge and a weak quarter" },
+      { "symbol": "TM", "direction": "watch", "rationale": "Toyota also raised its profit forecast on hybrids, making it a peer read-across" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-10", "event": "Honda reports July-September results and raises full-year operating profit forecast to 780 billion yen" }
+    ]
+  },
+  "sources": [
+    { "title": "Honda raises full-year profit outlook, books $3 billion in EV-linked costs in Q2", "publisher": "Reuters (via Durham Herald Sun)", "url": "https://www.heraldsun.com/news/business/article318008365.html", "accessedAt": "2026-11-11" },
+    { "title": "Honda raises outlook even as failed EV bet weighs on profit", "publisher": "The Japan Times", "url": "https://www.japantimes.co.jp/business/2026/11/11/companies/honda-profit-outlook/", "accessedAt": "2026-11-11" },
+    { "title": "Honda raises annual profit outlook 20% despite EV restructuring costs", "publisher": "CBT News", "url": "https://www.cbtnews.com/honda-raises-annual-profit-outlook-20", "accessedAt": "2026-11-11" }
+  ]
+}

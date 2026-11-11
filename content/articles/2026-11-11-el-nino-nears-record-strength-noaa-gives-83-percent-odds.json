@@ -1,0 +1,55 @@
+{
+  "slug": "el-nino-nears-record-strength-noaa-gives-83-percent-odds",
+  "title": "El Niño Is Within a Tenth of a Degree of 1997's Pace, and NOAA Gives 83% Odds of a Record",
+  "dek": "NOAA's latest index puts the current El Niño at +2.0°C for August to October, just behind 1997-98 at the same point, with forecasters expecting it to challenge the all-time record this winter.",
+  "section": "climate",
+  "tags": [
+    "El Niño",
+    "NOAA",
+    "ENSO",
+    "climate",
+    "weather",
+    "Pacific Ocean"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T21:00:00Z",
+  "updatedAt": "2026-11-11T21:00:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/1997_El_Nino_TOPEX.jpg",
+    "alt": "Satellite sea-surface-height image of the Pacific Ocean from December 1997, showing the 1997 El Niño as seen by TOPEX/Poseidon",
+    "credit": "NASA / JPL (TOPEX/Poseidon), via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1997_El_Nino_TOPEX.jpg"
+  },
+  "keyPoints": [
+    "NOAA's Relative Oceanic Niño Index was about +2.0°C for August to October 2026 (1.97°C in the full table), against +2.07°C for the same period of 1997.",
+    "NOAA forecasters put an 83% chance that this El Niño surpasses every event since 1950 by the end of the year, according to The Watchers' summary of the CPC outlook.",
+    "The record peak is +2.40°C for December to February 1982-83; the 1997-98 event peaked at +2.28°C.",
+    "The index values are provisional and can be revised for up to two months, so the gap to 1997 could still shift."
+  ],
+  "body": "## Almost level with 1997\n\nThe current El Niño has reached about +2.0°C on NOAA's Relative Oceanic Niño Index for August to October 2026, the second-highest reading for that season since records began in 1950. Only the 1997-98 event was higher at the same point, and by just a tenth of a degree, according to The Watchers, which reported NOAA's Climate Prediction Center figures on November 10 ([The Watchers](https://watchers.news/2026/11/10/el-nino-2026-roni-2-0-behind-1997-record-forecast/)). The full data table gives +1.97°C for 2026 against +2.07°C for 1997.\n\nThe gap has narrowed over the year. The event was 0.14°C behind 1997-98 for June to August, 0.15°C behind for July to September, and 0.10°C behind for August to October. It has also moved past the 2015-16 event at the same point, which was +1.80°C.\n\n## What the record would require\n\nThe all-time record is +2.40°C, set for December to February 1982-83. The 1997-98 event peaked at +2.28°C, and 2015-16 peaked at +2.25°C. The Watchers compared past strengthening rates to show a range of outcomes rather than a forecast. A rise like 1997-98's would put this event near +2.18°C, short of the record. A rise like 2015-16's would take it to about +2.42°C, just above it.\n\nNOAA forecasters have put the chance that this event surpasses every El Niño since 1950 by the end of the year at 83%, and the agency's earlier outlook said the chances \"remain high for a historic event.\" That is a probability, not a certainty, and the index values are still provisional. NOAA notes that RONI values can change for up to two months after first posting, so a gap as small as 0.10°C could shift.\n\n## Why the Pacific pattern matters\n\nSciTechDaily, summarising NASA satellite work, reported that the Pacific's elevated sea surface pattern resembles the October 1997 pattern, though less warm water reached the South American coast than in 1997. That difference matters for regional impacts, because the same ocean heat can produce different weather at land. Earlier reporting from Nature World News, which cited NASA maps, linked the 2026 pattern to heavy California rain, but that link is a forecast of possible effects rather than an observed result.\n\n## What to watch\n\nThe next NOAA weekly update and the monthly ENSO discussion will show whether the event keeps closing on 1997 and whether the provisional values hold. The most useful signal for the record question is whether the index continues to rise through the winter, since the record years peaked between November and February. Readers should treat the record as a live possibility rather than a settled outcome.",
+  "sources": [
+    {
+      "title": "El Niño reaches 2.0°C on NOAA's index, a tenth of a degree behind 1997–98 at the same point",
+      "publisher": "The Watchers",
+      "url": "https://watchers.news/2026/11/10/el-nino-2026-roni-2-0-behind-1997-record-forecast/",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "NASA Warns a Monster El Niño Could Surpass the Historic 1997 Event",
+      "publisher": "SciTechDaily",
+      "url": "https://scitechdaily.com/nasa-warns-a-monster-el-nino-could-surpass-the-historic-1997-event/",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "The Pacific Is Bulging Like It Did in 1997, and NASA Says This El Niño Is on Track to Be Bigger",
+      "publisher": "Nature World News",
+      "url": "https://www.natureworldnews.com/articles/73643/20261026/pacific-bulging-like-it-did-1997-nasa-says-this-el-nino-track-bigger.htm",
+      "accessedAt": "2026-11-11"
+    }
+  ]
+}

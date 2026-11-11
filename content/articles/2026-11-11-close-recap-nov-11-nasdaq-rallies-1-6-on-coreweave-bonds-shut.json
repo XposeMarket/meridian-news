@@ -1,0 +1,106 @@
+{
+  "slug": "close-recap-nov-11-nasdaq-rallies-1-6-on-coreweave-bonds-shut",
+  "title": "Nasdaq Rallies 1.6% as CoreWeave Fuels a Tech Close on a Bond-Free Veterans Day",
+  "dek": "The S&P 500 closed at 7,619.38 and the Nasdaq Composite at 25,466.19 as AI infrastructure stocks led, though the Nasdaq gave back part of its midday gain. The bond market stayed shut.",
+  "section": "markets",
+  "tags": [
+    "stock market",
+    "close",
+    "CoreWeave",
+    "Nvidia",
+    "Veterans Day",
+    "AI trade"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T21:30:00Z",
+  "updatedAt": "2026-11-11T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "The S&P 500 rose 1.3% to 7,619.38, the Dow Jones Industrial Average gained 0.5% to 52,486.49 and the Nasdaq Composite rose 1.6% to 25,466.19 (AP).",
+    "For the week, the S&P 500 is up 3.3% and the Nasdaq up 3.6%; the Russell 2000 rose 0.9% to 2,846.26 on the day (AP).",
+    "The Nasdaq 100 fund QQQ closed 2.31% higher, against 1.30% for the S&P 500 fund SPY and 0.49% for the Dow fund DIA; tech gave back part of a larger midday gain (StockTitan, citing CNBC).",
+    "CoreWeave closed up 24.71% and Nvidia 2.87%; memory and photonics names led, with Sandisk up 16% and Micron up 13% (StockTitan and CNBC).",
+    "The US bond market was closed for Veterans Day under SIFMA's recommendation, so Tuesday's 10-year Treasury close of 4.98% remains the last Treasury reading (SIFMA; CNN Business)."
+  ],
+  "body": "US stocks closed higher on Wednesday, Veterans Day, in a session with stock exchanges open and the bond market shut. The S&P 500 rose 1.3% to 7,619.38, its gain carrying it to within 2.6% of the record it set last month, according to the Associated Press.\n\n## Where the indexes closed\n\nThe Dow Jones Industrial Average gained 254.60 points, or 0.5%, to 52,486.49. The Nasdaq Composite rose 400.31 points, or 1.6%, to 25,466.19, and the Russell 2000 of smaller companies rose 0.9% to 2,846.26. The Nasdaq had been up about 2% at midday, so the close showed some fading into the afternoon.\n\n## Sectors and the AI trade\n\nTechnology did most of the work. The Nasdaq 100 fund closed 2.31% higher, well ahead of the Dow fund's 0.49% gain, according to StockTitan. CNBC reported that Sandisk and Micron advanced 16% and 13%, and that photonics names Coherent and Lumentum rose 12% and 14%. The AI-focused iShares ETF gained 7%.\n\nMicrosoft fell 2% for a second day after Anthropic unveiled AI workplace tools that could compete with core Office products, CNBC reported.\n\n## Movers\n\nCoreWeave closed 24.71% higher after reporting third-quarter revenue above estimates and raising its full-year guidance. Azenta rose 22% after a fiscal fourth-quarter beat and a revenue outlook above consensus. Corning gained more than 10% after Jefferies initiated coverage with a buy rating. Oklo rose about 6% after the Energy Department cleared its Groves-1 test reactor for unrestricted operations. Six Flags rose 8% on a large insider purchase by a director.\n\n## What is still open\n\nThe bond market will not reopen until Thursday, when the first clean Treasury reaction to the hot October CPI report arrives. Markets still price a quarter-point hike at the December meeting as the base case, per CME FedWatch data cited by CNN and CNBC. Nebius reports third-quarter results before the open on Thursday, the next test of the AI-infrastructure rally.",
+  "marketImpact": {
+    "summary": "The rally is concentrated in AI infrastructure and memory names. It lifted indexes, but the bond market's silence means the rate-hike question is still unresolved until Thursday.",
+    "timeframe": "Veterans Day close, then Thursday's Treasury reopening and Nebius results",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "CRWV",
+        "direction": "up",
+        "rationale": "Closed up about 25% after the Q3 beat, raised outlook and disclosure of about $9 billion in prepayments"
+      },
+      {
+        "symbol": "NVDA",
+        "direction": "up",
+        "rationale": "Closed up about 3% after two losing sessions; still below its early-November level"
+      },
+      {
+        "symbol": "MU",
+        "direction": "up",
+        "rationale": "Micron rose about 13% in a memory-chip rebound (CNBC)"
+      },
+      {
+        "symbol": "MSFT",
+        "direction": "down",
+        "rationale": "Fell 2% for a second day after Anthropic's workplace-tools launch (CNBC)"
+      },
+      {
+        "symbol": "NBIS",
+        "direction": "watch",
+        "rationale": "Reports before the open Thursday; shares rose sharply early Wednesday on the CoreWeave read-through"
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-12",
+        "event": "Nebius Q3 results before the open; Treasury trading resumes"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "How major US stock indexes fared Wednesday 11/11/2026",
+      "publisher": "AP News",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Stocks moving the most today: Live updates",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Is the Stock Market Open on Veterans Day 2026? Yes, No Early Close",
+      "publisher": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-open-veterans-day-2026",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "SIFMA Fixed Income Market Close Recommendation for the U.S. Veterans Day Holiday 2026",
+      "publisher": "SIFMA",
+      "url": "https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes",
+      "publisher": "CNN Business",
+      "url": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed",
+      "accessedAt": "2026-11-11"
+    }
+  ]
+}

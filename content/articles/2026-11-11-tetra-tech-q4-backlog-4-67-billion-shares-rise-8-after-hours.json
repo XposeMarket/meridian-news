@@ -1,0 +1,66 @@
+{
+  "slug": "tetra-tech-q4-backlog-4-67-billion-shares-rise-8-after-hours",
+  "title": "Tetra Tech Shares Rise 8% After Hours as Backlog Reaches $4.67 Billion",
+  "dek": "The engineering and environmental services firm reported fourth-quarter results after the bell on Wednesday. Its stock had fallen 7.48% in the regular session before the release.",
+  "section": "markets",
+  "tags": [
+    "Tetra Tech",
+    "TTEK",
+    "earnings",
+    "after-hours",
+    "backlog"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T21:35:00Z",
+  "updatedAt": "2026-11-11T21:35:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Tetra Tech reported fourth-quarter results after the regular session closed on Wednesday, Nov. 11 (CNBC live updates).",
+    "The company put its backlog at $4.67 billion in the release (StockTitan, citing the Tetra Tech release).",
+    "The stock rose 8.26% in after-hours trading by 4:11 p.m. ET, while the S&P 500 fund SPY was up 0.06% over the same period (CNBC).",
+    "In the regular session before the release, Tetra Tech closed 7.48% lower while SPY rose (CNBC)."
+  ],
+  "body": "Tetra Tech, which sells engineering and technical services for water and the environment, reported its fourth-quarter results after the bell on Wednesday, Nov. 11, CNBC reported.\n\n## The numbers\n\nThe release put backlog at $4.67 billion. Backlog is the value of contracted work the company has yet to perform, so it gives investors a view of future revenue that is not yet on the income statement. Meridian did not retrieve the full release text, because the company's newswire page did not return it at the time of writing. Figures beyond backlog, including revenue, earnings per share and any change to guidance, should be checked against the release before they are reused.\n\n## The stock\n\nTetra Tech had closed 7.48% lower in the regular session, before the release, while the broader market rallied. That divergence matters: the stock was trading against the tape for most of the day, so the after-hours move partly reverses a weak afternoon rather than a broad rally. Shares rose 8.26% in after-hours trading by 4:11 p.m. ET, CNBC reported, while the S&P 500 fund SPY was up only 0.06% over the same period.\n\n## Why the reaction is hard to read yet\n\nAfter-hours moves often thin out once the full session trades. Volume is lighter outside the regular session, and a single release can be repriced when analysts publish notes and the company takes questions. The direction of the reaction is clear from the sources; its size is not yet confirmed by a regular-session close.\n\n## What to watch\n\nThe after-hours move will be tested at the Thursday open, when the stock reacts to the full quarter and any guidance changes. Investors will look first at whether backlog growth supports the company's outlook, and then at margins and cash flow in the release. The regular-session drop before the report also means the after-hours gain is measured against a depressed price, so the Thursday open will show whether the buyers who stepped in after the bell hold their position.",
+  "marketImpact": {
+    "summary": "The after-hours gain reverses part of a weak regular session. Backlog is the figure investors will weigh against the company's outlook once the full release is reviewed.",
+    "timeframe": "After-hours Nov. 11, then Thursday's regular session",
+    "confidence": "low",
+    "tickers": [
+      {
+        "symbol": "TTEK",
+        "direction": "up",
+        "rationale": "Rose 8.26% after hours on the Q4 release after a 7.48% regular-session drop"
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-12",
+        "event": "Thursday regular session: first trading reaction to the Q4 release"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stocks moving the most today: Live updates",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Is the Stock Market Open on Veterans Day 2026? (StockTitan live coverage, Nov. 11 close)",
+      "publisher": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-open-veterans-day-2026",
+      "accessedAt": "2026-11-11"
+    }
+  ]
+}

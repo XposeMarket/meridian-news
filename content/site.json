@@ -1,47 +1,56 @@
 {
-  "updatedAt": "2026-11-11T17:15:00Z",
-  "edition": "midday",
-  "leadSlug": "midday-coreweave-leads-ai-rebound-as-nasdaq-climbs-on-veterans-day",
+  "updatedAt": "2026-11-11T21:30:00Z",
+  "edition": "afternoon",
+  "leadSlug": "close-recap-nov-11-nasdaq-rallies-1-6-on-coreweave-bonds-shut",
   "marketBrief": {
-    "headline": "Midday, Nov. 11: Nasdaq up 2% at noon ET as CoreWeave jumps 26%; bonds still closed for Veterans Day",
-    "summary": "Kospi closed up 2.6% at 5,375.36 and the Nikkei 225 rose about 1.3% after Tuesday's hot-CPI selloff, with chip stocks leading (Yonhap; TradingKey). S&P 500 futures were up about 0.9% in the European morning (investingLive). The US bond market, and the Fed, are closed for Veterans Day (SIFMA; StockTitan), so Tuesday's 4.98% 10-year close remains the last Treasury reading. Traders still price a quarter-point December hike as the base case (CNN; CNBC).",
+    "headline": "Close, Nov. 11: S&P 500 up 1.3% and Nasdaq up 1.6% as CoreWeave surges; bond market shut for Veterans Day",
+    "summary": "The S&P 500 closed at 7,619.38 (+1.3%), the Dow at 52,486.49 (+0.5%) and the Nasdaq Composite at 25,466.19 (+1.6%), per AP. CoreWeave closed up 24.71% after its Q3 beat (CNBC, via StockTitan). The US bond market was closed for Veterans Day (SIFMA), so Tuesday's 4.98% 10-year close is still the last Treasury reading. CME FedWatch pricing still leaves a quarter-point December hike as the base case (CNN).",
     "bullets": [
-      "Midday, Nov. 11, 12:00 p.m. ET: Nasdaq Composite up 2.06% at 25,582.06; CoreWeave up about 26% at $61.33 after its Q3 beat (Yahoo Finance quote data; CNBC).",
-      "Kospi close, Nov. 11: 5,375.36, up 2.6% (Yonhap News Agency).",
-      "Nikkei 225, Asian session, Nov. 11: about 61,248.52, up about 1.3% (TradingKey); early reports differed, so treat as provisional.",
-      "Bond market closed Nov. 11 for Veterans Day; SIFMA recommended a full close for dollar fixed income in the US, UK and Japan (SIFMA).",
-      "Tuesday's last Treasury close: 10-year 4.98%, up 10 bp; 2-year up about 17 bp (CNN Business).",
-      "December FOMC odds after CPI: 91% quarter-point hike, 9% half-point (CNN, citing CME FedWatch); CNBC cited about 13.6% for the half-point move."
+      "Close, Nov. 11: S&P 500 7,619.38 (+1.3%), Dow 52,486.49 (+0.5%), Nasdaq Composite 25,466.19 (+1.6%), Russell 2000 2,846.26 (+0.9%) (AP).",
+      "Week to date: S&P 500 up 3.3%, Nasdaq up 3.6% (AP).",
+      "Nasdaq 100 fund QQQ closed up 2.31%; tech gave back part of its midday gain (StockTitan, citing CNBC).",
+      "CoreWeave closed up 24.71% and Nvidia 2.87% (StockTitan, citing CNBC). Memory and photonics names led: Sandisk +16%, Micron +13% (CNBC).",
+      "Tetra Tech rose 8.26% after hours on its Q4 release, with backlog at $4.67 billion, after a 7.48% regular-session drop (CNBC).",
+      "Bond market closed Nov. 11 for Veterans Day (SIFMA). Bonds reopen Thursday; Nebius reports Q3 before the open that day."
     ],
-    "asOf": "2026-11-11T17:00:00Z"
+    "asOf": "2026-11-11T21:30:00Z"
   },
   "marketSnapshot": [
     {
       "label": "S&P 500",
-      "value": "7,520.93",
-      "change": "-0.38%",
-      "direction": "down",
-      "source": "CNBC live updates",
-      "sourceUrl": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-      "asOf": "2026-11-10 close"
+      "value": "7,619.38",
+      "change": "+1.30%",
+      "direction": "up",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
+      "asOf": "2026-11-11 close"
     },
     {
-      "label": "S&P 500 futures",
-      "value": "about +0.9%",
-      "change": "+0.9%",
+      "label": "Dow Jones Industrial Average",
+      "value": "52,486.49",
+      "change": "+0.5%",
       "direction": "up",
-      "source": "investingLive European session wrap",
-      "sourceUrl": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rally-dollar-climbs-as-bond-market-sits-out-post-cpi-action/",
-      "asOf": "2026-11-11 European morning"
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
+      "asOf": "2026-11-11 close"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "25,065.87",
-      "change": "-0.74%",
-      "direction": "down",
-      "source": "CNBC live updates",
-      "sourceUrl": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-      "asOf": "2026-11-10 close"
+      "value": "25,466.19",
+      "change": "+1.60%",
+      "direction": "up",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
+      "asOf": "2026-11-11 close"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,846.26",
+      "change": "+0.9%",
+      "direction": "up",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
+      "asOf": "2026-11-11 close"
     },
     {
       "label": "Kospi",
@@ -91,11 +100,11 @@
   ],
   "calendar": [
     {
-      "date": "2026-11-11",
-      "time": "All day",
-      "event": "Veterans Day: US bond market and Federal Reserve closed; stock markets open",
-      "importance": "medium",
-      "why": "SIFMA recommends a full bond market close, so no Treasury price discovery until Thursday; equities trade on futures and Asian/European prices."
+      "date": "2026-11-12",
+      "time": "Before open",
+      "event": "Nebius Group Q3 2026 results; call at 8:00 a.m. ET",
+      "importance": "high",
+      "why": "Company said results come before the open Thursday (Nebius IR); shares rose sharply Wednesday on the CoreWeave read-through (Benzinga; GuruFocus)."
     },
     {
       "date": "2026-11-12",
