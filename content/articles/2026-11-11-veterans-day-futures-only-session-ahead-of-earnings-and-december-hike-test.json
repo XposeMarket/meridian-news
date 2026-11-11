@@ -1,0 +1,48 @@
+{
+  "slug": "veterans-day-futures-only-session-ahead-of-earnings-and-december-hike-test",
+  "title": "A Futures-Only Veterans Day Session Tests the December Hike Call",
+  "dek": "With the bond market shut and only a light calendar, Wednesday's stock trade is a test of whether equities can look past Fed hike odds that rose sharply after Tuesday's CPI.",
+  "section": "markets",
+  "tags": ["Fed", "rate hike", "Veterans Day", "earnings", "CPI", "Treasuries"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T13:20:00Z",
+  "updatedAt": "2026-11-11T13:20:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "SIFMA has recommended a full bond market close on Wednesday, Nov. 11, for US dollar fixed income, and Veterans Day means Federal Reserve Banks are closed. Stock markets are open.",
+    "CNN reported that CME FedWatch odds on Tuesday put a quarter-point December hike at 91%, with a half-point move at 9%; CNBC cited about 13.6% for the half-point move.",
+    "Fed Governor Waller said he would consider a half-point hike in December if core inflation keeps running at 0.3% or more; Dallas Fed President Logan said the Fed may need to move faster this winter.",
+    "Pre-market earnings listed for Nov. 11 include RUM, RSKD, SGML, GIB and ICL, per Earnings Whispers; no major 8:30 a.m. release is on the calendar."
+  ],
+  "body": "US stock futures were pointing higher on Wednesday, the day the bond market is closed for Veterans Day. The setup is unusual: equities are trading on a rebound from Tuesday's CPI-driven selloff, but the most direct gauge of rate expectations is unavailable until Thursday.\n\n## The bond market is closed, and the Fed is still in play\n\nSIFMA recommended a full close for trading of US dollar-denominated fixed income on Wednesday, Nov. 11, in observance of Veterans Day. The recommendation covers Treasuries, mortgage- and asset-backed securities, and investment-grade and high-yield corporate bonds. Individual firms can still decide whether to open, and the Federal Reserve's payment system is also closed for the holiday, so the day offers no Treasury price discovery.\n\nThat leaves Tuesday's close as the most recent rate signal. CNN reported that the 10-year Treasury yield rose 10 basis points to 4.98% and briefly moved above 5%, while the two-year jumped about 17 basis points, its biggest one-day rise since April 2025.\n\n## Why the December hike call got louder\n\nThe repricing came from two places. October's core CPI rose 0.3% against a 0.2% forecast, and Waller's comments in London pushed the debate toward a larger move. He said he would consider a half-point hike at the December meeting if core inflation continues at 0.3% or higher, and he argued that a quarter-point move would put the Fed's credibility at risk.\n\nLogan's remarks in Houston pointed the same way: she said the Fed needs at least two more quarter-point increases, and that it might move faster this winter. Economists cited by CNN, including Santander's Stephen Stanley, still expect a quarter-point move.\n\nThe odds differ across reports. CNN cited CME FedWatch at 91% for a quarter-point move and 9% for a half-point move; CNBC cited about 13.6% for the half-point move. Both sources agree that a December hike is the base case. Investors should treat the exact split as a moving number.\n\n## The earnings calendar is light\n\nEarnings Whispers lists the Wednesday before-the-open reports as RUM, RSKD, SGML, GIB and ICL. The same calendar shows a heavier slate for the week of Nov. 11, including NVIDIA, Applied Materials and Cisco. Those dates should be confirmed against each company's release before they are used for trading decisions.\n\nThe Investrade and Blye Sheet previews describe Wednesday as a light data day, and the morning economic calendar has no major release on the 8:30 a.m. list. The next scheduled inflation-related release is October producer prices, tentatively Friday; check the BLS calendar before relying on that date.\n\n## What would change the picture\n\nThe risk for equities is that Thursday's reopening brings a higher Treasury yield on top of Tuesday's move. Stocks could hold up if the chip rebound continues and yields stabilize. A sustained move toward 5% on the 10-year would revive the pressure on high-multiple technology names that Tuesday's session showed.",
+  "marketImpact": {
+    "summary": "The December hike is the base case, and a half-point move is now a live tail risk. Equities can rebound without a bond signal today, but Thursday's reopening will test whether the rally holds. Rate-sensitive technology and high-multiple names carry the most exposure.",
+    "timeframe": "Today's session, then the Treasury reopening on Thursday, Nov. 12",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "QQQ", "direction": "watch", "rationale": "Nasdaq exposure to rate-hike odds and to the chip sector's weight" },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Shares fell more than 5% on Tuesday; its earnings date this week is a separate catalyst" },
+      { "symbol": "TLT", "direction": "down", "rationale": "A half-point hike case and a 4.98% 10-year close point to further pressure on long bond prices when trading resumes" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-12", "event": "Treasury trading resumes; weekly jobless claims" },
+      { "date": "2026-12-08", "event": "FOMC meeting, Dec. 8-9; quarter-point hike priced, half-point move in play" }
+    ]
+  },
+  "sources": [
+    { "title": "SIFMA Fixed Income Market Close Recommendation for the U.S. Veterans Day Holiday 2026", "publisher": "SIFMA", "url": "https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026", "accessedAt": "2026-11-11" },
+    { "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes", "publisher": "CNN Business", "url": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed", "accessedAt": "2026-11-11" },
+    { "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html", "accessedAt": "2026-11-11" },
+    { "title": "Earnings Whispers: most anticipated earnings releases", "publisher": "Earnings Whispers", "url": "https://www.earningswhispers.com/", "accessedAt": "2026-11-11" }
+  ]
+}
