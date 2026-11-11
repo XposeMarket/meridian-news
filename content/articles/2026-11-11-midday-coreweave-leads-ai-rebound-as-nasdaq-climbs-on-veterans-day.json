@@ -1,0 +1,48 @@
+{
+  "slug": "midday-coreweave-leads-ai-rebound-as-nasdaq-climbs-on-veterans-day",
+  "title": "CoreWeave Leads an AI Rebound as Nasdaq Climbs on the Veterans Day Session",
+  "dek": "Stocks traded higher through the first half of a bond-free Wednesday, with CoreWeave's earnings-driven surge and a Nvidia bounce doing most of the lifting.",
+  "section": "markets",
+  "tags": ["CoreWeave", "Nvidia", "Nasdaq", "Veterans Day", "AI trade", "earnings"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T17:15:00Z",
+  "updatedAt": "2026-11-11T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Stocks opened higher on Veterans Day, when the bond market was closed. Yahoo Finance's live blog put the S&P 500 up about 1.2% and the Nasdaq Composite up about 1.9% at 8:57 a.m. Pacific, with the Dow near flat.",
+    "The Nasdaq Composite was up 2.06% at 25,582.06 at 12:00 p.m. Eastern, per Yahoo Finance quote data.",
+    "CoreWeave was the session's headline mover. CNBC reported a 20% gain after third-quarter revenue of $3.66 billion beat the $3.55 billion LSEG consensus and the company raised its full-year revenue outlook. Yahoo Finance quoted the stock at $61.33, up 25.86%, at 12:00 p.m. Eastern.",
+    "CoreWeave said it expects about $9 billion in customer prepayments and deposits over the next three months and does not plan to take on more expensive debt through 2027, which addressed the financing worries that had weighed on the stock.",
+    "Nvidia rose about 5% after two losing sessions, according to CNBC, while Yahoo Finance said the chip sector broadly rallied on CoreWeave's results."
+  ],
+  "body": "US stocks traded higher on Wednesday, Veterans Day, in a session with the bond market closed. Stock markets followed their usual schedule. The Federal Reserve was also closed.\n\n## Where the indexes stood\n\nAt 8:57 a.m. Pacific, Yahoo Finance's live report put the S&P 500 up about 1.2% and the Nasdaq Composite up about 1.9%, with the Dow Jones Industrial Average near flat. By 12:00 p.m. Eastern, Yahoo's quote data showed the Nasdaq Composite at 25,582.06, up 2.06%. The index moves in this piece are intraday readings, not closing numbers.\n\n## CoreWeave drives the tape\n\nCoreWeave was the day's clearest mover. CNBC reported that the AI cloud provider's shares rose about 20% after it posted third-quarter revenue of $3.66 billion, up 168% from a year earlier, against a $3.55 billion consensus from LSEG. The company also raised its full-year revenue outlook. Yahoo Finance quoted CoreWeave at $61.33, up 25.86%, at 12:00 p.m. Eastern.\n\nThe stock's reaction was driven by financing, not only revenue. Yahoo Finance reported that CoreWeave expects about $9 billion in customer prepayments and deposits over the next three months and does not plan to take on more expensive debt through 2027. Its bonds had sold off in recent weeks as investors questioned the cost of funding its build-out.\n\n## Nvidia and the chip bounce\n\nNvidia rose about 5% after two losing sessions. CNBC said the stock had been down nearly 10% for the week before Wednesday. Yahoo Finance reported that chip stocks broadly rallied on the CoreWeave results and that Nvidia still trailed its early-November level.\n\n## What did not move the tape\n\nThere was no major US economic release or large earnings calendar on Wednesday, according to Yahoo Finance. With Treasuries shut, the last reliable rate reading remains Tuesday's 4.98% close on the 10-year note, per CNN Business. Traders will look for the first clean bond reaction on Thursday.\n\n## What to watch next\n\nNebius reports third-quarter results before the open on Thursday, Nov. 12, according to Yahoo Finance and GuruFocus. Yahoo Finance said early Wednesday trading had already lifted Nebius about 15% on the CoreWeave read-through.",
+  "marketImpact": {
+    "summary": "The rebound is concentrated in AI infrastructure names, and CoreWeave's financing update is the main reason. Broader gains are real but narrower than the headline indexes suggest.",
+    "timeframe": "Midday Veterans Day session, then Thursday's Nebius report and Treasury reopening",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "CRWV", "direction": "up", "rationale": "Shares rose about 20% to 26% intraday after the Q3 beat, raised outlook and $9 billion prepayment disclosure" },
+      { "symbol": "NVDA", "direction": "up", "rationale": "Bounced about 5% after two losing sessions; still well below its early-November level" },
+      { "symbol": "NBIS", "direction": "watch", "rationale": "Reports before the open Thursday; shares rose about 15% early Wednesday on the CoreWeave read-through" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-12", "event": "Nebius Q3 results before the open; Treasury trading resumes" }
+    ]
+  },
+  "sources": [
+    { "title": "Stocks moving the most today: Live updates", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html", "accessedAt": "2026-11-11" },
+    { "title": "Stock market today: S&P 500, Nasdaq rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html", "accessedAt": "2026-11-11" },
+    { "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes", "publisher": "CNN Business", "url": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed", "accessedAt": "2026-11-11" },
+    { "title": "CoreWeave Reports Strong Third Quarter 2026 Results", "publisher": "CoreWeave Investor Relations (Business Wire)", "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx", "accessedAt": "2026-11-11" }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "congress-adds-three-ai-chip-export-measures-to-defense-bill",
+  "title": "Congress Adds Three AI Chip Export Measures to the Senate Defense Bill",
+  "dek": "The AI Overwatch Act, Chip Security Act and MATCH Act would tighten China's access to advanced chips and equipment if they survive the Senate NDAA process.",
+  "section": "ai-tech",
+  "tags": [
+    "Nvidia",
+    "export controls",
+    "NDAA",
+    "Congress",
+    "China",
+    "AI chips"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T17:20:00Z",
+  "updatedAt": "2026-11-11T17:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
+    "alt": "The Nvidia headquarters building in Santa Clara, California",
+    "credit": "Coolcaesar / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
+  },
+  "keyPoints": [
+    "Three measures are part of the Senate fiscal 2027 NDAA package: the AI Overwatch Act, the Chip Security Act and the MATCH Act (Benzinga, citing Reuters).",
+    "All three have advanced through the House Foreign Affairs Committee; inclusion in the Senate bill does not guarantee passage.",
+    "Nvidia disclosed that H200 shipments to China were less than 1% of its latest quarterly data center revenue, and it recorded a $400 million charge on excess inventory."
+  ],
+  "body": "## Three measures in the defense package\n\nThree bills aimed at China's access to advanced chips are now part of the Senate's fiscal 2027 National Defense Authorization Act package, Reuters reported on Monday, and Benzinga summarized the measures on Wednesday ([Benzinga](https://www.benzinga.com/trading-ideas/long-ideas/26/11/63136323/nvidia-china-chip-restrictions)).\n\nThe AI Overwatch Act would give Congress more authority over advanced-chip exports, which could limit the executive branch's power to approve sales to foreign adversaries. The Chip Security Act would require companies to track advanced chips so that restricted processors are harder to divert through intermediaries. The MATCH Act would press allied countries to restrict exports of chipmaking equipment to China.\n\nAll three have cleared the House Foreign Affairs Committee. Their inclusion in the Senate package does not guarantee passage, but it shows bipartisan support for tighter controls.\n\n## The White House is the open question\n\nPresident Trump allowed controlled H200 sales to approved Chinese customers in December 2025, with case-by-case Commerce Department reviews. Benzinga reported that approvals have not produced meaningful volume: Nvidia said H200 shipments were less than 1% of its latest quarterly data center revenue, and it took a $400 million charge tied to excess H200 inventory and purchase obligations.\n\nThe measures would constrain the executive branch regardless of whether Trump favors sales. What to watch is the NDAA conference text and whether the chip-tracking requirement survives.\n\n## Context from the record\n\nNvidia's China business has shrunk since the October 2022 controls. CNBC reported that Jensen Huang said in October 2025 that Nvidia was '100% out of China.' Trump said in December 2025 that H200 chips could be sold to China with the US taking a 25% cut of sales. The gap between that approval and the small shipment volumes Nvidia reported is why lawmakers want statutory limits instead of case-by-case decisions by the executive branch.\n\nThe three measures differ in reach. The AI Overwatch Act targets who decides export policy. The Chip Security Act targets traceability of individual chips. The MATCH Act targets allied equipment makers. Benzinga noted that inclusion in the Senate bill shows bipartisan traction but does not guarantee passage, and the House and Senate versions would still need to be reconciled.\n\nCNBC also reported that Huang admitted an affair with an alleged Chinese spy, and that lawmakers are looking to investigate Nvidia's China ties. That scrutiny adds political weight to the legislative push, although none of the three measures depends on it.",
+  "marketImpact": {
+    "summary": "The measures would limit executive discretion over advanced-chip sales and add tracking requirements. Nvidia already has little China H200 revenue, so near-term earnings exposure appears limited, but the rules could widen if they pass.",
+    "timeframe": "Through the NDAA conference process, likely weeks to months",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "Named as the company most exposed to China chip-sale rules; Benzinga says H200 shipments are a small share of its data center revenue."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-11",
+        "event": "Senate NDAA package carries the three chip measures"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nvidia's China Comeback Faces 3 New Washington Roadblocks. Trump Holds the Wild Card",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63136323/nvidia-china-chip-restrictions",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show",
+      "accessedAt": "2026-11-11"
+    }
+  ]
+}

@@ -3,10 +3,17 @@
   "title": "Reports Say a Nvidia-Linked Network Moved $7.5 Billion of Chips Into China, Raising Export-Control Questions",
   "dek": "The Information's reporting, cited by Seoul Economic Daily, describes a supply chain through Singapore and Malaysia, while Bloomberg's Moonshot documents raise questions about B300 servers. Nvidia says it is cooperating with authorities.",
   "section": "ai-tech",
-  "tags": ["Nvidia", "export controls", "China", "Moonshot AI", "Super Micro", "chip smuggling"],
+  "tags": [
+    "Nvidia",
+    "export controls",
+    "China",
+    "Moonshot AI",
+    "Super Micro",
+    "chip smuggling"
+  ],
   "author": "Meridian Newsroom",
   "publishedAt": "2026-11-11T11:00:00Z",
-  "updatedAt": "2026-11-11T11:00:00Z",
+  "updatedAt": "2026-11-11T17:20:00Z",
   "edition": "pre-market",
   "featured": false,
   "breaking": false,
@@ -25,22 +32,54 @@
     "A Nvidia spokesperson said the Super Micro servers appear to be from previous cases already being addressed by authorities and that the company is working with them.",
     "Nvidia's shares rose in premarket trading on Wednesday, according to TipRanks, though the company faces a Baird downgrade."
   ],
-  "body": "A new set of reports is widening the story of how Nvidia's most advanced chips reached China despite U.S. export rules, and it is putting pressure on Washington to close gaps that companies and regulators have been slow to address.\n\n## A supply network under scrutiny\n\nThe Information reported on Tuesday, and Seoul Economic Daily repeated it on Wednesday, that Alice Huang, a figure who has been alleged to have had a personal relationship with Nvidia Chief Executive Jensen Huang and to have spying ties to China, helped funnel at least 10 trillion won ($7.5 billion) of AI chips into China. According to that account, the network ran through Century Lituo in Shanghai, Mega Speed in Singapore and Speed Matrix in Malaysia, and the chips included H100, H200 and A100 processors, totaling about 240,000 units. Those claims come from people familiar with the matter and have not been independently verified by Meridian.\n\nSeparately, Bloomberg reported that Moonshot AI signed a contract in August to rent 32 Super Micro servers equipped with Nvidia's B300 GPUs, which the U.S. does not generally license for export to China. Documents filed with Beijing regulators put the lease at roughly 432 million yuan, or about $65 million, and said the servers were listed in Qingyang, Gansu province. Moonshot told Bloomberg it had \"no business relationship\" with Lingmeixin, the company said to own the servers, and that it had no knowledge of the financing arrangements. Bloomberg could not confirm whether Moonshot had obtained a license.\n\n## What the rules cover, and what they do not\n\nThe Daily Caller, citing Commerce Department rules, reported that American export controls effectively bar Chinese access to Nvidia chips without a license. CNBC had earlier reported that Moonshot looked to lease computing power from European data centers. Foreign cloud services are not regulated by the same export rules, which is one reason the chips can reach Chinese users without a direct shipment from the United States.\n\nNvidia's response in the Bloomberg-cited coverage has been to point to its cooperation with authorities. A spokesperson said the Super Micro servers \"appear to be from previous cases, already being addressed by the authorities.\" Neither Nvidia nor Super Micro has been reported to have taken part in the leasing arrangement described in the Beijing filings.\n\n## Why it matters for the market\n\nThe reports arrive while Nvidia is already under pressure. Baird downgraded the stock on Wednesday over AI spending visibility and questions about its leadership, according to 24/7 Wall St. Even so, the chip sector rallied in early trading on the CoreWeave results, and Nvidia gained.\n\nFor investors, the central question is whether scrutiny of chip diversion becomes a constraint on Nvidia's China revenue or on the Super Micro server channel that the Moonshot documents involve. Congress has been pressing on AI chip exports, and Democrats have made Nvidia's export practices a target, Bloomberg has reported. Any new rule on cloud access or licensing would affect the sector more broadly.\n\nThe facts here are still developing. Several claims come from documents or people who have not been fully confirmed, and Meridian will update this story if regulators, Nvidia or Moonshot provide new detail.\n\nThis is news analysis, not financial advice.",
+  "body": "A new set of reports is widening the story of how Nvidia's most advanced chips reached China despite U.S. export rules, and it is putting pressure on Washington to close gaps that companies and regulators have been slow to address.\n\n## A supply network under scrutiny\n\nThe Information reported on Tuesday, and Seoul Economic Daily repeated it on Wednesday, that Alice Huang, a figure who has been alleged to have had a personal relationship with Nvidia Chief Executive Jensen Huang and to have spying ties to China, helped funnel at least 10 trillion won ($7.5 billion) of AI chips into China. According to that account, the network ran through Century Lituo in Shanghai, Mega Speed in Singapore and Speed Matrix in Malaysia, and the chips included H100, H200 and A100 processors, totaling about 240,000 units. Those claims come from people familiar with the matter and have not been independently verified by Meridian.\n\nSeparately, Bloomberg reported that Moonshot AI signed a contract in August to rent 32 Super Micro servers equipped with Nvidia's B300 GPUs, which the U.S. does not generally license for export to China. Documents filed with Beijing regulators put the lease at roughly 432 million yuan, or about $65 million, and said the servers were listed in Qingyang, Gansu province. Moonshot told Bloomberg it had \"no business relationship\" with Lingmeixin, the company said to own the servers, and that it had no knowledge of the financing arrangements. Bloomberg could not confirm whether Moonshot had obtained a license.\n\n## What the rules cover, and what they do not\n\nThe Daily Caller, citing Commerce Department rules, reported that American export controls effectively bar Chinese access to Nvidia chips without a license. CNBC had earlier reported that Moonshot looked to lease computing power from European data centers. Foreign cloud services are not regulated by the same export rules, which is one reason the chips can reach Chinese users without a direct shipment from the United States.\n\nNvidia's response in the Bloomberg-cited coverage has been to point to its cooperation with authorities. A spokesperson said the Super Micro servers \"appear to be from previous cases, already being addressed by the authorities.\" Neither Nvidia nor Super Micro has been reported to have taken part in the leasing arrangement described in the Beijing filings.\n\n## Why it matters for the market\n\nThe reports arrive while Nvidia is already under pressure. Baird downgraded the stock on Wednesday over AI spending visibility and questions about its leadership, according to 24/7 Wall St. Even so, the chip sector rallied in early trading on the CoreWeave results, and Nvidia gained.\n\nFor investors, the central question is whether scrutiny of chip diversion becomes a constraint on Nvidia's China revenue or on the Super Micro server channel that the Moonshot documents involve. Congress has been pressing on AI chip exports, and Democrats have made Nvidia's export practices a target, Bloomberg has reported. Any new rule on cloud access or licensing would affect the sector more broadly.\n\nThe facts here are still developing. Several claims come from documents or people who have not been fully confirmed, and Meridian will update this story if regulators, Nvidia or Moonshot provide new detail.\n\nThis is news analysis, not financial advice.\n\n## Reuters finds a military-linked buyer\n\nA separate Reuters investigation, published Wednesday and carried by Al Jazeera, found that Northwestern Polytechnical University, a Chinese institution on the US Entity List since 2001, bought two Nvidia H200 chips for 874,700 yuan (about $123,000) on October 21. The purchase was made through a reseller, Shaanxi Bosuan Network Technology, not directly from Nvidia, and the procurement record showed no export licence. The university also signed five contracts this year to rent servers with eight H200 chips each. Reuters flagged 26 similar records across Chinese military-linked buyers ([Al Jazeera](https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show)). Nvidia has not been shown to have sold to the university directly.",
   "marketImpact": {
     "summary": "Export-control scrutiny is a headline risk rather than a booked cost for Nvidia, but a tighter rule on foreign cloud access or on Super Micro server sales could hit China-linked demand. The reports have not yet produced a regulatory action.",
     "timeframe": "Next several weeks, as regulators and Congress respond",
     "confidence": "low",
     "tickers": [
-      { "symbol": "NVDA", "direction": "watch", "rationale": "Reports tie its chips to China diversion networks, but Nvidia says it is cooperating and no penalty has been announced" },
-      { "symbol": "SMCI", "direction": "watch", "rationale": "Its servers are at the center of the Moonshot B300 lease documents, and it has not been found to have participated" }
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "Reports tie its chips to China diversion networks, but Nvidia says it is cooperating and no penalty has been announced"
+      },
+      {
+        "symbol": "SMCI",
+        "direction": "watch",
+        "rationale": "Its servers are at the center of the Moonshot B300 lease documents, and it has not been found to have participated"
+      }
     ],
     "catalysts": [
-      { "date": "2026-11-11", "event": "Reports from The Information and Bloomberg on the Huang network and Moonshot server leases" }
+      {
+        "date": "2026-11-11",
+        "event": "Reports from The Information and Bloomberg on the Huang network and Moonshot server leases"
+      }
     ]
   },
   "sources": [
-    { "title": "Alice Huang Funneled $7.5 Billion in Nvidia Chips to China", "publisher": "Seoul Economic Daily", "url": "https://en.sedaily.com/world/2026/11/11/alice-huang-funneled-75-billion-in-nvidia-chips-to-china", "accessedAt": "2026-11-11" },
-    { "title": "Moonshot AI rents Nvidia's top AI chips in China, documents show", "publisher": "Economic Times (citing Bloomberg)", "url": "https://economictimes.indiatimes.com/ai/ai-insights/moonshot-ai-rents-nvidias-top-ai-chips-in-china-documents-show/articleshow/135700895.cms", "accessedAt": "2026-11-11" },
-    { "title": "China Keeps Making End Runs Around America's Chip Export Controls", "publisher": "The Daily Caller", "url": "https://dailycaller.com/2026/11/11/nvidia-chips-export-controls-china/", "accessedAt": "2026-11-11" }
+    {
+      "title": "Alice Huang Funneled $7.5 Billion in Nvidia Chips to China",
+      "publisher": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/world/2026/11/11/alice-huang-funneled-75-billion-in-nvidia-chips-to-china",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Moonshot AI rents Nvidia's top AI chips in China, documents show",
+      "publisher": "Economic Times (citing Bloomberg)",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/moonshot-ai-rents-nvidias-top-ai-chips-in-china-documents-show/articleshow/135700895.cms",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "China Keeps Making End Runs Around America's Chip Export Controls",
+      "publisher": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/11/nvidia-chips-export-controls-china/",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show",
+      "accessedAt": "2026-11-11"
+    }
   ]
 }

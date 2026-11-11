@@ -1,0 +1,66 @@
+{
+  "slug": "reuters-finds-military-linked-chinese-university-bought-nvidia-h200",
+  "title": "Reuters Finds a Blacklisted Chinese University Bought Nvidia H200 Chips Through a Reseller",
+  "dek": "Procurement records show Northwestern Polytechnical University bought H200 chips and rented servers without an export licence, one of 26 similar records Reuters flagged.",
+  "section": "ai-tech",
+  "tags": [
+    "Nvidia",
+    "H200",
+    "export controls",
+    "Entity List",
+    "China",
+    "military"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T17:20:00Z",
+  "updatedAt": "2026-11-11T17:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
+    "alt": "The Nvidia headquarters building in Santa Clara, California",
+    "credit": "Coolcaesar / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
+  },
+  "keyPoints": [
+    "Northwestern Polytechnical University, on the US Entity List since 2001, bought two H200 chips for about $123,000 on October 21, through a reseller (Reuters, via Al Jazeera).",
+    "The university signed five contracts this year to rent servers with eight H200 chips each.",
+    "Reuters flagged 26 similar procurement records across Chinese military-linked buyers."
+  ],
+  "body": "## What the records show\n\nNorthwestern Polytechnical University, a Xi'an institution on the US Entity List since 2001, bought two Nvidia H200 chips for 874,700 yuan, about $123,000, on October 21. The purchase was made for its management school from Shaanxi Bosuan Network Technology, a reseller, not from Nvidia. The procurement record showed no export licence ([Al Jazeera](https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show)).\n\nThe university also signed five contracts this year to rent computing capacity from Chinese companies, with each server containing eight H200 chips. Reuters identified 26 similar records across Chinese military-linked buyers.\n\n## Why it matters for Nvidia\n\nLicences for controlled US technology to Entity List institutions are normally denied, so the purchases show a gap between the rules and the purchasing channel. Nvidia has not been shown to have sold to the university directly. The reporting arrives as Congress is weighing chip-tracking requirements, and as Nvidia is under scrutiny over its CEO's lobbying on China policy.\n\nAl Jazeera also noted that US lawmakers argue access to top Nvidia chips can speed China's work on weapons design and military modernisation. Huang has argued that restricting sales would weaken US technological leadership.\n\n## The buying channel\n\nThe procurement record matters because it shows a route around the usual licence process. The chips were bought from a reseller rather than from Nvidia, and the record showed no export licence. Licences for controlled US technology to Entity List institutions are normally denied, so a purchase through an intermediary is the kind of gap lawmakers have cited when calling for chip-tracking rules.\n\nThe rental contracts raise a second question. Renting computing capacity from a Chinese company lets a restricted institution use Nvidia hardware without owning it. Bloomberg reported a similar pattern this week in the Moonshot filings, in which Moonshot rented 32 Super Micro servers with Nvidia B300 GPUs. Neither Nvidia nor Super Micro has been shown to have sold to the parties in the Northwestern case.\n\n## Background on the university\n\nNorthwestern Polytechnical University is based in Xi'an and conducts research on military aircraft, missiles and satellites. Washington added it to the Entity List in 2001 over alleged missile-proliferation activity and tightened the restrictions in 2019. Al Jazeera described it as one of China's 'Seven Sons of National Defense' institutions. The dollar value is small. The significance is the pattern across 26 records Reuters flagged, not the single transaction.",
+  "marketImpact": {
+    "summary": "The reporting points to diversion through resellers and rentals rather than direct sales. That raises pressure for tracking rules, which would be a regulatory risk for Nvidia's China-linked demand more than a current revenue hit.",
+    "timeframe": "Next several weeks, as lawmakers and regulators respond to the records",
+    "confidence": "low",
+    "tickers": [
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "The chips in the records are Nvidia's; the company is not shown to have sold to the buyer directly, and its China H200 revenue is already small."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-11",
+        "event": "Reuters procurement-record investigation published"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show",
+      "accessedAt": "2026-11-11"
+    },
+    {
+      "title": "Nvidia's China Comeback Faces 3 New Washington Roadblocks. Trump Holds the Wild Card",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63136323/nvidia-china-chip-restrictions",
+      "accessedAt": "2026-11-11"
+    }
+  ]
+}

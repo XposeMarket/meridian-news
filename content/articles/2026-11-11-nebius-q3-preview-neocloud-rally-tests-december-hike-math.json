@@ -1,0 +1,50 @@
+{
+  "slug": "nebius-q3-preview-neocloud-rally-tests-december-hike-math",
+  "title": "Nebius Reports Thursday as the Neocloud Rally Meets December Hike Math",
+  "dek": "Nebius's third-quarter report lands before the open Thursday, after CoreWeave lifted the group on Wednesday. The stock's reaction will test how much higher rates the AI-infrastructure trade can absorb.",
+  "section": "markets",
+  "tags": ["Nebius", "NBIS", "CoreWeave", "earnings", "rate hike", "AI infrastructure"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-11T17:20:00Z",
+  "updatedAt": "2026-11-11T17:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Nebius Group plans to report third-quarter 2026 results before the market opens on Thursday, Nov. 12, with a live call at 8 a.m. Eastern, according to GuruFocus and TradingView.",
+    "Analysts expect revenue of about $905 million to $907 million, according to TradingView and TradingKey. TradingKey put the Q3 revenue expectation at $907 million, up more than 500% from a year earlier.",
+    "TipRanks reported analysts expect a loss of $0.72 per share, compared with a loss of $0.41 a year earlier.",
+    "Yahoo Finance said Nebius rose about 15% in early Wednesday trading after CoreWeave's results and its raised revenue outlook lifted neocloud stocks.",
+    "The hike case is the swing factor. CNN reported that CME FedWatch odds on Tuesday put a quarter-point December hike at 91%, and Yahoo Finance quoted Fed Governor Michelle Bowman saying there is still work to do to bring inflation closer to 2%."
+  ],
+  "body": "Nebius Group is due to report its third-quarter results before the market opens on Thursday, Nov. 12. The report arrives one day after CoreWeave's results lifted the neocloud group, a set of companies that run cloud infrastructure built only for AI workloads.\n\n## The numbers Wall Street expects\n\nGuruFocus and TradingView put the consensus revenue estimate at roughly $905 million to $907 million. TradingKey's preview gave $907 million and said that would be an increase of more than 500% from a year earlier. TipRanks reported that analysts expect an adjusted loss of $0.72 per share, against a loss of $0.41 in the same quarter last year. Those figures are preview consensus and can change before the release.\n\n## Why the stock moved first\n\nYahoo Finance said Nebius rose about 15% in early trading Wednesday after CoreWeave's report. CoreWeave's raised outlook and its disclosure of about $9 billion in customer prepayments over the next three months eased worries about how the group will fund its expansion. TipRanks noted that Nebius shares were up about 60% year to date.\n\n## The rate-hike problem\n\nThe rally is happening against a rate backdrop that cuts the other way. CNN reported that CME FedWatch odds on Tuesday put a quarter-point December hike at 91%, with a half-point move at 9%. Yahoo Finance quoted Fed Governor Michelle Bowman on Tuesday saying there was still work to do to bring inflation closer to 2%. Long-duration growth stocks such as neoclouds are sensitive to higher discount rates, and the 10-year Treasury closed Tuesday at 4.98%, per CNN Business.\n\n## What would change the read\n\nA strong Nebius print would support the view that AI infrastructure demand can carry these companies through a tighter rate path. A weak revenue print or a larger loss would test the same stocks at a time when investors are already paying close attention to financing costs. Treasury trading resumes Thursday, so the bond market's reaction to the CPI-driven hike repricing will arrive on the same day.",
+  "marketImpact": {
+    "summary": "Nebius is the next test of whether the neocloud rally rests on demand or on financing relief. Higher hike odds raise the bar for any stock that depends on cheap capital.",
+    "timeframe": "Thursday, Nov. 12, pre-market report and Treasury reopening",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NBIS", "direction": "watch", "rationale": "Pre-market Q3 report; the stock already rallied about 15% on Wednesday's CoreWeave read-through" },
+      { "symbol": "CRWV", "direction": "watch", "rationale": "The peer read-through works in both directions if Nebius's financing commentary differs from CoreWeave's" },
+      { "symbol": "TLT", "direction": "down", "rationale": "Quarter-point December hike is the base case; Treasury reopening could extend the pressure on long bonds" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-12", "event": "Nebius Q3 results before the open; Treasury trading resumes; weekly jobless claims" },
+      { "date": "2026-12-08", "event": "FOMC meeting, Dec. 8-9; quarter-point hike priced, half-point move in play" }
+    ]
+  },
+  "sources": [
+    { "title": "Nebius Q3 Earnings Preview: What To Expect From Upcoming Report", "publisher": "GuruFocus", "url": "https://www.gurufocus.com/news/9184429/nebius-q3-earnings-preview-what-to-expect-from-upcoming-report", "accessedAt": "2026-11-11" },
+    { "title": "Nebius Earnings Preview: Revenue Expected to Grow Over 500%, Wall Street Highest Price Target at $410", "publisher": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262298606-nebius-earnings-preview-revenue-expected-surge-over-500-yoy-nbis-tradingkey", "accessedAt": "2026-11-11" },
+    { "title": "Nebius Group (NBIS) Price Forecast: What Financial Analysts Expect Ahead of Q3 Earnings Tomorrow", "publisher": "TipRanks", "url": "https://www.tipranks.com/news/nebius-group-nbis-price-forecast-what-financial-analysts-expect-ahead-of-q3-earnings-tomorrow", "accessedAt": "2026-11-11" },
+    { "title": "Stock market today: S&P 500, Nasdaq rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html", "accessedAt": "2026-11-11" },
+    { "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes", "publisher": "CNN Business", "url": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed", "accessedAt": "2026-11-11" }
+  ]
+}
