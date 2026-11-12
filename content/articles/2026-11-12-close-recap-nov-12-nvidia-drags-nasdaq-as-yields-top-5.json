@@ -1,0 +1,52 @@
+{
+  "slug": "close-recap-nov-12-nvidia-drags-nasdaq-as-yields-top-5",
+  "title": "Close Recap, Nov. 12: Nvidia Drags Stocks Lower as the 10-Year Yield Tops 5%",
+  "dek": "The S&P 500 slipped 0.35% to 7,592.40 after erasing an early loss, with Nvidia down more than 4% after Jensen Huang's resignation and energy stocks offsetting the tech drag.",
+  "section": "markets",
+  "tags": ["close", "stocks", "Nvidia", "Treasuries", "10-year yield", "energy", "Fed"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T21:30:00Z",
+  "updatedAt": "2026-11-12T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "The S&P 500 fell 26.98 points to 7,592.40, the Dow lost 189.40 points to 52,297.09, and the Nasdaq Composite dropped 100.10 points to 25,366.09 (AP; percentages computed from AP point changes).",
+    "Nvidia closed down 4.34% at $166.19 after Jensen Huang resigned and CFO Colette Kress became interim CEO (Yahoo Finance quote data; CNBC).",
+    "The Russell 2000 fell 1.7% to 2,799.06, but the week still ended higher: S&P 500 up 2.9%, Dow up 2%, Nasdaq up 3.2% (AP).",
+    "The 10-year Treasury yield rose more than 13 basis points to 5.125% in CNBC's report; Yahoo Finance quote data showed 5.10%. The 4 p.m. ET bond close was not confirmed in sources reviewed (CNBC; Yahoo Finance).",
+    "Energy led the sectors as WTI crude closed up more than 2% at $88.74 and Brent rose to $95.82 (CNBC)."
+  ],
+  "body": "US stocks finished lower on Thursday, Nov. 12, as a sharp drop in Nvidia and rising Treasury yields outweighed a late lift in energy names. The S&P 500 erased an early loss of nearly 1% before it closed down, the Associated Press reported.\n\n## The index close\n\nThe S&P 500 fell 26.98 points to 7,592.40. The Dow Jones Industrial Average lost 189.40 points to 52,297.09, and the Nasdaq Composite dropped 100.10 points to 25,366.09. The Russell 2000 small-cap index fell 47.20 points, or 1.7%, to 2,799.06 (AP). The percentage moves in this story are computed from AP's point changes against the prior close.\n\nFor the week, the S&P 500 was still up 2.9%, the Dow up 2% and the Nasdaq up 3.2% (AP). That cushion is the backdrop for Friday's session, which follows a Wednesday rally in chip stocks.\n\n## Nvidia and tech\n\nNvidia closed down 4.34% at $166.19 (Yahoo Finance quote data). Its shares fell as much as 14% at the open after Huang resigned as chief executive, and then recovered about half of that loss, AP reported. CNBC said CFO Colette Kress is interim CEO. Other chip names were mixed: Broadcom and AMD rose in Yahoo Finance's live coverage, while Intel and Micron fell.\n\n## Rates and oil\n\nThe 10-year Treasury yield jumped more than 13 basis points to 5.125% in CNBC's report, and the 2-year and 30-year yields also rose (CNBC). Yahoo Finance quote data showed the 10-year at 5.10%. The 4 p.m. ET bond close was not confirmed in the sources reviewed, so 5.10% should be read as the latest quote rather than an official settlement.\n\nOil rose as well. WTI crude closed up more than 2% at $88.74 a barrel, and Brent rose more than 3% to $95.82 (CNBC). President Donald Trump said the US does not need a deal with Iran, which pushed energy prices higher.\n\n## Sectors and movers\n\nEnergy was the clearest sector leader, as crude lifted producers and refiners. Technology lagged. ChartMill's S&P 500 top-mover list showed Broadcom up 5.05% to $362.66, AMD up 4.68% to $578.76 and Valero up 3.53%. On the downside, Super Micro fell 12.59%, Global Payments fell 9.58% and Sandisk fell 4.22% in that listing. ChartMill's page is a snapshot, so those percentages may not match the official close.\n\n## What to watch\n\nThe next catalyst is October producer prices at 8:30 a.m. ET on Friday, Nov. 13, which the Bureau of Labor Statistics lists on its release schedule. CNBC expects a 0.4% monthly rise after September's 1.3% jump. A hot reading would reinforce the market's view of another quarter-point hike in December, which CME FedWatch priced at 100% on Thursday (CNBC).\n\nThe Nvidia question is also open. Yahoo Finance said it remains unclear whether Huang's departure will affect Nvidia's $10 billion commitment to Anthropic's IPO. Cisco and Applied Materials reported after the bell; see the separate earnings story.",
+  "marketImpact": {
+    "summary": "The Nvidia leadership change and the rate-hike repricing dominated the close. Broad indexes recovered most of the morning loss, so the immediate risk is a hot PPI print that pushes yields higher and tests tech again.",
+    "timeframe": "Friday, Nov. 13 session and the following week",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Closed down 4.34% after Huang's exit; the next move depends on the interim-CEO setup and the Anthropic commitment (Yahoo Finance; Yahoo Finance live)." },
+      { "symbol": "TLT", "direction": "down", "rationale": "Long-dated Treasury prices fall as yields rise; the 30-year rose to about 5.45% on the session (CNBC)." },
+      { "symbol": "XLE", "direction": "up", "rationale": "WTI closed up more than 2% at $88.74 after Trump's Iran comments (CNBC)." },
+      { "symbol": "IBIT", "direction": "down", "rationale": "Higher rates and a hawkish Fed make non-yielding assets harder to hold (Bitcoin Magazine; CNBC)." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-13", "event": "October PPI, 8:30 a.m. ET (BLS release schedule)" },
+      { "date": "2026-12-09", "event": "FOMC decision, Dec. 8-9 meeting; quarter-point hike priced as the base case (CME FedWatch via CNBC)" }
+    ]
+  },
+  "sources": [
+    { "title": "Wall Street stocks close lower as Nvidia absorbs big swings and oil prices climb", "publisher": "Associated Press", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc", "accessedAt": "2026-11-12" },
+    { "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html", "accessedAt": "2026-11-12" },
+    { "title": "Stock market today: Dow, S&P 500, Nasdaq turn lower as Nvidia stock falls after CEO Jensen Huang resigns", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html", "accessedAt": "2026-11-12" },
+    { "title": "S&P 500 Top Movers for Nov. 12, 2026: AMD and AVGO Gain, GPN and NVDA Fall", "publisher": "ChartMill", "url": "https://www.chartmill.com/news/ANET/Chartmill-58626-SP-500-Top-Movers-for-Nov-12-2026-AMD-and-AVGO-Gain-GPN-and-NVDA-Fall", "accessedAt": "2026-11-12" },
+    { "title": "Wall Street Closes Lower as Nvidia Slide Outweighs Energy Sector Gains", "publisher": "[your]NEWS", "url": "https://yournews.com/2026/11/12/7264119/wall-street-closes-lower-as-nvidia-slide-outweighs-energy-sector/", "accessedAt": "2026-11-12" },
+    { "title": "Schedule of Releases for the Producer Price Index", "publisher": "Bureau of Labor Statistics", "url": "https://www.bls.gov/schedule/news_release/ppi.htm", "accessedAt": "2026-11-12" }
+  ]
+}

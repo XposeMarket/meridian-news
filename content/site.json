@@ -1,93 +1,95 @@
 {
-  "updatedAt": "2026-11-11T21:30:00Z",
+  "updatedAt": "2026-11-12T21:00:00Z",
   "edition": "afternoon",
-  "leadSlug": "close-recap-nov-11-nasdaq-rallies-1-6-on-coreweave-bonds-shut",
+  "leadSlug": "close-recap-nov-12-nvidia-drags-nasdaq-as-yields-top-5",
   "marketBrief": {
-    "headline": "Midday, Nov. 12: Stocks recover after an Nvidia-led open as the 10-year yield tops 5% again",
-    "summary": "Around noon ET the Dow was up 0.3%, the S&P 500 up 0.2% and the Nasdaq Composite up 0.1%, per Yahoo Finance, after Nvidia shares fell as much as 14% at the open on the resignation of CEO Jensen Huang (AP). Treasury trading resumed after the Veterans Day holiday, and the 10-year yield rose to about 5.09% (Yahoo Finance). CME FedWatch prices a quarter-point December hike as a certainty, with a half-point move at about 13% (CNBC).",
+    "headline": "Close, Nov. 12: Stocks finish lower as Nvidia falls 4% and the 10-year yield tops 5%",
+    "summary": "The S&P 500 closed down 0.35% at 7,592.40, the Dow fell 0.36% to 52,297.09 and the Nasdaq Composite lost 0.39% to 25,366.09, per AP, after an early loss of nearly 1% was largely erased. Nvidia closed down 4.34% after Jensen Huang resigned (Yahoo Finance quote data). The 10-year Treasury yield rose above 5%, about 5.125% in CNBC's report, as traders priced a December rate hike (CNBC).",
     "bullets": [
-      "Nvidia: Huang resigned as CEO and director effective immediately; CFO Colette Kress is interim CEO (CNBC). Shares were down about 4.7% at 11:14 a.m. ET after falling as much as 14% at the open (AP).",
-      "Midday: Dow 52,653.86, up 0.32% at 11:57:48 a.m. ET (Yahoo Finance quote data). AMD and Broadcom rose; Intel and Micron fell (Yahoo Finance; AP).",
-      "Treasuries: 10-year 5.068% earlier in the session, up more than 7 bp; 2-year 4.843%; 30-year 5.40% (CNBC). Yahoo Finance had the 10-year at 5.09% by midday.",
-      "Jobless claims rose 9,000 to 200,000 in the week ended Nov. 7, above forecasts (Labor Department release, Nov. 12).",
-      "Bitcoin traded below $72,000, its lowest level since mid-August, with spot ETF outflows and the MSCI exit of Strategy weighing (Bitcoin Magazine).",
-      "Nebius reported Q3 revenue of $980.8 million, up 571%, but shares fell 16% on capex and a cautious outlook (CNBC; Business Wire)."
+      "Indexes: S&P 500 7,592.40 (-0.35%), Dow 52,297.09 (-0.36%), Nasdaq Composite 25,366.09 (-0.39%), Russell 2000 2,799.06 (-1.7%) (AP).",
+      "Nvidia closed down 4.34% at $166.19 after Huang resigned and CFO Colette Kress became interim CEO (Yahoo Finance; CNBC).",
+      "Treasuries: 10-year up more than 13 bp to 5.125%, 2-year 4.879%, 30-year 5.449% (CNBC). Yahoo Finance quote data showed the 10-year at 5.10%.",
+      "Oil: WTI closed up more than 2% at $88.74 and Brent rose more than 3% to $95.82 after Trump said the US does not need a deal with Iran (CNBC).",
+      "Week: S&P 500 up 2.9%, Dow up 2.0%, Nasdaq up 3.2% (AP).",
+      "Cisco and Applied Materials reported after the close with revenue beats; see the earnings story. Friday brings October PPI at 8:30 a.m. ET (BLS schedule)."
     ],
-    "asOf": "2026-11-12T17:00:00Z"
+    "asOf": "2026-11-12T21:00:00Z"
   },
   "marketSnapshot": [
     {
-      "label": "Dow Jones Industrial Average",
-      "value": "52,653.86",
-      "change": "+0.32%",
-      "direction": "up",
-      "source": "Yahoo Finance quote data",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
-      "asOf": "2026-11-12 11:57:48 a.m. ET (intraday)"
+      "label": "S&P 500",
+      "value": "7,592.40",
+      "change": "-0.35%",
+      "direction": "down",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc",
+      "asOf": "2026-11-12 4:00 p.m. ET close (AP updated 4:17 p.m. EST)"
     },
     {
-      "label": "S&P 500",
-      "value": "7,619.38 (Nov. 11 close)",
-      "change": "+0.2% midday",
-      "direction": "up",
-      "source": "Yahoo Finance (midday move); AP News (Nov. 11 close)",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
-      "asOf": "2026-11-12 about 12:00 p.m. ET (midday move)"
+      "label": "Dow Jones Industrial Average",
+      "value": "52,297.09",
+      "change": "-0.36%",
+      "direction": "down",
+      "source": "AP News; Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html",
+      "asOf": "2026-11-12 4:00 p.m. ET close (Yahoo: 4:14 p.m. EST)"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "25,466.19 (Nov. 11 close)",
-      "change": "+0.1% midday",
-      "direction": "up",
-      "source": "Yahoo Finance (midday move); AP News (Nov. 11 close)",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
-      "asOf": "2026-11-12 about 12:00 p.m. ET (midday move)"
+      "value": "25,366.09",
+      "change": "-0.39%",
+      "direction": "down",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc",
+      "asOf": "2026-11-12 4:00 p.m. ET close"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,799.06",
+      "change": "-1.7%",
+      "direction": "down",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc",
+      "asOf": "2026-11-12 4:00 p.m. ET close"
     },
     {
       "label": "Nvidia (NVDA)",
-      "value": "Just under $4 trillion market value",
-      "change": "-4.7%",
+      "value": "$166.19",
+      "change": "-4.34%",
       "direction": "down",
-      "source": "AP News; CNBC",
-      "sourceUrl": "https://www.sun-sentinel.com/2026/11/12/nvidia-shares-financial-markets/",
-      "asOf": "2026-11-12 11:14 a.m. ET (AP update)"
+      "source": "Yahoo Finance quote data",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html",
+      "asOf": "2026-11-12 4:00:01 p.m. EST close"
     },
     {
       "label": "10-year Treasury yield",
-      "value": "5.09%",
-      "change": "+8 bp",
+      "value": "5.125%",
+      "change": "up more than 13 bp",
       "direction": "up",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
-      "asOf": "2026-11-12 about 12:00 p.m. ET (midday)"
+      "source": "CNBC (Yahoo quote: 5.10%)",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "asOf": "2026-11-12 afternoon (CNBC report; 4 p.m. settlement not confirmed)"
     },
     {
       "label": "WTI crude",
-      "value": "$86.86 a barrel",
-      "change": "+0.4%",
+      "value": "$88.74 a barrel",
+      "change": "up more than 2%",
       "direction": "up",
       "source": "CNBC",
       "sourceUrl": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-      "asOf": "2026-11-12 intraday (exact time not stated)"
+      "asOf": "2026-11-12 close (per CNBC)"
     },
     {
       "label": "Bitcoin (BTC)",
-      "value": "About $71,800",
-      "change": "Below $72,000, lowest since mid-August",
+      "value": "About $71,415",
+      "change": "-4.32% (24 hours)",
       "direction": "down",
-      "source": "Bitcoin Magazine",
-      "sourceUrl": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
-      "asOf": "2026-11-12 Thursday morning (exact time not stated)"
+      "source": "MarketAlleys (secondary aggregator)",
+      "sourceUrl": "https://www.marketalleys.com/post/marketalleys-closing-tape-2026-11-12",
+      "asOf": "2026-11-12 20:59 UTC (3:59 p.m. ET)"
     }
   ],
   "calendar": [
-    {
-      "date": "2026-11-12",
-      "time": "After close",
-      "event": "Cisco and Applied Materials quarterly results",
-      "importance": "high",
-      "why": "Both report after Thursday's close; Applied Materials options were pricing about a 10% move (Investopedia; Startup Fortune)."
-    },
     {
       "date": "2026-11-13",
       "time": "8:30 AM ET",
@@ -100,40 +102,36 @@
       "time": "Expected pricing day",
       "event": "Anthropic IPO pricing (Nasdaq: ANT)",
       "importance": "high",
-      "why": "Anthropic's price range is $70 to $78 a share; the company expects to price Nov. 18 (CNBC, Nov. 10; Yahoo Finance live, Nov. 12)."
+      "why": "Price range $70 to $78 a share (CNBC, Nov. 10). Pricing expected Nov. 18 (Yahoo Finance)."
     },
     {
       "date": "2026-11-19",
       "time": "Expected first trade",
       "event": "Anthropic shares expected to begin trading",
       "importance": "high",
-      "why": "Anthropic said shares are expected to begin trading Nov. 19 (EST), per Yahoo Finance live coverage. Timing can change."
+      "why": "Expected to begin trading Nov. 19 (Yahoo Finance; CNBC). Timing can change."
     },
     {
       "date": "2026-11-30",
-      "time": "Market close",
-      "event": "MSCI removal of Strategy (MSTR) and Metaplanet takes effect",
+      "time": "After market close",
+      "event": "MSCI removal of Strategy (MSTR) from MSCI indexes takes effect",
       "importance": "medium",
-      "why": "MSCI's November review removes Strategy from its USA index; index funds may sell shares before the close (CoinReporter; Yahoo Finance)."
+      "why": "MSCI said the change takes effect after the close on Nov. 30 (Yahoo Finance). Index funds may sell before then."
     },
     {
       "date": "2026-12-08",
       "time": "Dec. 8-9",
-      "event": "FOMC meeting",
+      "event": "FOMC meeting (decision Dec. 9)",
       "importance": "high",
-      "why": "FedRateCalc and Tickward list Dec. 8-9, citing the Fed calendar. CME FedWatch prices a quarter-point hike at 100% with a half-point move near 13% (CNBC)."
+      "why": "FedRateCalc and Tickward list Dec. 8-9, citing the Fed calendar. CME FedWatch priced a quarter-point hike at 100% on Thursday (CNBC)."
     }
   ],
   "trending": [
-    "overnight-asia-rallies-on-chips-europe-firm-as-us-bonds-sit-out",
-    "veterans-day-futures-only-session-ahead-of-earnings-and-december-hike-test",
-    "close-recap-nov-10-hot-cpi-pushes-nasdaq-down-nvidia-slides",
-    "coreweave-q3-2026-results-revenue-beats-interest-below-guide",
-    "sunday-futures-cpi-pricing-december-hike",
-    "week-ahead-cpi-chip-selloff-earnings-nov-9-13",
-    "kospi-circuit-breaker-nasdaq-correction-explainer",
-    "nasdaq-rebounds-after-correction-chips-lead-dow-flat-jobs-beat",
-    "jobs-report-preview-october-payrolls-8-30-am",
-    "futures-rebound-after-nasdaq-correction-chip-rout-oil-dollar-bitcoin"
+    "nvidia-jensen-huang-resigns-colette-kress-interim-ceo",
+    "cisco-applied-materials-beat-after-bell-as-ai-demand-lifts-outlooks",
+    "treasury-yields-top-5-as-treasuries-reopen-and-december-hike-stays-priced",
+    "anthropic-sets-70-78-ipo-range-trading-expected-nov-19",
+    "witkoff-kushner-meet-putin-in-moscow-as-ukraine-talks-restart",
+    "bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy"
   ]
 }

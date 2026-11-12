@@ -1,0 +1,122 @@
+{
+  "slug": "cisco-applied-materials-beat-after-bell-as-ai-demand-lifts-outlooks",
+  "title": "Cisco and Applied Materials Beat Estimates After the Bell as AI Demand Lifts Outlooks",
+  "dek": "Cisco beat estimates and raised its fiscal 2027 outlook, and Applied Materials posted a record quarter and guided revenue above Wall Street expectations, both after Thursday's close.",
+  "section": "markets",
+  "tags": [
+    "Cisco",
+    "CSCO",
+    "Applied Materials",
+    "AMAT",
+    "earnings",
+    "AI infrastructure",
+    "semiconductors"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T21:45:00Z",
+  "updatedAt": "2026-11-12T21:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Cisco: fiscal first-quarter revenue of $18.5 billion, up 24%, against $18.1 billion expected; non-GAAP EPS of $1.40 against $1.33 (CNBC; Cisco release).",
+    "Cisco raised fiscal 2027 revenue guidance to $74.8 billion to $75.8 billion and non-GAAP EPS guidance to $5.47 to $5.53 (Cisco release).",
+    "Applied Materials: record fiscal fourth-quarter revenue of $10.41 billion, up 53%, and non-GAAP EPS of $4.16 against $4.06 expected (GlobeNewswire; TipRanks).",
+    "Applied guided fiscal first-quarter revenue to about $11.1 billion, plus or minus $500 million, against an LSEG average of $10.89 billion (MarketScreener).",
+    "Cerebras and Nu are not verified in this story: Cerebras sources conflict on revenue (CNBC; Benzinga)."
+  ],
+  "body": "Cisco and Applied Materials both reported fiscal results after the close on Thursday, Nov. 12, and both beat Wall Street estimates. Cisco also raised its full-year outlook, while Applied Materials guided first-quarter revenue above expectations. The reports arrive as investors weigh AI infrastructure demand against a Treasury selloff and a Federal Reserve that is leaning toward another rate hike.\n\n## Cisco: revenue and a raised outlook\n\nCisco reported fiscal first-quarter 2027 revenue of $18.5 billion, up 24% from a year earlier, against $18.1 billion expected by LSEG analysts (CNBC). Non-GAAP earnings per share were $1.40, against $1.33 expected, and GAAP EPS was $1.14 (Cisco release, Nov. 12; CNBC).\n\nThe company now expects fiscal 2027 revenue of $74.8 billion to $75.8 billion and non-GAAP EPS of $5.47 to $5.53. It also raised its expectation for hyperscaler AI infrastructure revenue to $9 billion for the year (Cisco release). For the fiscal second quarter it guided revenue to $18.0 billion to $18.2 billion and non-GAAP EPS to $1.34 to $1.36. LSEG-based expectations were $17.88 billion and $1.23 (CNBC).\n\nCNBC reported that Cisco shares rose in extended trading; the size of the move was not stated in the CNBC text we reviewed. The stock is up about 35% this year through Thursday's close, against a roughly 9% gain for the Nasdaq over the same stretch.\n\n## Applied Materials: a record quarter and an above-consensus guide\n\nApplied Materials reported fiscal fourth-quarter revenue of $10.41 billion, up 53% year over year, and record non-GAAP EPS of $4.16, up 92% (GlobeNewswire release, Nov. 12). Consensus was $4.06 per share (TipRanks). GAAP EPS was $3.40. For fiscal 2026 the company reported record revenue of $34.45 billion.\n\nFor the first quarter of fiscal 2027, Applied guided revenue to about $11.1 billion, plus or minus $500 million, against an LSEG average of $10.89 billion (MarketScreener, citing Reuters). Its EPS guidance of $4.15 to $4.55 compares with a $4.20 consensus (MarketBeat). CEO Gary Dickerson said the company is on track to grow its Semiconductor Systems business more than 40% in calendar 2026.\n\nEarly extended-trading reports disagreed on the direction of Applied's shares. Investing.com headlined a gain, while TipRanks described a slip. We have not confirmed a settled after-hours price, so that move stays unresolved until Friday's session.\n\n## Cerebras and Nu: not yet confirmed here\n\nCerebras also reported after the close. CNBC reported core revenue of $230.9 million against $214.7 million expected, with shares up 13% in extended trading. A Benzinga report put revenue at $210.8 million and described a miss. The two outlets use different figures, so we are not publishing Cerebras numbers until the company's own release is confirmed. Nu was scheduled to report after the close as well, but we did not find a verified result in our sources.\n\n## What to watch\n\nThe next macro test is October producer prices at 8:30 a.m. ET on Friday, Nov. 13, per the BLS release schedule. A hot reading would add to bets on a December rate hike, which CME FedWatch priced at 100% on Thursday (CNBC). For AI hardware, the read-through is whether the hyperscaler demand Cisco and Applied describe can offset the uncertainty created by Nvidia's leadership change.",
+  "marketImpact": {
+    "summary": "Cisco's raised fiscal 2027 outlook and Applied's above-consensus revenue guide point to continued demand for AI networking and chip equipment. Early extended-trading reads on Applied are mixed, and Friday's PPI is the main macro risk for the group.",
+    "timeframe": "Friday, Nov. 13 session",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "CSCO",
+        "direction": "up",
+        "rationale": "Raised fiscal 2027 revenue and EPS guidance; shares rose in extended trading (CNBC; Cisco release)."
+      },
+      {
+        "symbol": "AMAT",
+        "direction": "watch",
+        "rationale": "Record quarter and Q1 revenue guide above the $10.89 billion LSEG average, but early after-hours reads conflict (MarketScreener; Investing.com; TipRanks)."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-13",
+        "event": "October PPI, 8:30 a.m. ET (BLS release schedule)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Cisco Reports First Quarter Earnings",
+      "publisher": "Cisco (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/cisco-reports-first-quarter-earnings-302938394.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Applied Materials Announces Fourth Quarter and Fiscal Year 2026 Results",
+      "publisher": "Applied Materials (GlobeNewswire)",
+      "url": "https://www.globenewswire.com/news-release/2026/11/12/3402149/0/en/applied-materials-announces-fourth-quarter-and-fiscal-year-2026-results.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Applied Materials Stock (AMAT) Slips Despite Topping Estimates",
+      "publisher": "TipRanks",
+      "url": "https://www.tipranks.com/news/applied-materials-stock-amat-slips-despite-topping-estimates",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Applied Materials forecasts quarterly revenue above estimates on strong AI chip demand",
+      "publisher": "MarketScreener (Reuters)",
+      "url": "https://www.marketscreener.com/news/applied-materials-forecasts-quarterly-revenue-above-estimates-on-strong-ai-chip-demand-ce785ed9d989f321",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Applied Materials (NASDAQ:AMAT) Releases Q1 2027 Earnings Guidance",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/guidance-applied-materials-nasdaq-amat-releases-q1-2027-earnings-guidance-2026-11-12/",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Applied Materials shares gain on Q4 beat",
+      "publisher": "Investing.com",
+      "url": "https://ca.investing.com/news/earnings/applied-materials-shares-gain-on-q4-beat-4954214",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Cerebras Systems (CBRS) Q3 earnings report 2026",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Cerebras Stock Jumps on Q3 Cloud Revenue Up 265%, Despite Missed Guidance",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63224006/cerebras-stock-jumps-on-q3-cloud-revenue-up-265-despite-missed-guidance",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Schedule of Releases for the Producer Price Index",
+      "publisher": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "accessedAt": "2026-11-12"
+    }
+  ]
+}
