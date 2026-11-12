@@ -1,0 +1,61 @@
+{
+  "slug": "israeli-strike-hits-nasser-medical-complex-khan-younis",
+  "title": "Israeli Strike Hits Nasser Medical Complex in Khan Younis",
+  "dek": "An Israeli airstrike hit the Nasser Medical Complex in Khan Younis early Thursday, killing at least six people, including a surgeon, according to hospital and health officials. Israel says it targeted Hamas fighters.",
+  "section": "world",
+  "tags": [
+    "Gaza",
+    "Israel",
+    "Khan Younis",
+    "hospitals",
+    "humanitarian"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T17:30:00Z",
+  "updatedAt": "2026-11-12T17:30:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/24-12-07_03_Khan_Younis_Ruins.jpg",
+    "alt": "Ruins in Khan Younis in southern Gaza",
+    "credit": "Felton Davis, via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:24-12-07_03_Khan_Younis_Ruins.jpg"
+  },
+  "keyPoints": [
+    "An Israeli airstrike hit the Nasser Medical Complex in Khan Younis at about 12:30 a.m. Thursday, a surgeon who was wounded told the Guardian.",
+    "The hospital director, Dr. Ahmed al-Farra, put the toll at six killed and 28 wounded; the Hamas-run health ministry told the BBC about six killed and about 30 injured.",
+    "Among the dead was surgeon Rizq Abu Shaira, the BBC and Guardian reported.",
+    "The Israeli military said it struck a commander of Hamas’s armed wing and other fighters who used the hospital as a headquarters. It gave no evidence, the Guardian reported.",
+    "Hamas called Israel’s account \"false narratives.\" Israel does not allow international news organizations into Gaza, which limits independent verification, the BBC noted."
+  ],
+  "body": "An Israeli airstrike hit the Nasser Medical Complex in Khan Younis, southern Gaza, early Thursday, killing at least six people and wounding dozens more, according to hospital and health officials. The Israeli military said it had targeted a commander of Hamas's armed wing and other fighters who were using the hospital, the [Guardian reported](https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon).\n\n## What happened\n\nSurgeon Ayman Abu Ubaid, who was wounded in the attack, told the Guardian the strike came at about 12:30 a.m., without warning, while surgical patients were in their rooms. The hospital director, Dr. Ahmed al-Farra, told a news conference that Israeli forces fired two missiles at the al-Yasin surgery building and that only one exploded, the [BBC reported](https://www.bbc.com/news/articles/ckzd9p7e4eqeo).\n\nGuardian reporting said the strike destroyed part of the surgery department and damaged several floors. Radiology, laboratories, surgical operations and inpatient surgical wards were suspended, according to the hospital director.\n\n## Casualty counts differ\n\nThe figures vary by source:\n\n- The hospital director told the Guardian the strike killed six people, including a surgeon and a disabled man, and wounded 28.\n- The Hamas-run health ministry told the BBC six people were killed and about 30 injured.\n- The New York Times reported at least six killed and 28 injured, citing local health officials.\n- Al Jazeera reported at least 20 wounded, citing Gaza's health ministry and civil defence.\n\nMeridian has not independently verified any of these counts. Israel does not allow international news organizations into Gaza, the BBC noted, which makes independent verification difficult.\n\n## Dead and wounded\n\nDr. Rizq Abu Shaira, a general surgeon who had appeared in the documentary American Doctor, was among the dead, the BBC and Guardian reported. He was killed alongside one of his patients, according to the Guardian.\n\n## Israel's account\n\nThe Israeli military said it struck a Hamas commander and other fighters who had used the hospital as a headquarters to plan attacks on its forces. The Guardian reported that the military gave no evidence for the claim. The BBC reported that Israel says Hamas stores weapons and runs command rooms in hospitals, which Hamas denies.\n\nHamas said Israel was spreading \"false narratives\" in what it called an attempt to cover up a war crime, the BBC reported.\n\n## Why it matters\n\nNasser is the largest hospital in southern Gaza and serves almost one million people, according to the BBC. The Guardian described it as one of the few remaining functioning health facilities in the strip. International law gives hospitals protected status, the BBC noted, and such facilities have been repeatedly hit during the war.",
+  "sources": [
+    {
+      "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+      "publisher": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "publisher": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+      "publisher": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Israeli strike on Gaza’s Nasser Hospital kills surgeon, five others",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza",
+      "accessedAt": "2026-11-12"
+    }
+  ]
+}
