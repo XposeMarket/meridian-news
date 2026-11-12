@@ -45,3 +45,6 @@ No desks dispatched. The Anthropic weekly budget was at 1% at midday, resetting 
 - New: treasury-secretary-bessent-moves-to-military-base-after-iran-linked-threats, dc-logan-circle-gym-shooting-leaves-one-dead-four-hurt. Updated: democrat-scott-colom-wins-mississippi-senate-seat-ap-calls (AP: Dems 55 seats), witkoff-kushner-meet-putin-in-moscow-as-ukraine-talks-restart (Putin on European troops), israeli-security-cabinet-reportedly-prepares-for-possible-iran-attack.
 - validate 218, --check-images --since=2026-11-12 (17 URLs) PASS, build PASS. NPR/CNN (Logan Circle) and CBS (Bessent) spot-checked by manager. Lead unchanged (close recap).
 - Issues: Wire's afternoon dispatch team_bg_mwe324h7_pdbv9q ran very late (no visible runner while it was pending). Still open: 9 old articles featured=true (max 3).
+
+## 2026-11-12 afternoon (Wire correction): Colom 55-seat attribution
+- Updated: democrat-scott-colom-wins-mississippi-senate-seat-ap-calls. 55-seat count re-attributed from "AP" to CNBC (citing the AP call), NYT and MS NOW; Democracy Now headline roundup removed as a source. From Wire's delayed re-dispatch run, which finished after aeb66c3. Manager checked CNBC/NYT/MS NOW text (AP page 403).
