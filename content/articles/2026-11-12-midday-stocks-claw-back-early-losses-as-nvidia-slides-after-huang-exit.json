@@ -1,0 +1,52 @@
+{
+  "slug": "midday-stocks-claw-back-early-losses-as-nvidia-slides-after-huang-exit",
+  "title": "Stocks Claw Back Early Losses as Nvidia Slides After Huang Exit",
+  "dek": "The Dow turned higher around noon ET as Nvidia pared a 14% opening plunge to about 5%, while Treasuries reopened with the 10-year yield back above 5%.",
+  "section": "markets",
+  "tags": ["Nvidia", "Jensen Huang", "stock market", "midday", "Treasuries", "AI stocks"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T17:15:00Z",
+  "updatedAt": "2026-11-12T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": true,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Nvidia said Jensen Huang resigned as CEO and board member effective immediately; CFO Colette Kress is interim CEO (CNBC, Nov. 12).",
+    "AP reported Nvidia fell as much as 14% at the open and was down 4.7% in an 11:14 a.m. ET update.",
+    "At about noon ET, Yahoo Finance had the Dow up 0.3%, the S&P 500 up 0.2% and the Nasdaq Composite up 0.1%, after an early S&P 500 drop of nearly 1%.",
+    "The 10-year Treasury yield rose about 8 basis points to 5.09% by midday (Yahoo Finance); CNBC put it at 5.068% earlier in the session.",
+    "Broadcom and AMD rose and Intel and Micron fell (Yahoo Finance; AP; Bloomberg via BNN Bloomberg)."
+  ],
+  "body": "US stocks opened lower on Thursday after Nvidia said its chief executive, Jensen Huang, had resigned effective immediately. The chipmaker’s board named Chief Financial Officer Colette Kress interim CEO and named Harvey C. Jones, the former Synopsys chief executive, as the first-ever chair of the board, CNBC reported.\n\n## The open and the midday recovery\n\nAt the open, the S&P 500 fell nearly 1% and the Nasdaq Composite dropped as much as 1.6%, AP reported. The losses were driven by Nvidia, which plunged as much as 14% in early trading. Within hours the market had recovered most of that ground.\n\nAt 11 a.m. ET, AP put the Dow Jones Industrial Average up 135 points, or 0.3%, the S&P 500 up 0.1% and the Nasdaq up 0.1%. Yahoo Finance’s live report, updated around noon ET, had the Dow up 0.3%, the S&P 500 up 0.2% and the Nasdaq up 0.1%. Yahoo’s Dow quote read 52,653.86, up 0.32%, as of 11:57:48 a.m. ET. Prior closes on Nov. 11 were 7,619.38 for the S&P 500, 25,466.19 for the Nasdaq Composite and 52,486.49 for the Dow (AP).\n\n## Why Nvidia moves the index\n\nNvidia had been the most valuable and influential stock in the market, and its shares had fallen 27% from a record set last month through Wednesday, AP reported. CNBC said the stock hovered just under $4 trillion in market value after paring its losses.\n\nThe chip sector did not move as one. Broadcom rose about 5% to 7%, and AMD gained roughly 6%, with traders betting rival chipmakers could benefit (AP; BNN Bloomberg). Intel and Micron fell on the day (Yahoo Finance). CoreWeave, which rents Nvidia-based computing capacity, fell 6.4% in AP's midday report and 4.5% in Bloomberg's.\n\n## Rates and oil\n\nTreasury trading resumed after the Veterans Day holiday. CNBC reported the 10-year note up more than 7 basis points to 5.068%, the 2-year up more than 11 basis points to 4.843% and the 30-year up more than 5 basis points to 5.40%. Oil also rose after President Trump said the US does not need a deal with Iran. WTI gained 0.4% to $86.86 a barrel and Brent was about 1% higher at $93.60 (CNBC). Energy shares helped support the index, with Marathon Petroleum up 2.6% and ExxonMobil up 1.2% (BNN Bloomberg).\n\n## What to watch\n\nCisco and Applied Materials report after Thursday’s close. The October producer price index is due Friday, and economists expect a 0.4% monthly rise, according to CNBC. The bond market’s December hike pricing is now a full quarter-point move, with CME FedWatch odds of a half-point move at about 13%, CNBC reported.\n\nThe session has not settled the question investors care about most: who will lead Nvidia, and how far the AI trade can run without its most visible figure. For now, the market is treating the leadership change as a stock-specific shock rather than a broad breakdown.",
+  "marketImpact": {
+    "summary": "The leadership change has hit Nvidia and pulled some AI-linked names lower, but the broad indexes recovered most of the early loss. The near-term risk is more about rates and oil into Friday’s PPI than about the Nvidia headline itself.",
+    "timeframe": "Rest of Thursday, Nov. 12, then Friday’s PPI (Nov. 13)",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "down", "rationale": "Fell as much as 14% at the open and was down about 5% midday after the CEO resignation (AP; CNBC; Yahoo Finance)" },
+      { "symbol": "AMD", "direction": "up", "rationale": "Gained roughly 6% in midday trading as investors weighed a wider field of AI chip suppliers (AP; BNN Bloomberg)" },
+      { "symbol": "AVGO", "direction": "up", "rationale": "Rose about 5% to 7% midday on the same rival-chip read-through (AP; BNN Bloomberg)" },
+      { "symbol": "INTC", "direction": "down", "rationale": "Fell on the day while AMD rose (Yahoo Finance)" },
+      { "symbol": "MU", "direction": "down", "rationale": "Fell about 2.5% to 2.8% midday in AP and Bloomberg reports" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-12", "event": "Cisco and Applied Materials results after the close" },
+      { "date": "2026-11-13", "event": "October PPI, 8:30 a.m. ET (BLS-confirmed date)" }
+    ]
+  },
+  "sources": [
+    { "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html", "accessedAt": "2026-11-12" },
+    { "title": "A drop for Nvidia’s stock weighs on the US market, while oil prices swing", "publisher": "Associated Press", "url": "https://www.sun-sentinel.com/2026/11/12/nvidia-shares-financial-markets/", "accessedAt": "2026-11-12" },
+    { "title": "Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia stock slides after CEO Jensen Huang resigns", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html", "accessedAt": "2026-11-12" },
+    { "title": "Wall Street erases its early loss after absorbing big swings for Nvidia’s stock and oil prices", "publisher": "Bloomberg (via BNN Bloomberg)", "url": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/", "accessedAt": "2026-11-12" },
+    { "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html", "accessedAt": "2026-11-12" }
+  ]
+}

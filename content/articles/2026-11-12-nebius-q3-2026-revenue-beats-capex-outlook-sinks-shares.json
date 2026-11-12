@@ -1,0 +1,49 @@
+{
+  "slug": "nebius-q3-2026-revenue-beats-capex-outlook-sinks-shares",
+  "title": "Nebius Beats Q3 Revenue Estimates, but Shares Fall 16% on Capex and a Cautious Outlook",
+  "dek": "Nebius beat revenue estimates in the third quarter, but it set 2027 capex at $40 billion to $45 billion and pointed to the low end of 2026 revenue, and the stock fell 16% on Thursday.",
+  "section": "markets",
+  "tags": ["Nebius", "NBIS", "earnings", "capex", "neocloud", "AI infrastructure"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T17:25:00Z",
+  "updatedAt": "2026-11-12T17:25:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "Nebius reported third-quarter revenue of $980.8 million, up 571%, against an LSEG consensus of $907.5 million (Business Wire; CNBC).",
+    "Adjusted EBITDA was $465.8 million in the quarter. GAAP net loss from continuing operations was $37.5 million, or 13 cents a share (Business Wire; CNBC).",
+    "Management expects 2026 revenue at the low end of its $3 billion to $3.4 billion range, against a FactSet expectation of $3.35 billion (CNBC).",
+    "2026 capex is now about $27 billion, above the prior $20 billion to $25 billion guidance. The initial 2027 capex outlook is $40 billion to $45 billion, versus a FactSet expectation of $28.77 billion (CNBC).",
+    "Shares sank 16% on Thursday, as the revenue beat was overshadowed by the capex plan and the outlook (CNBC)."
+  ],
+  "body": "Nebius Group reported its third-quarter 2026 results before the market opened on Thursday, Nov. 12, and the stock fell sharply despite a revenue beat. The company's earnings webcast was scheduled for 8 a.m. Eastern.\n\n## The quarter\n\nRevenue rose to $980.8 million, a 571% increase from a year earlier, and beat the LSEG consensus of $907.5 million, according to CNBC. Adjusted EBITDA was $465.8 million, and the company reported a net loss from continuing operations of $37.5 million, or 13 cents a share, compared with a loss of $119.6 million a year earlier (Business Wire; CNBC). CNBC noted it was not immediately clear whether the loss per share was comparable to the 69 cents analysts had expected.\n\nThe nine-month figures show the scale of the change: revenue of $1.96 billion, up 549%, and adjusted EBITDA of $831.5 million (Business Wire).\n\n## The outlook\n\nThe market reacted to the guidance, not the quarter. Management said 2026 revenue would land at the low end of its $3 billion to $3.4 billion range, CNBC reported. That is slightly below the FactSet estimate of $3.35 billion.\n\nCapital spending is the larger issue. Nebius raised its 2026 capex outlook to about $27 billion, from $20 billion to $25 billion, and set an initial 2027 capex range of $40 billion to $45 billion. The FactSet expectation for 2027 was $28.77 billion (CNBC). Revenue guidance for 2027 of $12 billion to $13 billion was close to the $12.09 billion consensus, so the gap is in spending rather than sales.\n\nThe company said it raised $5.75 billion in debt financing during the quarter (CNBC). For a company whose spending is rising this fast, financing terms are as important as demand.\n\n## Read-across to the neocloud group\n\nThe report came one day after CoreWeave and IREN beat expectations, and Nebius had jumped about 15% on Wednesday on that read-through, CNBC reported. Nvidia, which holds investments across the neocloud group and held about $329 million of Nebius shares at the end of June, according to a filing cited by CNBC, also weighed on the sector during the session. CoreWeave fell 6.4% in an AP midday report, while Micron, a memory supplier to the AI build-out, fell 2.8%.\n\nThe stock's reaction is a signal that investors want evidence that heavy spending converts into cash flow at acceptable financing costs. That is the same question the Treasury selloff is asking. With the 10-year yield back above 5%, the cost of that capital is moving the wrong way.\n\nThis is analysis, not investment advice. The earnings figures come from Nebius's own release and from CNBC's report on the results.",
+  "marketImpact": {
+    "summary": "The revenue beat was overshadowed by a much higher capex plan and a conservative 2026 outlook. Financing costs now matter more for neocloud stocks, and the rate backdrop has moved against them.",
+    "timeframe": "Thursday, Nov. 12, and the next few sessions as analysts reset targets",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NBIS", "direction": "down", "rationale": "Shares sank 16% on Thursday after a revenue beat, a 2026 outlook at the low end of guidance and a 2027 capex plan well above expectations (CNBC)" },
+      { "symbol": "CRWV", "direction": "down", "rationale": "Fell about 6.4% in an AP midday report, as the neocloud group traded on Nebius's capex and financing signals (AP)" },
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Holds investments across the neocloud group, including about $329 million of Nebius shares at the end of June (CNBC, citing a filing)" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-12", "event": "Nebius Q3 results reported before the open; webcast at 8 a.m. ET" },
+      { "date": "2026-11-13", "event": "October PPI, 8:30 a.m. ET (BLS-confirmed release date)" }
+    ]
+  },
+  "sources": [
+    { "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html", "accessedAt": "2026-11-12" },
+    { "title": "Nebius reports third quarter 2026 financial results", "publisher": "Business Wire (via Yahoo Finance)", "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-reports-third-quarter-2026-121100964.html", "accessedAt": "2026-11-12" },
+    { "title": "A drop for Nvidia’s stock weighs on the US market, while oil prices swing", "publisher": "Associated Press", "url": "https://www.sun-sentinel.com/2026/11/12/nvidia-shares-financial-markets/", "accessedAt": "2026-11-12" },
+    { "title": "Nebius Q3 Earnings Preview: What To Expect From Upcoming Report", "publisher": "GuruFocus", "url": "https://www.gurufocus.com/news/9184429/nebius-q3-earnings-preview-what-to-expect-from-upcoming-report", "accessedAt": "2026-11-11" }
+  ]
+}

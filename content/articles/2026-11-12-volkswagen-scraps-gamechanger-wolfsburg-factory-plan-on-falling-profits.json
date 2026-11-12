@@ -1,0 +1,73 @@
+{
+  "slug": "volkswagen-scraps-gamechanger-wolfsburg-factory-plan-on-falling-profits",
+  "title": "Volkswagen Scraps Its \"Gamechanger\" Factory Plan at Wolfsburg as Profits Fall",
+  "dek": "VW says it will not pursue its Gamechanger manufacturing concept at Wolfsburg in its planned form, dropping a mega-casting centre. The works council says the move breaks a 2024 deal.",
+  "section": "autos",
+  "tags": [
+    "Volkswagen",
+    "Wolfsburg",
+    "manufacturing",
+    "gigacasting",
+    "SSP platform",
+    "Germany"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T16:26:00Z",
+  "updatedAt": "2026-11-12T16:26:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Aerial_image_of_the_Wolfsburg_Volkswagen_Plant_%28view_from_the_southeast%29.jpg",
+    "alt": "Aerial view of the Volkswagen plant in Wolfsburg, Germany, seen from the southeast",
+    "credit": "Carsten Steger / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Wolfsburg_Volkswagen_Plant_(view_from_the_southeast).jpg"
+  },
+  "keyPoints": [
+    "Bloomberg reported that Volkswagen said on Wednesday it will not implement the Gamechanger concept \"in the form previously planned\" in Wolfsburg, citing strained finances.",
+    "Electrive, confirming a company statement to Automobilwoche, reported that the mega-casting centre at the Wolfsburg headquarters is being dropped. Construction had been scheduled for the following week.",
+    "Electrive, citing Handelsblatt, reported that the mega-casting centre alone would have cost a three-digit million amount, and the project was valued in the low billions.",
+    "The group works council chair, Daniela Cavallo, accuses management of breaking a December 2024 agreement, Electrive reported."
+  ],
+  "body": "Volkswagen has dropped a planned advanced-manufacturing project at its Wolfsburg headquarters, a decision that reflects the company's weaker profits and a wider review of investment across its German plants.\n\n## What the company said\n\nBloomberg reported that Volkswagen said on Wednesday it would not implement its so-called Gamechanger manufacturing concept \"in the form previously planned\" in Wolfsburg, because of the company's strained finances. Work will continue on the next-generation electric platform and on models including the ID. Roc, a planned electric SUV, Bloomberg reported.\n\nAutomotive News reported the same decision and described it as an abandonment of plans for advanced manufacturing technology at Wolfsburg, including gigacasting, as weaker earnings force a rethink of investment. Electrive reported that Volkswagen confirmed the decision to Automobilwoche on request and that a spokesperson told Handelsblatt that \"all investments are currently under review.\"\n\n## What the project was meant to do\n\nThe concept aimed to lower production costs for future electric vehicles built on the SSP platform, including the ID. Golf and ID. Roc, by using mega-casting and more pre-assembly. Electrive, citing Handelsblatt, reported that the mega-casting centre alone would have cost a three-digit million amount and that the full project was valued in the low billions. Planned models will still be built, but they will use conventional manufacturing processes, Electrive reported.\n\n## The works council dispute\n\nElectrive reported that the Gamechanger project was still part of a December 2024 collective agreement, though only if the board and supervisory board gave final approval. The group works council chair, Daniela Cavallo, accuses management of breaking that agreement. Handelsblatt, as cited by Electrive, reported that she called the move a \"declaration of bankruptcy by the company leadership\" and a departure from the company's claim to technological leadership in manufacturing.\n\nElectrive also reported that Cavallo is blocking another part of the 2024 deal. Production of the combustion-engine Golf was to move from Wolfsburg to Puebla, Mexico, in 2027 to free up space for ID.3 production. Electrive reported that she says the Golf will not be moved.\n\n## Spending pressure\n\nElectrive reported that Volkswagen has earmarked a total of 135 billion euros for capital investment and research and development for 2027 to 2031, and that current investment requests across the group significantly exceed the budget. Handelsblatt sources, as cited by Electrive, said part of the gap could come from Audi's planned plant in Georgia, where a first construction phase is expected to cost around $4 billion. Those sources said tariff-relief commitments made verbally by Commerce Secretary Howard Lutnick may no longer fully cover the costs. Meridian has not verified those internal figures.\n\n## What to watch\n\nThe immediate question is whether further investment reviews produce more cuts, and whether the works council's objections lead to a formal dispute over the 2024 agreement. Volkswagen has said current investments are under review, and it has not announced a replacement for the Gamechanger plan. Planned electric models are still scheduled to go ahead.",
+  "marketImpact": {
+    "summary": "Cancelling a costly project lowers near-term spending and supports the cost-cutting case for Volkswagen. The cost is a weaker long-term manufacturing edge and a possible labor dispute. The net effect on the shares is hard to read from reporting alone, so the direction is mixed.",
+    "timeframe": "Next several weeks, as the investment review and any labor response play out",
+    "confidence": "low",
+    "tickers": [
+      {
+        "symbol": "VOW3",
+        "direction": "mixed",
+        "rationale": "Lower capital spending may help margins, but the company has not disclosed the savings, and the labor dispute and Audi Georgia costs could offset them."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-11",
+        "event": "Volkswagen says it will not implement Gamechanger in its planned form in Wolfsburg (per Bloomberg)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "VW abandons Gamechanger factory overhaul to curb spending",
+      "publisher": "Automotive News",
+      "url": "https://www.autonews.com/volkswagen/ane-vw-factory-plans-cancelled-germany-1111/",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "VW scraps 'Gamechanger' manufacturing project amid cost-cutting drive",
+      "publisher": "electrive.com",
+      "url": "https://www.electrive.com/2026/11/12/vw-scraps-gamechanger-manufacturing-project-amid-cost-cutting-drive/",
+      "accessedAt": "2026-11-12"
+    }
+  ]
+}

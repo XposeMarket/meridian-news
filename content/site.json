@@ -3,129 +3,125 @@
   "edition": "afternoon",
   "leadSlug": "close-recap-nov-11-nasdaq-rallies-1-6-on-coreweave-bonds-shut",
   "marketBrief": {
-    "headline": "Close, Nov. 11: S&P 500 up 1.3% and Nasdaq up 1.6% as CoreWeave surges; bond market shut for Veterans Day",
-    "summary": "The S&P 500 closed at 7,619.38 (+1.3%), the Dow at 52,486.49 (+0.5%) and the Nasdaq Composite at 25,466.19 (+1.6%), per AP. CoreWeave closed up 24.71% after its Q3 beat (CNBC, via StockTitan). The US bond market was closed for Veterans Day (SIFMA), so Tuesday's 4.98% 10-year close is still the last Treasury reading. CME FedWatch pricing still leaves a quarter-point December hike as the base case (CNN).",
+    "headline": "Midday, Nov. 12: Stocks recover after an Nvidia-led open as the 10-year yield tops 5% again",
+    "summary": "Around noon ET the Dow was up 0.3%, the S&P 500 up 0.2% and the Nasdaq Composite up 0.1%, per Yahoo Finance, after Nvidia shares fell as much as 14% at the open on the resignation of CEO Jensen Huang (AP). Treasury trading resumed after the Veterans Day holiday, and the 10-year yield rose to about 5.09% (Yahoo Finance). CME FedWatch prices a quarter-point December hike as a certainty, with a half-point move at about 13% (CNBC).",
     "bullets": [
-      "Close, Nov. 11: S&P 500 7,619.38 (+1.3%), Dow 52,486.49 (+0.5%), Nasdaq Composite 25,466.19 (+1.6%), Russell 2000 2,846.26 (+0.9%) (AP).",
-      "Week to date: S&P 500 up 3.3%, Nasdaq up 3.6% (AP).",
-      "Nasdaq 100 fund QQQ closed up 2.31%; tech gave back part of its midday gain (StockTitan, citing CNBC).",
-      "CoreWeave closed up 24.71% and Nvidia 2.87% (StockTitan, citing CNBC). Memory and photonics names led: Sandisk +16%, Micron +13% (CNBC).",
-      "Tetra Tech rose 8.26% after hours on its Q4 release, with backlog at $4.67 billion, after a 7.48% regular-session drop (CNBC).",
-      "Bond market closed Nov. 11 for Veterans Day (SIFMA). Bonds reopen Thursday; Nebius reports Q3 before the open that day."
+      "Nvidia: Huang resigned as CEO and director effective immediately; CFO Colette Kress is interim CEO (CNBC). Shares were down about 4.7% at 11:14 a.m. ET after falling as much as 14% at the open (AP).",
+      "Midday: Dow 52,653.86, up 0.32% at 11:57:48 a.m. ET (Yahoo Finance quote data). AMD and Broadcom rose; Intel and Micron fell (Yahoo Finance; AP).",
+      "Treasuries: 10-year 5.068% earlier in the session, up more than 7 bp; 2-year 4.843%; 30-year 5.40% (CNBC). Yahoo Finance had the 10-year at 5.09% by midday.",
+      "Jobless claims rose 9,000 to 200,000 in the week ended Nov. 7, above forecasts (Labor Department release, Nov. 12).",
+      "Bitcoin traded below $72,000, its lowest level since mid-August, with spot ETF outflows and the MSCI exit of Strategy weighing (Bitcoin Magazine).",
+      "Nebius reported Q3 revenue of $980.8 million, up 571%, but shares fell 16% on capex and a cautious outlook (CNBC; Business Wire)."
     ],
-    "asOf": "2026-11-11T21:30:00Z"
+    "asOf": "2026-11-12T17:00:00Z"
   },
   "marketSnapshot": [
     {
-      "label": "S&P 500",
-      "value": "7,619.38",
-      "change": "+1.30%",
+      "label": "Dow Jones Industrial Average",
+      "value": "52,653.86",
+      "change": "+0.32%",
       "direction": "up",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
-      "asOf": "2026-11-11 close"
+      "source": "Yahoo Finance quote data",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "asOf": "2026-11-12 11:57:48 a.m. ET (intraday)"
     },
     {
-      "label": "Dow Jones Industrial Average",
-      "value": "52,486.49",
-      "change": "+0.5%",
+      "label": "S&P 500",
+      "value": "7,619.38 (Nov. 11 close)",
+      "change": "+0.2% midday",
       "direction": "up",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
-      "asOf": "2026-11-11 close"
+      "source": "Yahoo Finance (midday move); AP News (Nov. 11 close)",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "asOf": "2026-11-12 about 12:00 p.m. ET (midday move)"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "25,466.19",
-      "change": "+1.60%",
+      "value": "25,466.19 (Nov. 11 close)",
+      "change": "+0.1% midday",
       "direction": "up",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
-      "asOf": "2026-11-11 close"
+      "source": "Yahoo Finance (midday move); AP News (Nov. 11 close)",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "asOf": "2026-11-12 about 12:00 p.m. ET (midday move)"
     },
     {
-      "label": "Russell 2000",
-      "value": "2,846.26",
-      "change": "+0.9%",
-      "direction": "up",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-027cd5f4583d1a11c1795150bf065afb",
-      "asOf": "2026-11-11 close"
-    },
-    {
-      "label": "Kospi",
-      "value": "5,375.36",
-      "change": "+2.6%",
-      "direction": "up",
-      "source": "Yonhap News Agency",
-      "sourceUrl": "https://en.yna.co.kr/view/AEN20261111007700320",
-      "asOf": "2026-11-11 close"
-    },
-    {
-      "label": "Nikkei 225",
-      "value": "61,248.52",
-      "change": "+1.3%",
-      "direction": "up",
-      "source": "TradingKey",
-      "sourceUrl": "https://www.tradingkey.com/analysis/stocks/more/262300120-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-hbm-tradingkey",
-      "asOf": "2026-11-11 Asian session (provisional)"
+      "label": "Nvidia (NVDA)",
+      "value": "Just under $4 trillion market value",
+      "change": "-4.7%",
+      "direction": "down",
+      "source": "AP News; CNBC",
+      "sourceUrl": "https://www.sun-sentinel.com/2026/11/12/nvidia-shares-financial-markets/",
+      "asOf": "2026-11-12 11:14 a.m. ET (AP update)"
     },
     {
       "label": "10-year Treasury yield",
-      "value": "4.98%",
-      "change": "+10 bp",
+      "value": "5.09%",
+      "change": "+8 bp",
       "direction": "up",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed",
-      "asOf": "2026-11-10 close; bond market closed Nov. 11"
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "asOf": "2026-11-12 about 12:00 p.m. ET (midday)"
     },
     {
-      "label": "USD/JPY",
-      "value": "above 159.00",
-      "change": "highest in over 2 months",
+      "label": "WTI crude",
+      "value": "$86.86 a barrel",
+      "change": "+0.4%",
       "direction": "up",
-      "source": "investingLive European session wrap",
-      "sourceUrl": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rally-dollar-climbs-as-bond-market-sits-out-post-cpi-action/",
-      "asOf": "2026-11-11 European morning"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "asOf": "2026-11-12 intraday (exact time not stated)"
     },
     {
-      "label": "October CPI (month over month)",
-      "value": "+0.4%",
-      "change": "vs +0.3% expected",
-      "direction": "up",
-      "source": "BLS Consumer Price Index",
-      "sourceUrl": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "asOf": "2026-11-10 8:30 a.m. ET"
+      "label": "Bitcoin (BTC)",
+      "value": "About $71,800",
+      "change": "Below $72,000, lowest since mid-August",
+      "direction": "down",
+      "source": "Bitcoin Magazine",
+      "sourceUrl": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
+      "asOf": "2026-11-12 Thursday morning (exact time not stated)"
     }
   ],
   "calendar": [
     {
       "date": "2026-11-12",
-      "time": "Before open",
-      "event": "Nebius Group Q3 2026 results; call at 8:00 a.m. ET",
+      "time": "After close",
+      "event": "Cisco and Applied Materials quarterly results",
       "importance": "high",
-      "why": "Company said results come before the open Thursday (Nebius IR); shares rose sharply Wednesday on the CoreWeave read-through (Benzinga; GuruFocus)."
-    },
-    {
-      "date": "2026-11-12",
-      "time": "Thursday",
-      "event": "Treasury trading resumes; weekly jobless claims; Kospi 200 monthly options expiry",
-      "importance": "high",
-      "why": "First clean Treasury reaction to the 4.98% 10-year close and the CPI-driven hike repricing. Claims and Kospi expiry dates per Schaeffer's Research and Archynewsy."
+      "why": "Both report after Thursday's close; Applied Materials options were pricing about a 10% move (Investopedia; Startup Fortune)."
     },
     {
       "date": "2026-11-13",
-      "time": "Friday",
-      "event": "October PPI (tentative)",
+      "time": "8:30 AM ET",
+      "event": "October producer price index",
+      "importance": "high",
+      "why": "BLS schedule lists Nov. 13 at 8:30 a.m. CNBC expects a 0.4% monthly rise after September's 1.3% surge."
+    },
+    {
+      "date": "2026-11-18",
+      "time": "Expected pricing day",
+      "event": "Anthropic IPO pricing (Nasdaq: ANT)",
+      "importance": "high",
+      "why": "Anthropic's price range is $70 to $78 a share; the company expects to price Nov. 18 (CNBC, Nov. 10; Yahoo Finance live, Nov. 12)."
+    },
+    {
+      "date": "2026-11-19",
+      "time": "Expected first trade",
+      "event": "Anthropic shares expected to begin trading",
+      "importance": "high",
+      "why": "Anthropic said shares are expected to begin trading Nov. 19 (EST), per Yahoo Finance live coverage. Timing can change."
+    },
+    {
+      "date": "2026-11-30",
+      "time": "Market close",
+      "event": "MSCI removal of Strategy (MSTR) and Metaplanet takes effect",
       "importance": "medium",
-      "why": "Schaeffer's Research lists it for Friday, tentatively; check the official BLS schedule before relying on the date."
+      "why": "MSCI's November review removes Strategy from its USA index; index funds may sell shares before the close (CoinReporter; Yahoo Finance)."
     },
     {
       "date": "2026-12-08",
       "time": "Dec. 8-9",
       "event": "FOMC meeting",
       "importance": "high",
-      "why": "CME FedWatch pricing after CPI: quarter-point hike the base case, with a half-point move in play (CNN; CNBC)."
+      "why": "FedRateCalc and Tickward list Dec. 8-9, citing the Fed calendar. CME FedWatch prices a quarter-point hike at 100% with a half-point move near 13% (CNBC)."
     }
   ],
   "trending": [

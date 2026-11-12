@@ -1,0 +1,47 @@
+{
+  "slug": "treasury-yields-top-5-as-treasuries-reopen-and-december-hike-stays-priced",
+  "title": "10-Year Yield Back Above 5% as Treasuries Reopen and a December Hike Stays Priced In",
+  "dek": "Treasury trading resumed after Veterans Day with the 10-year yield above 5%, jobless claims rose to 200,000, and CME FedWatch still shows a quarter-point December hike as the base case.",
+  "section": "markets",
+  "tags": ["Treasuries", "10-year yield", "Fed", "December hike", "jobless claims", "bonds"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T17:35:00Z",
+  "updatedAt": "2026-11-12T17:35:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Automatic_ticker_apparatus%2C_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg",
+    "alt": "Black-and-white photograph of an automatic ticker apparatus on the New York Stock Exchange trading floor",
+    "credit": "Library of Congress via Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Automatic_ticker_apparatus,_New_York_Stock_Exchange._View_of_stations_from_floor_LCCN2013647238.jpg"
+  },
+  "keyPoints": [
+    "The 10-year Treasury yield rose more than 7 basis points to 5.068% when bond trading resumed Thursday (CNBC).",
+    "The 2-year note rose more than 11 basis points to 4.843%, and the 30-year bond rose more than 5 basis points to 5.40% (CNBC).",
+    "Initial jobless claims rose 9,000 to 200,000 in the week ended Nov. 7, the Labor Department said at 8:30 a.m. ET (DOL release, via Anadolu Agency).",
+    "CME FedWatch prices a 100% chance of a quarter-point December hike, with about 13% odds of a half-point move (CNBC)."
+  ],
+  "body": "The US bond market reopened Thursday after the Veterans Day holiday, and yields moved sharply higher. The 10-year Treasury yield, the benchmark for mortgages, auto loans and credit cards, rose more than 7 basis points to 5.068%, CNBC reported. That puts it back above 5% after Tuesday's hotter-than-expected consumer price report.\n\n## The curve\n\nThe move was broad. The 2-year note, which is most sensitive to near-term Fed policy, rose more than 11 basis points to 4.843%. The 30-year bond rose more than 5 basis points to 5.40% (CNBC). A sharper rise at the front end than at the long end points to a market repricing Fed policy rather than only long-run inflation fears.\n\nOil was part of the story. West Texas Intermediate gained 0.4% to $86.86 a barrel and Brent was about 1% higher at $93.60, after President Trump said the US does not need a deal with Iran (CNBC). Higher energy prices feed inflation expectations, which pushes yields up.\n\n## Jobless claims\n\nThe Labor Department said initial jobless claims rose by 9,000 to a seasonally adjusted 200,000 in the week ended Nov. 7, above economists' forecasts (DOL release, via Anadolu Agency). The figure does not point to a labor market under strain, and it did not give the Fed a reason to ease its hike bets.\n\n## The December decision\n\nTraders still price a quarter-point hike at the Dec. 8-9 FOMC meeting as the base case. CME FedWatch shows about 13% odds of a half-point move, CNBC reported. FedRateCalc and Tickward list the meeting for Dec. 8-9, with the decision due Dec. 9 at 2 p.m. ET.\n\nThe next inflation test is Friday's October producer price index, due at 8:30 a.m. ET on Nov. 13. CNBC said economists expect a 0.4% monthly rise, after a 1.3% jump in September.\n\nThis is market analysis, not investment advice. Yield levels are from the cited intraday reports and may have moved since they were published.",
+  "marketImpact": {
+    "summary": "Higher yields and a fully priced December hike are the main pressure on rate-sensitive assets. The Friday PPI report is the next data point that could change the hike-size debate.",
+    "timeframe": "Thursday, Nov. 12, then Friday, Nov. 13 PPI at 8:30 a.m. ET",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "TLT", "direction": "down", "rationale": "Long-dated Treasury prices fall as yields rise; the 30-year yield rose to 5.40% on the reopening (CNBC)" },
+      { "symbol": "IBIT", "direction": "down", "rationale": "Bitcoin ETFs have been losing money as higher rates make non-yielding assets harder to hold (Bitcoin Magazine)" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-13", "event": "October PPI, 8:30 a.m. ET (BLS-confirmed release date)" },
+      { "date": "2026-12-09", "event": "FOMC decision, Dec. 8-9 meeting; quarter-point hike priced as the base case" }
+    ]
+  },
+  "sources": [
+    { "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html", "accessedAt": "2026-11-12" },
+    { "title": "US weekly jobless claims rise to 200,000, above expectations", "publisher": "Anadolu Agency", "url": "https://www.aa.com.tr/en/economy/us-weekly-jobless-claims-rise-to-200-000-above-expectations/4122947", "accessedAt": "2026-11-12" },
+    { "title": "Schedule of Releases for the Producer Price Index", "publisher": "Bureau of Labor Statistics", "url": "https://www.bls.gov/schedule/news_release/ppi.htm", "accessedAt": "2026-11-12" },
+    { "title": "FOMC December 2026 meeting dates (FedRateCalc, citing the Fed calendar)", "publisher": "FedRateCalc", "url": "https://fedratecalc.com/fomc-meeting-schedule/december-2026/", "accessedAt": "2026-11-12" }
+  ]
+}

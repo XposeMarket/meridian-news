@@ -1,0 +1,98 @@
+{
+  "slug": "nvidia-jensen-huang-resigns-colette-kress-interim-ceo",
+  "title": "Nvidia Says Jensen Huang Has Resigned as CEO; CFO Colette Kress Named Interim Chief Executive",
+  "dek": "Nvidia's board accepted co-founder Jensen Huang's resignation on Nov. 11, following an independent board investigation. CFO Colette Kress is interim CEO while the board searches.",
+  "section": "ai-tech",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "leadership",
+    "export controls",
+    "AI chips",
+    "Congress"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T16:20:00Z",
+  "updatedAt": "2026-11-12T16:20:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": true,
+  "readMinutes": 5,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/2788-2888_San_Tomas_Expwy.jpg",
+    "alt": "Exterior of the NVIDIA headquarters building on San Tomas Expressway in Santa Clara, California",
+    "credit": "Coolcaesar / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2788-2888_San_Tomas_Expwy.jpg"
+  },
+  "keyPoints": [
+    "Nvidia said Huang resigned as president, chief executive and board member, effective immediately. The Register, summarizing a Form 8-K, reported the board accepted the resignation on Nov. 11.",
+    "Colette Kress, Nvidia CFO since 2013, is interim CEO and keeps the CFO role. The board is searching internal and external candidates.",
+    "Harvey C. Jones was named the board's first-ever chair.",
+    "The New York Times reported that U.S. intelligence agencies concluded a Chinese businesswoman, Alice Huang, was recruited to gather information on Huang. China has rejected the espionage claims.",
+    "Nvidia reports third-quarter fiscal 2027 results on Nov. 17, as previously scheduled."
+  ],
+  "body": "Nvidia announced on Thursday that co-founder Jensen Huang has resigned as president, chief executive and a member of the board, effective immediately. The company's release, titled \"NVIDIA Announces CEO Transition,\" names Colette Kress, its executive vice president and chief financial officer, as interim chief executive. Kress will keep her CFO role while serving as interim CEO. The board says it is starting a search for a permanent chief executive and will consider internal and external candidates. The Register, summarizing a Form 8-K filing, reported that the board accepted the resignation on Nov. 11.\n\n## What the board said\n\nThe release does not describe the reporting that preceded the decision. It thanks Huang for his \"immeasurable contributions to the company and the industry,\" and the New York Times noted the statement did not mention his conduct. Harvey Jones, who was named the first-ever chair of the board, said the board has \"full confidence\" in Kress and the leadership team and expects operations, customer commitments and the product roadmap to continue \"without interruption.\"\n\n## How the board got to this point\n\nNvidia said on Sunday that its board had opened an independent investigation \"in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort,\" ABC News reported. ABC also reported that the Wall Street Journal had said the board was preparing to meet to determine Huang's future. The board met late on Wednesday, and the outcome was announced the next day.\n\nMost of the underlying reporting comes from the New York Times. The Times reported that Huang had a relationship with a Chinese businesswoman who goes by Alice Huang, and that U.S. intelligence agencies concluded she had been recruited by China's main spy agency to gather information about him. The Times also reported a second relationship, with an executive who reported to him, and said President Trump had been warned about the first relationship and took no action. The Times said Alice Huang has not responded to requests for comment and that China has rejected the espionage claims. Fortune described the resignation as following Huang's admission of an extramarital affair. Meridian has not independently verified these personal allegations, and they should be read as reported claims.\n\n## Who runs Nvidia now\n\nKress joined Nvidia in September 2013 and has led its finance organization since. The release says she spent nearly 25 years in finance roles at Cisco and Microsoft before that. Nvidia will report third-quarter fiscal 2027 results on Tuesday, Nov. 17, at about 1:20 p.m. PT, with the call at 2 p.m. PT. The stock reaction, which Yahoo Finance's live coverage described as a drop of more than 13% in early trading before losses pared, is covered in [our midday market story](/article/midday-stocks-claw-back-early-losses-as-nvidia-slides-after-huang-exit).\n\n## Congress and China\n\nRep. Brian Mast, the Republican chair of the House Foreign Affairs Committee, told reporters that Huang has agreed to testify before Congress and could do so as soon as next week, CNBC reported. Bloomberg reported the same testimony agreement. Lawmakers were already examining Nvidia's China ties; see [our report on Democratic scrutiny of Nvidia's chip exports](/article/nvidia-faces-democratic-congress-scrutiny-over-china-ai-chip-exports). In a CNBC report published on Nov. 10, Patrick Moorhead of Moor Insights & Strategy said, \"In 35 years, I haven't seen a chip CEO with this much direct influence on export policy.\"\n\nPresident Trump posted on Truth Social that former Apple chief executive Tim Cook should take over, CNBC reported. Nvidia has not named a candidate.\n\n## What it means for the AI supply chain\n\nNvidia designs the accelerators that many large AI data centers depend on, and the Times reported that Nvidia controls an estimated 90 percent of the market for advanced AI chips. In the near term, the questions for customers are continuity: whether guidance, supply commitments and the product roadmap hold through the transition. The board's statement addresses that directly, and the Nov. 17 results call will be the first public test of interim leadership.\n\nExport controls are a separate question. The Times ties Alice Huang to Megaspeed, a Singapore company that U.S. officials suspect helped smuggle restricted chips into China. A separate account, reported by The Information and cited by Seoul Economic Daily, describes a network of about $7.5 billion in Nvidia chips that also names Mega Speed. Those are different reports by different outlets, and the espionage allegations are not the same thing as the chip-volume figures. Our earlier coverage of the network is in [this story](/article/alice-huang-chip-network-widens-export-control-questions), and the separate procurement-records report on a military-linked Chinese university is in [this one](/article/reuters-finds-military-linked-chinese-university-bought-nvidia-h200).\n\nNvidia's release does not say whether the board's investigation has concluded, and the company has not described any change to its export compliance program in the materials reviewed for this story. The next signals will come from the Nov. 17 earnings call, any congressional testimony and whatever the board decides about a permanent chief executive.",
+  "marketImpact": {
+    "summary": "The leadership change adds near-term uncertainty to Nvidia, the largest supplier of AI accelerators. The main risks are execution during the search and any regulatory fallout from the investigation and congressional review. The market reaction is covered in a separate midday story.",
+    "timeframe": "Next 1-2 sessions, then through the Nov. 17 results call and the permanent CEO search",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "Leadership transition, an open search and possible congressional scrutiny add uncertainty; the company says operations and the roadmap should continue without interruption."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-17",
+        "event": "Nvidia Q3 fiscal 2027 results, about 1:20 p.m. PT, call at 2 p.m. PT"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "publisher": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Jensen Huang Resigns as Nvidia CEO After Affairs: Live Updates",
+      "publisher": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia chief executive",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
+      "publisher": "ABC News",
+      "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Nvidia's Jensen Huang Agrees to Testify Before Congress",
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/huang-agrees-to-testify-before-congress-soon-gop-lawmaker-says",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Nvidia's Jensen Huang resigns, CFO Colette Kress named interim CEO",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
+      "accessedAt": "2026-11-12"
+    }
+  ]
+}
