@@ -1,0 +1,98 @@
+{
+  "slug": "cerebras-q3-revenue-microsoft-deal-inference-capacity",
+  "title": "Cerebras Posts Record Q3 Revenue and Raises 2026 Outlook as Inference Cloud Demand Grows",
+  "dek": "Cerebras reported record third-quarter revenue, $26.1 billion in remaining performance obligations and 700 megawatts of contracted data center capacity, and said it expects to triple revenue in 2027.",
+  "section": "ai-tech",
+  "tags": [
+    "Cerebras",
+    "CBRS",
+    "AI chips",
+    "inference",
+    "AI cloud",
+    "earnings"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T21:30:00Z",
+  "updatedAt": "2026-11-12T21:30:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cerebras_logo.svg",
+    "alt": "Cerebras Systems logo",
+    "credit": "Cerebras Systems / Wikimedia Commons",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cerebras_logo.svg"
+  },
+  "keyPoints": [
+    "Cerebras reported record GAAP revenue of $210.8 million, up 55%, and core revenue of $230.9 million, up 70%.",
+    "It raised its 2026 core revenue outlook to $940 million to $960 million and expects revenue to triple in 2027.",
+    "The company says it has secured 700 gross megawatts of data center capacity for delivery by the end of 2027.",
+    "CNBC reported a new Microsoft cloud deal signed in October; the release does not name its hyperscaler customers.",
+    "Shares rose in extended trading, but CNBC reported they are still down about 47% since the May IPO."
+  ],
+  "body": "Cerebras Systems reported record third-quarter revenue after the bell on Thursday and raised its full-year outlook, as the AI chip company pushes its inference systems and cloud service into more data centers. The company's release, the primary source for the figures below, covers the quarter ended Sept. 30.\n\n## What the company reported\n\nGAAP revenue was a record $210.8 million, up 55% from a year earlier. Core revenue, which excludes items Cerebras classifies as non-GAAP adjustments, was $230.9 million, up 70%. GAAP cloud and other services revenue rose 265% to $141.9 million. Core gross margin was 41%, up from the prior quarter and the year-earlier period. Cerebras also reported $26.1 billion in remaining performance obligations and $7.8 billion in cash, cash equivalents and short-term investments.\n\nFor 2026, the company now expects core revenue of $940 million to $960 million. For the fourth quarter it guided to core revenue of $310 million to $330 million.\n\n## Capacity, not just chips\n\nMuch of the release is about capacity. Cerebras says it has secured 700 gross megawatts of data center capacity for delivery by the end of 2027, has signed contracts for more capacity in Norway and Finland, and expects to exit 2026 with more than ten times the manufacturing capacity it had at the start of the year. It is working with Flex and Sanmina on that build-out.\n\nOn product, the company says its CS-4 system \"will soon be in full production.\" It previewed the next-generation CS-5 for early summer 2027, and says the Wafer Scale Engine 5 processor it will use is back from the fab and in system testing. Cerebras calls its disaggregated inference offering the first to reach production scale, and says it expects that approach to become a default offering in major clouds.\n\n## Who buys it\n\nOracle is integrating Cerebras' fast inference into Oracle Cloud Infrastructure, with availability in 2027, the release says. It also names Bilt, whose Neighborhood OS and concierge assistant will run on Cerebras inference. The release says Cerebras has won two new hyperscalers but does not name them. CNBC reported a new cloud deal with Microsoft signed in October; the release does not name its hyperscaler customers. Chief Executive Andrew Feldman told CNBC that Microsoft signed in October and that revenue from the deal should begin to show up in the first quarter of 2027.\n\n## The capex question\n\nThe 2027 target is the number investors will watch. Cerebras expects revenue to triple in 2027. CNBC said that implies about $2.85 billion, against an LSEG consensus of about $2.92 billion. Feldman told CNBC the company is evaluating financing options to meet ramping demand, and said long lead times for GPUs had opened a window for hardware sales.\n\nThe same AI-infrastructure demand is visible upstream. Applied Materials, which reported the same afternoon, said its Semiconductor Systems business is on track to grow more than 40% in calendar 2026, according to its release. Our market story on the Cisco and Applied Materials results is [here](/article/cisco-applied-materials-beat-after-bell-as-ai-demand-lifts-outlooks).\n\n## Shares and context\n\nShares rose in extended trading. Benzinga Pro put the gain at 12.92% to $110.38, while CNBC reported an 18% gain. CNBC also reported that the stock has fallen about 47% since its May debut. The results came on the same day Nvidia said its chief executive had resigned, and CNBC framed Cerebras as one of the companies trying to challenge Nvidia in AI chips. Cerebras is scheduled to speak at the TomorrowX Summit in Austin on Nov. 17 and at the Barclays Global Technology Conference on Dec. 9.\n",
+  "marketImpact": {
+    "summary": "The results strengthen the case that inference capacity is in demand, which matters for a company trying to win share from Nvidia. The after-hours move reflects sentiment and the top-line beat more than any disclosed deal terms. The reports reviewed do not disclose the financial terms of the hyperscaler contracts.",
+    "timeframe": "Next session (Nov. 13), then the Nov. 17 Nvidia results",
+    "confidence": "low",
+    "tickers": [
+      {
+        "symbol": "CBRS",
+        "direction": "up",
+        "rationale": "After-hours gains reported (12.92% per Benzinga Pro, about 18% per CNBC); the stock is still well below its May debut level."
+      },
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "Cerebras is competing for AI inference demand in the same week Nvidia is in a CEO transition and reports results Nov. 17."
+      },
+      {
+        "symbol": "MSFT",
+        "direction": "watch",
+        "rationale": "CNBC reported a Microsoft cloud deal signed in October; no financial terms were disclosed in the reports reviewed."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-17",
+        "event": "Nvidia Q3 fiscal 2027 results, about 1:20 p.m. PT, call at 2 p.m. PT"
+      },
+      {
+        "date": "2026-11-17",
+        "event": "Cerebras speaks at the TomorrowX Summit, Austin"
+      },
+      {
+        "date": "2026-12-09",
+        "event": "Cerebras speaks at the Barclays Global Technology Conference"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cerebras Systems Delivers Record Revenue in Third Quarter 2026, Raises Full-Year Outlook",
+      "publisher": "Cerebras Systems",
+      "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Cerebras Systems (CBRS) Q3 earnings report 2026",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Cerebras Stock Jumps on Q3 Cloud Revenue Up 265%, Despite Missed Guidance",
+      "publisher": "Benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63224006/cerebras-stock-jumps-on-q3-cloud-revenue-up-265-despite-missed-guidance",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Applied Materials Announces Fourth Quarter and Fiscal Year 2026 Results",
+      "publisher": "StockTitan",
+      "url": "https://www.stocktitan.net/news/AMAT/applied-materials-announces-fourth-quarter-and-fiscal-year-2026-7z5nei8eafpd.html",
+      "accessedAt": "2026-11-12"
+    }
+  ]
+}

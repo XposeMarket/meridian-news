@@ -29,3 +29,9 @@ No desks dispatched. The Anthropic weekly budget was at 1% at midday, resetting 
 - 7cc5e47 (Ledger/Circuit): new midday stocks recap [lead], Treasury yields >5%, Bitcoin <$72k/MSCI, Nebius Q3, Nvidia Huang resigns/Kress interim CEO, Anthropic $70-78 IPO range, VW scraps Gamechanger; updated Alice Huang chip network, Nebius preview + site.json brief. validate 207, build PASS.
 - a902621 (Wire): new witkoff-kushner-meet-putin-in-moscow-as-ukraine-talks-restart, democrat-scott-colom-wins-mississippi-senate-seat-ap-calls, israeli-strike-hits-nasser-medical-complex-khan-younis, israeli-security-cabinet-reportedly-prepares-for-possible-iran-attack; updated russia-strikes-kyiv-energy-grid-threatens-nuclear-plant-substations, eisenkot-cancels-likud-talks-after-netanyahu-knesset-speech, russia-ukraine-abu-dhabi-talks-end-with-prisoner-exchange-deal (carried over from Nov 11 afternoon). validate 211, build PASS; 7 exact paths Test-Path OK; 4 new live URLs 200.
 - Issues: Wire's first runner died with no files written; rerun of the same task succeeded. Kyiv grid update leans on Ukrainian outlets (sud.ua, ua.news); the drone caption detail is marked unverified.
+
+
+## 2026-11-12 afternoon (Ledger part): PUBLISHED b2c44e0 (origin/main)
+- New: close-recap-nov-12-nvidia-drags-nasdaq-as-yields-top-5 [lead], cisco-applied-materials-beat-after-bell-as-ai-demand-lifts-outlooks. Updated: treasury-yields-top-5-as-treasuries-reopen-and-december-hike-stays-priced, bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy; site.json close brief/snapshot/calendar, lead + trending refreshed by Chief Editor.
+- validate 213, --check-images --since=2026-11-12 (12 URLs) PASS, build PASS; 6 exact paths Test-Path OK. AP close figures and CNBC Cisco numbers spot-checked against sources.
+- Circuit and Wire afternoon filings still in progress; will ship in a follow-up commit. Open: 9 old articles still featured=true (rule max 3); clean up in next commit.

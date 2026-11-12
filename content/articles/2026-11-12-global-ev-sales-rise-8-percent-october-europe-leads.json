@@ -1,0 +1,67 @@
+{
+  "slug": "global-ev-sales-rise-8-percent-october-europe-leads",
+  "title": "Global EV Sales Rise 8% in October as Europe Grows 36% and the US Stabilizes at a Lower Level",
+  "dek": "Benchmark Mineral Intelligence counts 2.09 million battery and plug-in electric vehicles sold in October. Europe led, China fell 12%, and the US gain reflects a weak year-earlier base.",
+  "section": "autos",
+  "tags": [
+    "EVs",
+    "electric vehicles",
+    "Europe",
+    "China",
+    "US auto market",
+    "Benchmark"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T21:40:00Z",
+  "updatedAt": "2026-11-12T21:40:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Close-up_of_an_electric_car_charging._Traffic_lights_in_a_blurry_background.jpg",
+    "alt": "Close-up of an electric car charging",
+    "credit": "Ivan Radic / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Close-up_of_an_electric_car_charging._Traffic_lights_in_a_blurry_background.jpg"
+  },
+  "keyPoints": [
+    "Global battery-electric and plug-in hybrid sales rose 8% in October to 2.09 million units; year to date they are up 5% at 17.5 million.",
+    "Europe sold 510,000 vehicles, up 36%, with battery-electric cars up 49%. China fell 12% from a year earlier to 1.14 million.",
+    "North America rose 24% in October, but Benchmark says the US has stabilized at a lower level and the gain reflects a weak base after the federal tax credit ended.",
+    "Benchmark does not break out company sales; the data points to exposure to Europe, China and the US as the key differences for automakers."
+  ],
+  "body": "Global sales of battery-electric and plug-in hybrid vehicles rose 8% year over year to 2.09 million units in October, according to data from Benchmark Mineral Intelligence. Electrek and CBT News both reported the figures on Nov. 11 and 12. The headline growth rate hides three different markets: Europe is growing fast, China's home market is shrinking, and the US rebound is partly a comparison with a weak base.\n\n## Europe carries the growth\n\nEurope sold 510,000 electric vehicles in October, up 36% from a year earlier, Benchmark reported. Battery-electric cars did most of the work, rising 49%, while plug-in hybrids rose 7%. Electrek reported that Germany's EV share topped 45% of new car sales, its highest since December 2022, and that UK sales rose 30%. Benchmark credited subsidies, rising fuel prices, EU emissions rules and a wider range of models for the trend, according to CBT News.\n\nMonthly numbers look weaker. European sales fell 17% from September, which was a record month helped by the UK's twice-yearly registration plate change. Year to date, Europe has sold 4.5 million electric vehicles, up 31%.\n\n## China's home market keeps shrinking\n\nChina sold 1.14 million electric vehicles in October, down 12% from a year earlier but up 5% from September, Benchmark reported. Electrek said China's EV share of sales is rising even as volumes fall. Manufacturers are leaning on exports, which helped lift totals in other markets.\n\nSales in the rest of the world, outside China, Europe and North America, rose 85% to about 300,000 units, CBT reported. Australia's electric sales were up more than 200% from a year earlier as new brands, many of them Chinese, entered the market. CBT said that surge is squeezing dealer margins there.\n\n## The US rebound needs context\n\nNorth America sold 130,000 electric vehicles in October, up 24% from a year earlier. That was the region's first annual increase this year. US sales were about 110,000. Year to date, North America is down 21%, at 1.3 million.\n\nBenchmark's data manager, Charles Lester, told Electrek: \"October is the first month compared against a period without the US federal tax credit, and the US market has stabilized at a lower level rather than recovered.\" The federal credit ended for vehicles acquired after Sept. 30, 2025, and sales fell sharply afterward. So October 2026 is measured against a weak month, and it does not show a return to earlier demand.\n\n## What it means for automakers\n\nBenchmark's figures cover the whole market and do not break out company sales, so they do not measure any single automaker's position. Still, the mix matters for companies with exposure to Europe, China and the US. Benchmark's data point to three different regional stories: battery-electric growth concentrated in Europe, a shrinking China home market, and a US market that has stabilized rather than recovered. The reports do not say how that affects any specific company.\n",
+  "marketImpact": {
+    "summary": "The data is market-wide and does not isolate any company's sales. Europe's battery-electric growth and China's shrinking home market are the parts most likely to matter for listed EV makers, and the US picture is a stabilized base rather than a recovery.",
+    "timeframe": "Next few weeks, as October data is digested and automakers report fourth-quarter sales",
+    "confidence": "low",
+    "tickers": [
+      {
+        "symbol": "TSLA",
+        "direction": "watch",
+        "rationale": "Benchmark's market-level data shows Europe growing and China shrinking; it does not report Tesla sales, so the link to the company is indirect."
+      },
+      {
+        "symbol": "GM",
+        "direction": "watch",
+        "rationale": "The US market has stabilized at a lower level; the year-over-year gain is measured against a month after the federal tax credit ended."
+      }
+    ],
+    "catalysts": []
+  },
+  "sources": [
+    {
+      "title": "Europe's electric car sales jump 49% as global EV sales grow",
+      "publisher": "Electrek",
+      "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Global EV sales rise 8% in October, U.S. market stabilizes",
+      "publisher": "CBT News",
+      "url": "https://www.cbtnews.com/global-ev-sales-rise-8",
+      "accessedAt": "2026-11-12"
+    }
+  ]
+}

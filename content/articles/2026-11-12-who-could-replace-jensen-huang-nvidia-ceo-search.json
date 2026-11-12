@@ -1,0 +1,113 @@
+{
+  "slug": "who-could-replace-jensen-huang-nvidia-ceo-search",
+  "title": "Who Could Replace Jensen Huang at Nvidia, and What Customers and Partners Are Watching",
+  "dek": "Analysts and prediction markets name Ian Buck, Colette Kress, Johny Srouji and Tim Cook, while Nvidia has not confirmed any candidate. Customers want continuity before the Nov. 17 results.",
+  "section": "ai-tech",
+  "tags": [
+    "Nvidia",
+    "Jensen Huang",
+    "CEO succession",
+    "Colette Kress",
+    "Tim Cook",
+    "AI chips"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-12T21:35:00Z",
+  "updatedAt": "2026-11-12T21:35:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 5,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Jensen_huang_stanford_2026-04-30_008.jpg",
+    "alt": "Portrait of Jensen Huang at a Stanford event",
+    "credit": "Anders Eidesvik / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg"
+  },
+  "keyPoints": [
+    "Nvidia has not named a successor. The board says it is considering internal and external candidates, with Colette Kress as interim CEO.",
+    "Analysts cited by CBS News and Business Insider name Ian Buck as the internal candidate raised most often; external names include Tim Cook, Johny Srouji and Rene Haas.",
+    "Kalshi odds on Thursday afternoon, as reported by CBS, put Buck at 42% and Kress at 12%. Those are market prices, not board decisions.",
+    "Customers and partners told CNBC that Huang often emailed or called chief executives to offer help; Nvidia says operations, customer commitments and the roadmap should continue without interruption.",
+    "Nvidia reports Q3 fiscal 2027 results on Nov. 17 and holds an all-hands meeting on Nov. 18."
+  ],
+  "body": "Nvidia has no permanent chief executive and has not named a successor. The board said Thursday it will consider internal and external candidates, and Colette Kress is serving as interim CEO. The names below come from analysts, prediction markets, a presidential social media post and press reports that the board is considering candidates. Nvidia has not confirmed any of them.\n\n## Inside the company\n\nKress is the most obvious name for now, and reporting is split on whether she is the long-term answer. The South China Morning Post described her as leading the field. CBS News reported that Wall Street analysts see her as a solid interim choice but do not expect her to be picked permanently. Gil Luria of D.A. Davidson told CBS to expect \"a more comprehensive search that will include internal and external candidates and that Ms. Kress will only serve on an interim basis.\"\n\nIan Buck is the internal name analysts raised most often. Business Insider reported that analysts and former employees floated Buck, a vice president who runs the data center unit, and Kress. CBS said Buck oversees Nvidia's AI hardware and software products and that he joined the company in 2004. StoneX's Cody Acree told CBS that Buck \"makes the most sense internally.\"\n\n## Outside the company\n\nTim Cook is the external name getting the most attention. Tech analyst Dan Ives told CBS that Cook \"checks every box.\" President Trump posted on Truth Social that \"there is only one man to take his place - TIM COOK of Apple,\" according to CBS. CBS also reported that Cook would have to leave Apple, where he stepped down as chief executive in September, because of possible conflicts of interest. The SCMP also lists AMD chief executive Lisa Su in the frame, and CBS cites Arm chief executive Rene Haas, whom analysts have floated. Acree said Haas \"has the design expertise to run a technical organization like Nvidia,\" while adding that he is \"not a perfect fit by any means.\"\n\nApple's chief hardware officer, Johny Srouji, has also been named. Semafor reported, citing a person familiar with the matter, that Srouji is among the candidates the board is considering, according to CBS.\n\n## Prediction markets and the speed question\n\nOn Thursday afternoon, Kalshi's market on the next Nvidia CEO had Buck at 42%, Kress at 12% and Srouji at 9%, CBS reported. Prediction markets are not a forecast from Nvidia or its board, and the odds can move quickly.\n\nAnalysts disagree on how fast the board should move. Acree told CBS: \"If they name somebody quickly, I think it'd be a mistake.\" Bernstein analyst Stacy Rasgon told CNBC he did not know who could be the next \"visionary\" for Nvidia: \"Who is the right person now to make the decisions for the next 10 years? I don't intuitively know who that person would be.\"\n\n## What customers and partners are watching\n\nCNBC reported that executives at several Nvidia customers, partners and portfolio companies said Huang often emailed or called chief executives to offer help during tough periods. Tomás Puig, chief executive of enterprise AI startup Alembic, told CNBC that after Silicon Valley Bank's 2023 collapse his company was \"down to weeks of cash,\" and that, in his account, Nvidia prepaid two years of invoices. Yahoo Finance's live coverage said partners and customers are waiting for the permanent appointment.\n\nThe BBC quoted an analyst who said most of Nvidia's clients spend money with the company and that he expects firms to keep spending, while acknowledging the turbulence will affect Nvidia and its clients. In the release, Chair Harvey Jones said the company expects its \"operations, customer commitments and product roadmap to continue without interruption.\"\n\nEmployees are also waiting. Fortune reported that Nvidia staff will wait six days for an all-hands meeting, which the company set for Nov. 18, and that several communications experts said employees need answers sooner.\n\n## The next test\n\nNvidia reports third-quarter fiscal 2027 results on Nov. 17. CNBC cited LSEG estimates for revenue of $109.2 billion, up 92% from a year earlier. CNBC reported the stock is on pace for its sixth straight weekly drop. The first public read on how the company talks about its roadmap under interim leadership will come on that call. The board's choice of a permanent chief executive has no announced date.\n",
+  "marketImpact": {
+    "summary": "The succession question is an open risk for Nvidia until the board names a chief executive. Analysts differ on whether a fast pick would help or hurt. Two of the external names reported in the press are Apple executives, so an Apple-linked appointment could also draw attention to Apple leadership.",
+    "timeframe": "Through the Nov. 17 results call; permanent CEO timing has not been announced",
+    "confidence": "low",
+    "tickers": [
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "Open CEO search and interim leadership; the company says operations and the roadmap should continue without interruption."
+      },
+      {
+        "symbol": "AAPL",
+        "direction": "watch",
+        "rationale": "Tim Cook and Johny Srouji are reported as candidates; CBS reported Cook would have to leave Apple if chosen. No decision has been reported."
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-17",
+        "event": "Nvidia Q3 fiscal 2027 results, about 1:20 p.m. PT, call at 2 p.m. PT"
+      },
+      {
+        "date": "2026-11-18",
+        "event": "Nvidia companywide meeting, 9 a.m. PT"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Who will succeed Jensen Huang as Nvidia's CEO? We asked Wall Street analysts.",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/jensen-huang-next-nvidia-ceo-candidates/",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Jensen Huang's exit from Nvidia raises questions about future of AI",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Analysts Say These Executives Could Succeed Nvidia CEO Jensen Huang",
+      "publisher": "Business Insider",
+      "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-succession-executives-analysts-2026-11",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Nvidia's hunt for Jensen Huang's successor: insiders, rivals and a Trump pick",
+      "publisher": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374268/nvidias-hunt-jensen-huangs-successor-insiders-rivals-and-trump-pick",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Huang agrees to appear before Congress, US lawmakers say, after scandal-hit Nvidia CEO resigns",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.com/news/live/c6zjry11v8w1t",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Nvidia staff wait 6 days for an all-hands after Jensen Huang's exit",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/11/12/nvidia-interim-ceo-colette-kress-wont-hold-an-all-hands-for-nearly-a-week-after-jensen-huangs-ouster/",
+      "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "publisher": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "accessedAt": "2026-11-12"
+    }
+  ]
+}
