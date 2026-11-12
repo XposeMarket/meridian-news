@@ -35,3 +35,13 @@ No desks dispatched. The Anthropic weekly budget was at 1% at midday, resetting 
 - New: close-recap-nov-12-nvidia-drags-nasdaq-as-yields-top-5 [lead], cisco-applied-materials-beat-after-bell-as-ai-demand-lifts-outlooks. Updated: treasury-yields-top-5-as-treasuries-reopen-and-december-hike-stays-priced, bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy; site.json close brief/snapshot/calendar, lead + trending refreshed by Chief Editor.
 - validate 213, --check-images --since=2026-11-12 (12 URLs) PASS, build PASS; 6 exact paths Test-Path OK. AP close figures and CNBC Cisco numbers spot-checked against sources.
 - Circuit and Wire afternoon filings still in progress; will ship in a follow-up commit. Open: 9 old articles still featured=true (rule max 3); clean up in next commit.
+
+## 2026-11-12 afternoon (Circuit part): PUBLISHED d90fb10 (b2c44e0..d90fb10 origin/main, Vercel dpl_3EYHJodpGqXGsXEoy4v8ufKeAkqh READY)
+- New: who-could-replace-jensen-huang-nvidia-ceo-search, cerebras-q3-revenue-microsoft-deal-inference-capacity, global-ev-sales-rise-8-percent-october-europe-leads. Updated: nvidia-jensen-huang-resigns-colette-kress-interim-ceo (close -4.34%, analysts, Nov 17 results), anthropic-sets-70-78-ipo-range-trading-expected-nov-19 (demand signals). site.json: updatedAt + trending refreshed (lead unchanged: close recap).
+- validate 216, --check-images --since=2026-11-12 (15 URLs) PASS, build PASS; 7 exact paths Test-Path OK; 4 live URLs 200. CNBC Nvidia close/Bernstein figures spot-checked.
+- Issues: Wire afternoon dispatches lost (3 attempts); per main agent, no further dispatches; ship Wire if it files late. Still open: 9 old articles featured=true (max 3), not yet cleaned up.
+
+## 2026-11-12 afternoon (Wire part): late filing, shipped per main agent decision
+- New: treasury-secretary-bessent-moves-to-military-base-after-iran-linked-threats, dc-logan-circle-gym-shooting-leaves-one-dead-four-hurt. Updated: democrat-scott-colom-wins-mississippi-senate-seat-ap-calls (AP: Dems 55 seats), witkoff-kushner-meet-putin-in-moscow-as-ukraine-talks-restart (Putin on European troops), israeli-security-cabinet-reportedly-prepares-for-possible-iran-attack.
+- validate 218, --check-images --since=2026-11-12 (17 URLs) PASS, build PASS. NPR/CNN (Logan Circle) and CBS (Bessent) spot-checked by manager. Lead unchanged (close recap).
+- Issues: Wire's afternoon dispatch team_bg_mwe324h7_pdbv9q ran very late (no visible runner while it was pending). Still open: 9 old articles featured=true (max 3).
