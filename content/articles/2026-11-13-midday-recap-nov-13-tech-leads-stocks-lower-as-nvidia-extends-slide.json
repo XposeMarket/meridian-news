@@ -1,0 +1,51 @@
+{
+  "slug": "midday-recap-nov-13-tech-leads-stocks-lower-as-nvidia-extends-slide",
+  "title": "Midday Recap, Nov. 13: Tech Leads Stocks Lower as Nvidia Extends Its Slide",
+  "dek": "The Nasdaq was down about 1.6% and the S&P 500 about 1.1% by late morning, with chipmakers leading the decline while the Dow was near flat and the 10-year yield held above 5%.",
+  "section": "markets",
+  "tags": ["stocks", "Nasdaq", "Nvidia", "chip stocks", "midday", "markets"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-13T17:15:00Z",
+  "updatedAt": "2026-11-13T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 3,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Stock-exchange-trading-floor.jpg",
+    "alt": "Traders on the floor of a stock exchange",
+    "credit": "S.aderogba via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stock-exchange-trading-floor.jpg"
+  },
+  "keyPoints": [
+    "At 11:59 a.m. ET the Nasdaq Composite was recently down about 1.6%, the S&P 500 about 1.1% and the Dow about 0.4% (Investopedia live coverage).",
+    "Chipmakers led the decline: AMD fell about 11%, Broadcom, Intel, Marvell and Micron each fell more than 5%, and the semiconductor ETF SOXX dropped nearly 6%.",
+    "Nvidia was down about 4% at 11:59 a.m. ET, after Thursday's drop following Jensen Huang's resignation; StockTitan data put it about 14% below its Nov. 6 close at 11 a.m. ET.",
+    "Microsoft was unchanged as it reported progress on resolving the Outlook and Teams outage; Apple rose about 1% to a record high and Cisco fell about 6% despite a strong quarter (Investopedia).",
+    "Cerebras had jumped about 16% premarket on a surprise third-quarter profit (CNBC); it was up 11.6% at 8:04 a.m. ET (StockTitan)."
+  ],
+  "body": "US stocks were lower late Friday morning, and technology did most of the damage. By 11:59 a.m. ET, the Nasdaq Composite was recently down about 1.6% and the S&P 500 about 1.1%, according to Investopedia's live coverage. The Dow Jones Industrial Average was down about 0.4%, close to flat by comparison. Thursday's closes were 25,366.09 for the Nasdaq and 7,592.40 for the S&P 500 (AP).\n\n## How the open played out\n\nStocks opened higher, then gave up their gains within the first half hour. At 10:06 a.m. ET, CNBC's live page had the Nasdaq down 0.9% and the S&P 500 down 0.6%, with the Dow near flat (StockTitan, summarizing CNBC). The slide widened from there.\n\nChipmakers were the weakest group. AMD fell about 11% and led the S&P 500 decliners. Broadcom, Intel, Marvell and Micron each fell more than 5%. Applied Materials dropped about 6% even though its quarterly results beat expectations, and the iShares Semiconductor ETF (SOXX) was down nearly 6%.\n\n## Nvidia and the movers\n\nNvidia was down about 4% at midday, after a drop of more than 4% on Thursday when Jensen Huang stepped down as chief executive. StockTitan's real-time data put the shares about 14% below their Nov. 6 close at 11 a.m. ET. Colette Kress is serving as interim chief executive.\n\nMicrosoft was unchanged after the company said it was making progress on an outage that disrupted Outlook and Teams. It had been down more than 1% before the open. Cerebras had jumped about 16% premarket after reporting a surprise profit and revenue above forecasts, and it was still up 11.6% at 8:04 a.m. ET. Cisco fell about 6% despite strong results and an upbeat outlook. Apple rose about 1% to a fresh all-time high, while Tesla and Alphabet each fell about 2%.\n\nAmong smaller names, Modine rose more than 26% after Bloomberg reported that Samsung was in takeover talks with it, and Newsmax gained about 29% after its third-quarter results (StockTitan).\n\n## Rates, oil and crypto\n\nThe 10-year Treasury yield was about 5.14% at 11:59 a.m. ET (Investopedia). Earlier, Yahoo Finance had it at 5.16%, its highest level since October. WTI crude was little changed near $88.65 a barrel.\n\nBitcoin traded around $68,600, below $70,000 for the first time since August, and Strategy (MSTR) was down nearly 5% (Investopedia).\n\n## What to watch\n\nThe October producer price index came in slightly below forecasts, but its 6.5% annual rate kept a December rate hike firmly priced. Yahoo Finance reports that Nvidia's fiscal third-quarter earnings come next Tuesday, Nov. 17, which makes the chip group's leadership the main question for the afternoon session. The open shows the market is debating whether the AI trade is losing leadership or only pausing after the Huang exit.",
+  "marketImpact": {
+    "summary": "Tech is carrying the midday decline. The pressure comes from chip-sector selling tied to Nvidia's leadership vacuum, a 10-year yield above 5% and weaker crypto, while the Dow's near-flat move suggests the damage is concentrated in AI-linked names rather than the whole market.",
+    "timeframe": "Rest of Friday, Nov. 13, then Nvidia earnings next Tuesday",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "down", "rationale": "Down about 4% at 11:59 a.m. ET and about 14% below its Nov. 6 close at 11 a.m. (Investopedia; StockTitan)" },
+      { "symbol": "SOXX", "direction": "down", "rationale": "Chip ETF down nearly 6% midday, led by AMD and Broadcom (Investopedia)" },
+      { "symbol": "AAPL", "direction": "up", "rationale": "Rose about 1% to a fresh all-time high while mega-cap tech was mixed (Investopedia)" },
+      { "symbol": "CBRS", "direction": "watch", "rationale": "Premarket surge on a surprise Q3 profit and raised outlook (CNBC); its midday level is not confirmed" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-17", "event": "Nvidia fiscal third-quarter earnings, reported as next Tuesday by Yahoo Finance; time not confirmed" },
+      { "date": "2026-11-30", "event": "MSCI removal of Strategy (MSTR) takes effect after the close" }
+    ]
+  },
+  "sources": [
+    { "title": "Investopedia: stock market today, Nov. 13, 2026 (live coverage)", "publisher": "Investopedia", "url": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143", "accessedAt": "2026-11-13" },
+    { "title": "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html", "accessedAt": "2026-11-13" },
+    { "title": "Stocks Hold Gains After Wholesale Prices Rise Less Than Expected", "publisher": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026", "accessedAt": "2026-11-13" },
+    { "title": "Stocks making the biggest moves premarket: Microsoft, Cerebras & more", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html", "accessedAt": "2026-11-13" },
+    { "title": "How major US stock indexes fared Thursday 11/12/2026", "publisher": "Associated Press", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc", "accessedAt": "2026-11-13" }
+  ]
+}

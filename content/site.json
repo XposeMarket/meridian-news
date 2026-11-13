@@ -1,101 +1,105 @@
 {
-  "updatedAt": "2026-11-12T21:58:00Z",
-  "edition": "afternoon",
-  "leadSlug": "close-recap-nov-12-nvidia-drags-nasdaq-as-yields-top-5",
+  "updatedAt": "2026-11-13T17:15:00Z",
+  "edition": "midday",
+  "leadSlug": "midday-recap-nov-13-tech-leads-stocks-lower-as-nvidia-extends-slide",
   "marketBrief": {
-    "headline": "Close, Nov. 12: Stocks finish lower as Nvidia falls 4% and the 10-year yield tops 5%",
-    "summary": "The S&P 500 closed down 0.35% at 7,592.40, the Dow fell 0.36% to 52,297.09 and the Nasdaq Composite lost 0.39% to 25,366.09, per AP, after an early loss of nearly 1% was largely erased. Nvidia closed down 4.34% after Jensen Huang resigned (Yahoo Finance quote data). The 10-year Treasury yield rose above 5%, about 5.125% in CNBC's report, as traders priced a December rate hike (CNBC).",
+    "headline": "Midday, Nov. 13: Tech leads a lower market as October PPI comes in below forecast but yields stay above 5%",
+    "summary": "At 11:59 a.m. ET the Nasdaq was down about 1.6%, the S&P 500 about 1.1% and the Dow about 0.4% (Investopedia), with Nvidia and chipmakers leading the decline. October producer prices rose 0.3%, below the 0.4% forecast, but the 6.5% annual rate kept a December hike priced in.",
     "bullets": [
-      "Indexes: S&P 500 7,592.40 (-0.35%), Dow 52,297.09 (-0.36%), Nasdaq Composite 25,366.09 (-0.39%), Russell 2000 2,799.06 (-1.7%) (AP).",
-      "Nvidia closed down 4.34% at $166.19 after Huang resigned and CFO Colette Kress became interim CEO (Yahoo Finance; CNBC).",
-      "Treasuries: 10-year up more than 13 bp to 5.125%, 2-year 4.879%, 30-year 5.449% (CNBC). Yahoo Finance quote data showed the 10-year at 5.10%.",
-      "Oil: WTI closed up more than 2% at $88.74 and Brent rose more than 3% to $95.82 after Trump said the US does not need a deal with Iran (CNBC).",
-      "Week: S&P 500 up 2.9%, Dow up 2.0%, Nasdaq up 3.2% (AP).",
-      "Cisco and Applied Materials reported after the close with revenue beats; see the earnings story. Friday brings October PPI at 8:30 a.m. ET (BLS schedule)."
+      "Indexes at 11:59 a.m. ET (Investopedia, intraday): Nasdaq -1.6%, S&P 500 -1.1%, Dow -0.4%. Thursday closes: S&P 500 7,592.40, Nasdaq Composite 25,366.09 (AP).",
+      "Chips: AMD down about 11%; Broadcom, Intel, Marvell and Micron each down more than 5%; SOXX down nearly 6% (Investopedia).",
+      "Nvidia was down about 4% at midday after Jensen Huang stepped down (Investopedia). MarketWatch showed $159.49 at 10:26 a.m. ET.",
+      "October PPI: final demand +0.3% m/m against a 0.4% consensus, +6.5% y/y, the largest annual rise since November 2022 (BLS; CNBC).",
+      "Rates: 10-year about 5.14% at 11:59 a.m. ET (Investopedia), above 5.15% after the PPI report (CNBC). CME FedWatch shows 100% odds of a Dec. 9 hike (CNBC)."
     ],
-    "asOf": "2026-11-12T21:00:00Z"
+    "asOf": "2026-11-13T16:59:00Z"
   },
   "marketSnapshot": [
     {
       "label": "S&P 500",
-      "value": "7,592.40",
-      "change": "-0.35%",
+      "value": "7,592.40 (Thu close)",
+      "change": "-1.1% intraday",
       "direction": "down",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc",
-      "asOf": "2026-11-12 4:00 p.m. ET close (AP updated 4:17 p.m. EST)"
-    },
-    {
-      "label": "Dow Jones Industrial Average",
-      "value": "52,297.09",
-      "change": "-0.36%",
-      "direction": "down",
-      "source": "AP News; Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html",
-      "asOf": "2026-11-12 4:00 p.m. ET close (Yahoo: 4:14 p.m. EST)"
+      "source": "Investopedia (intraday, 11:59 a.m. ET); AP (Thursday close)",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
+      "asOf": "2026-11-13 11:59 a.m. ET (change); 2026-11-12 4:00 p.m. ET (close)"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "25,366.09",
-      "change": "-0.39%",
+      "value": "25,366.09 (Thu close)",
+      "change": "-1.6% intraday",
       "direction": "down",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc",
-      "asOf": "2026-11-12 4:00 p.m. ET close"
+      "source": "Investopedia (intraday, 11:59 a.m. ET); AP (Thursday close)",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
+      "asOf": "2026-11-13 11:59 a.m. ET (change); 2026-11-12 4:00 p.m. ET (close)"
     },
     {
-      "label": "Russell 2000",
-      "value": "2,799.06",
-      "change": "-1.7%",
+      "label": "Dow Jones Industrial Average",
+      "value": "52,297.09 (Thu close)",
+      "change": "-0.4% intraday",
       "direction": "down",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc",
-      "asOf": "2026-11-12 4:00 p.m. ET close"
+      "source": "Investopedia (intraday, 11:59 a.m. ET); AP (Thursday close)",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
+      "asOf": "2026-11-13 11:59 a.m. ET (change); 2026-11-12 4:00 p.m. ET (close)"
     },
     {
       "label": "Nvidia (NVDA)",
-      "value": "$166.19",
-      "change": "-4.34%",
+      "value": "$159.49",
+      "change": "-4.03% vs $166.19 Thursday close",
       "direction": "down",
-      "source": "Yahoo Finance quote data",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html",
-      "asOf": "2026-11-12 4:00:01 p.m. EST close"
+      "source": "MarketWatch quote",
+      "sourceUrl": "https://www.marketwatch.com/investing/stock/nvda",
+      "asOf": "2026-11-13 10:26 a.m. ET"
     },
     {
       "label": "10-year Treasury yield",
-      "value": "5.125%",
-      "change": "up more than 13 bp",
+      "value": "5.14%",
+      "change": "higher after PPI (CNBC: above 5.15%)",
       "direction": "up",
-      "source": "CNBC (Yahoo quote: 5.10%)",
-      "sourceUrl": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-      "asOf": "2026-11-12 afternoon (CNBC report; 4 p.m. settlement not confirmed)"
-    },
-    {
-      "label": "WTI crude",
-      "value": "$88.74 a barrel",
-      "change": "up more than 2%",
-      "direction": "up",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-      "asOf": "2026-11-12 close (per CNBC)"
+      "source": "Investopedia; CNBC",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
+      "asOf": "2026-11-13 11:59 a.m. ET"
     },
     {
       "label": "Bitcoin (BTC)",
-      "value": "About $71,415",
-      "change": "-4.32% (24 hours)",
+      "value": "About $68,600",
+      "change": "down more than 4% in 24 hours",
       "direction": "down",
-      "source": "MarketAlleys (secondary aggregator)",
-      "sourceUrl": "https://www.marketalleys.com/post/marketalleys-closing-tape-2026-11-12",
-      "asOf": "2026-11-12 20:59 UTC (3:59 p.m. ET)"
+      "source": "Investopedia (citing CoinDesk)",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
+      "asOf": "2026-11-13 11:59 a.m. ET"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$88.65 a barrel",
+      "change": "little changed",
+      "direction": "mixed",
+      "source": "Investopedia",
+      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
+      "asOf": "2026-11-13 11:59 a.m. ET"
     }
   ],
   "calendar": [
     {
       "date": "2026-11-13",
       "time": "8:30 AM ET",
-      "event": "October producer price index",
+      "event": "October PPI released: +0.3% m/m, +6.5% y/y",
       "importance": "high",
-      "why": "BLS schedule lists Nov. 13 at 8:30 a.m. CNBC expects a 0.4% monthly rise after September's 1.3% surge."
+      "why": "Came in below the 0.4% consensus (CNBC), but the 6.5% annual rate was the highest since November 2022 (BLS)."
+    },
+    {
+      "date": "2026-11-17",
+      "time": "8:30 AM ET",
+      "event": "October import and export price indexes (BLS)",
+      "importance": "medium",
+      "why": "Next BLS price release after PPI, per the BLS release schedule."
+    },
+    {
+      "date": "2026-11-17",
+      "time": "Time not confirmed",
+      "event": "Nvidia fiscal third-quarter earnings",
+      "importance": "high",
+      "why": "Yahoo Finance says the report comes next Tuesday, while the stock is still reacting to the CEO exit."
     },
     {
       "date": "2026-11-18",
@@ -123,14 +127,21 @@
       "time": "Dec. 8-9",
       "event": "FOMC meeting (decision Dec. 9)",
       "importance": "high",
-      "why": "FedRateCalc and Tickward list Dec. 8-9, citing the Fed calendar. CME FedWatch priced a quarter-point hike at 100% on Thursday (CNBC)."
+      "why": "FedRateCalc and Tickward list Dec. 8-9. CNBC reports CME FedWatch odds of a hike at 100%, with about 86% for a quarter-point."
+    },
+    {
+      "date": "2026-12-15",
+      "time": "8:30 AM ET",
+      "event": "November PPI (BLS)",
+      "importance": "medium",
+      "why": "BLS schedule lists the November PPI for Dec. 15 at 8:30 a.m. ET."
     }
   ],
   "trending": [
     "nvidia-jensen-huang-resigns-colette-kress-interim-ceo",
     "who-could-replace-jensen-huang-nvidia-ceo-search",
     "cerebras-q3-revenue-microsoft-deal-inference-capacity",
-    "cisco-applied-materials-beat-after-bell-as-ai-demand-lifts-outlooks",
+    "october-ppi-rises-0-3-percent-keeps-december-hike-priced",
     "anthropic-sets-70-78-ipo-range-trading-expected-nov-19",
     "witkoff-kushner-meet-putin-in-moscow-as-ukraine-talks-restart"
   ]

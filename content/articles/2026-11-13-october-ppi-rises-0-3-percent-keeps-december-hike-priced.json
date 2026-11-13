@@ -1,0 +1,94 @@
+{
+  "slug": "october-ppi-rises-0-3-percent-keeps-december-hike-priced",
+  "title": "October PPI Rises 0.3%, Below Forecast, but the 6.5% Annual Rate Keeps a December Hike Priced",
+  "dek": "Wholesale prices rose 0.3% in October, below the 0.4% forecast, but the 6.5% annual rate was the biggest since November 2022 and the 10-year yield stayed above 5.1%.",
+  "section": "markets",
+  "tags": [
+    "PPI",
+    "inflation",
+    "Federal Reserve",
+    "December hike",
+    "Treasury yields"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-13T17:15:00Z",
+  "updatedAt": "2026-11-13T17:15:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
+    "alt": "Marriner S. Eccles Federal Reserve Board Building in Washington, D.C.",
+    "credit": "AgnosticPreachersKid via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg"
+  },
+  "keyPoints": [
+    "Final demand prices rose 0.3% in October, below the 0.4% Dow Jones consensus (BLS; CNBC).",
+    "The 12-month rate was 6.5%, the largest since November 2022; final demand goods rose 10.2% over the year (BLS).",
+    "Excluding food, energy and trade services, prices rose 0.5% in October and 4.9% from a year earlier (BLS).",
+    "CME FedWatch odds of a hike at the Dec. 9 meeting were 100%, with about 86% for a quarter-point move (CNBC).",
+    "CNBC reported the 10-year above 5.15% after the release; Investopedia had it at 5.14% at 11:59 a.m. ET."
+  ],
+  "body": "The Bureau of Labor Statistics said at 8:30 a.m. ET Friday that its producer price index for final demand rose 0.3% in October, seasonally adjusted. BLS puts September at a 1.4% advance in the same release (BLS). Economists polled by Dow Jones had expected a 0.4% rise, CNBC reported.\n\n## The annual rate and the components\n\nOn an unadjusted basis, final demand prices rose 6.5% over the 12 months ended in October, the largest annual increase since November 2022 (BLS). Goods prices rose 0.5% for the month and 10.2% over the year, the biggest annual goods gain since October 2022. Services rose 0.2%. Transportation and warehousing services rose 2.0%, led by a 3.9% gain in truck freight, while trade margins fell 0.2% (BLS).\n\nFood prices jumped 1.3% in October and energy edged down 0.1%. Diesel fuel fell 7.9% on the month (BLS).\n\n## Core readings\n\nBLS's core measure, which excludes food, energy and trade services, rose 0.5% in October, the same pace as September, and 4.9% from a year earlier. Excluding food and energy, core PPI rose 0.3% in October, in line with forecasts, and about 5% from a year earlier (CNN; CNBC). The pressure has spread beyond fuel, even though the monthly pace has not picked up.\n\n## What it means for December\n\nThe report did not change the direction of the Federal Reserve's policy. CNBC, citing CME FedWatch, reported 100% odds of a hike at the Dec. 8-9 meeting, with a quarter-point move at about 86% and a half-point move at about 14%. Boston Fed President Susan Collins told Bloomberg TV that some additional firming of policy would soon be appropriate (Yahoo Finance). Chicago Fed President Austan Goolsbee told CNBC that inflation is rising. Capital Economics' Thomas Ryan estimated that core PCE would rise 0.29% in October, lifting its annual rate to 3.2% from 3.1%, and said consecutive hikes in December and January look most likely (Yahoo Finance).\n\n## Yields\n\nThe bond market moved the other way. CNBC reported that the 10-year Treasury yield rose 5 basis points to more than 5.15% after the release, with the 2-year at 4.872% and the 30-year at 5.481% (CNBC). Yahoo Finance put the 10-year at 5.16%, its highest level since October. Investopedia had it at 5.14% at 11:59 a.m. ET. Yields had already jumped Thursday when the bond market reopened after the Veterans Day holiday.\n\n## What to watch\n\nThe next BLS price release is the October import and export price indexes, scheduled for Tuesday, Nov. 17 at 8:30 a.m. ET. The Fed's next decision is Dec. 9, and the November PPI is due Dec. 15 (BLS release schedule). Nvidia's fiscal third-quarter report also arrives next week, according to Yahoo Finance.\n\nThis is market analysis. The figures above come from the cited sources and are not a forecast of future policy or prices.",
+  "marketImpact": {
+    "summary": "A monthly print below forecast eased the case for a larger hike, but a 6.5% annual rate and 4.9% core-ex-trade inflation kept a quarter-point December move as the base case. Front-end yields and rate-sensitive assets carry most of the exposure to that pricing.",
+    "timeframe": "Friday, Nov. 13 session, then Nov. 17 import prices and the Dec. 9 FOMC decision",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "TLT",
+        "direction": "down",
+        "rationale": "The 10-year yield rose above 5.15% after the report, which lowers long Treasury prices (CNBC)"
+      },
+      {
+        "symbol": "QQQ",
+        "direction": "watch",
+        "rationale": "Long-duration tech is sensitive to rate-hike pricing; the Nasdaq was down about 1.6% at 11:59 a.m. ET (Investopedia)"
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2026-11-17",
+        "event": "October import and export price indexes, 8:30 a.m. ET (BLS release schedule)"
+      },
+      {
+        "date": "2026-12-09",
+        "event": "FOMC decision after the Dec. 8-9 meeting; a quarter-point hike is the base case (CNBC)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Producer Price Index News Release summary - 2026 M10 Results",
+      "publisher": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "accessedAt": "2026-11-13"
+    },
+    {
+      "title": "PPI inflation report October 2026",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "accessedAt": "2026-11-13"
+    },
+    {
+      "title": "CNN coverage of the October PPI release, Nov. 13, 2026",
+      "publisher": "CNN",
+      "url": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
+      "accessedAt": "2026-11-13"
+    },
+    {
+      "title": "PPI report: Inflation shows signs of broadening in red-hot wholesale prices, keeping pressure on Fed to hike rates",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/ppi-report-inflation-shows-signs-of-broadening-in-red-hot-wholesale-prices-keeping-pressure-on-fed-to-hike-rates-162115609.html",
+      "accessedAt": "2026-11-13"
+    },
+    {
+      "title": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "accessedAt": "2026-11-13"
+    }
+  ]
+}
