@@ -48,3 +48,23 @@ No desks dispatched. The Anthropic weekly budget was at 1% at midday, resetting 
 
 ## 2026-11-12 afternoon (Wire correction): Colom 55-seat attribution
 - Updated: democrat-scott-colom-wins-mississippi-senate-seat-ap-calls. 55-seat count re-attributed from "AP" to CNBC (citing the AP call), NYT and MS NOW; Democracy Now headline roundup removed as a source. From Wire's delayed re-dispatch run, which finished after aeb66c3. Manager checked CNBC/NYT/MS NOW text (AP page 403).
+
+## 2026-11-13 midday (Ledger part): 27f537c
+- Pre-market edition did not run (anthropic 503 credential validation failed on all desks).
+- New: midday-recap-nov-13-tech-leads-stocks-lower-as-nvidia-extends-slide (lead), october-ppi-rises-0-3-percent-keeps-december-hike-priced.
+- Updated: treasury-yields-top-5-as-treasuries-reopen-and-december-hike-stays-priced (post-PPI), bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy (now < $70k; slug kept). site.json: midday brief/snapshot/calendar (as-of 11:59 a.m. ET); manager set leadSlug and swapped the Cisco/AMAT slug in trending for PPI.
+- validate 220, check-images --since=2026-11-13 (3 URLs), build PASS; 5 exact paths staged; push verified (545d441..27f537c); both new live URLs 200. Manager spot-checked BLS PPI release and Investopedia midday figures.
+- Open: full --check-images reports 404 images on older articles grok-bot-costs-unsustainable-usage-limits and uk-ai-sovereignty-control-and-sovereignty. Circuit and Wire midday still running.
+
+## 2026-11-13 midday (Circuit part): 051905b
+- New: nvidia-financing-web-neoclouds-lenders-after-huang-exit, microsoft-365-outage-outlook-teams-network-change.
+- Updated: nvidia-jensen-huang-resigns-colette-kress-interim-ceo (new "Friday trading and lender focus" section; updatedAt 17:44Z). Cerebras and Anthropic left unchanged: day-2 Cerebras move conflicts across sources (CNBC ~7% vs Proactive +16% premarket), and there was no new Anthropic IPO news.
+- Manager fix: financing dek said yields and CDS "widened since Huang's resignation" for AI borrowers broadly. CNBC shows CoreWeave yields and CDS falling week-to-date, so the dek was reworded to cover Nvidia's bond yield and tech credit spreads only. site.json: trending swapped Huang-successor/Cerebras for the two new slugs; updatedAt 17:58Z. Lead unchanged (midday recap).
+- validate 222, check-images --since=2026-11-13 (6 URLs), build PASS; 4 exact paths staged; push verified (27f537c..051905b); 3 live URLs 200, Friday section live. Manager checked CNBC financing piece, CNBC movers, Guardian, DW, Windows Central.
+- Open: Wire midday still running. Old 404 images (grok-bot, uk-ai-sovereignty) are still unowned.
+
+## 2026-11-13 midday (Wire part)
+- New: iran-claims-bahrain-radar-strike-centcom-says-two-drones-shot-down, iaea-cannot-verify-isfahan-enrichment-plant-or-rule-out-diversion (press accounts of the confidential report; IAEA text not accessed).
+- Updated: israeli-security-cabinet-reportedly-prepares-for-possible-iran-attack (Eisenkot-Netanyahu briefing, Bahrain claim), witkoff-kushner-meet-putin-in-moscow-as-ukraine-talks-restart (Kostiantynivka proposal, Peskov Friday, Witkoff on Europeans; correction entry).
+- Manager fix: the Witkoff dek, key point, body and correction said "Putin agreed" that Europeans would join. The BBC quotes only Witkoff saying Europeans would join; it does not say Putin agreed. Wording now attributes the claim to Witkoff alone. site.json: trending swapped the Nov 10 Anthropic IPO slug for the Bahrain story. Lead unchanged (midday recap).
+- Manager checked BBC, Anadolu, Guardian, Al Jazeera (Reuters, AFP/AP/Reuters), The National, Moscow Times, Kyiv Independent.
