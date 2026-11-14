@@ -1,7 +1,7 @@
 {
   "slug": "microsoft-365-outage-outlook-teams-network-change",
   "title": "Microsoft Blames Network Upgrade for Outlook and Teams Outage; Services Restored Gradually",
-  "dek": "Microsoft says a network capacity upgrade caused the Microsoft 365 outage that hit Outlook, Teams and Copilot, and that it is restoring service gradually. Shares opened down 1.1%.",
+  "dek": "Microsoft apologized for the Microsoft 365 outage that hit Outlook, Teams and Copilot, says it was a network-upgrade issue rather than a cyber or AI incident, and said early Saturday that services were fully restored.",
   "section": "ai-tech",
   "tags": [
     "Microsoft",
@@ -13,10 +13,10 @@
   ],
   "author": "Meridian Newsroom",
   "publishedAt": "2026-11-13T17:35:00Z",
-  "updatedAt": "2026-11-13T17:35:00Z",
+  "updatedAt": "2026-11-14T13:30:00Z",
   "edition": "midday",
   "featured": false,
-  "breaking": true,
+  "breaking": false,
   "readMinutes": 4,
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Microsoft_sign_closeup.jpg",
@@ -27,27 +27,31 @@
   },
   "keyPoints": [
     "Microsoft said the incident was 'a technical issue not related to cyber or AI / agents,' introduced during an earlier network capacity upgrade.",
-    "Downdetector logged nearly 130,000 US reports of Outlook problems shortly after 1 p.m. EST, Deutsche Welle reported.",
-    "Microsoft said it restored services gradually and will publish a full post-incident report; it has not given a date.",
-    "OpenAI and Anthropic said their Microsoft 365 connectors were affected, the Guardian reported.",
-    "Microsoft shares opened down 1.1% at $516.86, the Guardian reported."
+    "Early Saturday Microsoft said the underlying problem had been addressed and that Outlook, Teams and Copilot should no longer be affected, the BBC reported.",
+    "The disruption ran nearly 24 hours and reached more than 70 countries, the BBC reported; Deutsche Welle counted 74 countries and territories on Downdetector.",
+    "Shares opened 1.1% lower on Friday but inched higher later in the session, according to Yahoo Finance's market recap.",
+    "Microsoft has promised a full post-incident report; no publication date has been given."
   ],
-  "body": "## What went down\n\nThe Guardian reported that Microsoft 365 services were disrupted for many users, including Outlook, Teams, Exchange Online, SharePoint, OneDrive and Microsoft 365 Copilot. Downdetector logged nearly 130,000 US reports of Outlook problems shortly after 1 p.m. EST, and reports from 74 countries and territories within about an hour, Deutsche Welle reported. Deutsche Welle reported that some customers could send and receive email while others could not open the program at all.\n\nThe disruption spread to workplaces that depend on Microsoft's tools. Deutsche Welle reported that Britain's National Health Service faced a \"serious impact,\" according to a union leader, and that Deutsche Bahn had trouble sending out timetables for diverted trains. The Guardian reported that the US House's chief administrative officer sent a campus-wide alert to staff about the outage, citing Politico, and that several US municipalities, including Tampa, posted notices that they were affected.\n\n## Microsoft's account\n\nMicrosoft apologized in a post on X, which Windows Central quoted. \"We are deeply sorry for the disruption this incident has caused our customers and partners,\" the company wrote. It said: \"This was a technical issue not related to cyber or AI / agents. The incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change.\"\n\nMicrosoft said it had \"addressed the underlying issue\" and was continuing to restore service to remaining customers and regions. It said it restored services gradually, \"validating stability at each stage,\" and that it will provide a full post-incident report once its review is complete. Windows Central reported that Microsoft expects to publish the review in the coming days and weeks.\n\nEarlier in the outage, Microsoft said it was \"not aware\" of malicious activity, and the Guardian reported Microsoft said there were no indications of a cyber-attack. Deutsche Welle reported that Microsoft said some restarted servers stopped responding again once traffic returned, and that its latest changes in an update at 0254 GMT Friday had not worked as expected.\n\n## Who was affected in the AI sector\n\nThe outage also hit Microsoft 365 connectors used by OpenAI and Anthropic. The Guardian reported that OpenAI said it was investigating a problem with Microsoft connectors, and that Anthropic said it had identified an issue with an upstream provider affecting its Microsoft 365 connector.\n\nMicrosoft's executive vice president of Copilot, Charles Lamanna, said: \"We regret that today's outages caused disruptions for our customers, and we are working to address the issue.\" Deutsche Welle reported that this is the second disruption to Microsoft 365 services this year.\n\n## Shares\n\nWhen Wall Street opened Friday, Microsoft shares dipped slightly, down 1.1% at $516.86, the Guardian reported. The move was modest in early trading. The open question for investors is whether the post-incident report gives a cause and a restoration timeline. Microsoft has promised that report but has not dated it.",
+  "body": "## What went down\n\nThe Guardian reported that Microsoft 365 services were disrupted for many users, including Outlook, Teams, Exchange Online, SharePoint, OneDrive and Microsoft 365 Copilot. Downdetector logged nearly 130,000 US reports of Outlook problems shortly after 1 p.m. EST, and reports from 74 countries and territories within about an hour, Deutsche Welle reported. Deutsche Welle reported that some customers could send and receive email while others could not open the program at all.\n\nThe disruption spread to workplaces that depend on Microsoft's tools. Deutsche Welle reported that Britain's National Health Service faced a \"serious impact,\" according to a union leader, and that Deutsche Bahn had trouble sending out timetables for diverted trains. The Guardian reported that the US House's chief administrative officer sent a campus-wide alert to staff about the outage, citing Politico, and that several US municipalities, including Tampa, posted notices that they were affected.\n\n## Microsoft's account\n\nMicrosoft apologized in a post on X, which Windows Central quoted. \"We are deeply sorry for the disruption this incident has caused our customers and partners,\" the company wrote. It said: \"This was a technical issue not related to cyber or AI / agents. The incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change.\"\n\nMicrosoft said it had \"addressed the underlying issue\" and was continuing to restore service to remaining customers and regions. It said it restored services gradually, \"validating stability at each stage,\" and that it will provide a full post-incident report once its review is complete. Windows Central reported that Microsoft expects to publish the review in the coming days and weeks.\n\nEarlier in the outage, Microsoft said it was \"not aware\" of malicious activity, and the Guardian reported Microsoft said there were no indications of a cyber-attack. Deutsche Welle reported that Microsoft said some restarted servers stopped responding again once traffic returned, and that its latest changes in an update at 0254 GMT Friday had not worked as expected.\n\n## Who was affected in the AI sector\n\nThe outage also hit Microsoft 365 connectors used by OpenAI and Anthropic. The Guardian reported that OpenAI said it was investigating a problem with Microsoft connectors, and that Anthropic said it had identified an issue with an upstream provider affecting its Microsoft 365 connector.\n\nMicrosoft's executive vice president of Copilot, Charles Lamanna, said: \"We regret that today's outages caused disruptions for our customers, and we are working to address the issue.\" Deutsche Welle reported that this is the second disruption to Microsoft 365 services this year.\n\n## Shares\n\nWhen Wall Street opened Friday, Microsoft shares dipped slightly, down 1.1% at $516.86, the Guardian reported. The move was modest in early trading. The open question for investors is whether the post-incident report gives a cause and a restoration timeline. Microsoft has promised that report but has not dated it.\n\n## Full restoration\n\nMicrosoft said early on Saturday that work to address the underlying problem had been completed and that customers using Outlook, Teams and Copilot should no longer be affected, the BBC reported. The BBC also reported that users began reporting trouble on Thursday and that recovery began on Friday afternoon in the UK, nearly 24 hours after the problems first emerged. Deutsche Welle had reported earlier that some restarted servers stopped responding again once traffic returned, and that Microsoft's later changes had not worked as expected.\n\nThe BBC reported that the outage reached government offices, courts, hospitals and trains in several countries, and that the disruption fell hardest on organizations that depend on Microsoft email. Microsoft has said it will publish a full post-incident report once its review is complete. The coverage we reviewed does not give a date for that report.",
   "marketImpact": {
-    "summary": "The outage is a service-reliability event, and Microsoft has not disclosed a financial effect. Shares opened about 1.1% lower. The open questions are root cause and the timing of Microsoft's promised post-incident report.",
+    "summary": "The outage is a reliability event. Microsoft has not quantified a financial effect. Shares opened 1.1% lower on Friday but inched higher by the close, so the market move looks modest so far. The open questions are the root cause in the post-incident report and whether customers or investors press for further detail.",
     "timeframe": "Next 1-2 sessions; post-incident report date not announced",
     "confidence": "low",
     "tickers": [
       {
         "symbol": "MSFT",
-        "direction": "down",
-        "rationale": "Shares opened 1.1% lower per the Guardian; no financial impact has been quantified by the company."
+        "direction": "watch",
+        "rationale": "Opened 1.1% lower on Friday per the Guardian and inched higher later per Yahoo Finance. Microsoft has not quantified any financial impact."
       }
     ],
     "catalysts": [
       {
-        "date": "2026-11-13",
-        "event": "Microsoft says services are still being restored to remaining customers and regions; full post-incident report promised"
+        "date": "2026-11-14",
+        "event": "Microsoft says the underlying problem is addressed and services are fully restored (early Saturday, per the BBC)"
+      },
+      {
+        "date": "2026-11-14",
+        "event": "Microsoft says services are fully restored and that a full post-incident report is still pending; no publication date given"
       }
     ]
   },
@@ -75,6 +79,30 @@
       "publisher": "Deutsche Welle",
       "url": "https://dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611",
       "accessedAt": "2026-11-13"
+    },
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "publisher": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6rrg51rkz09o",
+      "accessedAt": "2026-11-14"
+    },
+    {
+      "title": "Microsoft rules out malicious activity as cause for global outage",
+      "publisher": "Deutsche Welle",
+      "url": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611",
+      "accessedAt": "2026-11-14"
+    },
+    {
+      "title": "Markets News, Nov. 13, 2026: S&P 500, Nasdaq Fall as Nvidia, Other Tech Stocks Sink; Major Indexes Post Weekly Gains",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-tick-133734502.html",
+      "accessedAt": "2026-11-14"
+    }
+  ],
+  "corrections": [
+    {
+      "date": "2026-11-14",
+      "note": "Updated: the first version said service was still being restored. Microsoft said early Saturday that the underlying problem had been addressed and services were fully restored after nearly 24 hours. Coverage says the trouble began Thursday. The first version also presented only the opening share move; Yahoo Finance reported Microsoft shares later inched higher."
     }
   ]
 }
