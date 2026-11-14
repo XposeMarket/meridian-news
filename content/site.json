@@ -1,148 +1,151 @@
 {
-  "updatedAt": "2026-11-13T18:15:00Z",
-  "edition": "midday",
-  "leadSlug": "midday-recap-nov-13-tech-leads-stocks-lower-as-nvidia-extends-slide",
+  "updatedAt": "2026-11-14T13:35:00Z",
+  "edition": "pre-market",
+  "leadSlug": "week-ahead-nov-16-20-nvidia-retailers-fed-minutes-anthropic-ipo",
   "marketBrief": {
-    "headline": "Midday, Nov. 13: Tech leads a lower market as October PPI comes in below forecast but yields stay above 5%",
-    "summary": "At 11:59 a.m. ET the Nasdaq was down about 1.6%, the S&P 500 about 1.1% and the Dow about 0.4% (Investopedia), with Nvidia and chipmakers leading the decline. October producer prices rose 0.3%, below the 0.4% forecast, but the 6.5% annual rate kept a December hike priced in.",
+    "headline": "Weekend, Nov. 14: Stocks finish a winning week despite Nvidia's slide, while Bitcoin trades near $67,000 ahead of Nvidia and the Fed minutes",
+    "summary": "US markets are closed for the weekend. The S&P 500, Nasdaq and Dow all finished the week higher, even though chip stocks fell on Friday. Bitcoin is the weak spot, trading near $67,200, below its 200-week moving average, with spot ETF outflows continuing.",
     "bullets": [
-      "Indexes at 11:59 a.m. ET (Investopedia, intraday): Nasdaq -1.6%, S&P 500 -1.1%, Dow -0.4%. Thursday closes: S&P 500 7,592.40, Nasdaq Composite 25,366.09 (AP).",
-      "Chips: AMD down about 11%; Broadcom, Intel, Marvell and Micron each down more than 5%; SOXX down nearly 6% (Investopedia).",
-      "Nvidia was down about 4% at midday after Jensen Huang stepped down (Investopedia). MarketWatch showed $159.49 at 10:26 a.m. ET.",
-      "October PPI: final demand +0.3% m/m against a 0.4% consensus, +6.5% y/y, the largest annual rise since November 2022 (BLS; CNBC).",
-      "Rates: 10-year about 5.14% at 11:59 a.m. ET (Investopedia), above 5.15% after the PPI report (CNBC). CME FedWatch shows 100% odds of a Dec. 9 hike (CNBC)."
+      "Friday close (AP): S&P 500 7,561.67, down 0.4% on the day but up 2.5% for the week, its first winning week since early October.",
+      "Nasdaq Composite fell 0.9% to 25,136.27 and the Dow rose 0.1% to 52,347.55. For the week, the Nasdaq gained 2.3% and the Dow 2.1% (AP).",
+      "Nvidia shares fell again Friday after Jensen Huang's resignation. Colette Kress is interim CEO; Nvidia reports fiscal Q3 on Tuesday, Nov. 17 (NVIDIA).",
+      "Bitcoin was $67,204.86 at 4:13 a.m. ET Saturday (CoinDesk), below its 200-week moving average and down more than 10% this week (CoinSpectator).",
+      "The December hike is still priced after October PPI rose 0.3%, below the 0.4% forecast, with a 6.5% annual rate (BLS; CNBC). FOMC minutes are due Wednesday, Nov. 18."
     ],
-    "asOf": "2026-11-13T16:59:00Z"
+    "asOf": "2026-11-14T13:15:00Z"
   },
   "marketSnapshot": [
     {
       "label": "S&P 500",
-      "value": "7,592.40 (Thu close)",
-      "change": "-1.1% intraday",
+      "value": "7,561.67 (Fri close)",
+      "change": "-0.4% Fri; +2.5% week",
       "direction": "down",
-      "source": "Investopedia (intraday, 11:59 a.m. ET); AP (Thursday close)",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
-      "asOf": "2026-11-13 11:59 a.m. ET (change); 2026-11-12 4:00 p.m. ET (close)"
+      "source": "Associated Press (via Yahoo Finance)",
+      "sourceUrl": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211854052.html",
+      "asOf": "2026-11-13 close"
     },
     {
       "label": "Nasdaq Composite",
-      "value": "25,366.09 (Thu close)",
-      "change": "-1.6% intraday",
+      "value": "25,136.27 (Fri close)",
+      "change": "-0.9% Fri; +2.3% week",
       "direction": "down",
-      "source": "Investopedia (intraday, 11:59 a.m. ET); AP (Thursday close)",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
-      "asOf": "2026-11-13 11:59 a.m. ET (change); 2026-11-12 4:00 p.m. ET (close)"
+      "source": "Associated Press (via Yahoo Finance)",
+      "sourceUrl": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211854052.html",
+      "asOf": "2026-11-13 close"
     },
     {
       "label": "Dow Jones Industrial Average",
-      "value": "52,297.09 (Thu close)",
-      "change": "-0.4% intraday",
-      "direction": "down",
-      "source": "Investopedia (intraday, 11:59 a.m. ET); AP (Thursday close)",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
-      "asOf": "2026-11-13 11:59 a.m. ET (change); 2026-11-12 4:00 p.m. ET (close)"
-    },
-    {
-      "label": "Nvidia (NVDA)",
-      "value": "$159.49",
-      "change": "-4.03% vs $166.19 Thursday close",
-      "direction": "down",
-      "source": "MarketWatch quote",
-      "sourceUrl": "https://www.marketwatch.com/investing/stock/nvda",
-      "asOf": "2026-11-13 10:26 a.m. ET"
-    },
-    {
-      "label": "10-year Treasury yield",
-      "value": "5.14%",
-      "change": "higher after PPI (CNBC: above 5.15%)",
+      "value": "52,347.55 (Fri close)",
+      "change": "+0.1% Fri; +2.1% week",
       "direction": "up",
-      "source": "Investopedia; CNBC",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
-      "asOf": "2026-11-13 11:59 a.m. ET"
+      "source": "Associated Press (via Yahoo Finance)",
+      "sourceUrl": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211854052.html",
+      "asOf": "2026-11-13 close"
+    },
+    {
+      "label": "Russell 2000",
+      "value": "2,790.49 (Fri close)",
+      "change": "-0.3% Fri; +1.3% week",
+      "direction": "down",
+      "source": "Associated Press (via Yahoo Finance)",
+      "sourceUrl": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211854052.html",
+      "asOf": "2026-11-13 close"
     },
     {
       "label": "Bitcoin (BTC)",
-      "value": "About $68,600",
-      "change": "down more than 4% in 24 hours",
+      "value": "$67,204.86 (Sat, 4:13 a.m. ET)",
+      "change": "down more than 10% this week",
       "direction": "down",
-      "source": "Investopedia (citing CoinDesk)",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
-      "asOf": "2026-11-13 11:59 a.m. ET"
-    },
-    {
-      "label": "WTI crude",
-      "value": "$88.65 a barrel",
-      "change": "little changed",
-      "direction": "mixed",
-      "source": "Investopedia",
-      "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
-      "asOf": "2026-11-13 11:59 a.m. ET"
+      "source": "CoinDesk price page; CoinSpectator",
+      "sourceUrl": "https://www.coindesk.com/price/bitcoin",
+      "asOf": "2026-11-14 4:13 a.m. ET"
     }
   ],
   "calendar": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-17",
       "time": "8:30 AM ET",
-      "event": "October PPI released: +0.3% m/m, +6.5% y/y",
+      "event": "October retail sales (Census Bureau)",
       "importance": "high",
-      "why": "Came in below the 0.4% consensus (CNBC), but the 6.5% annual rate was the highest since November 2022 (BLS)."
+      "why": "Consumer demand check after the hot October PPI. A firm print supports the December hike pricing (Census release schedule)."
     },
     {
       "date": "2026-11-17",
       "time": "8:30 AM ET",
       "event": "October import and export price indexes (BLS)",
       "importance": "medium",
-      "why": "Next BLS price release after PPI, per the BLS release schedule."
+      "why": "Next BLS price release after the 0.3% PPI rise. Confirmed on the BLS schedule for Nov. 17."
     },
     {
       "date": "2026-11-17",
-      "time": "Time not confirmed",
-      "event": "Nvidia fiscal third-quarter earnings",
+      "time": "9:00 AM ET",
+      "event": "Home Depot fiscal Q3 earnings call",
+      "importance": "medium",
+      "why": "Date confirmed by Home Depot (Nov. 3 release). A read on housing-linked spending."
+    },
+    {
+      "date": "2026-11-17",
+      "time": "2:00 PM PT (5:00 PM ET)",
+      "event": "Nvidia fiscal Q3 2027 results and conference call",
       "importance": "high",
-      "why": "Yahoo Finance says the report comes next Tuesday, while the stock is still reacting to the CEO exit."
+      "why": "First report since Jensen Huang resigned. Colette Kress is interim CEO (NVIDIA release)."
     },
     {
       "date": "2026-11-18",
-      "time": "Expected pricing day",
-      "event": "Anthropic IPO pricing (Nasdaq: ANT)",
+      "time": "8:00 to 9:00 AM ET",
+      "event": "Target Q3 earnings call",
+      "importance": "medium",
+      "why": "Confirmed on Target's events page. A read on discretionary spending into the holidays."
+    },
+    {
+      "date": "2026-11-18",
+      "time": "2:00 PM ET",
+      "event": "FOMC minutes, Oct. 27-28 meeting",
       "importance": "high",
-      "why": "Price range $70 to $78 a share (CNBC, Nov. 10). Pricing expected Nov. 18 (Yahoo Finance)."
+      "why": "Shows how officials discussed inflation and the path of rates. Not a new policy decision (Federal Reserve calendar)."
+    },
+    {
+      "date": "2026-11-18",
+      "time": "Reported pricing day",
+      "event": "Anthropic IPO pricing (Nasdaq: ANT), reported",
+      "importance": "high",
+      "why": "Reported by CNBC, citing people familiar with the matter. Range is $70 to $78 a share (CNBC, Nov. 10)."
     },
     {
       "date": "2026-11-19",
-      "time": "Expected first trade",
+      "time": "Reported first trade",
       "event": "Anthropic shares expected to begin trading",
       "importance": "high",
-      "why": "Expected to begin trading Nov. 19 (Yahoo Finance; CNBC). Timing can change."
+      "why": "Reported for Nov. 19 (CNBC). CoinDesk reported the subscription books drew about six times more orders than shares. Timing can change."
+    },
+    {
+      "date": "2026-11-19",
+      "time": "7:00 AM CT (8:00 AM ET)",
+      "event": "Walmart fiscal Q3 2027 earnings and call",
+      "importance": "high",
+      "why": "Date confirmed by Walmart's FY2027 Q3 earnings release page."
+    },
+    {
+      "date": "2026-11-19",
+      "time": "10:00 AM ET",
+      "event": "Census quarterly retail e-commerce report, Q3 2026",
+      "importance": "medium",
+      "why": "Online sales read from the Census release schedule."
     },
     {
       "date": "2026-11-30",
       "time": "After market close",
-      "event": "MSCI removal of Strategy (MSTR) from MSCI indexes takes effect",
+      "event": "MSCI removal of Strategy (MSTR) takes effect",
       "importance": "medium",
       "why": "MSCI said the change takes effect after the close on Nov. 30 (Yahoo Finance). Index funds may sell before then."
-    },
-    {
-      "date": "2026-12-08",
-      "time": "Dec. 8-9",
-      "event": "FOMC meeting (decision Dec. 9)",
-      "importance": "high",
-      "why": "FedRateCalc and Tickward list Dec. 8-9. CNBC reports CME FedWatch odds of a hike at 100%, with about 86% for a quarter-point."
-    },
-    {
-      "date": "2026-12-15",
-      "time": "8:30 AM ET",
-      "event": "November PPI (BLS)",
-      "importance": "medium",
-      "why": "BLS schedule lists the November PPI for Dec. 15 at 8:30 a.m. ET."
     }
   ],
   "trending": [
+    "week-ahead-nov-16-20-nvidia-retailers-fed-minutes-anthropic-ipo",
     "nvidia-jensen-huang-resigns-colette-kress-interim-ceo",
-    "nvidia-financing-web-neoclouds-lenders-after-huang-exit",
-    "microsoft-365-outage-outlook-teams-network-change",
+    "bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy",
     "october-ppi-rises-0-3-percent-keeps-december-hike-priced",
     "iran-claims-bahrain-radar-strike-centcom-says-two-drones-shot-down",
-    "witkoff-kushner-meet-putin-in-moscow-as-ukraine-talks-restart"
+    "nvidia-financing-web-neoclouds-lenders-after-huang-exit"
   ]
 }

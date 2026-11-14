@@ -1,0 +1,74 @@
+{
+  "slug": "week-ahead-nov-16-20-nvidia-retailers-fed-minutes-anthropic-ipo",
+  "title": "Week Ahead, Nov. 16-20: Nvidia Reports Tuesday as Retailers, Fed Minutes and the Anthropic IPO Land",
+  "dek": "Nvidia reports Tuesday, Nov. 17, with Colette Kress as interim CEO. Home Depot, Target and Walmart follow, the Fed publishes its October minutes Wednesday, and the Anthropic IPO is reported for Nov. 19.",
+  "section": "markets",
+  "tags": ["week ahead", "Nvidia", "Fed minutes", "retail earnings", "Anthropic IPO", "economic calendar"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-14T13:15:00Z",
+  "updatedAt": "2026-11-14T13:15:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg",
+    "alt": "Construction work at the Marriner S. Eccles Federal Reserve Building in Washington, D.C.",
+    "credit": "G. Edward Johnson via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg"
+  },
+  "keyPoints": [
+    "Nvidia reports fiscal third-quarter results Tuesday, Nov. 17. The conference call is at 2 p.m. PT (5 p.m. ET), per NVIDIA.",
+    "Home Depot reports Nov. 17 (call 9 a.m. ET), Target Nov. 18 (call 8-9 a.m. ET) and Walmart Nov. 19 (call 7 a.m. CT). All three dates are confirmed by the companies.",
+    "The FOMC minutes for the Oct. 27-28 meeting are due Wednesday, Nov. 18, at 2 p.m. ET, per the Federal Reserve calendar.",
+    "October retail sales and October import prices both come out Tuesday at 8:30 a.m. ET (Census Bureau; BLS).",
+    "The S&P 500 fell 0.4% Friday to 7,561.67 but gained 2.5% for the week, its first winning week since early October (AP)."
+  ],
+  "body": "Wall Street closed the week with stocks still higher, even though chip stocks fell hard. The S&P 500 slipped 0.4% on Friday to 7,561.67, the Nasdaq Composite fell 0.9% to 25,136.27 and the Dow rose 0.1% to 52,347.55. For the week, the S&P 500 gained 2.5%, the Nasdaq 2.3% and the Dow 2.1%, according to the Associated Press.\n\n## Friday's setup\n\nThe week's gains came despite a rough Thursday and Friday for Nvidia after Jensen Huang's resignation as chief executive. Colette Kress is serving as interim CEO. Friday's October producer price index rose 0.3%, below the 0.4% forecast, but its 6.5% annual rate was the highest in nearly four years, and CNBC reported that CME FedWatch showed 100% odds of a hike at the Dec. 9 meeting.\n\n## Tuesday: Nvidia, Home Depot and two data releases\n\nNvidia reports fiscal third-quarter results for the period that ended Oct. 25. The conference call is at 2 p.m. PT (5 p.m. ET). Investors will focus on the outlook as much as the quarter, and on whether the company gives any sign about its leadership transition.\n\nHome Depot holds its third-quarter call at 9 a.m. ET the same day. At 8:30 a.m. ET, the Census Bureau releases October retail sales and the Bureau of Labor Statistics releases October import and export prices. Strong retail sales would reinforce the market's rate-hike pricing, while soft numbers would ease it.\n\n## Wednesday: Target and the Fed minutes\n\nTarget's third-quarter call runs from 8 to 9 a.m. ET on Nov. 18. At 2 p.m. ET the same day the Fed publishes the minutes of the Oct. 27-28 meeting. Minutes are not a new policy decision, but they show how officials discussed inflation and the path of rates.\n\nThe Anthropic offering is the other large item this week. CNBC reported, citing people familiar with the matter, that pricing is expected Nov. 18 and first trading Nov. 19. CoinDesk reported that Anthropic's subscription books drew about six times more orders than shares, citing a Xapo Bank CEO. Neither the dates nor the book demand have been confirmed by the company, so they should be treated as reported.\n\n## Thursday: Walmart and the Census e-commerce report\n\nWalmart reports its fiscal third quarter on Thursday, Nov. 19. The call starts at 7 a.m. CT, or 8 a.m. ET. The Census Bureau also publishes its quarterly retail e-commerce report at 10 a.m. ET that day.\n\n## What the week tests\n\nThe main question is whether the AI trade holds up without its most visible leader, and whether the consumer data keep the December hike priced. Nvidia's guidance is the largest single risk. The retailers will show how households are handling higher prices into the holiday season. The minutes and retail data will set the tone for rate expectations before the December meeting.\n\n## What we could not confirm\n\nWe did not find a confirmed Federal Reserve speaker schedule for Monday through Friday. One secondary report of a Fed jobs forum on Nov. 16 was not confirmed by an official calendar and is not included. TJX and Lowe's earnings dates were only estimates in the sources reviewed, so they are excluded. We did not find confirmed release dates for housing starts or weekly jobless claims in the sources we could open.",
+  "marketImpact": {
+    "summary": "The week tests whether the AI trade holds after Nvidia's leadership change and whether consumer and price data keep the December hike priced. Nvidia's guidance and the Anthropic debut are the largest single-day risks. A soft October retail sales print would ease hike pricing; a firm one would reinforce it, and it would weigh on rate-sensitive names.",
+    "timeframe": "Tuesday Nov. 17 through Thursday Nov. 19",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "Results and guidance land Nov. 17 after the close, the first report since Jensen Huang's resignation."
+      },
+      {
+        "symbol": "WMT",
+        "direction": "watch",
+        "rationale": "Reports Nov. 19; a shift in its outlook would read across to the consumer sector."
+      },
+      {
+        "symbol": "HD",
+        "direction": "watch",
+        "rationale": "Reports Nov. 17 with the 8:30 a.m. retail sales print as a backdrop for housing-linked demand."
+      },
+      {
+        "symbol": "TGT",
+        "direction": "watch",
+        "rationale": "Reports Nov. 18 and will show how a weaker consumer is affecting discretionary spending into the holidays."
+      }
+    ],
+    "catalysts": [
+      { "date": "2026-11-17", "event": "Nvidia fiscal Q3 2027 results and conference call at 2 p.m. PT (5 p.m. ET)" },
+      { "date": "2026-11-17", "event": "October retail sales and import prices, 8:30 a.m. ET" },
+      { "date": "2026-11-18", "event": "FOMC minutes for the Oct. 27-28 meeting, 2:00 p.m. ET" },
+      { "date": "2026-11-19", "event": "Walmart fiscal Q3 2027 call, 7:00 a.m. CT" }
+    ]
+  },
+  "sources": [
+    { "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results", "publisher": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873", "accessedAt": "2026-11-14" },
+    { "title": "How major US stock indexes fared Friday 11/13/2026", "publisher": "Associated Press (via Yahoo Finance)", "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211854052.html", "accessedAt": "2026-11-14" },
+    { "title": "The Home Depot to Host Third Quarter Earnings Conference Call on November 17", "publisher": "The Home Depot (PRNewswire)", "url": "https://ir.homedepot.com/news-releases/2026/11-03-2026-130236805", "accessedAt": "2026-11-14" },
+    { "title": "Target Corporation Events & Presentations: Q3 2026 Earnings Conference Call, Nov. 18", "publisher": "Target Corporation", "url": "https://corporate.target.com/investors/events-presentations", "accessedAt": "2026-11-14" },
+    { "title": "FY2027 Q3 Earnings Release, Nov. 19, 2026, 7:00 a.m. CT", "publisher": "Walmart", "url": "https://corporate.walmart.com/news/events/fy2027-q3-earnings-release", "accessedAt": "2026-11-14" },
+    { "title": "Federal Reserve Board calendar: November 2026 (FOMC minutes, Oct. 27-28 meeting, Nov. 18)", "publisher": "Federal Reserve Board", "url": "https://www.federalreserve.gov/newsevents/2026-november.htm", "accessedAt": "2026-11-14" },
+    { "title": "Monthly Retail Trade: Release Schedule", "publisher": "US Census Bureau", "url": "https://www.census.gov/retail/release_schedule.html", "accessedAt": "2026-11-14" },
+    { "title": "Schedule of Releases for the U.S. Import and Export Price Indexes (October 2026, Nov. 17, 8:30 a.m. ET)", "publisher": "Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/ximpim.htm", "accessedAt": "2026-11-14" },
+    { "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html", "accessedAt": "2026-11-14" },
+    { "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters", "publisher": "CoinDesk", "url": "https://coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off", "accessedAt": "2026-11-14" }
+  ]
+}
