@@ -1,0 +1,56 @@
+{
+  "slug": "nvidia-q3-earnings-preview-first-report-since-huang-exit",
+  "title": "Nvidia Reports Tuesday With Guidance in Focus, the First Results Since Jensen Huang's Exit",
+  "dek": "Nvidia reports fiscal third-quarter results after the close on Tuesday, Nov. 17, with a company outlook of $108 billion in revenue, Colette Kress as interim CEO and investors weighing Data Center demand against a leadership change.",
+  "section": "markets",
+  "tags": ["Nvidia", "NVDA", "earnings", "AI chips", "Colette Kress", "AMD", "Broadcom", "TSMC", "Super Micro"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-14T21:35:00Z",
+  "updatedAt": "2026-11-14T21:35:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 5,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/NVIDIA_Headquarters.jpg",
+    "alt": "Nvidia headquarters in Santa Clara, California",
+    "credit": "Coolcaesar via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
+  },
+  "keyPoints": [
+    "Nvidia guided fiscal Q3 revenue to $108.0 billion, plus or minus 2%, with GAAP and non-GAAP gross margin of 74.0%, and assumed no Data Center compute revenue from China (NVIDIA, Aug. 26).",
+    "Analyst estimates cluster near $2.47 in EPS on about $108.8 billion to $108.9 billion in revenue (StoneX; Motley Fool).",
+    "Results are due about 1:20 p.m. PT (4:20 p.m. ET), with the call at 2 p.m. PT (5 p.m. ET). Kress's written CFO commentary posts right after the release (NVIDIA, Oct. 28).",
+    "Data Center is the swing factor: fiscal Q2 Data Center revenue was $89.0 billion, up 117% from a year earlier (NVIDIA)."
+  ],
+  "body": "Nvidia reports fiscal third-quarter results after the close on Tuesday, Nov. 17, the first quarterly report since Jensen Huang resigned as chief executive on Nov. 12. The company has said the release and call will go ahead as scheduled, and Colette Kress, its chief financial officer, is interim chief executive while the board searches for a permanent successor.\n\n## What the company guided\n\nNvidia's August outlook for the quarter, which ended Oct. 25, set revenue at $108.0 billion, plus or minus 2%. It also guided GAAP and non-GAAP gross margins to 74.0%, plus or minus 50 basis points, with GAAP operating expenses of about $9.2 billion and non-GAAP of about $9.0 billion. The outlook assumed no Data Center compute revenue from China (NVIDIA, Aug. 26).\n\nFor context, fiscal second-quarter revenue was $96.2 billion, up 106% from a year earlier, and Data Center revenue was $89.0 billion, up 117%. Non-GAAP diluted EPS was $2.22 and GAAP EPS was $2.46 (NVIDIA, Aug. 26).\n\n## What Wall Street expects\n\nStoneX's preview puts consensus at about $2.47 in EPS on $108.8 billion in revenue. StoneX said investors will care more about the guidance than about the quarter itself (StoneX, Nov. 13). A Motley Fool preview cited roughly $108.9 billion in revenue and $2.47 in EPS for the same quarter (Motley Fool, Nov. 10). Those are the consensus figures used here; the numbers in this story are not Meridian estimates.\n\n## What to watch\n\nThree things matter more than the headline beat.\n\nFirst, guidance for the fourth quarter. StoneX said the stock will react to the size and timing of future demand rather than to a quarter that was mostly set under Huang. Any fourth-quarter outlook that sits well above the consensus would tend to help the stock. One that merely matches it could leave shares flat.\n\nSecond, Data Center demand. Investors want evidence that hyperscalers and other large buyers are still spending on AI infrastructure. The company's Vera Rubin platform is in full production and running at partners including CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud and Nebius, according to the August release.\n\nThird, leadership commentary. This is the first call since the CEO change and Huang's departure, and the board named Harvey C. Jones as its first chair in the same announcement (NVIDIA, Nov. 12). Analysts will be listening for whether Kress keeps the strategy and roadmap intact, and whether the company updates the China assumption that the current outlook excludes.\n\n## The stock backdrop\n\nNvidia shares have fallen sharply this month. CNBC reported on Friday that the stock was on pace for its worst weekly performance since January 2025, and StockTitan said it closed about 13% below its Nov. 6 close. StoneX noted on Friday that the stock was down about 30% from the record high it set last month.\n\n## What the earnings could move\n\nNVDA is the direct read. A strong guide would help the wider AI-chip group, and a weak one would hit it hardest.\n\nAMD and Broadcom (AVGO) fell more than Nvidia on Friday as the chip rally reversed. A 247 Wall St report put AMD near $569 and Broadcom near $356 on Friday morning, and both are sensitive to the same AI-capex read. Taiwan Semiconductor (TSM) jumped 6% on Nov. 6 on a report it was weighing stacked DRAM work for Nvidia, though nothing was confirmed, and it still finished that week down 7.6% (Yahoo Finance; 24/7 Wall St). Super Micro (SMCI) is the most direct server-hardware read, but this story did not verify a current SMCI guidance figure, so its exposure is treated as a lower-confidence read.\n\nThe Monday open on Nov. 16 is the first chance to see how the market is positioning before the print. The Wednesday FOMC minutes on Nov. 18 and the Target (Wed., Nov. 18) and Walmart (Thu., Nov. 19) results add retail context in the same week.",
+  "marketImpact": {
+    "summary": "The report is a test of whether Nvidia's guidance can hold up without its founder-CEO. A guide above the $108 billion outlook, with steady Data Center growth, is the upside case. A soft fourth-quarter outlook or a China or leadership surprise is the downside case, and it would spread to AMD, Broadcom, TSMC and the servers sector.",
+    "timeframe": "Tuesday after-close report on Nov. 17, with the reaction on Wednesday, Nov. 18",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Results about 4:20 p.m. ET Tuesday, call at 5 p.m. ET. Consensus about $2.47 EPS on $108.8 billion revenue (StoneX). Fourth-quarter guidance and Data Center commentary are the swing factors." },
+      { "symbol": "AMD", "direction": "mixed", "rationale": "Fell more than Nvidia on Friday as the chip rally reversed (StockTitan, CNBC). A strong Nvidia guide supports the AI-capex read; a weak one would likely extend the selloff." },
+      { "symbol": "AVGO", "direction": "mixed", "rationale": "Slid about 2% to near $356 on Friday morning (24/7 Wall St). Custom accelerators and Ethernet networking make it sensitive to hyperscaler spending commentary." },
+      { "symbol": "TSM", "direction": "watch", "rationale": "The Nov. 6 report on stacked DRAM work for Nvidia was unconfirmed (Yahoo Finance). TSMC finished that week down 7.6%, and a strong Nvidia outlook would support its AI-demand read." },
+      { "symbol": "SMCI", "direction": "watch", "rationale": "Server-hardware exposure to the same AI buildout. This story did not verify a current SMCI guidance figure, so the read is lower-confidence." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-17", "event": "Nvidia fiscal Q3 2027 results about 1:20 p.m. PT (4:20 p.m. ET); call at 2 p.m. PT (5 p.m. ET)" },
+      { "date": "2026-11-18", "event": "Reaction session for NVDA and AI-chip peers; FOMC minutes at 2:00 p.m. ET" },
+      { "date": "2026-11-30", "event": "MSCI removal of Strategy takes effect, a separate crypto-linked catalyst" }
+    ]
+  },
+  "sources": [
+    { "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results", "publisher": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873", "accessedAt": "2026-11-14" },
+    { "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027", "publisher": "NVIDIA Investor Relations", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx", "accessedAt": "2026-11-14" },
+    { "title": "NVIDIA Announces CEO Transition", "publisher": "GlobeNewswire (NVIDIA)", "url": "https://globenewswire.com/news-release/2026/11/12/3401635/0/en/nvidia-announces-ceo-transition.html", "accessedAt": "2026-11-14" },
+    { "title": "Nvidia Earnings Preview: NVDA's First Test of the Post Jenson Huang Era", "publisher": "StoneX", "url": "https://www.stonex.com/en-gb/news-and-analysis/nvidia-earnings-preview-nvda-s-first-test-of-the-post-jenson-huang-era", "accessedAt": "2026-11-14" },
+    { "title": "Prediction: Nov. 17 Will Be a Huge Day for the Stock Market", "publisher": "Motley Fool", "url": "https://fool.com/investing/2026/11/10/prediction-nov-17-will-be-a-huge-day-for-the-stock-market", "accessedAt": "2026-11-14" },
+    { "title": "Stock market today: Stocks moving the most, Friday Nov. 13 (live)", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html", "accessedAt": "2026-11-14" },
+    { "title": "Stocks Give Up Early Gains While AMD, Broadcom and Nvidia Slide", "publisher": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026", "accessedAt": "2026-11-14" },
+    { "title": "NVIDIA Rises 2% Despite Michael Burry Adding to Chip Shorts; AMD Retreats 3%, Broadcom Slides 2%", "publisher": "24/7 Wall St", "url": "https://247wallst.com/investing/2026/11/13/nvidia-rises-2-despite-michael-burry-adding-to-chip-shorts-amd-and-broadcom-slide-2", "accessedAt": "2026-11-14" },
+    { "title": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia", "publisher": "Yahoo Finance (24/7 Wall St)", "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-jumped-6-report-could-151351522.html", "accessedAt": "2026-11-14" }
+  ]
+}

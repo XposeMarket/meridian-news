@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T18:05:00Z",
-  "edition": "midday",
+  "updatedAt": "2026-11-14T21:30:00Z",
+  "edition": "afternoon",
   "leadSlug": "zelenskyy-says-us-floated-donbas-withdrawal-for-nato-membership",
   "marketBrief": {
-    "headline": "Weekend, Nov. 14: Stocks finish a winning week despite Nvidia's slide, while Bitcoin falls below $67,000 ahead of Nvidia and the Fed minutes",
-    "summary": "US markets are closed for the weekend. The S&P 500, Nasdaq and Dow all finished the week higher, even though chip stocks fell on Friday. Bitcoin is the weak spot, quoted between about $66,500 and $67,400 depending on the source and time stamp, below its 200-week moving average, with spot ETF outflows continuing.",
+    "headline": "Weekend, Nov. 14: Stocks finish a winning week despite Nvidia's slide, while Bitcoin slides near $64,700 ahead of Nvidia's Tuesday report and the Fed minutes",
+    "summary": "US markets are closed for the weekend. The S&P 500, Nasdaq and Dow all finished the week higher, even though chip stocks fell on Friday. Bitcoin is the weak spot: it was quoted at $64,734 at 3:57 p.m. ET Saturday, down about 5.3% on the day (Reuters via MarketScreener), after earlier Saturday readings of $66,500 to $67,400. It sits below its 200-week moving average, with spot ETF outflows continuing.",
     "bullets": [
       "Friday close (AP): S&P 500 7,561.67, down 0.4% on the day but up 2.5% for the week, its first winning week since early October.",
       "Nasdaq Composite fell 0.9% to 25,136.27 and the Dow rose 0.1% to 52,347.55. For the week, the Nasdaq gained 2.3% and the Dow 2.1% (AP).",
       "Nvidia shares fell again Friday after Jensen Huang's resignation. Colette Kress is interim CEO; Nvidia reports fiscal Q3 on Tuesday, Nov. 17 (NVIDIA).",
-      "Saturday Bitcoin quotes vary by provider: $67,380 (Crypto Times, 3:17 a.m. UTC), $66,969 (TokenPost, 8:02 a.m. ET), $66,485 (Yahoo Finance, Saturday morning). Bitcoin is below its 200-week moving average (CoinSpectator).",
+      "Saturday Bitcoin: $64,734 at 3:57 p.m. ET, down about 5.3% (Reuters via MarketScreener). Earlier quotes: $67,380 (Crypto Times, 3:17 a.m. UTC), $66,969 (TokenPost, 8:02 a.m. ET), $66,485 (Yahoo Finance). Crypto Times put 24-hour liquidations at $1.26 billion and said they hit longs.",
       "The December hike is still priced after October PPI rose 0.3%, below the 0.4% forecast, with a 6.5% annual rate (BLS; CNBC). FOMC minutes are due Wednesday, Nov. 18."
     ],
-    "asOf": "2026-11-14T17:30:00Z"
+    "asOf": "2026-11-14T21:30:00Z"
   },
   "marketSnapshot": [
     {
@@ -53,12 +53,12 @@
     },
     {
       "label": "Bitcoin (BTC)",
-      "value": "$66,969",
-      "change": "-3.2% over 24 hours",
+      "value": "$64,734",
+      "change": "-5.3% on Saturday",
       "direction": "down",
-      "source": "TokenPost",
-      "sourceUrl": "https://www.tokenpost.com/news/investing/57379",
-      "asOf": "as of Sat Nov 14, 8:02 a.m. ET"
+      "source": "MarketScreener (Reuters wire)",
+      "sourceUrl": "https://marketscreener.com/news/bitcoin-falls-around-5-3-to-64-734-ce785ededd8ef722",
+      "asOf": "as of Sat Nov 14, 3:57 p.m. ET"
     }
   ],
   "calendar": [
