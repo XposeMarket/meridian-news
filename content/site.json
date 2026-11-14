@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-14T21:58:00Z",
+  "updatedAt": "2026-11-14T22:40:00Z",
   "edition": "afternoon",
-  "leadSlug": "zelenskyy-says-us-floated-donbas-withdrawal-for-nato-membership",
+  "leadSlug": "kremlin-white-house-confirm-putin-xi-trump-shenzhen-trilateral",
   "marketBrief": {
     "headline": "Weekend, Nov. 14: Stocks finish a winning week despite Nvidia's slide, while Bitcoin slides near $64,700 ahead of Nvidia's Tuesday report and the Fed minutes",
     "summary": "US markets are closed for the weekend. The S&P 500, Nasdaq and Dow all finished the week higher, even though chip stocks fell on Friday. Bitcoin is the weak spot: it was quoted at $64,734 at 3:57 p.m. ET Saturday, down about 5.3% on the day (Reuters via MarketScreener), after earlier Saturday readings of $66,500 to $67,400. It sits below its 200-week moving average, with spot ETF outflows continuing.",
@@ -141,11 +141,11 @@
     }
   ],
   "trending": [
+    "kremlin-white-house-confirm-putin-xi-trump-shenzhen-trilateral",
     "zelenskyy-says-us-floated-donbas-withdrawal-for-nato-membership",
     "ai-sector-week-nvidia-slide-anthropic-ipo-trust",
+    "france-protests-draw-106000-bfmtv-crew-attacked-lyon",
     "nvidia-q3-earnings-preview-first-report-since-huang-exit",
-    "white-house-ai-task-force-cyber-liability-relief",
-    "trump-tells-advisers-may-hold-off-iran-strikes-without-provocation",
-    "tanker-strikes-american-heritage-riverboat-new-orleans"
+    "trump-tells-advisers-may-hold-off-iran-strikes-without-provocation"
   ]
 }
