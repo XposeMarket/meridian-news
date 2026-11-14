@@ -1,0 +1,46 @@
+{
+  "slug": "nvroot-nvidia-linux-driver-flaw-shared-gpu-root",
+  "title": "NvRoot: Stealthium Details Nvidia Linux Driver Flaw That Can Give Root on Shared GPU Hosts",
+  "dek": "CVE-2026-47591 lets a local, unprivileged user gain root on a vulnerable Nvidia Linux driver, a risk for multi-tenant cloud GPUs. Nvidia has fixed it in newer branches, but a second flaw needs its own update.",
+  "section": "ai-tech",
+  "tags": ["Nvidia", "security", "Linux", "GPU drivers", "CVE-2026-47591", "cloud GPUs", "neoclouds"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-14T17:40:00Z",
+  "updatedAt": "2026-11-14T17:40:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MSI_GeForce_GT_1030_2G_LP_OC_Graphics_Card_20200604-001.jpg",
+    "alt": "An MSI GeForce GT 1030 graphics card",
+    "credit": "Gary Houston / Wikimedia Commons",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MSI_GeForce_GT_1030_2G_LP_OC_Graphics_Card_20200604-001.jpg"
+  },
+  "keyPoints": [
+    "Stealthium published details on Nov. 12 of NvRoot (CVE-2026-47591) and ForgePtr (CVE-2026-47501), two Nvidia Linux driver flaws it says can lead to root.",
+    "Red Hat rates CVE-2026-47591 Important with a CVSS score of 7.8. It requires local access by an authenticated user, which is the situation on shared GPU hosts.",
+    "Nvidia has fixed both flaws, but in separate driver updates, so a host can be patched for one and still exposed to the other.",
+    "The researchers say they have not released a proof of concept, and LinuxSecurity reports no attacks in the wild."
+  ],
+  "body": "## What was disclosed\n\nStealthium, a security firm, published technical details on Nov. 12 of two local privilege-escalation flaws in Nvidia’s Linux GPU driver. The first, NvRoot, is CVE-2026-47591. The second, ForgePtr, is CVE-2026-47501 ([LinuxSecurity](https://linuxsecurity.com/news/security-vulnerabilities/nvidia-linux-drivers-nvroot-forgeptr)). Stealthium says it built a working exploit, confirmed root on driver 610.43.02, and reported the bugs to Nvidia before publication ([Stealthium](https://stealthium.io/blog/nvroot)).\n\nRed Hat’s CVE record describes the core problem as an incorrect authorization issue in the kernel-mode layer. A local, unprivileged user can bypass read-only memory protections and gain write access to restricted memory, which Red Hat says could enable privilege escalation to root ([Red Hat](https://access.redhat.com/security/cve/cve-2026-47591)).\n\nStealthium published the write-up without a proof of concept. It says it withheld some specifics, and that it had built detection for the bug’s exploitation, live before the patch landed. The firm also says that under responsible disclosure it has 25 or more further High or Critical vulnerabilities across the AI runtime stack, which it has not detailed ([Stealthium](https://stealthium.io/blog/nvroot)).\n\n## Why rented GPUs are the concern\n\nStealthium’s point is about who shares the hardware. Multi-tenant GPU environments, including those offered by neocloud providers, put several customers on the same host. In that setting, code running inside one tenant’s container could reach the host, not just its own slice. Stealthium argues that is why NvRoot matters more for cloud renters than for a single desktop user ([Stealthium](https://stealthium.io/blog/nvroot)).\n\nRed Hat scores the flaw CVSS 7.8, with a local attack vector and low attack complexity. It says systems without Nvidia hardware, systems using open-source drivers, and setups where untrusted users cannot run local code are not affected ([Red Hat](https://access.redhat.com/security/cve/cve-2026-47591)). Red Hat’s interim mitigation is to block the Nvidia kernel module from loading where GPU acceleration is not needed. It warns that unloading the module interrupts GPU work.\n\n## Patch status\n\nNvidia had already fixed both issues in its graphics drivers, but the fixes shipped separately. Stealthium says fixing NvRoot alone does not close ForgePtr, and it lists fixed branches for NvRoot including 610.57.04, 595.91.07 and 580.178.04. The ForgePtr fix is in driver 615.71.09 ([LinuxSecurity](https://linuxsecurity.com/news/security-vulnerabilities/nvidia-linux-drivers-nvroot-forgeptr)). Operators should check the running driver version, not just whether an update was installed.\n\nWe could not open a dedicated Nvidia bulletin for CVE-2026-47591 in this pass. Nvidia’s product-security page lists its published bulletins and says customers should follow the guidance in them ([Nvidia](https://www.nvidia.com/en-us/product-security/)). Until the bulletin is confirmed against the CVE, the fixed-version list here comes from Stealthium and LinuxSecurity.\n\n## What it means for Nvidia\n\nThe flaw is a security problem for operators and not a product recall. Because the fixes are already out, a direct revenue effect looks unlikely. The more plausible risk is to trust in multi-tenant GPU hosting, which is a growing customer segment for Nvidia hardware. If large renters push for proof of patching, that could slow some deployments, but no company has reported such a change.\n\nFor that reason our market read is watch-only and low confidence. The main near-term tests are whether cloud providers publish patch confirmations and whether any exploit appears in the wild.",
+  "marketImpact": {
+    "summary": "The flaw is patched and no attacks are reported, so the direct earnings risk is small. The exposure is reputational and operational for neocloud and multi-tenant GPU operators, who must confirm driver versions on shared hosts. Confidence is low.",
+    "timeframe": "Next 1-2 sessions; ongoing as operators confirm patches",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "watch", "rationale": "Fixes were released already and no direct revenue effect is disclosed. Risk is to trust in shared GPU hosting, which the researchers say is most exposed." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-12", "event": "Stealthium publishes NvRoot and ForgePtr technical details" },
+      { "date": "2026-11-16", "event": "First US trading session after the disclosure; any operator patch statements would be the first signal" }
+    ]
+  },
+  "sources": [
+    { "title": "From Rent to Root: Introducing NvRoot", "publisher": "Stealthium", "url": "https://stealthium.io/blog/nvroot", "accessedAt": "2026-11-14" },
+    { "title": "NVIDIA Linux Driver Flaws Put Shared GPU Servers at Risk", "publisher": "LinuxSecurity", "url": "https://linuxsecurity.com/news/security-vulnerabilities/nvidia-linux-drivers-nvroot-forgeptr", "accessedAt": "2026-11-14" },
+    { "title": "CVE-2026-47591", "publisher": "Red Hat Customer Portal", "url": "https://access.redhat.com/security/cve/cve-2026-47591", "accessedAt": "2026-11-14" },
+    { "title": "NVIDIA Product Security", "publisher": "NVIDIA", "url": "https://www.nvidia.com/en-us/product-security/", "accessedAt": "2026-11-14" }
+  ]
+}

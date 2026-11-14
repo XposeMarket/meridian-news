@@ -1,0 +1,51 @@
+{
+  "slug": "chatgpt-wallet-agents-pay-gemini-google-wallet",
+  "title": "OpenAI Launches ChatGPT Wallet for Agent Purchases; Gemini Gets Google Wallet Access",
+  "dek": "Agents in ChatGPT can now buy items after the user approves each purchase, while Gemini can read Google Wallet spending data through Plaid. Both launches are early and limited to US users.",
+  "section": "ai-tech",
+  "tags": ["OpenAI", "ChatGPT Wallet", "Google", "Gemini", "Google Wallet", "agentic commerce", "payments", "Visa", "Mastercard", "American Express"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-14T17:35:00Z",
+  "updatedAt": "2026-11-14T17:35:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Contactless_Payment_Card_opened_to_show_RF_antenna.jpg",
+    "alt": "A contactless payment card opened to show its RF antenna",
+    "credit": "AmarinderBrar / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Contactless_Payment_Card_opened_to_show_RF_antenna.jpg"
+  },
+  "keyPoints": [
+    "OpenAI launched ChatGPT Wallet on Friday with American Express, Mastercard and Visa. It starts with US ChatGPT Pro subscribers using “dots,” the agents inside ChatGPT.",
+    "Each agent purchase needs a security check such as Face ID or a fingerprint scan. The payment network issues a token, so the agent and merchant never receive the real card details.",
+    "Google connected Gemini to Google Wallet for US users through Plaid. The link is read-only: Gemini can analyze spending but cannot move money or make transactions.",
+    "No volumes, fees or revenue were disclosed, so the market read for Visa, Mastercard, American Express and Alphabet is indirect and low confidence."
+  ],
+  "body": "## What OpenAI launched\n\nOpenAI introduced ChatGPT Wallet on Friday, a payments feature built with American Express, Mastercard and Visa that lets its agents buy things for a user once the user approves each purchase ([OpenAI](https://openai.com/index/introducing-chatgpt-wallet)). The first users are ChatGPT Pro subscribers in the United States who are over 18, and they reach it through “dots,” the agents inside ChatGPT ([CNBC](https://cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html)).\n\nThe approval step is the core design choice. A user adds a card once, asks an agent to find items, then reviews the items, the total and the selected card. The user confirms with a security check such as Face ID or a fingerprint scan. After that, the payment network issues a token that stands in for the card, with a card number, security code and expiration date for that transaction. OpenAI says the agent and the business never receive the real card details, and that cardholders keep existing rewards and protections for eligible disputes ([OpenAI](https://openai.com/index/introducing-chatgpt-wallet)).\n\nOpenAI also acknowledged a practical problem. Some websites may block agent purchases, and payment risk systems may flag them. The company published a Commerce Partner Playbook covering product feeds, agent access and work with payment providers ([OpenAI](https://openai.com/index/introducing-chatgpt-wallet)). Chaya Nayak, who leads monetization and payments product at OpenAI, told CNBC the company wants to “really focus on merchants and our network partners” ([CNBC](https://cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html)).\n\n## Gemini connects to Google Wallet\n\nGoogle made a related move on the same day. US users on Android, iOS and the web can now link Google Wallet to the Gemini app. The connection runs through Plaid, the third-party service that links bank and card accounts ([Google](https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app); [Yahoo Tech](https://tech.yahoo.com/ai/gemini/articles/gemini-now-tap-google-wallet-110500565.html)).\n\nOnce connected, Gemini can chart cash flow, find recurring subscriptions, flag price increases and build budgets from past spending. 9to5Google reported that the integration is read-only, and that Gemini cannot move, manage or invest money. Google says users opt in under Connected Apps in Personal Intelligence settings and can turn the connection on or off at any time ([Google](https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app)).\n\n## What the market read is\n\nThe two launches are different products. ChatGPT Wallet is a checkout feature that moves money. Gemini’s Wallet link is an analysis feature that reads spending history. Only the first has a direct payments read-through.\n\nVisa, Mastercard and American Express are named as partners, and their networks issue the payment tokens. None of the coverage gives transaction volumes, fees or revenue for ChatGPT Wallet, so any earnings effect cannot be sized yet. The Next Web framed the central trust point as agents paying without seeing the card ([The Next Web](https://thenextweb.com/news/chatgpt-wallet-openai-dots-agents-payments)).\n\nAlphabet’s exposure is mostly indirect. A read-only assistant that tracks card spending could raise engagement with Google’s consumer products, but no usage figures were released. The practical tests for investors are whether merchants open their sites to agents, and whether approval-based checkout draws real use beyond the Pro tier. Neither is answerable this weekend.\n\nThis is analysis, not a forecast of share-price moves. The confidence is low because both companies disclosed product details and no financial terms.",
+  "marketImpact": {
+    "summary": "Both launches are early, US-only and undisclosed on volume. The direct read is for card networks, which gain a new agent checkout channel if merchants accept agent payments. Alphabet gets a read-only consumer feature with no disclosed revenue. Confidence is low.",
+    "timeframe": "First US trading session after the launches (Monday, Nov. 16); adoption questions play out over months",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "V", "direction": "watch", "rationale": "Named by OpenAI as a partner in ChatGPT Wallet; the networks issue the payment tokens. No volume or fee figures were disclosed." },
+      { "symbol": "MA", "direction": "watch", "rationale": "Named by OpenAI as a partner in ChatGPT Wallet, same as Visa. No volume or fee figures were disclosed." },
+      { "symbol": "AXP", "direction": "watch", "rationale": "American Express says eligible Card Members can use the Amex card in ChatGPT Wallet, its first agentic commerce integration with OpenAI." },
+      { "symbol": "GOOGL", "direction": "watch", "rationale": "Gemini’s Google Wallet link is read-only and announced by Google; no usage or revenue data was released." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-13", "event": "OpenAI launches ChatGPT Wallet, and Google announces the Gemini link to Google Wallet" },
+      { "date": "2026-11-16", "event": "First US trading session after the launches; the market response is not yet reported" }
+    ]
+  },
+  "sources": [
+    { "title": "Introducing ChatGPT Wallet", "publisher": "OpenAI", "url": "https://openai.com/index/introducing-chatgpt-wallet", "accessedAt": "2026-11-14" },
+    { "title": "OpenAI's ChatGPT Wallet allows 'dots' AI agents to make purchases", "publisher": "CNBC", "url": "https://cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html", "accessedAt": "2026-11-14" },
+    { "title": "Connect Google Wallet to Gemini for personal finance insights", "publisher": "Google", "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app", "accessedAt": "2026-11-14" },
+    { "title": "You can now set up Gemini's Google Wallet integration for 'personal finance insights'", "publisher": "9to5Google", "url": "https://9to5google.com/2026/11/13/gemini-google-wallet", "accessedAt": "2026-11-14" },
+    { "title": "Gemini can now tap into Google Wallet to help manage your money", "publisher": "Yahoo Tech", "url": "https://tech.yahoo.com/ai/gemini/articles/gemini-now-tap-google-wallet-110500565.html", "accessedAt": "2026-11-14" },
+    { "title": "OpenAI's ChatGPT Wallet lets its AI agents shop without seeing your card", "publisher": "The Next Web", "url": "https://thenextweb.com/news/chatgpt-wallet-openai-dots-agents-payments", "accessedAt": "2026-11-14" }
+  ]
+}
