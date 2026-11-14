@@ -1,0 +1,58 @@
+{
+  "slug": "ai-sector-week-nvidia-slide-anthropic-ipo-trust",
+  "title": "A Hard Week for AI Stocks: Nvidia's Worst Week in Over a Year, an Anthropic Listing Ahead, and a Trust Problem",
+  "dek": "Nvidia fell 13% in the week Jensen Huang resigned, the Anthropic IPO is the next test for the AI trade, and voters and regulators are pressing the industry on data centers and safety.",
+  "section": "ai-tech",
+  "tags": ["Nvidia", "Anthropic", "AI stocks", "IPO", "data centers", "AI regulation", "Jensen Huang"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-14T21:45:00Z",
+  "updatedAt": "2026-11-14T21:45:00Z",
+  "edition": "afternoon",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Data_centers_in_Ashburn.jpg",
+    "alt": "Rows of data center buildings in Ashburn, Virginia",
+    "credit": "Theodore Christopher / Wikimedia Commons",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data_centers_in_Ashburn.jpg"
+  },
+  "keyPoints": [
+    "Nvidia closed Friday at $162.85 and fell 13% for the week, its worst weekly decline since April 2025 and its sixth straight weekly loss.",
+    "CNBC put the market-value loss at roughly $1.7 trillion since early October; Reuters reported the company's value had fallen from about $5.8 trillion to about $4 trillion.",
+    "Anthropic's IPO, reported at a valuation of up to $1.4 trillion and set to begin trading on Thursday, Nov. 19, is the next test of investor appetite for AI.",
+    "Axios describes four converging crises: political, safety, financial and leadership. Democrats plan a wave of AI bills when Congress convenes in January."
+  ],
+  "body": "## A week that broke the AI trade's momentum\n\nNvidia closed Friday at $162.85, down 2% on the day, and finished the week down 13%, Bloomberg reported. It was the stock's worst weekly decline since April 2025 and its sixth straight weekly loss, the longest such run since 2012, according to CNBC. CNBC put the market-value loss at roughly $1.7 trillion since early October.\n\nThe slide began before the leadership shock. Reuters reported that Nvidia's market value had fallen from about $5.8 trillion in early October to about $4 trillion. Investors had already grown cautious about the spending behind the AI boom, and Democrats' midterm sweep raised the prospect of tighter rules on data center expansion, Reuters reported ([WHTC, syndicating Reuters](https://whtc.com/2026/11/13/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade)).\n\nHuang's exit added a company-specific layer. The board told CNBC it is \"in the process of selecting a search firm for the Nvidia CEO role\" and has \"not formally engaged any potential candidates\" ([CNBC](https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html)). D.A. Davidson's Gil Luria cut his price target to $200 from $300 but kept a buy rating, writing, \"We believe the market has appropriately adjusted for this transition\" ([CNBC](https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html)).\n\n## The next test: Anthropic's listing\n\nAnthropic's initial public offering is set to value the company at up to $1.4 trillion, with the company and some investors aiming to raise up to $64.4 billion by selling 825 million shares, Reuters reported ([WHTC](https://whtc.com/2026/11/13/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade)). Yahoo Finance reports that the stock will begin trading under the ticker ANT on Thursday, Nov. 19 ([Yahoo Finance](https://finance.yahoo.com/technology/article/anthropic-ipo-claude-maker-to-begin-trading-on-thursday-nov-19-173550865.html)). Axios reports the valuation is roughly $600 billion below what investors envisioned just months ago ([Axios](https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks)).\n\nWall Street is treating the debut as a read on the whole trade. Sameer Samana of Wells Fargo Investment Institute told Reuters that disappointments next week \"could finally kind of wake investors up from this ability to look at every glass as half full.\" Alex Morris of F/m Investments said that if Nvidia reports weak earnings, \"whatever penalty the market would apply is going to be leveraged down.\" Analysts expect Nvidia's fiscal third-quarter results, due Nov. 17, to show earnings growth of 90% on revenue of $109 billion, according to LSEG data cited by Reuters.\n\n## A trust problem, not only a stock problem\n\nAxios frames the week as four crises converging: a political crisis after voters rejected data center measures in 40 of 41 local contests; a safety crisis, with OpenAI and Anthropic reportedly investigating tens of thousands of security incidents; a financial crisis around spending returns; and a leadership crisis after Huang's resignation.\n\nPublic opinion points the same way. A USC Annenberg survey found that 77% of Americans say the government is doing too little to regulate data centers, and 71% do not trust Big Tech companies at all to act in society's best interest on data center development ([USC Annenberg](https://annenberg.usc.edu/news/research-and-impact/new-usc-annenberg-survey-finds-data-centers-and-ai-are-top-issue-country)).\n\n## What to watch\n\nThe next checkpoints are Nvidia's Nov. 17 results, with the first test of how the company performs under interim CEO Colette Kress, and Anthropic's first day of trading on Nov. 19. Axios reports Democrats plan to bring some of the most powerful AI executives to Washington to testify once they take control of Congress in January.\n\nWhat the reporting reviewed does not show yet: any direct hit to Nvidia's business from Huang's exit. The market is pricing leadership and disclosure risk, and the next two sessions will show whether investors separate those from the fundamentals.",
+  "marketImpact": {
+    "summary": "The sector's main risk for the next two sessions is a combined read on Nvidia's results and Anthropic's debut. A weak Nvidia report would deepen the leadership-risk discount; a strong Anthropic open would test whether investors are still willing to pay for AI growth. Public opinion and new AI bills are slower-moving risks for the whole group.",
+    "timeframe": "Next 1-2 sessions (Nov. 17 Nvidia results, Nov. 19 Anthropic debut); policy risk through the January Congress",
+    "confidence": "medium",
+    "tickers": [
+      {
+        "symbol": "NVDA",
+        "direction": "watch",
+        "rationale": "Stock fell 13% in the week and is in a six-week losing streak; results on Nov. 17 are the first test under interim CEO Colette Kress. Analysts expect 90% earnings growth on $109 billion revenue."
+      },
+      {
+        "symbol": "ANT",
+        "direction": "watch",
+        "rationale": "Anthropic is set to list under the ticker ANT on Nov. 19, per company announcement reported by Yahoo Finance; the valuation is reported as up to $1.4 trillion and roughly $600 billion below earlier investor expectations, per Axios."
+      }
+    ],
+    "catalysts": [
+      { "date": "2026-11-17", "event": "Nvidia fiscal Q3 2027 results" },
+      { "date": "2026-11-19", "event": "Anthropic begins trading under the ticker ANT" }
+    ]
+  },
+  "sources": [
+    { "title": "Nvidia eyes worst week since Trump tariff selloff as Huang exits", "publisher": "Bloomberg", "url": "https://bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits", "accessedAt": "2026-11-14" },
+    { "title": "Nvidia stock drops for 6th week, shedding $1.6 trillion in market cap", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html", "accessedAt": "2026-11-14" },
+    { "title": "Nvidia CEO: Search firm not yet selected for Huang replacement", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html", "accessedAt": "2026-11-14" },
+    { "title": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade", "publisher": "Reuters (syndicated on WHTC)", "url": "https://whtc.com/2026/11/13/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade", "accessedAt": "2026-11-14" },
+    { "title": "AI's trust collapse", "publisher": "Axios", "url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks", "accessedAt": "2026-11-14" },
+    { "title": "Anthropic IPO: Claude maker to begin trading on Thursday, Nov. 19", "publisher": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/article/anthropic-ipo-claude-maker-to-begin-trading-on-thursday-nov-19-173550865.html", "accessedAt": "2026-11-14" },
+    { "title": "A new USC Annenberg survey finds data centers and AI are a top issue in the country", "publisher": "USC Annenberg", "url": "https://annenberg.usc.edu/news/research-and-impact/new-usc-annenberg-survey-finds-data-centers-and-ai-are-top-issue-country", "accessedAt": "2026-11-14" }
+  ]
+}
