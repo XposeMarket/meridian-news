@@ -1,0 +1,62 @@
+{
+  "slug": "faa-nationwide-ground-stop-telecom-outage-lifted-friday",
+  "title": "FAA Lifts Nationwide Ground Stop After Hours-Long Telecom Outage; Weekend Disruptions Continue",
+  "dek": "The FAA halted U.S. departures Friday after a communications outage at air traffic control centers; officials blamed aging equipment as thousands of weekend flights stayed disrupted.",
+  "section": "us",
+  "tags": [
+    "FAA",
+    "air travel",
+    "air traffic control",
+    "Sean Duffy",
+    "ground stop",
+    "aviation"
+  ],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-14T13:30:00Z",
+  "updatedAt": "2026-11-14T13:30:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg",
+    "alt": "The FAA air traffic control tower at Philadelphia International Airport",
+    "credit": "Harrison Keely, via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg"
+  },
+  "keyPoints": [
+    "The FAA issued a nationwide ground stop Friday, citing “extraordinary circumstances and reasons for safety,” after a telecommunications outage affected multiple air route traffic control centers.",
+    "Transportation Secretary Sean Duffy blamed aging air traffic control technology and overloaded routers; Homeland Security Secretary Markwayne Mullin said there was no indication of a threat.",
+    "CNN reported more than 15,000 U.S. flights were delayed or canceled Friday, with about 3,000 more expected to be affected Saturday.",
+    "Reports differ on timing: Al Jazeera put the stop at 3:54 p.m. ET, while CNBC put the cancellation at 8:15 p.m. ET and USA TODAY said about 8:30 p.m.",
+    "Duffy warned the recovery would be slow and urged Congress to fund air traffic control improvements."
+  ],
+  "body": "The Federal Aviation Administration halted departures across the United States on Friday afternoon, citing “extraordinary circumstances and reasons for safety,” after a telecommunications outage affected multiple air route traffic control centers. The agency lifted the ground stop Friday evening after more than four hours, according to CNBC and Al Jazeera.\n\n## Timing and cause\n\nAccounts differ slightly on when the stop began. Al Jazeera reported that the FAA issued it at 3:54 p.m. ET. USA TODAY quoted Duffy saying that instability in radar and communications systems began at 3:36 p.m. ET. CNBC said the stop was issued at about 4 p.m. ET and canceled at 8:15 p.m. ET; USA TODAY said the cancellation came around 8:30 p.m. ET.\n\nDuffy told reporters that the system’s aging technology was to blame. He said analog switches and routers had become overloaded and produced inconsistent data, which led the FAA to shut the system down. CNBC quoted Duffy saying the routers “went down.” Mullin said there was no indication of a threat and that the outage “appears this was mechanically driven,” according to CNBC. CNN reported that Mullin said the stop was not linked to a Microsoft outage earlier that week.\n\n## Scale of the disruption\n\nCNBC reported that more than 10,000 flights were disrupted during the stop. CNN reported that more than 15,000 U.S. flights were delayed or canceled on Friday and that about 3,000 were expected to be delayed or canceled on Saturday. Aviation analytics firm Cirium told Al Jazeera that at least 827 flights had been diverted by 7:05 p.m. ET, and that 670 of them returned to their departure airports.\n\nUSA TODAY reported that American Airlines and United warned of residual delays and cancellations, and that Delta let customers change flights at no extra cost. CNBC, citing a memo, reported that JetBlue planned to cancel the rest of Friday’s flights, apart from European routes, along with Saturday flights, so crews and planes could be in place.\n\n## What officials said about recovery\n\nDuffy said flights would not resume immediately and that the recovery would be “going to be slow,” depending on the availability of pilots and flight attendants, according to Al Jazeera and CNN. He urged Congress to fund improvements to the system, and said the disruption should not affect Thanksgiving travel a couple of weeks away, CNN reported.\n\nAl Jazeera and CNBC both described the stop as only the second nationwide ground stop of departures since the September 11, 2001 attacks. CNBC said the previous one was in January 2023, after a failure of a pilot communication system.\n\n## What is not yet known\n\nThe reporting reviewed for this story does not include a detailed technical root-cause report from the FAA. Duffy urged passengers to check with their airlines for the status of their flights.",
+  "sources": [
+    {
+      "title": "FAA lifts ground stop after more than four hours, but flight disruptions stretch into the weekend",
+      "publisher": "CNBC",
+      "url": "https://cnbc.com/2026/11/13/faa-ground-stop.html",
+      "accessedAt": "2026-11-14"
+    },
+    {
+      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+      "publisher": "Al Jazeera",
+      "url": "https://aljazeera.com/amp/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
+      "accessedAt": "2026-11-14"
+    },
+    {
+      "title": "FAA says it has lifted nationwide ground stop that snarled airports",
+      "publisher": "USA TODAY",
+      "url": "https://usatoday.com/story/news/nation/2026/11/13/faa-orders-nationwide-groundstop-at-us-airports-citing-safety/92765499007",
+      "accessedAt": "2026-11-14"
+    },
+    {
+      "title": "FAA issues nationwide ground stop for all flights",
+      "publisher": "CNN",
+      "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+      "accessedAt": "2026-11-14"
+    }
+  ]
+}

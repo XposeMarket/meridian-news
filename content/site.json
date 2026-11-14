@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-14T13:45:00Z",
+  "updatedAt": "2026-11-14T13:55:00Z",
   "edition": "pre-market",
-  "leadSlug": "week-ahead-nov-16-20-nvidia-retailers-fed-minutes-anthropic-ipo",
+  "leadSlug": "trump-tells-advisers-may-hold-off-iran-strikes-without-provocation",
   "marketBrief": {
     "headline": "Weekend, Nov. 14: Stocks finish a winning week despite Nvidia's slide, while Bitcoin trades near $67,000 ahead of Nvidia and the Fed minutes",
     "summary": "US markets are closed for the weekend. The S&P 500, Nasdaq and Dow all finished the week higher, even though chip stocks fell on Friday. Bitcoin is the weak spot, trading near $67,200, below its 200-week moving average, with spot ETF outflows continuing.",
@@ -141,11 +141,11 @@
     }
   ],
   "trending": [
+    "trump-tells-advisers-may-hold-off-iran-strikes-without-provocation",
     "week-ahead-nov-16-20-nvidia-retailers-fed-minutes-anthropic-ipo",
+    "faa-nationwide-ground-stop-telecom-outage-lifted-friday",
     "nvidia-jensen-huang-resigns-colette-kress-interim-ceo",
-    "bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy",
-    "october-ppi-rises-0-3-percent-keeps-december-hike-priced",
-    "iran-claims-bahrain-radar-strike-centcom-says-two-drones-shot-down",
-    "cop31-antalya-talks-stall-over-fossil-fuels-week-one"
+    "cop31-antalya-talks-stall-over-fossil-fuels-week-one",
+    "bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy"
   ]
 }
