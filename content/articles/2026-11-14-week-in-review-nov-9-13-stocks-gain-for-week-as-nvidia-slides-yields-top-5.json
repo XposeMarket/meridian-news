@@ -1,0 +1,53 @@
+{
+  "slug": "week-in-review-nov-9-13-stocks-gain-for-week-as-nvidia-slides-yields-top-5",
+  "title": "Week in Review, Nov. 9-13: Stocks Post First Winning Week Since October as Nvidia Slides and Yields Top 5%",
+  "dek": "The S&P 500 finished Friday at 7,561.67 and up 2.5% for the week, but Nvidia's worst week since April 2025 and a 10-year yield above 5% kept the rally narrow.",
+  "section": "markets",
+  "tags": ["week in review", "S&P 500", "Nasdaq", "Dow", "Nvidia", "Treasury yields", "PPI", "Fed hike"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-14T17:30:00Z",
+  "updatedAt": "2026-11-14T17:30:00Z",
+  "edition": "midday",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg",
+    "alt": "Facade of the New York Stock Exchange on Wall Street, with a United States flag hanging across the building",
+    "credit": "Dietmar Rabich via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Wall_Street_--_2012_--_6614.jpg"
+  },
+  "keyPoints": [
+    "The S&P 500 closed Friday at 7,561.67, down 0.4% on the day and up 2.5% for the week (Associated Press).",
+    "Nvidia closed at $162.85 on Friday, down 13% for the week, its worst week since April 2025 (Bloomberg).",
+    "The 10-year Treasury yield was 5.143% after the PPI report, above 5% (CNBC).",
+    "October PPI rose 0.3% against a 0.4% forecast, with the annual rate at 6.5% (CNBC).",
+    "Markets were fully pricing a quarter-point hike at the Dec. 8-9 FOMC meeting, with a small chance of a half-point move (CNBC)."
+  ],
+  "body": "Stocks finished the week ending Friday, Nov. 13, with their first winning week since early October, but the gains were narrower than the headline suggests. The S&P 500, Nasdaq Composite and Dow Jones Industrial Average all finished higher for the week, even as Nvidia's slide and a jump in Treasury yields kept investors cautious.\n\n## The scorecard\n\nThe Associated Press reported that the S&P 500 fell 0.4% on Friday to 7,561.67 and still gained 2.5% for the week. The Dow rose 0.1% to 52,347.55, up 2.1% on the week. The Nasdaq Composite dropped 0.9% to 25,136.27, yet finished the week 2.3% higher. The Russell 2000 slipped 0.3% to 2,790.49 and was up 1.3% for the week (Associated Press). For the year through Friday, the S&P 500 was up 10.5%, the Dow 8.9% and the Nasdaq 8.2% (AP).\n\nThe session itself was uneven. Technology was the heaviest drag. CNBC's live coverage described AI-linked names such as CoreWeave and Dell skidding in afternoon trading, while Apple set an intraday record, which CNBC tied to investors moving away from AI infrastructure spending. The index losses were modest; the damage was concentrated in a handful of large names.\n\n## Nvidia and the AI trade\n\nNvidia was the week's central story. Jensen Huang stepped down as chief executive on Thursday, Nov. 12, and the stock closed down 4.34% that day after falling as much as 14% intraday (CNBC). Colette Kress, the chief financial officer, is interim CEO, and Harvey C. Jones, the former Synopsys chief executive, will become the first-ever chair of the board (CNBC). Bernstein cut its price target on the stock from $400 to $200 (CNBC). On Friday Nvidia fell 2% to close at $162.85. That extended its five-session slide to 13%, the worst weekly decline since April 2025 and a sixth straight weekly loss, the most since 2012 (Bloomberg).\n\nThe weakness spread across the AI infrastructure group. CNBC's live coverage described afternoon selling in AMD, CoreWeave and Dell on Friday, and Cisco fell even after a results beat and a stronger outlook (CNBC). Apple moved the other way, reaching an intraday record of $360.80 and a market value above $5.2 trillion, as investors sought companies that have stayed out of the AI buildout (CNBC).\n\n## Yields above 5%\n\nThe bond market was the other pressure point. The 10-year Treasury yield jumped more than 13 basis points on Thursday to above 5%, and the 2-year yield rose more than 15 basis points (CNBC). On Friday the 10-year stayed above 5%, at 5.143% after the producer price report, with an intraday high of 5.174%. The 2-year was at 4.859% and the 30-year at 5.472% (CNBC). Investopedia noted that the 10-year had been near 4.85% just over a week earlier (Investopedia).\n\n## October PPI and the December hike\n\nThe Bureau of Labor Statistics said producer prices rose 0.3% in October, below the 0.4% forecast from economists polled by Dow Jones. On an annual basis, the index rose 6.5%, the biggest increase since November 2022 (CNBC). Excluding food, energy and trade services, core PPI rose 0.5% (CNBC). Goods prices rose 0.5% for the month, while energy goods edged down 0.1% (BLS).\n\nThe softer monthly figure did not change the rate outlook. The consumer price index had already risen 0.4% in October, with core CPI up 0.3%, both a tenth above forecasts (CNBC). CNBC reported that markets were fully pricing a quarter-point increase at the Dec. 8-9 meeting, with a small chance of a half-point move (CNBC). Chicago Fed President Austan Goolsbee told CNBC that price pressures outside oil and tariffs were a concern (CNBC). This is market pricing, not a Fed decision.\n\n## What to watch\n\nNext week brings the first set of tests. Nvidia reports fiscal third-quarter results on Tuesday, Nov. 17, its first report since Huang's exit. October retail sales and import prices also arrive Nov. 17, and the minutes of the Oct. 27-28 FOMC meeting follow on Nov. 18. Those releases will show whether the leadership question at Nvidia and the inflation read are feeding into the rate path.\n\nThe week's gains were real but narrow. The Nasdaq and Dow both gained about 2%, while Nvidia's 13% drop and a 10-year yield near 5% set the tone underneath the index numbers. This is analysis, not a forecast.",
+  "marketImpact": {
+    "summary": "The week's index gains were real but narrow. Nvidia's leadership change and a 5%-plus 10-year yield pulled on the AI leaders, while the December hike pricing set the rate backdrop for the next two weeks.",
+    "timeframe": "Nov. 17 through the Dec. 8-9 FOMC meeting",
+    "confidence": "medium",
+    "tickers": [
+      { "symbol": "NVDA", "direction": "down", "rationale": "Closed at $162.85 on Friday, down 13% for the week after Huang's resignation (Bloomberg)" },
+      { "symbol": "AMD", "direction": "down", "rationale": "Skidded in Friday afternoon trading as AI chip names sold off (CNBC live coverage)" }
+    ],
+    "catalysts": [
+      { "date": "2026-11-17", "event": "Nvidia fiscal Q3 2027 results after the close, first report since Huang's exit" },
+      { "date": "2026-11-17", "event": "October retail sales and import prices, 8:30 a.m. ET" },
+      { "date": "2026-11-18", "event": "FOMC minutes for the Oct. 27-28 meeting, 2:00 p.m. ET" },
+      { "date": "2026-12-09", "event": "FOMC decision, Dec. 8-9 meeting; a quarter-point hike is priced as the base case" }
+    ]
+  },
+  "sources": [
+    { "title": "How major US stock indexes fared Friday 11/13/2026", "publisher": "Associated Press (via Bozeman Daily Chronicle)", "url": "https://bozemandailychronicle.com/wire/business/how-major-us-stock-indexes-fared-friday-11-13-2026/article_82fdab58-ba29-5020-97aa-36cd14073866.html", "accessedAt": "2026-11-14" },
+    { "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html", "accessedAt": "2026-11-14" },
+    { "title": "Producer Price Indexes, October 2026", "publisher": "U.S. Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/ppi.nr0.htm", "accessedAt": "2026-11-14" },
+    { "title": "PPI inflation report October 2026", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html", "accessedAt": "2026-11-14" },
+    { "title": "Nvidia eyes worst week since Trump tariff selloff as Huang exits", "publisher": "Bloomberg", "url": "https://bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits", "accessedAt": "2026-11-14" },
+    { "title": "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls", "publisher": "Investopedia", "url": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143", "accessedAt": "2026-11-14" },
+    { "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation", "publisher": "CNBC", "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html", "accessedAt": "2026-11-14" }
+  ]
+}
