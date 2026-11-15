@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T22:40:00Z",
-  "edition": "afternoon",
-  "leadSlug": "kremlin-white-house-confirm-putin-xi-trump-shenzhen-trilateral",
+  "updatedAt": "2026-11-15T13:32:00Z",
+  "edition": "pre-market",
+  "leadSlug": "hormuz-mine-claim-oil-markets-brent-tanker-rates-sunday-open",
   "marketBrief": {
-    "headline": "Weekend, Nov. 14: Stocks finish a winning week despite Nvidia's slide, while Bitcoin slides near $64,700 ahead of Nvidia's Tuesday report and the Fed minutes",
-    "summary": "US markets are closed for the weekend. The S&P 500, Nasdaq and Dow all finished the week higher, even though chip stocks fell on Friday. Bitcoin is the weak spot: it was quoted at $64,734 at 3:57 p.m. ET Saturday, down about 5.3% on the day (Reuters via MarketScreener), after earlier Saturday readings of $66,500 to $67,400. It sits below its 200-week moving average, with spot ETF outflows continuing.",
+    "headline": "Sunday, Nov. 15: Iran says tankers hit mines near Hormuz before futures reopen at 6 p.m. ET, and Bitcoin slips below $65,000, its lowest since July",
+    "summary": "US stock and oil futures reopen at 6 p.m. ET, so this is a weekend preview, not a session recap. The IRGC Navy says two tankers struck mines and caught fire south of the Strait of Hormuz; no independent source has confirmed it. Brent settled at $95.84 and WTI at $88.56 on Friday, their second straight weekly decline (CNBC, citing Reuters). Bitcoin was quoted at $64,962 on Sunday (LiveMint).",
     "bullets": [
-      "Friday close (AP): S&P 500 7,561.67, down 0.4% on the day but up 2.5% for the week, its first winning week since early October.",
-      "Nasdaq Composite fell 0.9% to 25,136.27 and the Dow rose 0.1% to 52,347.55. For the week, the Nasdaq gained 2.3% and the Dow 2.1% (AP).",
-      "Nvidia shares fell again Friday after Jensen Huang's resignation. Colette Kress is interim CEO; Nvidia reports fiscal Q3 on Tuesday, Nov. 17 (NVIDIA).",
-      "Saturday Bitcoin: $64,734 at 3:57 p.m. ET, down about 5.3% (Reuters via MarketScreener). Earlier quotes: $67,380 (Crypto Times, 3:17 a.m. UTC), $66,969 (TokenPost, 8:02 a.m. ET), $66,485 (Yahoo Finance). Crypto Times put 24-hour liquidations at $1.26 billion and said they hit longs.",
-      "The December hike is still priced after October PPI rose 0.3%, below the 0.4% forecast, with a 6.5% annual rate (BLS; CNBC). FOMC minutes are due Wednesday, Nov. 18."
+      "Hormuz: the IRGC Navy says two tankers struck mines south of the strait (Anadolu; Tasnim). CBS News carried a three-tanker count and said the strikes could not be verified.",
+      "Oil: Brent $95.84 and WTI $88.56 at the Friday, Nov. 13 settle (CNBC, citing Reuters). Gulf-to-China supertanker freight eased to about 776 Worldscale from 841 but remains near records (Baltic Exchange data via PipeXchange).",
+      "Bitcoin: $64,962.10 in a Sunday LiveMint report, lowest since July. About $2 billion of 24-hour liquidations, mostly longs (Coinglass via LiveMint).",
+      "Rates: CME FedWatch put a Dec. 9 hike at 100%, with the 10-year at 5.143% on Friday (CNBC, Nov. 13). October PPI rose 0.3% m/m and 6.5% y/y (BLS).",
+      "Week ahead: Nvidia reports Nov. 17; retail sales and import prices land Nov. 17; FOMC minutes Nov. 18; Putin, Xi and Trump meet in Shenzhen Nov. 19 (Anadolu; Kremlin)."
     ],
-    "asOf": "2026-11-14T21:30:00Z"
+    "asOf": "2026-11-15T13:15:00Z"
   },
   "marketSnapshot": [
     {
@@ -52,16 +52,50 @@
       "asOf": "as of Fri Nov 13 close"
     },
     {
-      "label": "Bitcoin (BTC)",
-      "value": "$64,734",
-      "change": "-5.3% on Saturday",
+      "label": "Brent crude",
+      "value": "$95.84",
+      "change": "+2 cents (+0.02%) Fri",
+      "direction": "up",
+      "source": "CNBC (citing Reuters)",
+      "sourceUrl": "https://cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+      "asOf": "as of Fri Nov 13 settle"
+    },
+    {
+      "label": "WTI crude",
+      "value": "$88.56",
+      "change": "-18 cents (-0.20%) Fri",
       "direction": "down",
-      "source": "MarketScreener (Reuters wire)",
-      "sourceUrl": "https://marketscreener.com/news/bitcoin-falls-around-5-3-to-64-734-ce785ededd8ef722",
-      "asOf": "as of Sat Nov 14, 3:57 p.m. ET"
+      "source": "CNBC (citing Reuters)",
+      "sourceUrl": "https://cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+      "asOf": "as of Fri Nov 13 settle"
+    },
+    {
+      "label": "10-year Treasury yield",
+      "value": "5.143%",
+      "change": "+4 bp Fri (intraday)",
+      "direction": "up",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "asOf": "as of Fri Nov 13, intraday"
+    },
+    {
+      "label": "Bitcoin (BTC)",
+      "value": "$64,962",
+      "change": "Below $65,000 Sunday; lowest since July",
+      "direction": "down",
+      "source": "Mint (LiveMint)",
+      "sourceUrl": "https://livemint.com/market/cryptocurrency/crypto-bitcoin-price-today-falls-64962-15-nov-lowest-since-july-investors-pull-out-favour-ai-stocks-factor-fed-rate-hike-11794711853135.html",
+      "asOf": "as of Sun Nov 15 (LiveMint report, 10:59 a.m. IST)"
     }
   ],
   "calendar": [
+    {
+      "date": "2026-11-15",
+      "time": "6:00 PM ET",
+      "event": "US stock and oil futures reopen (Sunday session)",
+      "importance": "high",
+      "why": "First market reaction to the IRGC mine claim near Hormuz. Friday Brent settle of $95.84 is the baseline (CNBC, citing Reuters)."
+    },
     {
       "date": "2026-11-17",
       "time": "8:30 AM ET",
@@ -112,6 +146,13 @@
       "why": "Reported by CNBC, citing people familiar with the matter. Range is $70 to $78 a share (CNBC, Nov. 10)."
     },
     {
+      "date": "2026-11-18",
+      "time": "Nov. 18-19",
+      "event": "APEC summit, Shenzhen, China",
+      "importance": "high",
+      "why": "Host city for the Putin, Xi and Trump meeting on the sidelines (Anadolu)."
+    },
+    {
       "date": "2026-11-19",
       "time": "Reported first trade",
       "event": "Anthropic shares expected to begin trading",
@@ -133,19 +174,33 @@
       "why": "Online sales read from the Census release schedule."
     },
     {
+      "date": "2026-11-19",
+      "time": "Time not given",
+      "event": "Putin, Xi and Trump trilateral meeting, Shenzhen",
+      "importance": "high",
+      "why": "Kremlin spokesman Dmitry Peskov, via Tass and Anadolu. Start time not specified."
+    },
+    {
       "date": "2026-11-30",
       "time": "After market close",
       "event": "MSCI removal of Strategy (MSTR) takes effect",
       "importance": "medium",
       "why": "MSCI said the change takes effect after the close on Nov. 30 (Yahoo Finance). Index funds may sell before then."
+    },
+    {
+      "date": "2026-12-09",
+      "time": "Decision day",
+      "event": "FOMC decision (Dec. 9 meeting)",
+      "importance": "high",
+      "why": "CNBC reported 100% CME FedWatch odds of a hike as of Nov. 13."
     }
   ],
   "trending": [
+    "hormuz-mine-claim-oil-markets-brent-tanker-rates-sunday-open",
+    "bitcoin-slips-below-72000-as-msci-index-exit-weighs-on-strategy",
     "kremlin-white-house-confirm-putin-xi-trump-shenzhen-trilateral",
     "zelenskyy-says-us-floated-donbas-withdrawal-for-nato-membership",
     "ai-sector-week-nvidia-slide-anthropic-ipo-trust",
-    "france-protests-draw-106000-bfmtv-crew-attacked-lyon",
-    "nvidia-q3-earnings-preview-first-report-since-huang-exit",
-    "trump-tells-advisers-may-hold-off-iran-strikes-without-provocation"
+    "nvidia-q3-earnings-preview-first-report-since-huang-exit"
   ]
 }
