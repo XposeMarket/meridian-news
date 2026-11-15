@@ -1,0 +1,46 @@
+{
+  "slug": "amd-mext-half-dram-95-percent-performance-claim",
+  "title": "AMD Says Its MEXT Software Keeps 95% of Server Performance on Half the DRAM",
+  "dek": "AMD says MEXT memory-tiering software let an internal Synopsys workload keep 95% of performance with half its DRAM. The figures are AMD's own, and the benchmark footnotes are unpublished.",
+  "section": "ai-tech",
+  "tags": ["AMD", "MEXT", "DRAM", "memory", "EPYC", "data center", "HPE", "Micron"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-15T13:00:00Z",
+  "updatedAt": "2026-11-15T13:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/2%2A8Go_DDR4_Corsair_-_2018-05-08.jpg",
+    "alt": "Two 8 GB DDR4 memory modules from Corsair on a black background",
+    "credit": "Bretwa / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2*8Go_DDR4_Corsair_-_2018-05-08.jpg"
+  },
+  "keyPoints": [
+    "AMD says servers running Synopsys PrimeTime kept 95% of full performance with half their DRAM, and 80% with a quarter, according to figures shared with Tom's Hardware.",
+    "MEXT moves cold memory pages to NVMe flash and uses a predictive model to bring pages back before they are requested. AMD acquired the company in June.",
+    "MEXT runs on 145 AMD servers today and is slated for 2,000 next year. HPE 'MEXT Ready' EPYC Venice servers are in phase one; license sales have no start date.",
+    "AMD published no benchmark footnotes, so the figures are first-party and unverified. Meridian treats the DRAM-cut claim as a watch item for memory makers."
+  ],
+  "body": "## What AMD claims\n\nAMD says servers running Synopsys PrimeTime, a chip-timing tool, kept 95% of full-memory performance with half their DRAM, and 80% with a quarter of it. The figures were shared with Tom's Hardware ([Tom's Hardware](https://tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027)). ChipDispatch notes that AMD reported the numbers itself and has not published the benchmark footnotes ([ChipDispatch](https://chipdispatch.com/articles/amd-claims-mext-software-halves-server-dram-at-95-performance)).\n\n## How MEXT works\n\nMEXT is a memory-tiering product AMD bought in June, without disclosing terms. It moves cold memory pages to a dedicated NVMe drive and uses a predictive model to bring pages back into DRAM before applications request them, so the operating system still sees the full capacity. Tom's Hardware reports that the model runs on a single EPYC core without a GPU and keeps learning during the workload.\n\nFounder Gary Smerdon, now an AMD corporate vice president, cited Meta research showing that 50% to 80% of memory pages had not been accessed for at least five minutes ([Notebookcheck](https://www.notebookcheck.net/AMD-s-new-trick-lets-servers-use-half-as-much-DRAM-with-minimal-performance-loss.1448188.0.html)). AMD says the approach can cut physical DRAM by 20% to 75%, depending on the application and performance target ([MLQ.ai](https://mlq.ai/news/amd-says-mext-software-lets-its-servers-run-on-half-the-dram-with-95-of-the-performance)). Those are AMD's ranges, not independent results.\n\n## Deployment is still small\n\nAMD runs MEXT on 145 internal servers and plans to extend it to 2,000 servers next year. HPE is shipping EPYC Venice servers with a \"MEXT Ready\" badge and a dedicated NVMe drive or bay. The second phase, which bundles MEXT licenses, has no start date ([ChipDispatch](https://chipdispatch.com/articles/amd-claims-mext-software-halves-server-dram-at-95-performance)). For now this is a roadmap, not broad availability.\n\n## Why memory makers should care\n\nThe pitch lands in a DRAM shortage that MLQ.ai attributes to AI servers ([MLQ.ai](https://mlq.ai/news/amd-says-mext-software-lets-its-servers-run-on-half-the-dram-with-95-of-the-performance)). Smerdon told Notebookcheck that memory can account for 60% to 90% of the cost of large servers, which is why a cut in DRAM per server would matter to buyers. If tiering of this kind spreads, DRAM-per-server demand could soften. The claim is too early and too AMD-sourced to call a trend.\n\n## What to watch\n\nThe unpublished footnotes, independent benchmarks, and whether the Phase 2 licenses ship. The 2,000-server internal rollout planned for next year is the next checkable milestone.\n",
+  "marketImpact": {
+    "summary": "AMD gains a software differentiator for EPYC servers if the claims hold, but no pricing, licensing revenue or customer volume has been disclosed. If memory tiering spreads, DRAM-per-server demand could soften, a risk for memory makers. The figures are AMD's own, and deployment is 145 internal servers, so confidence is low.",
+    "timeframe": "Months; the next checkable milestone is the 2,000-server rollout planned for 2027",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "AMD", "direction": "watch", "rationale": "MEXT could differentiate EPYC servers, and HPE is shipping MEXT Ready hardware. No revenue or pricing was disclosed." },
+      { "symbol": "MU", "direction": "watch", "rationale": "Lower DRAM content per server would be a demand risk for memory makers if tiering spreads. The AMD claim is internal and not yet at scale." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-11", "event": "AMD shares MEXT performance figures with Tom's Hardware; MLQ.ai and ChipDispatch cover them the same day" }
+    ]
+  },
+  "sources": [
+    { "title": "AMD shares how it can retain 95% of server performance with just half the DRAM", "publisher": "Tom's Hardware", "url": "https://tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027", "accessedAt": "2026-11-15" },
+    { "title": "AMD says MEXT software lets its servers run on half the DRAM with 95% of the performance", "publisher": "MLQ.ai", "url": "https://mlq.ai/news/amd-says-mext-software-lets-its-servers-run-on-half-the-dram-with-95-of-the-performance", "accessedAt": "2026-11-15" },
+    { "title": "AMD Claims MEXT Software Halves Server DRAM at 95% Performance", "publisher": "ChipDispatch", "url": "https://chipdispatch.com/articles/amd-claims-mext-software-halves-server-dram-at-95-performance", "accessedAt": "2026-11-15" },
+    { "title": "AMD's new trick lets servers use half as much DRAM with minimal performance loss", "publisher": "Notebookcheck", "url": "https://www.notebookcheck.net/AMD-s-new-trick-lets-servers-use-half-as-much-DRAM-with-minimal-performance-loss.1448188.0.html", "accessedAt": "2026-11-15" }
+  ]
+}

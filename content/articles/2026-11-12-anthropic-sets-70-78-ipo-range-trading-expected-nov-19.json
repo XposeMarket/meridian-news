@@ -1,7 +1,7 @@
 {
   "slug": "anthropic-sets-70-78-ipo-range-trading-expected-nov-19",
   "title": "Anthropic Sets a $70 to $78 IPO Range for Up to 825 Million Shares; Trading Reported for Nov. 19",
-  "dek": "An amended SEC filing sets a $70 to $78 range for Nasdaq ticker ANT. CNBC reported pricing on Nov. 18 and trading on Nov. 19; compute suppliers agreed to buy $26 billion at the IPO price.",
+  "dek": "A $70 to $78 range for Nasdaq ticker ANT. Anthropic said it will price on Nov. 18 and trade on Nov. 19; compute suppliers agreed to buy $26 billion at the IPO price.",
   "section": "ai-tech",
   "tags": [
     "Anthropic",
@@ -13,7 +13,7 @@
   ],
   "author": "Meridian Newsroom",
   "publishedAt": "2026-11-12T16:24:00Z",
-  "updatedAt": "2026-11-12T21:40:00Z",
+  "updatedAt": "2026-11-15T13:00:00Z",
   "edition": "midday",
   "featured": false,
   "breaking": false,
@@ -27,7 +27,7 @@
   },
   "keyPoints": [
     "An amended registration statement filed with the SEC on Nov. 10 sets a price range of $70 to $78 per Class A share for 825 million shares, to be listed on Nasdaq as ANT, according to CNBC and Decrypt.",
-    "CNBC, citing people familiar with the details, reported that Anthropic plans to price on Nov. 18 and begin trading on Nov. 19. FinanceFeeds noted that the filing itself did not state a date.",
+    "Anthropic said on Nov. 12 that it will price on Nov. 18 and begin trading on Nov. 19 under ANT, according to Yahoo Finance. CNBC had reported the dates citing people familiar; FinanceFeeds noted that the filing itself did not state a date.",
     "At the top of the range, CNBC reported net proceeds of up to $64.35 billion.",
     "Seven companies that supply Anthropic computing power agreed to buy a combined $26 billion of non-voting Class N stock at the IPO price, Decrypt reported, citing the filing."
   ],
@@ -105,6 +105,18 @@
       "publisher": "Seoul Economic Daily",
       "url": "https://en.sedaily.com/world/2026/11/12/anthropic-ipo-demand-swamps-order-book-may-top-spacex-record",
       "accessedAt": "2026-11-12"
+    },
+    {
+      "title": "Anthropic IPO: Claude maker to begin trading on Thursday, Nov. 19",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/anthropic-ipo-claude-maker-to-begin-trading-on-thursday-nov-19-173550865.html",
+      "accessedAt": "2026-11-15"
+    }
+  ],
+  "corrections": [
+    {
+      "date": "2026-11-15",
+      "note": "Attribution refined: the Nov. 18 pricing and Nov. 19 first-trade dates were reported by CNBC citing people familiar, and Yahoo Finance reports that Anthropic itself announced them on Nov. 12. No figures changed."
     }
   ]
 }

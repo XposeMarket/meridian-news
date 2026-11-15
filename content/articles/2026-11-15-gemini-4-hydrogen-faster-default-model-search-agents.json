@@ -1,0 +1,47 @@
+{
+  "slug": "gemini-4-hydrogen-faster-default-model-search-agents",
+  "title": "Google Launches Gemini 4 Hydrogen as Faster, Cheaper Model for Search and Agents",
+  "dek": "Google's Gemini 4 Hydrogen, released Nov. 12, is a faster, cheaper default model for coding and agents, and it moves into Search. Google has not confirmed the Flash line is retired.",
+  "section": "ai-tech",
+  "tags": ["Google", "Gemini", "Gemini 4 Hydrogen", "Google Search", "AI models", "Alphabet", "GOOGL"],
+  "author": "Meridian Newsroom",
+  "publishedAt": "2026-11-15T13:00:00Z",
+  "updatedAt": "2026-11-15T13:00:00Z",
+  "edition": "pre-market",
+  "featured": false,
+  "breaking": false,
+  "readMinutes": 4,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg",
+    "alt": "The Googleplex, Google's headquarters in Mountain View, California",
+    "credit": "Asoundd / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg"
+  },
+  "keyPoints": [
+    "Google released Gemini 4 Hydrogen on Nov. 12 across AI Studio, the Gemini API, the Gemini app and Google Search, with paid AI Pro and Ultra users in Antigravity.",
+    "Google prices Hydrogen at $1.50 per million input tokens and $7.50 per million output tokens, flat across a 1-million-token context window.",
+    "Against Gemini 3.8 Flash, Google says Hydrogen finishes tasks 2.5 times faster and scores 57% on Terminal-Bench 4.1, up from 18.2%. These are Google's figures.",
+    "Google's own deprecations page lists no shutdown date for gemini-3.8-flash. The claim that the Flash line is retired comes from secondary coverage.",
+    "GOOGL rose 1.19% in the first regular session after launch. Meridian reads the model as a low-confidence watch item for Alphabet."
+  ],
+  "body": "## What Google launched\n\nGoogle introduced Gemini 4 Hydrogen on Nov. 12 as a fast, cost-efficient model for coding and agentic work rather than the company's deepest reasoning system. Google says Hydrogen is “built for rapid execution across diverse agentic workflows,” while Gemini 4 Carbon and Gemini 4 Argon “excel at deep, long-horizon reasoning on your hardest problems” ([Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)).\n\nThe rollout is broad. Google says Hydrogen reaches Google AI Studio, the Gemini API, Gemini for business, the Gemini app and Google Search, plus paid Google AI Pro and Ultra subscribers in Google Antigravity. Mashable reported that Hydrogen will replace Gemini 3.8 Flash in powering Search's AI features ([Mashable](https://mashable.com/tech/google-gemini-4-hydrogen-ai-model-launch)).\n\n## Price and claimed performance\n\nGoogle prices Hydrogen at $1.50 per million input tokens and $7.50 per million output tokens, flat across its 1-million-token context window. The company says Hydrogen scores 51 against 50 for Argon on the Artificial Analysis Intelligence Index at its default high thinking level, and 54 at its highest xhigh setting.\n\nCompared with Gemini 3.8 Flash, Google says Hydrogen finishes tasks 2.5 times faster at its default setting and more than triples its Terminal-Bench 4.1 score, to 57% from 18.2%. These are first-party numbers from Google's announcement. The Artificial Analysis index is third-party, but the choice of comparisons is Google's.\n\n## Orchestrator in Antigravity\n\nGoogle also introduced Orchestrator in Antigravity, which switches between Carbon and Hydrogen inside a single session. On Terminal-Bench 4.0, Google says Orchestrator reached near-Carbon task success rates while consuming 24% less quota and completing tasks 19% faster on average.\n\n## What is not settled: the Flash label\n\nSeveral secondary write-ups describe Hydrogen as retiring the Flash line. Google's launch post does not say that. Its Gemini API deprecations page lists gemini-4-hydrogen as released Nov. 12 with no shutdown date, and it still lists gemini-3.8-flash with no shutdown date announced ([Google AI for Developers](https://ai.google.dev/gemini-api/docs/deprecations)). Meridian therefore reports the Flash retirement as a claim in secondary coverage, not a confirmed Google decision.\n\n## Market read for Alphabet\n\nAlphabet shares rose 1.19% to $302.26 at 9:55 a.m. ET on Friday, Nov. 13, the first regular session after the launch, according to GuruFocus as carried by Yahoo Finance ([Yahoo Finance](https://finance.yahoo.com/news/alphabet-stocks-rise-1-19-180103825.html)). One session does not show cause and effect. The same report says Google opened preorders for Gemini-powered glasses that start at $395 and ship Dec. 10.\n\nThe more durable argument is cost. A faster, cheaper default model could lower Google's cost to serve each AI answer in Search. Google has not disclosed Search cost, usage or revenue effects, so the read stays a watch item rather than a call.\n",
+  "marketImpact": {
+    "summary": "A cheaper, faster default model could lower Google's cost of serving AI answers in Search, which is a margin argument rather than a revenue one. Google disclosed no cost or usage figures, and the first session after launch showed a modest gain that cannot be attributed to the model alone.",
+    "timeframe": "Next 1-2 sessions for sentiment; any margin effect would show in quarterly results",
+    "confidence": "low",
+    "tickers": [
+      { "symbol": "GOOGL", "direction": "watch", "rationale": "Lower per-query serving cost would help margins if Search adoption holds. Google has not disclosed cost or usage data for Hydrogen." }
+    ],
+    "catalysts": [
+      { "date": "2026-11-13", "event": "GOOGL rises 1.19% to $302.26 at 9:55 a.m. ET in the first regular session after the launch (GuruFocus via Yahoo Finance)" },
+      { "date": "2026-12-10", "event": "Gemini-powered glasses ship, per the Yahoo Finance report of Google's preorder announcement" }
+    ]
+  },
+  "sources": [
+    { "title": "Introducing Gemini 4 Hydrogen", "publisher": "Google", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/", "accessedAt": "2026-11-15" },
+    { "title": "Gemini deprecations", "publisher": "Google AI for Developers", "url": "https://ai.google.dev/gemini-api/docs/deprecations", "accessedAt": "2026-11-15" },
+    { "title": "Google unveils Gemini 4 Hydrogen, its new AI model built for speed", "publisher": "Mashable", "url": "https://mashable.com/tech/google-gemini-4-hydrogen-ai-model-launch", "accessedAt": "2026-11-15" },
+    { "title": "Alphabet Stocks Rise 1.19% as Gemini 4 Hydrogen and $395 AI Glasses Launch", "publisher": "Yahoo Finance (GuruFocus)", "url": "https://finance.yahoo.com/news/alphabet-stocks-rise-1-19-180103825.html", "accessedAt": "2026-11-15" }
+  ]
+}
